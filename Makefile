@@ -42,10 +42,11 @@ RESOURCES_XML = $(subst $(RESOURCES_DSTDIR)/,,$(shell find $(RESOURCES_DSTDIR) -
 SPARKLE_XML = $(subst $(SPARKLE_DSTDIR)/,,$(shell find $(SPARKLE_DSTDIR) -type f -name "*.xml))
 APPKIT_XML = $(subst $(APPKIT_DSTDIR)/,,$(shell find $(APPKIT_DSTDIR) -type f -name "*.xml"))
 
-TARBALL = $(shell pwd)/changes.tar.xz
+TARBALL = $(shell pwd)/Scrivener-ja-patch_$(shell date "+%Y%m%d").tar.xz
 
-TAR_FILES = $(shell diff -rq fix orig | grep -e '.xml' -e '.strings' | cut -d ' ' -f2 | sed -e 's/.xml/.nib/' -e 's|fix/||' -e 's|$(RESOURCES_DIR)|$(RESOURCES_SRCDIR)|' -e 's|$(SPARKLE_DIR)|$(SPARKLE_SRCDIR)|' -e 's|$(PADDLE_DIR)|$(PADDLE_SRCDIR)|' -e 's|$(APPKIT_DIR)|$(APPKIT_SRCDIR)|' -e 's|$(APP_DIR)/||')
+ZIPARC = $(shell pwd)/Scrivener-ja-patch_$(shell date "+%Y%m%d").zip
 
+ARCFILES = $(shell diff -rq fix orig | grep -e '.xml' -e '.strings' | cut -d ' ' -f2 | sed -e 's/.xml/.nib/' -e 's|fix/||' -e 's|$(RESOURCES_DIR)|$(RESOURCES_SRCDIR)|' -e 's|$(SPARKLE_DIR)|$(SPARKLE_SRCDIR)|' -e 's|$(PADDLE_DIR)|$(PADDLE_SRCDIR)|' -e 's|$(APPKIT_DIR)|$(APPKIT_SRCDIR)|' -e 's|$(APP_DIR)/||')
 
 all:
 	echo $(RESOURCES_STR)
@@ -85,9 +86,11 @@ install:
 	@cp -rp $(APPKIT_FIXDIR)/*.nib $(APPKIT_FIXDIR)/*.strings $(APPKIT_SRCDIR)
 
 tar: nib install
-	@echo "Creating a tar ball..."
-	@(cd $(APP_DIR); tar cfJ $(TARBALL) $(TAR_FILES))
+	@echo "Creating a tar ball $(notdir $(TARBALL))..."
+	@(cd $(APP_DIR); tar cfJ $(TARBALL) $(ARCFILES))
+	@echo "Done."
 
-# ibtool -L en.lproj/MainMenu.nib > ./MainMenu.strings
-# 
-# ibtool -d de.lproj/MainMenu.strings en.lproj/MainMenu.nib -W de.lproj/MainMenu.nib
+zip: nib install
+	@echo "Creating a zipped archive $(notdir $(ZIPARC))..."
+	@(cd $(APP_DIR); zip -rq $(ZIPARC) $(ARCFILES))
+	@echo "Done."
