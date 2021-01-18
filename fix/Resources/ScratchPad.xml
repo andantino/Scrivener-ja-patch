@@ -5124,7 +5124,7 @@
 				<integer>279</integer>
 			</dict>
 		</dict>
-		<string>ディスクから選択されたノートを削除します。</string>
+		<string>選択したノートをディスクから削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5147,7 +5147,7 @@
 				<integer>281</integer>
 			</dict>
 		</dict>
-		<string>新しいノートを追加します。</string>
+		<string>新しいノートを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6020,7 +6020,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいノートを追加します。</string>
+		<string>新しいノートを追加</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -6061,7 +6061,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ディスクから選択されたノートを削除します。</string>
+		<string>選択したノートをディスクから削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6093,7 +6093,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>Reload notes from disk.</string>
+		<string>ノートをディスクから再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>

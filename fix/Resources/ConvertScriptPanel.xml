@@ -397,7 +397,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>選択されたドキュメントのみを変換</string>
+		<string>選択したドキュメントのみを変換</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -641,7 +641,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>スクリプトモードを使用しないドキュメントを無視</string>
+		<string>脚本モードを使用しないドキュメントを無視</string>
 		<string>ignoreNonScriptDocsButton</string>
 		<dict>
 			<key>$class</key>
@@ -1810,7 +1810,7 @@
 			</dict>
 		</dict>
 		<string>{{196, 54}, {402, 456}}</string>
-		<string>スクリプト形式を変換</string>
+		<string>脚本形式を変換</string>
 		<string>NSPanel</string>
 		<string>{350, 400}</string>
 		<dict>
@@ -2997,7 +2997,7 @@
 				<integer>134</integer>
 			</dict>
 		</dict>
-		<string>変換しています...</string>
+		<string>変換先...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4032,7 +4032,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$classes</key>
 			<array>

@@ -3267,7 +3267,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>ヘッダーバーフォント</string>
+		<string>ヘッダバーフォント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5990,7 +5990,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>バインダーフォントはまた、検索結果リストとコレクションによって使用されます。</string>
+		<string>バインダフォントはまた、検索結果リストとコレクションによって使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6186,7 +6186,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>バインダーフォント：</string>
+		<string>バインダフォント：</string>
 		<string>{452, 180}</string>
 		<string>NSView</string>
 		<string>appearanceBinderFontsView</string>
@@ -6444,7 +6444,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>現在のエディタードキュメントインジケータを表示</string>
+		<string>現在のエディタドキュメントインジケータを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6580,7 +6580,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>バックグラウンドカラーのベース選択カラー</string>
+		<string>背景カラーのベース選択カラー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6826,7 +6826,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>pts(ﾎﾟｲﾝﾄ)</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10599,7 +10599,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Inspector uses dark appearance</string>
+		<string>インスペクタはダーク表示を使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10951,7 +10951,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11449,7 +11449,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11910,7 +11910,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>トップ/ボトム：</string>
+		<string>上/下：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12509,7 +12509,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>テキストズーム、バックグラウンドフェード、タイプライタースクローリングおよび紙の位置、幅および高さに影響します。（オプションキーを押したままにし、構成モードで紙の高さを変更できます。）</string>
+		<string>テキストズーム、背景フェード、タイプライタースクローリングおよび紙の位置、幅および高さに影響します。（オプションキーを押したままにし、組版モードで紙の高さを変更できます。）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14320,7 +14320,7 @@
 				<integer>554</integer>
 			</dict>
 		</dict>
-		<string>カスタムバックグラウンド...</string>
+		<string>カスタム背景...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14450,7 +14450,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ラベル表示バックグラウンド：</string>
+		<string>ラベル表示背景：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15105,7 +15105,7 @@
 				<integer>583</integer>
 			</dict>
 		</dict>
-		<string>カスタムバックグラウンド...</string>
+		<string>カスタム背景...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15235,7 +15235,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>フリーフォーム(freeform)バックグラウンド：</string>
+		<string>フリーフォーム(freeform)背景：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15660,7 +15660,7 @@
 				<integer>603</integer>
 			</dict>
 		</dict>
-		<string>カスタムバックグラウンド...</string>
+		<string>カスタム背景...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -16680,7 +16680,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Compress threads when arranged by label</string>
+		<string>ラベル順に整列したときスレッドを圧縮</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -16821,7 +16821,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Image cards use index card proportions</string>
+		<string>画像カードにインデックスカードのサイズを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -17772,7 +17772,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>pts(ﾎﾟｲﾝﾄ)</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -19447,7 +19447,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>pts(ﾎﾟｲﾝﾄ)</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20242,7 +20242,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>自動的にタイトルを縮小し、フィットさせます</string>
+		<string>自動的にタイトルを縮小し、フィット</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21196,7 +21196,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>2行をタイトルエリアに使用できるようにします</string>
+		<string>2行をタイトルエリアに使用</string>
 		<string>{452, 330}</string>
 		<string>appearanceCorkboardOptionsView</string>
 		<dict>
@@ -22089,7 +22089,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>("Hide Markup" can be found in the View &gt; Text Editing menu. Note that it only affects the main editor.)</string>
+		<string>("マークアップを非表示" は、表示 &gt; テキスト編集メニューにあります。影響するのはメインエディタだけです。)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22219,7 +22219,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>"Hide Markup" hides:</string>
+		<string>"マークアップを非表示" で非表示にするもの:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23091,7 +23091,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>隠されている場合、バインダーとインスペクタをスライドイン</string>
+		<string>隠されている場合、バインダとインスペクタをスライドイン</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23221,7 +23221,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>チェックが入れられている場合、バインダーとインスペクタはマウスが画面の端に動かされた際にスライドします。（複数のディスプレイを使用する場合は適用されません。）</string>
+		<string>チェックが入れられている場合、バインダとインスペクタはマウスが画面の端に動かされた際にスライドします。（複数のディスプレイを使用する場合は適用されません。）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23373,7 +23373,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>フルスクリーンモードにする際、バインダーとインスペクタを隠します</string>
+		<string>フルスクリーンモードにする際、バインダとインスペクタを非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23509,7 +23509,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>常にフルスクリーンモードではツールバーを自動的に隠します</string>
+		<string>フルスクリーンモードでは常にツールバーを自動的に非表示</string>
 		<string>{452, 178}</string>
 		<string>appearanceFullScreenOptionsView</string>
 		<dict>
@@ -23796,7 +23796,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Use monochrome toolbars</string>
+		<string>モノクロのツールバーを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24700,7 +24700,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Draw border around current line highlights</string>
+		<string>現在行のハイライト周辺に線を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24836,7 +24836,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>ウィンドウをリサイズする際は、常にエディターの割合をリサイズします。</string>
+		<string>ウインドウをリサイズする際、常にエディタの割合をリサイズする</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25086,7 +25086,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>ウィンドウサイズを調節して、バインダーとインスペクタに適用させます</string>
+		<string>ウインドウサイズを調節して、バインダとインスペクタに適用させる</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -26872,7 +26872,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>インスペクタでは、デフォルトで画像の代わりに概要を常に表示します</string>
+		<string>インスペクタでデフォルトで画像の代わりにあらすじを常に表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27570,7 +27570,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ヘッダーバー：</string>
+		<string>ヘッダバー：</string>
 		<string>{452, 88}</string>
 		<string>appearanceMainEditorFontsView</string>
 		<dict>
@@ -28195,7 +28195,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>トップ/ボトム：</string>
+		<string>上/下：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28428,7 +28428,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28897,7 +28897,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29152,7 +29152,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>固定幅を使用する際、エディタを中央に揃えます</string>
+		<string>固定幅を使用する際、エディタを中央に揃える</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29893,7 +29893,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>（ウィンドウのズームと固定幅エディタの幅に使用。0を入力してウィンドウを画面にフィットさせる。）</string>
+		<string>（ウインドウのズームと固定幅エディタの幅に使用。0を入力してウインドウを画面にフィットさせる。）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30028,7 +30028,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32111,7 +32111,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>概要：</string>
+		<string>あらすじ：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33023,7 +33023,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>pts(ﾎﾟｲﾝﾄ)</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34048,7 +34048,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>pts(ﾎﾟｲﾝﾄ)</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34840,7 +34840,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>列合計は、コンパイルに含まれているドキュメントだけをカウントします</string>
+		<string>列合計は、コンパイルに含まれているドキュメントだけをカウント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34976,7 +34976,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>アウトライナーは欄に代わりの色を使用します</string>
+		<string>アウトライナーで欄に代替色を使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35112,7 +35112,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>アウトライナーには垂直のグリッドラインがあります</string>
+		<string>アウトライナーで垂直のグリッドラインを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35248,7 +35248,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>アウトライナーには水平のグリッドラインがあります</string>
+		<string>アウトライナーで水平のグリッドラインを使用</string>
 		<string>{452, 235}</string>
 		<string>appearanceOutlinerOptionsView</string>
 		<dict>
@@ -35988,7 +35988,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38191,7 +38191,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>トップ/ボトム：</string>
+		<string>上/下：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38424,7 +38424,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -39243,7 +39243,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -42362,7 +42362,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>台本:</string>
+		<string>脚本:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -43738,7 +43738,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>タイトルバックグラウンドカラーを使用</string>
+		<string>タイトル背景カラーを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -44551,7 +44551,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>ターゲット進捗バーは色の間でスムーズな移行を使用します</string>
+		<string>ターゲット進捗バーは色の間でスムーズな移行を使用</string>
 		<string>{452, 98}</string>
 		<string>appearanceTargetsOptionsView</string>
 		<dict>
@@ -44890,7 +44890,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Disable smart dashes and ellipses in script mode</string>
+		<string>脚本モードでスマートダッシュと楕円を無効にする</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -45156,7 +45156,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>自動的に日付、アドレスなどを検出します</string>
+		<string>自動的に日付、アドレスなどを検出</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46089,7 +46089,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>代用とスマートクォートタイプを編集するには、システムテキストプリファレンスを使用します：</string>
+		<string>代用とスマートクォートタイプを編集するには、システムテキスト設定を使用：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46241,7 +46241,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>システムテキストプリファレンス...</string>
+		<string>システムテキスト環境設定...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -47193,7 +47193,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Disable smart quotes in script mode</string>
+		<string>脚本モードでスマート引用を無効</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -47465,7 +47465,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>スクリプトモードのみ</string>
+		<string>脚本モードのみ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -47601,7 +47601,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>自動的にウェブアドレスを検出 </string>
+		<string>自動的にWebアドレスを検出 </string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -48699,7 +48699,7 @@
 				<integer>1771</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -49225,7 +49225,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトのバックアップを開きます</string>
+		<string>プロジェクトのバックアップを開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50917,7 +50917,7 @@
 				<integer>1852</integer>
 			</dict>
 		</dict>
-		<string>バックアップフォルダーを開きます...</string>
+		<string>バックアップフォルダを開く...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -51069,7 +51069,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトのバックアップを閉じます</string>
+		<string>プロジェクトのバックアップを閉じる</string>
 		<string>{655, 301}</string>
 		<string>KBWhiteView</string>
 		<string>backupPreferencesView</string>
@@ -53076,7 +53076,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Always set title of new items</string>
+		<string>新規アイテムに常にタイトルを設定する</string>
 		<string>{464, 275}</string>
 		<string>{464, 275}</string>
 		<dict>
@@ -53405,7 +53405,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>所定の場所にフォーカスドエディタがロックされている場合：</string>
+		<string>所定の場所にフォーカスドエディタが固定されている場合：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -53530,7 +53530,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>スペースキーは選択されたドキュメントを開きます：</string>
+		<string>選択したドキュメントをスペースキーで開く：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54019,7 +54019,7 @@
 			<key>NSTag</key>
 			<integer>1</integer>
 		</dict>
-		<string>バインダー選択は他のエディタに影響を与えます</string>
+		<string>バインダ選択は別のエディタに影響を与える</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54081,7 +54081,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>バインダー選択は何もしません</string>
+		<string>バインダ選択は何もしない</string>
 		<string>{413, 18}</string>
 		<string>{4, 2}</string>
 		<string>NSActionCell</string>
@@ -54361,7 +54361,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>（コルクボードとアウトライナーだけに適用されます。）</string>
+		<string>（コルクボードとアウトライナーだけに適用）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54502,7 +54502,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>ブックマークプレビューに自動的にウェブページをロード</string>
+		<string>ブックマークプレビューに自動的にWebページを読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54627,7 +54627,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Allow limited navigation in web pages</string>
+		<string>限定されたナビゲーションをWebページ上で許可</string>
 		<string>{464, 275}</string>
 		<string>ナビゲーション</string>
 		<dict>
@@ -55030,7 +55030,7 @@
 				<integer>1999</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -55407,7 +55407,7 @@
 				<integer>2012</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -55934,7 +55934,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>注釈：フルスクリーン構成モードでは、「その他のエディタ」が選択された場合や、「現在のエディタ」が選択され、リンク付けられたドキュメントがテキストファイルでない場合、ブックマークとドキュメントリンクがクイックリファレンスパネルで開きます。ブックマークとドキュメントのリンクは常に、クイックリファレンスパネルから選択された場合、他のクイックリファレンスパネルで開きます。</string>
+		<string>注釈：フルスクリーンの組版モードでは「別のエディタ」を選択した場合や、「現在のエディタ」を選択し、リンク付けられたドキュメントがテキストファイルでない場合、ブックマークとドキュメントリンクがクイックリファレンスパネルで開きます。ブックマークとドキュメントのリンクは常に、クイックリファレンスパネルから選択した場合、他のクイックリファレンスパネルで開きます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -56086,7 +56086,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>ドキュメントリンクとブックマークはバックリンクブックマークを作成します</string>
+		<string>ドキュメントリンクとブックマークはバックリンクブックマークを作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -56336,7 +56336,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>画像リンクとブックマークはバックリンクブックマークを作成します</string>
+		<string>画像リンクとブックマークはバックリンクブックマークを作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -56611,7 +56611,7 @@
 				<integer>2057</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -57090,7 +57090,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Escapeキーは構成モードを閉じます</string>
+		<string>Escapeキーで組版モードを閉じる</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -57226,7 +57226,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>構成モードをそれ自体のスペースで開きます</string>
+		<string>組版モードをそれ自体のスペースで開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -57362,7 +57362,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>構成モードでメインウィンドウを隠す</string>
+		<string>組版モードでメインウインドウを非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -58043,7 +58043,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>構成モードを開く：</string>
+		<string>組版モードを開く：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -58379,7 +58379,7 @@
 				<integer>24</integer>
 			</dict>
 		</dict>
-		<string>ドキュメントを隠す</string>
+		<string>ドキュメントを非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -58446,7 +58446,7 @@
 				<integer>2125</integer>
 			</dict>
 		</dict>
-		<string>自動的にDockを隠す・表示</string>
+		<string>自動的にDockを表示/非表示</string>
 		<string>{464, 275}</string>
 		<string>構成</string>
 		<dict>
@@ -59024,7 +59024,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>("Rewind on pause" must be turned on in the media control bar.)</string>
+		<string>(メディアコントロールバーの "一時停止時に巻き戻す" を有効にしておく必要があります。)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -59157,7 +59157,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>Media Time Stamp format:</string>
+		<string>メディアの時刻形式:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -59650,7 +59650,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>オプション―ドラッグはコピーを作成します</string>
+		<string>オプション―ドラッグはコピーを作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -59922,7 +59922,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>バインダーからエディタにドラッグされた画像にリンクさせます</string>
+		<string>バインダからエディタにドラッグされた画像にリンク</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -60063,7 +60063,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Delete text dragged to other areas</string>
+		<string>別の領域にドラッグされたテキストを削除する</string>
 		<string>{464, 275}</string>
 		<string>ドラッギング</string>
 		<dict>
@@ -60889,7 +60889,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Always creates a new card when arranged by label</string>
+		<string>ラベル順に整列したとき常に新規カードを作成</string>
 		<string>{464, 275}</string>
 		<string>クリッキング</string>
 		<dict>
@@ -61129,7 +61129,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>コルクボードとアウトライナー内での概要の編集を終了する</string>
+		<string>コルクボードとアウトライナー内でのあらすじの編集を終了する</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -61520,7 +61520,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Show elements list on double return in script mode</string>
+		<string>脚本モードでリターンキーを2回押したら要素リストを表示</string>
 		<string>{464, 275}</string>
 		<string>戻る</string>
 		<dict>
@@ -61742,7 +61742,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Disable live row resizing</string>
+		<string>行のサイズ変更をライブで実行しない</string>
 		<string>{464, 275}</string>
 		<string>Outliner</string>
 		<dict>
@@ -63338,7 +63338,7 @@
 				<integer>2334</integer>
 			</dict>
 		</dict>
-		<string>Delete Theme</string>
+		<string>テーマを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -63356,7 +63356,7 @@
 				<integer>2336</integer>
 			</dict>
 		</dict>
-		<string>Delete Theme</string>
+		<string>テーマを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65339,7 +65339,7 @@
 				<integer>2397</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<string>KBAutoShrinkingButton</string>
 		<string>{{214, 277}, {400, 18}}</string>
 		<dict>
@@ -68122,7 +68122,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -68411,7 +68411,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>構成モード</string>
+		<string>組版モード</string>
 		<string>KBAutoShrinkingButton</string>
 		<string>{{285, 48}, {321, 18}}</string>
 		<dict>
@@ -68554,7 +68554,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>構成モード</string>
+		<string>組版モード</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -70235,7 +70235,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>タイプライタースクローリングでは常にスクロール行まで飛びます</string>
+		<string>タイプライタースクローリングでは常にスクロール行まで飛ぶ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -70440,7 +70440,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>複数単語</string>
+		<string>単語</string>
 		<string>{{340, 217}, {141, 18}}</string>
 		<dict>
 			<key>$class</key>
@@ -70724,7 +70724,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Avoid widows and orphans in page view</string>
+		<string>ページビューにウインドウや子ウインドウを作らない</string>
 		<string>{623, 495}</string>
 		<string>{623, 495}</string>
 		<dict>
@@ -70988,7 +70988,7 @@
 				<integer>2606</integer>
 			</dict>
 		</dict>
-		<string>現在のエディタで書式設定を使用</string>
+		<string>現在のエディタの書式設定を使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -71264,7 +71264,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>（デフォルトのテキスト書式設定は、プロジェクト &gt; プロジェクトの書式設定からプロジェクトごとに上書きできます...)</string>
+		<string>（デフォルトのテキスト書式設定は、プロジェクト &gt; プロジェクトの書式設定からプロジェクトごとに上書き可...)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -73996,7 +73996,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>（これらの色への変更は、新しくタイプされたテキストだけに影響をを与えます。）</string>
+		<string>（ここで変更した色は、新しく入力するテキストにのみ適用されます。）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -76874,7 +76874,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>内部リッチテキスト、MultiMarkdown、Eブックファイルとして使用するためにJPG画像を保存する際に使用します。</string>
+		<string>内部リッチテキスト、MultiMarkdown、Eブックファイルとして使用するためにJPG画像を保存する際に使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -78525,7 +78525,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>組込まれたPDF画像は、全ての書式設定がサポートされていません。そのため、エクスポートプロセス中にPNG形式に変換されます。</string>
+		<string>組込まれたPDF画像は、全ての書式設定がサポートされていません。そのため、エクスポートプロセス中にPNG形式に変換</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -79495,7 +79495,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>構成モードの保存時に通知を表示</string>
+		<string>組版モードの保存時に通知を表示</string>
 		<string>fsGrowlSaveNotificationsButton</string>
 		<dict>
 			<key>$class</key>
@@ -80859,7 +80859,7 @@
 			</dict>
 		</dict>
 		<string>STARTUP</string>
-		<string>スタートアップ</string>
+		<string>起動時</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -81052,7 +81052,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>後に自動保存</string>
+		<string>使用していない時間</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -81524,7 +81524,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>使用していない時間（秒）</string>
+		<string>秒後に自動保存</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -81660,7 +81660,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>変更されたテキストドキュメントのスナップショットを手動保存します</string>
+		<string>変更されたテキストドキュメントのスナップショットを手動で保存</string>
 		<string>{467, 339}</string>
 		<string>保存</string>
 		<dict>
@@ -83907,7 +83907,7 @@
 				<integer>1151</integer>
 			</dict>
 		</dict>
-		<string>This information is used to fill out author details in title pages and elsewhere.</string>
+		<string>この情報はタイトルページなどに著者の詳細情報を記載するために使用します。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -85883,7 +85883,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Linguistic focus uses Spanish-style dialogue</string>
+		<string>言語フォーカスでスペイン風のダイアログを使用</string>
 		<string>{467, 339}</string>
 		<string>言語</string>
 		<dict>
@@ -86263,7 +86263,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -87217,7 +87217,7 @@
 		</dict>
 		<string>ext:</string>
 		<string>{467, 339}</string>
-		<string>Scratchpad</string>
+		<string>スクラッチパッド</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -87583,7 +87583,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -87697,7 +87697,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>共有文書テンプレートフォルダー：</string>
+		<string>共有ドキュメントテンプレートフォルダ：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -87822,7 +87822,7 @@
 				<integer>3250</integer>
 			</dict>
 		</dict>
-		<string>共有テンプレートフォルダを開きます...</string>
+		<string>共有テンプレートフォルダを開く...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -87961,7 +87961,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>共有文書フォルダーに入れられたファイルは、プロジェクト &gt; テンプレートから新しく開くからプロジェクトにすぐにインポートできます。</string>
+		<string>共有ドキュメントフォルダに入れられたファイルは、プロジェクト &gt; テンプレートから新しく開くからプロジェクトにすぐに読み込めます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -88461,7 +88461,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -91488,7 +91488,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>一定の期間使用されていない場合、自動的に終了します</string>
+		<string>一定の期間使用されていない場合、自動的に終了</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -93538,7 +93538,7 @@
 			</dict>
 		</dict>
 		<string>IMPORT</string>
-		<string>インポート</string>
+		<string>読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -95176,7 +95176,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Import outline into main text</string>
+		<string>アウトラインをメインテキストに読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -95540,7 +95540,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>タイトルとしてのみ注釈の最初のラインをインポート</string>
+		<string>タイトルとしてのみ注釈の最初のラインを読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -95670,7 +95670,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>Scrivenerに希望するプレーンテキストファイル形式の拡張子を追加し、編集可能なテキストとしてインポートします。(拡張子 ".txt"が付いたファイル。)</string>
+		<string>Scrivenerに希望するプレーンテキストファイル形式の拡張子を追加し、編集可能なテキストとして読み込みます。(拡張子 ".txt"が付いたファイル。)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -96357,7 +96357,7 @@
 				<integer>507</integer>
 			</dict>
 		</dict>
-		<string>主要テキスト</string>
+		<string>本文テキスト</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -96426,7 +96426,7 @@
 				<integer>3572</integer>
 			</dict>
 		</dict>
-		<string>概要</string>
+		<string>あらすじ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -96605,7 +96605,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>注釈のインポート先：</string>
+		<string>注釈の読み込み先：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -96754,7 +96754,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>インポートされたOPMLアイテムを保存するためにフォルダーを作成する</string>
+		<string>読み込まれたOPMLアイテムを保存するためにフォルダを作成する</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -96890,7 +96890,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>インポートされたウェブアーカイブ（WebArchives）とウェブページをテキストに変換</string>
+		<string>読み込まれたWebアーカイブ（WebArchives）とWebページをテキストに変換</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -97412,7 +97412,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>プレーンテキストインポート形式：</string>
+		<string>プレーンテキスト読み込み形式：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -97548,7 +97548,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>インポートされたプレーンテキストファイルが使用するフォント：</string>
+		<string>読み込まれたプレーンテキストファイルが使用するフォント：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -98710,7 +98710,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>インライン注釈としてコメントをインポート</string>
+		<string>インライン注釈としてコメントを読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -98846,7 +98846,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>インポートされたドキュメントのスタイルシート情報を無視</string>
+		<string>読み込まれたドキュメントのスタイルシート情報を無視</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -98982,7 +98982,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>ペーストテキストのスタイルをアップデートして目標のスタイルをマッチさせます</string>
+		<string>ペーストテキストのスタイルを更新して目標のスタイルを一致</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -99118,7 +99118,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>インライン脚注として脚注とエンドノートをインポート</string>
+		<string>インライン脚注として脚注と巻末注を読み込む</string>
 		<string>{603, 503}</string>
 		<string>importView</string>
 		<dict>
@@ -99407,7 +99407,7 @@
 				<integer>3695</integer>
 			</dict>
 		</dict>
-		<string>Load Theme</string>
+		<string>テーマを読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -99425,7 +99425,7 @@
 				<integer>3697</integer>
 			</dict>
 		</dict>
-		<string>Load Theme</string>
+		<string>テーマを読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -99744,7 +99744,7 @@
 				<integer>3708</integer>
 			</dict>
 		</dict>
-		<string>Save Preferences as Preset...</string>
+		<string>設定をプリセットとして保存...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -99839,7 +99839,7 @@
 				<integer>3711</integer>
 			</dict>
 		</dict>
-		<string>Load Preferences from File...</string>
+		<string>設定をファイルから読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -99886,7 +99886,7 @@
 				<integer>3713</integer>
 			</dict>
 		</dict>
-		<string>Save Preferences to File...</string>
+		<string>設定をファイルに保存...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -99981,7 +99981,7 @@
 				<integer>3716</integer>
 			</dict>
 		</dict>
-		<string>Save Theme...</string>
+		<string>テーマを保存...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -100076,7 +100076,7 @@
 				<integer>3719</integer>
 			</dict>
 		</dict>
-		<string>Load Theme from File...</string>
+		<string>テーマをファイルから読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -100123,7 +100123,7 @@
 				<integer>3721</integer>
 			</dict>
 		</dict>
-		<string>Save Theme to File...</string>
+		<string>テーマをファイルに保存...</string>
 		<string>managePopUpButton</string>
 		<dict>
 			<key>$class</key>
@@ -101278,7 +101278,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>If enabled, Scrivener will use the same Java-based converters for .docx as it uses for .doc and .odt formats. There should never be any need to turn this on unless you run into problems with .docx conversion (if so, please report the issues to us).</string>
+		<string>有効にすると、.docや.odtと同じJavaベースのコンバーターを.docxに対しても使用するようになります。.docxの変換にトラブルが発生しない限り、この項目を有効にする必要はありません。（万一トラブルが発生した場合には、お知らせください。）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -101430,7 +101430,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>Use Java converters for .docx</string>
+		<string>.docx にJavaコンバーターを使用する</string>
 		<string>{616, 143}</string>
 		<string>officeConversionViewWithJavaInstalled</string>
 		<dict>
@@ -102227,7 +102227,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>事前設定はScrivenerのアプリケーションサポートフォルダーに保存され、 "管理..."で利用できるようになります。</string>
+		<string>事前設定はScrivenerのアプリケーションサポートフォルダに保存され、 "管理..."で利用できるようになります。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -102371,7 +102371,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -103413,7 +103414,7 @@
 				<integer>98</integer>
 			</dict>
 		</dict>
-		<string>テーマは色、コルクボード設定といった主要な外見の好みだけを保存します。</string>
+		<string>テーマは色やコルクボード設定などの主要な外観設定のみ保存</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -104123,7 +104124,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>デフォルトにリセット</string>
+		<string>デフォルトに戻す</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -106084,7 +106085,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>フォルダと同期する際にスタイルシート情報を削除します</string>
+		<string>フォルダと同期する際にスタイルシート情報を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -107011,7 +107012,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>ズーム先：</string>
+		<string>ズーム倍率：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -107940,7 +107941,7 @@
 				<integer>4027</integer>
 			</dict>
 		</dict>
-		<string>ヘッダーバーフォント</string>
+		<string>ヘッダバーフォント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113094,7 +113095,7 @@
 				<integer>4297</integer>
 			</dict>
 		</dict>
-		<string>チェックが入れられている場合、プレーンテキスト(.txt）ファイルにはエクスポートされる際に段落の間に空欄行が挿入され、インポート時には削除されます。</string>
+		<string>チェックが入れられている場合、プレーンテキスト(.txt）ファイルにはエクスポートされる際に段落の間に空欄行が挿入され、読み込み時には削除されます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113117,7 +113118,7 @@
 				<integer>4299</integer>
 			</dict>
 		</dict>
-		<string>チェックが入れられている場合、プレーンテキスト(.txt）ファイルにはエクスポートされる際に段落の間に空欄行が挿入され、インポート時には削除されます。</string>
+		<string>チェックが入れられている場合、プレーンテキスト(.txt）ファイルにはエクスポートされる際に段落の間に空欄行が挿入され、読み込み時には削除されます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113140,7 +113141,7 @@
 				<integer>4301</integer>
 			</dict>
 		</dict>
-		<string>保存したHTMLファイルのドキュメントタイプを選択します。</string>
+		<string>保存したHTMLファイルのドキュメントタイプを選択</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113163,7 +113164,7 @@
 				<integer>4303</integer>
 			</dict>
 		</dict>
-		<string>保存したHTMLファイルのドキュメントタイプを選択します。</string>
+		<string>保存したHTMLファイルのドキュメントタイプを選択</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113186,7 +113187,7 @@
 				<integer>4305</integer>
 			</dict>
 		</dict>
-		<string>新しいプレーンテキストの拡張子を追加します。</string>
+		<string>新しいプレーンテキストの拡張子を追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113209,7 +113210,7 @@
 				<integer>4307</integer>
 			</dict>
 		</dict>
-		<string>色の代わりに使用するために、タイトル画像テキスチャファイルを選択します。</string>
+		<string>色の代わりに使用するために、タイトル画像テキスチャファイルを選択</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113232,7 +113233,7 @@
 				<integer>4309</integer>
 			</dict>
 		</dict>
-		<string>選択されたプレーンテキストの拡張子を削除します。</string>
+		<string>選択したプレーンテキストの拡張子を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113255,7 +113256,7 @@
 				<integer>4311</integer>
 			</dict>
 		</dict>
-		<string>選択して、ドキュメント内の空欄を保存するHTMLコードを含みます。</string>
+		<string>選択して、ドキュメント内の空欄を保存するHTMLコードを含む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -113278,7 +113279,7 @@
 				<integer>4313</integer>
 			</dict>
 		</dict>
-		<string>選択して、ドキュメント内の空欄を保存するHTMLコードを含みます。</string>
+		<string>選択して、ドキュメント内の空欄を保存するHTMLコードを含む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -120980,7 +120981,7 @@
 			</array>
 		</dict>
 		<string>NSDisplayPattern</string>
-		<string>%{Value1}@ 秒</string>
+		<string>%{value1}@秒</string>
 		<dict>
 			<key>$class</key>
 			<dict>

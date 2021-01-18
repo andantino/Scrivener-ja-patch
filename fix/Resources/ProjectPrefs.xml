@@ -3281,7 +3281,7 @@
 				<integer>170</integer>
 			</dict>
 		</dict>
-		<string>これらの設定はScrivenerのプリファレンスを上書きします。</string>
+		<string>これらの設定はScrivenerの環境設定を上書きします。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3927,7 +3927,7 @@
 				<integer>109</integer>
 			</dict>
 		</dict>
-		<string>主要テキスト書式設定：</string>
+		<string>本文テキスト書式設定：</string>
 		<dict>
 			<key>$class</key>
 			<dict>

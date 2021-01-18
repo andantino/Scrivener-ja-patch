@@ -415,7 +415,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>選択されたドキュメントのみ</string>
+		<string>選択したドキュメントのみ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1749,7 +1749,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>ケースを無視</string>
+		<string>大文字・小文字を無視</string>
 		<string>ignoreCaseButton</string>
 		<dict>
 			<key>$class</key>
@@ -1913,7 +1913,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>発音区別符を無視</string>
+		<string>アクセント記号を無視</string>
 		<string>ignoreDiacriticsButton</string>
 		<dict>
 			<key>$class</key>
@@ -2211,7 +2211,8 @@
 			</dict>
 		</dict>
 		<string>置換</string>
-		<string></string>
+		<string>
+</string>
 		<string>replaceButton</string>
 		<dict>
 			<key>$class</key>
@@ -3303,7 +3304,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>概要</string>
+		<string>あらすじ</string>
 		<string>searchSynopsesButton</string>
 		<dict>
 			<key>$class</key>
@@ -3456,7 +3457,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>テキスト</string>
+		<string>本文</string>
 		<string>searchTextsButton</string>
 		<dict>
 			<key>$class</key>
@@ -3837,7 +3838,7 @@
 				<integer>22</integer>
 			</dict>
 		</dict>
-		<string>含む</string>
+		<string>検索語を含む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4041,7 +4042,7 @@
 				<integer>199</integer>
 			</dict>
 		</dict>
-		<string>開始</string>
+		<string>検索語で始まる</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4090,7 +4091,7 @@
 				<integer>201</integer>
 			</dict>
 		</dict>
-		<string>全単語</string>
+		<string>検索語に完全一致</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4139,7 +4140,7 @@
 				<integer>203</integer>
 			</dict>
 		</dict>
-		<string>終了</string>
+		<string>検索語で終わる</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4497,7 +4498,7 @@
 				<integer>124</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトの置換</string>
+		<string>プロジェクト内の置換</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5060,7 +5061,7 @@
 				<integer>124</integer>
 			</dict>
 		</dict>
-		<string>影響：</string>
+		<string>対象：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5297,7 +5298,7 @@
 				<integer>124</integer>
 			</dict>
 		</dict>
-		<string>共に：</string>
+		<string>置換後：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5433,7 +5434,7 @@
 				<integer>262</integer>
 			</dict>
 		</dict>
-		<string>交換</string>
+		<string>入れ替え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5695,7 +5696,7 @@
 				<integer>124</integer>
 			</dict>
 		</dict>
-		<string>置換：</string>
+		<string>置換前：</string>
 		<dict>
 			<key>$class</key>
 			<dict>

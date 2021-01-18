@@ -1238,7 +1238,7 @@
 				<integer>93</integer>
 			</dict>
 		</dict>
-		<string>ズーム先：</string>
+		<string>ズーム倍率：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1439,7 +1439,8 @@
 			</dict>
 		</dict>
 		<string>拡大/縮小</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$classes</key>
 			<array>

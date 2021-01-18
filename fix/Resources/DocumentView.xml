@@ -3631,7 +3631,7 @@
 				<integer>117</integer>
 			</dict>
 		</dict>
-		<string>Copy to Project</string>
+		<string>プロジェクトにコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4249,7 +4249,7 @@
 			<integer>2</integer>
 		</dict>
 		<string>{15, 11}</string>
-		<string>行に表示します。</string>
+		<string>行に表示</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -4335,7 +4335,7 @@
 			<integer>2</integer>
 		</dict>
 		<string>{15, 11}</string>
-		<string>列に表示します。</string>
+		<string>列に表示</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -4540,7 +4540,7 @@
 			<integer>2</integer>
 		</dict>
 		<string>{15, 11}</string>
-		<string>グリッドでバインダー順にカードを整理します。</string>
+		<string>グリッドでバインダ順にカードを整理</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4617,7 +4617,7 @@
 			<integer>2</integer>
 		</dict>
 		<string>{15, 11}</string>
-		<string>フリーフォームコルクボード。</string>
+		<string>フリーフォームコルクボード</string>
 		<string>corkboardArrangementSegmentedControl</string>
 		<dict>
 			<key>$class</key>
@@ -5280,7 +5280,7 @@
 			<key>NSSegmentItemWidth</key>
 			<real>23</real>
 		</dict>
-		<string>カードを包みます。</string>
+		<string>カードを包む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5304,7 +5304,7 @@
 			<key>NSSegmentItemWidth</key>
 			<real>22</real>
 		</dict>
-		<string>行にカードを整理します。</string>
+		<string>行にカードを整理</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5326,7 +5326,7 @@
 			<key>NSSegmentItemWidth</key>
 			<real>23</real>
 		</dict>
-		<string>列にカードを整理します。</string>
+		<string>列にカードを整理</string>
 		<string>{122, 19}</string>
 		<string>複数</string>
 		<dict>
@@ -8547,7 +8547,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8792,7 +8793,7 @@
 				<integer>239</integer>
 			</dict>
 		</dict>
-		<string>フリーフォームコルクボードモードでは、インテックスカードはバインダーに表示されるような関連ドキュメント順を表しません。順番を"コミット"すると、バインダ内のこれらのドキュメントが再アレンジされ、下記で選択された順序オプションに応じて自由形式のコルクボードの順序を最適にマッチさせます。</string>
+		<string>フリーフォームコルクボードモードでは、インテックスカードはバインダに表示されるような関連ドキュメント順を表しません。順番を"コミット"すると、バインダ内のこれらのドキュメントが再アレンジされ、下記で選択した順序オプションに応じて自由形式のコルクボードの順序を最適にマッチさせます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9447,7 +9448,7 @@
 				<integer>17</integer>
 			</dict>
 		</dict>
-		<string>概要の切り替え</string>
+		<string>あらすじの切り替え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15706,7 +15707,7 @@
 				<integer>239</integer>
 			</dict>
 		</dict>
-		<string>複数単語：0    文字：0</string>
+		<string>単語：0    文字：0</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -16288,7 +16289,7 @@
 				<integer>697</integer>
 			</dict>
 		</dict>
-		<string>シーンヘッディング</string>
+		<string>シーン頭書き</string>
 		<string>ScriptElementsMenu</string>
 		<dict>
 			<key>$class</key>
@@ -16531,7 +16532,7 @@
 				<integer>706</integer>
 			</dict>
 		</dict>
-		<string>ダイアログ</string>
+		<string>台詞</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21058,7 +21059,7 @@
 				<integer>905</integer>
 			</dict>
 		</dict>
-		<string>バインダーで表示</string>
+		<string>バインダで表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21173,7 +21174,7 @@
 				<integer>913</integer>
 			</dict>
 		</dict>
-		<string>他のエディタで表示</string>
+		<string>別のエディタで表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21438,7 +21439,7 @@
 				<integer>923</integer>
 			</dict>
 		</dict>
-		<string>スナップショットを撮る</string>
+		<string>スナップショット作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21607,7 +21608,7 @@
 				<integer>932</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダーにスナップショットを表示</string>
+		<string>コピーホルダにスナップショットを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21625,7 +21626,7 @@
 				<integer>934</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダーにスナップショットを表示</string>
+		<string>コピーホルダにスナップショットを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22523,7 +22524,7 @@
 		<string>{621, 294}</string>
 		<string>SCRTextLoadingView</string>
 		<string>{{10, 25}, {621, 294}}</string>
-		<string>ロードしています</string>
+		<string>読み込み中</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24521,7 +24522,7 @@
 				<integer>275</integer>
 			</dict>
 		</dict>
-		<string>タイトルと概要</string>
+		<string>タイトルとあらすじ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25325,7 +25326,7 @@
 			<key>NSWidth</key>
 			<real>55</real>
 		</dict>
-		<string>words</string>
+		<string>語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25359,7 +25360,7 @@
 				<integer>275</integer>
 			</dict>
 		</dict>
-		<string>複数単語</string>
+		<string>単語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30036,7 +30037,7 @@
 				<integer>1339</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<string>labelMenu</string>
 		<dict>
 			<key>$class</key>
@@ -30482,7 +30483,7 @@
 				<integer>1371</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30554,7 +30555,7 @@
 				<integer>1375</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダーに</string>
+		<string>コピーホルダに</string>
 		<string>openInMenu</string>
 		<dict>
 			<key>$class</key>
@@ -31158,7 +31159,7 @@
 				<integer>1407</integer>
 			</dict>
 		</dict>
-		<string>新しい文書</string>
+		<string>新しいドキュメント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31558,7 +31559,7 @@
 				<integer>1425</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31822,7 +31823,7 @@
 				<integer>1437</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31949,7 +31950,7 @@
 				<integer>1442</integer>
 			</dict>
 		</dict>
-		<string>バインダーで表示</string>
+		<string>バインダで表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32143,7 +32144,7 @@
 				<integer>1449</integer>
 			</dict>
 		</dict>
-		<string>Copy to Project</string>
+		<string>プロジェクトにコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33381,7 +33382,7 @@
 				<integer>1507</integer>
 			</dict>
 		</dict>
-		<string>Total Word Count</string>
+		<string>合計単語数</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33442,7 +33443,7 @@
 				<integer>1510</integer>
 			</dict>
 		</dict>
-		<string>Total Character Count</string>
+		<string>合計文字数</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -43605,7 +43606,7 @@
 				<integer>1952</integer>
 			</dict>
 		</dict>
-		<string>ズーム先：</string>
+		<string>ズーム倍率：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -47529,7 +47530,7 @@
 				<integer>239</integer>
 			</dict>
 		</dict>
-		<string>ナビゲートするグループなし。</string>
+		<string>ナビゲートするグループなし</string>
 		<string>{{11, 20}, {267, 17}}</string>
 		<dict>
 			<key>$class</key>
@@ -50477,7 +50478,7 @@
 				<integer>2354</integer>
 			</dict>
 		</dict>
-		<string>クイックリファレンスパネルでドキュメントを開き、コピーホルダーペインで閉じます。</string>
+		<string>クイックリファレンスパネルでドキュメントを開き、コピーホルダペインで閉じます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50500,7 +50501,7 @@
 				<integer>2356</integer>
 			</dict>
 		</dict>
-		<string>クイックルックで開きます。</string>
+		<string>クイックルックで開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50523,7 +50524,7 @@
 				<integer>2358</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダーペインを閉じます。</string>
+		<string>コピーホルダペインを閉じる</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50546,7 +50547,7 @@
 				<integer>2360</integer>
 			</dict>
 		</dict>
-		<string>コルクボードの設定。</string>
+		<string>コルクボードの設定</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50569,7 +50570,7 @@
 				<integer>2362</integer>
 			</dict>
 		</dict>
-		<string>テキストスケールを変更します。</string>
+		<string>テキスト表示倍率を変更</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50592,7 +50593,7 @@
 				<integer>2364</integer>
 			</dict>
 		</dict>
-		<string>ドキュメント単語巣または文字数の目標を設定します。</string>
+		<string>ドキュメント単語数または文字数の目標を設定</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50615,7 +50616,7 @@
 				<integer>2366</integer>
 			</dict>
 		</dict>
-		<string>バインダー内のドキュメントの順序を変え、コーナー位置を基にしたコルクボードの順にマッチさせます。</string>
+		<string>バインダ内のドキュメントの順序を変え、コーナー位置を基にしたコルクボードの順にマッチさせます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50638,7 +50639,7 @@
 				<integer>2368</integer>
 			</dict>
 		</dict>
-		<string>ファイルをリロードします。</string>
+		<string>ファイルを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50661,7 +50662,7 @@
 				<integer>2370</integer>
 			</dict>
 		</dict>
-		<string>ファイルをリロードします。</string>
+		<string>ファイルを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50684,7 +50685,7 @@
 				<integer>2372</integer>
 			</dict>
 		</dict>
-		<string>ファイルをリロードします。</string>
+		<string>ファイルを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50707,7 +50708,7 @@
 				<integer>2374</integer>
 			</dict>
 		</dict>
-		<string>ファイルをリロードします。</string>
+		<string>ファイルを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50730,7 +50731,7 @@
 				<integer>2376</integer>
 			</dict>
 		</dict>
-		<string>ページに移動。</string>
+		<string>ページに移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50753,7 +50754,7 @@
 				<integer>2378</integer>
 			</dict>
 		</dict>
-		<string>ページに移動。</string>
+		<string>ページに移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50776,7 +50777,7 @@
 				<integer>2380</integer>
 			</dict>
 		</dict>
-		<string>ページをスクロールして戻ります。</string>
+		<string>ページをスクロールして戻る</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50799,7 +50800,7 @@
 				<integer>2382</integer>
 			</dict>
 		</dict>
-		<string>ページをスクロールして進みます。</string>
+		<string>ページをスクロールして進む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50822,7 +50823,7 @@
 				<integer>2384</integer>
 			</dict>
 		</dict>
-		<string>ラベルで整列します。</string>
+		<string>ラベルで整列</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50845,7 +50846,7 @@
 				<integer>2386</integer>
 			</dict>
 		</dict>
-		<string>一時停止時に巻き戻します。</string>
+		<string>一時停止時に巻き戻す</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50868,7 +50869,7 @@
 				<integer>2388</integer>
 			</dict>
 		</dict>
-		<string>中央のアウトライナーコンテントをトグル。</string>
+		<string>中央のアウトライナーコンテンツをトグル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50891,7 +50892,7 @@
 				<integer>2390</integer>
 			</dict>
 		</dict>
-		<string>切り替えてコンパイルに含めます。</string>
+		<string>切り替えてコンパイルに含める</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50914,7 +50915,7 @@
 				<integer>2392</integer>
 			</dict>
 		</dict>
-		<string>別のエディターまたはコピーホルダーで自動的に選択を開きます（2回目のクリック）。</string>
+		<string>別のエディタまたはコピーホルダで自動的に選択を開く（2回目のクリック）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50937,7 +50938,7 @@
 				<integer>2394</integer>
 			</dict>
 		</dict>
-		<string>前のページに移動します。</string>
+		<string>前のページに移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50960,7 +50961,7 @@
 				<integer>2396</integer>
 			</dict>
 		</dict>
-		<string>外部エディタで開きます（クリック＆ホールドして選択）。</string>
+		<string>外部エディタで開く（クリック＆ホールドで選択）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50983,7 +50984,7 @@
 				<integer>2398</integer>
 			</dict>
 		</dict>
-		<string>外部エディタで開きます（クリック＆ホールドして選択）。</string>
+		<string>外部エディタで開く（クリック＆ホールドで選択）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -51006,7 +51007,7 @@
 				<integer>2400</integer>
 			</dict>
 		</dict>
-		<string>外部エディタで開きます（クリック＆ホールドして選択）。</string>
+		<string>外部エディタで開く（クリック＆ホールドで選択）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -51029,7 +51030,7 @@
 				<integer>2402</integer>
 			</dict>
 		</dict>
-		<string>外部エディタで開きます（クリック＆ホールドして選択）。</string>
+		<string>外部エディタで開く（クリック＆ホールドで選択）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -51052,7 +51053,7 @@
 				<integer>2404</integer>
 			</dict>
 		</dict>
-		<string>新しいドキュメントを作成します。</string>
+		<string>新しいドキュメントを作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -51075,7 +51076,7 @@
 				<integer>2406</integer>
 			</dict>
 		</dict>
-		<string>新しいフォルダを作成します。</string>
+		<string>新しいフォルダを作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -51098,7 +51099,7 @@
 				<integer>2408</integer>
 			</dict>
 		</dict>
-		<string>概要を表示、または隠します。</string>
+		<string>あらすじを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -51121,7 +51122,7 @@
 				<integer>2410</integer>
 			</dict>
 		</dict>
-		<string>次のページに移動。</string>
+		<string>次のページに移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64119,7 +64120,7 @@
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>列を選択します。</string>
+		<string>列を選択</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -64160,7 +64161,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいドキュメントを追加します。</string>
+		<string>新しいドキュメントを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64192,7 +64193,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいフォルダを追加します。</string>
+		<string>新しいフォルダを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64224,7 +64225,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>文脈メニューを表示します。</string>
+		<string>文脈メニューを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64256,7 +64257,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>テキストスケールを変更します。</string>
+		<string>テキスト表示倍率を変更</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64288,7 +64289,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>前のページに移動します。</string>
+		<string>前のページに移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64320,7 +64321,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>次のページに移動。</string>
+		<string>次のページに移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64352,7 +64353,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>アウトライナーまたはコルクボードの選択を他のエディタで自動的に開くかどうかを切り替えます。</string>
+		<string>アウトライナーまたはコルクボードの選択を別のエディタで自動的に開くかどうかを切り替えます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64384,7 +64385,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ドキュメント単語巣または文字数の目標を設定します。</string>
+		<string>ドキュメント単語数または文字数の目標を設定</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64416,7 +64417,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ファイルをリロードします。</string>
+		<string>ファイルを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64448,7 +64449,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>外部エディタで開きます（クリック＆ホールドして選択）。</string>
+		<string>外部エディタで開く（クリック＆ホールドで選択）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64480,7 +64481,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>外部エディタで開きます（クリック＆ホールドして選択）。</string>
+		<string>外部エディタで開く（クリック＆ホールドで選択）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64512,7 +64513,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ファイルをリロードします。</string>
+		<string>ファイルを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64544,7 +64545,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>コルクボードオプションを表示します。</string>
+		<string>コルクボードオプションを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64576,7 +64577,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>クイックルックで開きます。</string>
+		<string>クイックルックで開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64608,7 +64609,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ラッピングカード間を切り替え、行または列で整理します。</string>
+		<string>ラッピングカード間を切り替え、行または列で整理</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64640,7 +64641,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>通常およびフリーフォームコルクボードモード間で切り替えます。</string>
+		<string>通常およびフリーフォームコルクボードモード間で切り替え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64704,7 +64705,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>次のページにスクロールします。</string>
+		<string>次のページにスクロール</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64736,7 +64737,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ファイルをリロードします。</string>
+		<string>ファイルを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64768,7 +64769,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>外部エディタで開きます（クリック＆ホールドして選択）。</string>
+		<string>外部エディタで開く（クリック＆ホールドで選択）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64800,7 +64801,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ファイルをリロードします。</string>
+		<string>ファイルを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64832,7 +64833,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>外部エディタで開きます（クリック＆ホールドして選択）。</string>
+		<string>外部エディタで開く（クリック＆ホールドで選択）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64864,7 +64865,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>フィルタオプション。</string>
+		<string>フィルタオプション</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64896,7 +64897,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>クイックリファレンスパネルでプロジェクトブックマークを開きます。</string>
+		<string>クイックリファレンスパネルでプロジェクトブックマークを開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -64992,7 +64993,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>クイックリファレンスパネルでプロジェクトブックマークを開きます。</string>
+		<string>クイックリファレンスパネルでプロジェクトブックマークを開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65024,7 +65025,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>一時停止時にわずかにメディアを巻き戻します。</string>
+		<string>一時停止時にわずかにメディアを巻き戻す</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65056,7 +65057,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>通常およびフリーフォームコルクボードモード間で切り替えます。</string>
+		<string>通常およびフリーフォームコルクボードモード間で切り替え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65088,7 +65089,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>リロード。</string>
+		<string>再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65120,7 +65121,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>概要を表示、または隠す</string>
+		<string>あらすじを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65152,7 +65153,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>移動先ページを選択してください。</string>
+		<string>移動先ページを選択</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65184,7 +65185,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>移動先ページを選択してください。</string>
+		<string>移動先ページを選択</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65216,7 +65217,7 @@
 			<key>NS.string</key>
 			<string>AXHelp</string>
 		</dict>
-		<string>追加のフィルタオプション。</string>
+		<string>追加のフィルタオプション</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -65248,7 +65249,7 @@
 			<key>NS.string</key>
 			<string>AXHelp</string>
 		</dict>
-		<string>フィルタをリロードします。</string>
+		<string>フィルタを再読み込み</string>
 		<dict>
 			<key>$class</key>
 			<dict>

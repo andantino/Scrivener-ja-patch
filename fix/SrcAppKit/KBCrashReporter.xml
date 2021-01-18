@@ -4093,7 +4093,8 @@ In case you want to get back to me, my E-Mail address is %%EMAILADDRESS.
 			</dict>
 		</dict>
 		<string>送信</string>
-		<string></string>
+		<string>
+</string>
 		<string>sendButton</string>
 		<dict>
 			<key>$class</key>
@@ -5353,7 +5354,7 @@ In case you want to get back to me, my E-Mail address is %%EMAILADDRESS.
 				<integer>39</integer>
 			</dict>
 		</dict>
-		<string>送信したくない情報を削除できますが、バグの検出が難しくなります。デフォルトでクラッシュログ、アプリケーションプリファレンス、基本（匿名）システム情報が送信されます。</string>
+		<string>送信したくない情報を削除できますが、バグの検出が難しくなります。デフォルトでクラッシュログ、アプリケーション環境設定、基本（匿名）システム情報が送信されます。</string>
 		<string>{{10, 33}, {546, 342}}</string>
 		<string>クラッシュログ</string>
 		<dict>

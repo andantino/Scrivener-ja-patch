@@ -3212,7 +3212,7 @@
 				<integer>182</integer>
 			</dict>
 		</dict>
-		<string>ロックアスペクト比</string>
+		<string>固定アスペクト比</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3779,7 +3779,8 @@
 			<key>NSfFlags</key>
 			<integer>1301</integer>
 		</dict>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4488,7 +4489,7 @@
 				<integer>43</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>

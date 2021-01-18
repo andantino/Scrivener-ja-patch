@@ -3074,7 +3074,8 @@
 			</dict>
 		</dict>
 		<string>同期</string>
-		<string></string>
+		<string>
+</string>
 		<string>syncButton</string>
 		<dict>
 			<key>$class</key>
@@ -3752,7 +3753,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<string>KBAutoShrinkingButton</string>
 		<string>{{452, 344}, {85, 32}}</string>
 		<dict>
@@ -4295,7 +4296,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>ドラフトフォルダーのコンテンツを同期</string>
+		<string>ドラフトフォルダのコンテンツを同期</string>
 		<string>KBAutoShrinkingButton</string>
 		<string>{{30, 273}, {503, 18}}</string>
 		<dict>
@@ -4633,7 +4634,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>アップデート前に影響を受けるドキュメントのスナップショットを撮る</string>
+		<string>アップデート前に影響を受けるドキュメントのスナップショット作成</string>
 		<string>KBAutoShrinkingButton</string>
 		<string>{{30, 193}, {503, 18}}</string>
 		<dict>
@@ -4765,7 +4766,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトを開く際に外部フォルダを確認し、閉じる際に自動的に同期します</string>
+		<string>プロジェクトを開く際に外部フォルダを確認し、閉じる際に自動的に同期</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4894,7 +4895,7 @@
 				<integer>38</integer>
 			</dict>
 		</dict>
-		<string>新しい非ドラフト項目のインポート先：</string>
+		<string>新しい非ドラフト項目の読み込み先：</string>
 		<string>KBAutoShrinkingButton</string>
 		<string>{{282, 116}, {251, 18}}</string>
 		<dict>
@@ -5635,7 +5636,7 @@
 				<integer>38</integer>
 			</dict>
 		</dict>
-		<string>外部ドラフトファイルの書式：</string>
+		<string>外部ドラフトファイルの形式：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6820,7 +6821,7 @@
 				<integer>38</integer>
 			</dict>
 		</dict>
-		<string>インポート</string>
+		<string>読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9584,7 +9585,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>チェックが入れられている場合、プレーンテキスト(.txt）ファイルにはエクスポートされる際に段落の間に空欄行が挿入され、インポート時には削除されます。</string>
+		<string>チェックが入れられている場合、プレーンテキスト(.txt）ファイルにはエクスポートされる際に段落の間に空欄行が挿入され、読み込み時には削除されます。</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -14420,7 +14421,7 @@
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>外部フォルダの同期のヘルプを表示します。</string>
+		<string>外部フォルダの同期のヘルプを表示</string>
 		<dict>
 			<key>$classes</key>
 			<array>

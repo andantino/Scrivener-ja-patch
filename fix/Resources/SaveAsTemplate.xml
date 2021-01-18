@@ -1826,7 +1826,7 @@
 				<integer>100</integer>
 			</dict>
 		</dict>
-		<string>台本</string>
+		<string>脚本</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2808,7 +2808,7 @@
 				<integer>147</integer>
 			</dict>
 		</dict>
-		<string>台本（本）</string>
+		<string>脚本（本）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3984,7 +3984,7 @@
 				<integer>195</integer>
 			</dict>
 		</dict>
-		<string>コミックスクリプト</string>
+		<string>コミック脚本</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4033,7 +4033,7 @@
 				<integer>197</integer>
 			</dict>
 		</dict>
-		<string>コミックスクリプト（スピーチバブル）</string>
+		<string>コミック脚本（吹き出し）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4480,7 +4480,7 @@
 				<integer>214</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4750,7 +4750,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -5837,7 +5838,7 @@
 				<integer>285</integer>
 			</dict>
 		</dict>
-		<string>テンプレートはScrivenerのアプリケーションサポートフォルダーに保存されています。</string>
+		<string>テンプレートはScrivenerのアプリケーションサポートフォルダに保存されています。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8774,7 +8775,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>選択されたアイコンをカスタマイズするためにディスクに保存します。</string>
+		<string>選択したアイコンをカスタマイズするためにディスクに保存</string>
 		<dict>
 			<key>$classes</key>
 			<array>

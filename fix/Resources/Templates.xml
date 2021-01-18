@@ -566,7 +566,7 @@
 				<integer>19</integer>
 			</dict>
 		</dict>
-		<string>Create...</string>
+		<string>作成...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -594,7 +594,8 @@
 			<string>NSFont</string>
 		</dict>
 		<string></string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -1597,7 +1598,7 @@
 				<integer>79</integer>
 			</dict>
 		</dict>
-		<string>選択されたメニューをデフォルトに設定</string>
+		<string>選択したメニューをデフォルトに設定</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1735,7 +1736,7 @@
 				<integer>84</integer>
 			</dict>
 		</dict>
-		<string>テンプレートをインポートしています...</string>
+		<string>テンプレートを読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1780,7 +1781,7 @@
 				<integer>86</integer>
 			</dict>
 		</dict>
-		<string>テンプレートをエクスポートしています...</string>
+		<string>テンプレートを保存...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1873,7 +1874,7 @@
 				<integer>89</integer>
 			</dict>
 		</dict>
-		<string>Edit Template Info...</string>
+		<string>テンプレート情報を編集...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1918,7 +1919,7 @@
 				<integer>91</integer>
 			</dict>
 		</dict>
-		<string>Reveal Template in Finder</string>
+		<string>テンプレートをFinderで表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2011,7 +2012,7 @@
 				<integer>94</integer>
 			</dict>
 		</dict>
-		<string>選択されたテンプレートを削除します</string>
+		<string>選択したテンプレートを削除</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -2270,7 +2271,7 @@
 				<integer>106</integer>
 			</dict>
 		</dict>
-		<string>メニューのクリア</string>
+		<string>一覧を消去</string>
 		<string>recentProjectsMenu</string>
 		<dict>
 			<key>$class</key>
@@ -2364,7 +2365,7 @@
 				<integer>112</integer>
 			</dict>
 		</dict>
-		<string>カスタムカテゴリー名を変更します...</string>
+		<string>カスタムカテゴリー名を変更...</string>
 		<string>renameCategoryContextualMenu</string>
 		<dict>
 			<key>$class</key>
@@ -4845,7 +4846,7 @@
 				<integer>226</integer>
 			</dict>
 		</dict>
-		<string>Edit Template Info...</string>
+		<string>テンプレート情報を編集...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4880,7 +4881,7 @@
 				<integer>228</integer>
 			</dict>
 		</dict>
-		<string>Reveal Template in Finder</string>
+		<string>テンプレートをFinderで表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5026,7 +5027,7 @@
 				<integer>234</integer>
 			</dict>
 		</dict>
-		<string>テンプレートをインポートしています...</string>
+		<string>テンプレートを読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5061,7 +5062,7 @@
 				<integer>236</integer>
 			</dict>
 		</dict>
-		<string>テンプレートをエクスポートしています...</string>
+		<string>テンプレートを保存...</string>
 		<string>templatesContextualMenu</string>
 		<dict>
 			<key>$class</key>
@@ -6098,7 +6099,7 @@
 				<integer>19</integer>
 			</dict>
 		</dict>
-		<string>既存のファイルを開いています...</string>
+		<string>既存のファイルを開く...</string>
 		<dict>
 			<key>$class</key>
 			<dict>

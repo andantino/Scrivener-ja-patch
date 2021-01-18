@@ -426,7 +426,8 @@
 			<string>NSFont</string>
 		</dict>
 		<string></string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -1748,7 +1749,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>ケースを無視</string>
+		<string>大文字・小文字を無視</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1924,7 +1925,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>発音区別符を無視</string>
+		<string>アクセント記号を無視</string>
 		<string>ignoreDiacriticsButton</string>
 		<dict>
 			<key>$class</key>
@@ -2427,7 +2428,7 @@
 			<key>NSTag</key>
 			<integer>43</integer>
 		</dict>
-		<string>選択されたテキスト</string>
+		<string>選択したテキスト</string>
 		<string>{138, 18}</string>
 		<string>{4, 2}</string>
 		<string>NSActionCell</string>
@@ -3459,7 +3460,7 @@
 				<integer>179</integer>
 			</dict>
 		</dict>
-		<string>含む</string>
+		<string>検索語を含む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3664,7 +3665,7 @@
 				<integer>182</integer>
 			</dict>
 		</dict>
-		<string>開始</string>
+		<string>検索語で始まる</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3713,7 +3714,7 @@
 				<integer>184</integer>
 			</dict>
 		</dict>
-		<string>全単語</string>
+		<string>検索語に完全一致</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3762,7 +3763,7 @@
 				<integer>186</integer>
 			</dict>
 		</dict>
-		<string>終了</string>
+		<string>検索語で終わる</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4607,7 +4608,7 @@
 				<integer>227</integer>
 			</dict>
 		</dict>
-		<string>全ての範囲を置き換える</string>
+		<string>置換を実行する範囲</string>
 		<dict>
 			<key>$class</key>
 			<dict>

@@ -11062,7 +11062,7 @@
 				<integer>458</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<string>InspectorStatusMenu</string>
 		<dict>
 			<key>$class</key>
@@ -11397,7 +11397,7 @@
 				<integer>470</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<string>InspectorLabelMenu</string>
 		<dict>
 			<key>$class</key>
@@ -14157,7 +14157,7 @@
 				<integer>599</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -16765,7 +16765,7 @@
 				<integer>700</integer>
 			</dict>
 		</dict>
-		<string>概要</string>
+		<string>あらすじ</string>
 		<string>{{0, 444}, {232, 26}}</string>
 		<string>SCRInspectorBarView</string>
 		<string>{232, 470}</string>
@@ -22754,7 +22754,7 @@
 				<integer>1067</integer>
 			</dict>
 		</dict>
-		<string>カスタムメタデータを編集します。</string>
+		<string>カスタムメタデータを編集</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22777,7 +22777,7 @@
 				<integer>1069</integer>
 			</dict>
 		</dict>
-		<string>カスタムメタデータを隠す、または表示します。</string>
+		<string>カスタムメタデータを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22800,7 +22800,7 @@
 				<integer>1071</integer>
 			</dict>
 		</dict>
-		<string>キーワードを削除します。</string>
+		<string>キーワードを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22823,7 +22823,7 @@
 				<integer>1073</integer>
 			</dict>
 		</dict>
-		<string>キーワードを追加します。</string>
+		<string>キーワードを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22846,7 +22846,7 @@
 				<integer>1075</integer>
 			</dict>
 		</dict>
-		<string>キーワードを隠す、または表示します。</string>
+		<string>キーワードを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22869,7 +22869,7 @@
 				<integer>1077</integer>
 			</dict>
 		</dict>
-		<string>コメントと脚注。</string>
+		<string>コメントと脚注</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22892,7 +22892,7 @@
 				<integer>1079</integer>
 			</dict>
 		</dict>
-		<string>コメントを追加します。</string>
+		<string>コメントを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22915,7 +22915,7 @@
 				<integer>1081</integer>
 			</dict>
 		</dict>
-		<string>スナップショット。</string>
+		<string>スナップショット</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22938,7 +22938,7 @@
 				<integer>1083</integer>
 			</dict>
 		</dict>
-		<string>スナップショットを削除します。</string>
+		<string>スナップショットを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22961,7 +22961,7 @@
 				<integer>1085</integer>
 			</dict>
 		</dict>
-		<string>スナップショットを撮る。</string>
+		<string>スナップショット作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23007,7 +23007,7 @@
 				<integer>1089</integer>
 			</dict>
 		</dict>
-		<string>ブックマーク。</string>
+		<string>ブックマーク</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23030,7 +23030,7 @@
 				<integer>1091</integer>
 			</dict>
 		</dict>
-		<string>ブックマークを削除します。</string>
+		<string>ブックマークを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23053,7 +23053,7 @@
 				<integer>1093</integer>
 			</dict>
 		</dict>
-		<string>ブックマークを削除します。</string>
+		<string>ブックマークを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23076,7 +23076,7 @@
 				<integer>1095</integer>
 			</dict>
 		</dict>
-		<string>ブックマークオプションを表示します。</string>
+		<string>ブックマークオプションを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23099,7 +23099,7 @@
 				<integer>1097</integer>
 			</dict>
 		</dict>
-		<string>ブックマークオプションを表示します。</string>
+		<string>ブックマークオプションを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23122,7 +23122,7 @@
 				<integer>1099</integer>
 			</dict>
 		</dict>
-		<string>メタデータ。</string>
+		<string>メタデータ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23145,7 +23145,7 @@
 				<integer>1101</integer>
 			</dict>
 		</dict>
-		<string>一般的なメタデータを隠す、または表示します。</string>
+		<string>一般的なメタデータを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23168,7 +23168,7 @@
 				<integer>1103</integer>
 			</dict>
 		</dict>
-		<string>切り替えて画像を表示します。</string>
+		<string>切り替えて画像を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23191,7 +23191,7 @@
 				<integer>1105</integer>
 			</dict>
 		</dict>
-		<string>概要を隠す、または表示します。</string>
+		<string>あらすじを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23214,7 +23214,7 @@
 				<integer>1107</integer>
 			</dict>
 		</dict>
-		<string>注釈。</string>
+		<string>注釈</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23260,7 +23260,7 @@
 				<integer>1111</integer>
 			</dict>
 		</dict>
-		<string>脚注を追加します。</string>
+		<string>脚注を追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23283,7 +23283,7 @@
 				<integer>1113</integer>
 			</dict>
 		</dict>
-		<string>選択されたコメントと注釈を削除します。</string>
+		<string>選択したコメントと注釈を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29545,7 +29545,7 @@
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>その他のキーワードオプションを表示します。</string>
+		<string>その他のキーワードオプションを表示</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -29586,7 +29586,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたキーワードを削除します。</string>
+		<string>選択したキーワードを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29618,7 +29618,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>一般的なメタデータを隠す、または表示します。</string>
+		<string>一般的なメタデータを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29650,7 +29650,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>概要を隠す、または表示します。</string>
+		<string>あらすじを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29682,7 +29682,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>インスペクタノート。</string>
+		<string>インスペクタノート</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29714,7 +29714,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>インスペクタブックマーク。</string>
+		<string>インスペクタブックマーク</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29746,7 +29746,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>概要を隠す、または表示します。</string>
+		<string>あらすじを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29778,7 +29778,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>キーワードを追加します。</string>
+		<string>キーワードを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29810,7 +29810,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>インスペクタのスナップショット。</string>
+		<string>インスペクタのスナップショット</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29842,7 +29842,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>インスペクタコメントと脚注。</string>
+		<string>インスペクタコメントと脚注</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29874,7 +29874,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>スナップショットを撮る。</string>
+		<string>スナップショット作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29906,7 +29906,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたスナップショットを削除します。</string>
+		<string>選択したスナップショットを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29938,7 +29938,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>脚注を追加します。</string>
+		<string>脚注を追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29970,7 +29970,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたコメントと注釈を削除します。</string>
+		<string>選択したコメントと注釈を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30002,7 +30002,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>コメントを追加します。</string>
+		<string>コメントを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30034,7 +30034,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>インスペクタメタデータ。</string>
+		<string>インスペクタメタデータ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30066,7 +30066,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>一般的なメタデータを非表示または表示します。</string>
+		<string>一般的なメタデータを非表示または表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30098,7 +30098,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ブックマークオプションを表示します。</string>
+		<string>ブックマークオプションを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30130,7 +30130,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>キーワードを隠す、または表示します。</string>
+		<string>キーワードを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30162,7 +30162,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたブックマークを削除します。</string>
+		<string>選択したブックマークを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30194,7 +30194,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>カスタムメタデータを編集します。</string>
+		<string>カスタムメタデータを編集</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30226,7 +30226,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>概要の表示と画像を切り替え、ドキュメントを表示します。</string>
+		<string>あらすじの表示と画像を切り替え、ドキュメントを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30290,7 +30290,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>カスタムメタデータを隠す、または表示します。</string>
+		<string>カスタムメタデータを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30322,7 +30322,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>キーワードを隠す、または表示します。</string>
+		<string>キーワードを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30354,7 +30354,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>カスタムメタデータを隠す、または表示します。</string>
+		<string>カスタムメタデータを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30386,7 +30386,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたブックマークを削除します。</string>
+		<string>選択したブックマークを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30418,7 +30418,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ブックマークオプションを表示します。</string>
+		<string>ブックマークオプションを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30482,7 +30482,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>概要を隠す、または表示します。</string>
+		<string>あらすじを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>

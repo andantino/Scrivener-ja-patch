@@ -2823,7 +2823,7 @@
 				<integer>33</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3667,7 +3667,8 @@
 			<integer>1</integer>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -5718,7 +5719,7 @@
 				<integer>33</integer>
 			</dict>
 		</dict>
-		<string>Minimum number of tabs:</string>
+		<string>タブの最小数：</string>
 		<string>{417, 331}</string>
 		<dict>
 			<key>$classes</key>
@@ -7537,7 +7538,7 @@
 				<integer>22</integer>
 			</dict>
 		</dict>
-		<string>ボールド</string>
+		<string>太字</string>
 		<string>boldButton</string>
 		<dict>
 			<key>$class</key>
@@ -9250,7 +9251,7 @@
 				<integer>33</integer>
 			</dict>
 		</dict>
-		<string>カスタムスクリプト</string>
+		<string>カスタム脚本</string>
 		<string>formatTitleTextField</string>
 		<dict>
 			<key>$class</key>
@@ -9734,7 +9735,7 @@
 				<integer>114</integer>
 			</dict>
 		</dict>
-		<string>最終ドラフト.fdxまたは.fdxtファイルからロードします...</string>
+		<string>最終ドラフト.fdxまたは.fdxtファイルから読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12427,7 +12428,7 @@
 				<integer>580</integer>
 			</dict>
 		</dict>
-		<string>ポイント</string>
+		<string>pt</string>
 		<string>unitsPopup</string>
 		<dict>
 			<key>$class</key>
@@ -12537,7 +12538,7 @@
 			</dict>
 		</dict>
 		<string>{{49, 133}, {613, 467}}</string>
-		<string>スクリプト設定</string>
+		<string>脚本設定</string>
 		<string>{213, 113}</string>
 		<dict>
 			<key>$class</key>
@@ -13497,7 +13498,7 @@
 				<integer>22</integer>
 			</dict>
 		</dict>
-		<string>単語ごとにアンダーライン</string>
+		<string>単語ごとに下線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13694,7 +13695,7 @@
 				<integer>22</integer>
 			</dict>
 		</dict>
-		<string>全てのキャピタル</string>
+		<string>全て大文字</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14671,7 +14672,7 @@
 				<integer>12</integer>
 			</dict>
 		</dict>
-		<string>アンダーラインなし</string>
+		<string>下線なし</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15179,7 +15180,7 @@
 				<integer>33</integer>
 			</dict>
 		</dict>
-		<string>配列</string>
+		<string>配列：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15379,7 +15380,7 @@
 				<integer>114</integer>
 			</dict>
 		</dict>
-		<string>左</string>
+		<string>左揃え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15503,7 +15504,7 @@
 				<integer>698</integer>
 			</dict>
 		</dict>
-		<string>右</string>
+		<string>右揃え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15552,7 +15553,7 @@
 				<integer>700</integer>
 			</dict>
 		</dict>
-		<string>端を揃える</string>
+		<string>均等割り付け</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -19691,7 +19692,7 @@
 				<integer>33</integer>
 			</dict>
 		</dict>
-		<string>戻る：</string>
+		<string>リターン：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20515,7 +20516,7 @@
 				<integer>188</integer>
 			</dict>
 		</dict>
-		<string>戻る前にコロンを追加</string>
+		<string>リターン前にコロンを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21874,7 +21875,7 @@
 			<string>NSTabView</string>
 		</dict>
 		<string>{417, 269}</string>
-		<string>タブ/戻る</string>
+		<string>タブ/リターン</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23976,9 +23977,9 @@
 				<integer>218</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトのオートコンプリートリストからの文だけが区切り文字の間に提案されます。</string>
+		<string>プロジェクトの自動補完リストからの文だけが区切り文字の間に提案されます。</string>
 		<string>{417, 269}</string>
-		<string>オートコンプリート</string>
+		<string>自動補完</string>
 		<string>{{176, 87}, {417, 269}}</string>
 		<string>KBFramedWhiteView</string>
 		<dict>
@@ -25171,7 +25172,7 @@
 				<integer>1049</integer>
 			</dict>
 		</dict>
-		<string>デフォルトにリセット</string>
+		<string>デフォルトに戻す</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25261,7 +25262,7 @@
 				<integer>1053</integer>
 			</dict>
 		</dict>
-		<string>ファイルからロードしています...</string>
+		<string>ファイルから読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25306,7 +25307,7 @@
 				<integer>1055</integer>
 			</dict>
 		</dict>
-		<string>ファイルを保存しています...</string>
+		<string>ファイルを保存...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25351,7 +25352,7 @@
 				<integer>1057</integer>
 			</dict>
 		</dict>
-		<string>別のプロジェクトと使用するために保存</string>
+		<string>別のプロジェクトで使用するために保存</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25891,7 +25892,7 @@
 				<integer>33</integer>
 			</dict>
 		</dict>
-		<string>スクリプト設定</string>
+		<string>脚本設定</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27432,7 +27433,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>新しいスクリプト要素を追加します。</string>
+		<string>新しい脚本要素を追加</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -27464,7 +27465,7 @@
 				<integer>1177</integer>
 			</dict>
 		</dict>
-		<string>選択されたスクリプト要素を削除します。</string>
+		<string>選択した脚本要素を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38001,7 +38002,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいスクリプト要素を追加します。</string>
+		<string>新しい脚本要素を追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38033,7 +38034,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたスクリプト要素を削除します。</string>
+		<string>選択した脚本要素を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38097,7 +38098,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたオートコンプリーションを削除します。</string>
+		<string>選択した自動補完を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>

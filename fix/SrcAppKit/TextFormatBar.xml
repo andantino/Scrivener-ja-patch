@@ -9083,7 +9083,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>Choose the style.</string>
+		<string>スタイル</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -9115,7 +9115,7 @@
 				<integer>413</integer>
 			</dict>
 		</dict>
-		<string>スタイルを割り当てます。</string>
+		<string>スタイルを割り当て</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9138,7 +9138,7 @@
 				<integer>415</integer>
 			</dict>
 		</dict>
-		<string>テキストに下線を引く。</string>
+		<string>下線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9161,7 +9161,7 @@
 				<integer>417</integer>
 			</dict>
 		</dict>
-		<string>テキストの端を揃えます。</string>
+		<string>均等割り付け</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9184,7 +9184,7 @@
 				<integer>419</integer>
 			</dict>
 		</dict>
-		<string>テキストをイタリックにする。</string>
+		<string>イタリック</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9207,7 +9207,7 @@
 				<integer>421</integer>
 			</dict>
 		</dict>
-		<string>テキストを右に揃えます。</string>
+		<string>右揃え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9230,7 +9230,7 @@
 				<integer>423</integer>
 			</dict>
 		</dict>
-		<string>テキストを太字にする。</string>
+		<string>太字</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9253,7 +9253,7 @@
 				<integer>425</integer>
 			</dict>
 		</dict>
-		<string>テキストを左に揃えます。</string>
+		<string>左揃え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9276,7 +9276,7 @@
 				<integer>427</integer>
 			</dict>
 		</dict>
-		<string>テキストカラーを切り替えます。（クリックしてホールドするか、ctrlクリックして色を変更。）</string>
+		<string>文字色を変更（クリック＋ホールド、またはctrl＋色変更）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9299,7 +9299,7 @@
 				<integer>429</integer>
 			</dict>
 		</dict>
-		<string>テキスト中央揃え</string>
+		<string>中央揃え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9322,7 +9322,7 @@
 				<integer>431</integer>
 			</dict>
 		</dict>
-		<string>ハイライトを切り替えます。（クリックしてホールドするか、ctrlクリックしてハイライトを変更。）</string>
+		<string>ハイライト色変更（クリック＋ホールド、またはctrl＋ハイライト色変更）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9345,7 +9345,7 @@
 				<integer>433</integer>
 			</dict>
 		</dict>
-		<string>フォントサイズを選択します。</string>
+		<string>フォントサイズ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9368,7 +9368,7 @@
 				<integer>435</integer>
 			</dict>
 		</dict>
-		<string>フォントファミリーを選択します。</string>
+		<string>フォントファミリー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9391,7 +9391,7 @@
 				<integer>437</integer>
 			</dict>
 		</dict>
-		<string>リストスタイルを選択します。</string>
+		<string>箇条書きスタイル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9414,7 +9414,7 @@
 				<integer>439</integer>
 			</dict>
 		</dict>
-		<string>書体を選択します。</string>
+		<string>書体</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9437,7 +9437,7 @@
 				<integer>441</integer>
 			</dict>
 		</dict>
-		<string>行間隔を設定します。</string>
+		<string>行間隔</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12230,7 +12230,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>端を揃える。</string>
+		<string>均等割り付け</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12262,7 +12262,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>右揃え。</string>
+		<string>右揃え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12390,7 +12390,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>太字。</string>
+		<string>太字</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12422,7 +12422,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>スタイル。</string>
+		<string>スタイル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12454,7 +12454,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>フォントファミリー。</string>
+		<string>フォントファミリー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12486,7 +12486,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>フォントサイズ。</string>
+		<string>フォントサイズ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12518,7 +12518,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>行間隔。</string>
+		<string>行間隔</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12550,7 +12550,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>テキストカラー。</string>
+		<string>テキストカラー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12582,7 +12582,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>テキストハイライトカラー。</string>
+		<string>テキストハイライトカラー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12614,7 +12614,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>書体。</string>
+		<string>書体</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12646,7 +12646,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>リストスタイル。</string>
+		<string>リストスタイル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12678,7 +12678,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>フォントファミリー。</string>
+		<string>フォントファミリー</string>
 		<dict>
 			<key>$class</key>
 			<dict>

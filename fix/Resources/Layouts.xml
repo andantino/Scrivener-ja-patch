@@ -1073,7 +1073,7 @@
 				<integer>56</integer>
 			</dict>
 		</dict>
-		<string>選択されたレイアウトをアップデート</string>
+		<string>選択したレイアウトを更新</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1148,7 +1148,7 @@
 				<integer>59</integer>
 			</dict>
 		</dict>
-		<string>フルスクリーンにする際に、選択されたレイアウトを使用</string>
+		<string>選択したレイアウトをフルスクリーン時に使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1256,7 +1256,7 @@
 				<integer>64</integer>
 			</dict>
 		</dict>
-		<string>レイアウトをインポートします...</string>
+		<string>レイアウトを読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1291,7 +1291,7 @@
 				<integer>66</integer>
 			</dict>
 		</dict>
-		<string>選択されたレイアウトをエクスポートします...</string>
+		<string>選択したレイアウトを保存...</string>
 		<string>actionMenu</string>
 		<dict>
 			<key>$class</key>
@@ -3338,7 +3338,7 @@
 				<integer>181</integer>
 			</dict>
 		</dict>
-		<string>全てのメタデータの外見オプションを保持</string>
+		<string>全てのメタデータの外観オプションを保持</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6560,7 +6560,7 @@ To get started, click on the "+" button to save the current window and view sett
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>現在のウィンドウを基にしたレイアウトを追加します。</string>
+		<string>現在のウインドウを基にしたレイアウトを追加</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -6592,7 +6592,7 @@ To get started, click on the "+" button to save the current window and view sett
 				<integer>365</integer>
 			</dict>
 		</dict>
-		<string>選択されたレイアウトをロードします。</string>
+		<string>選択したレイアウトを読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6615,7 +6615,7 @@ To get started, click on the "+" button to save the current window and view sett
 				<integer>367</integer>
 			</dict>
 		</dict>
-		<string>選択されたレイアウトを削除します</string>
+		<string>選択したレイアウトを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8536,7 +8536,7 @@ To get started, click on the "+" button to save the current window and view sett
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>選択されたレイアウトを削除します</string>
+		<string>選択したレイアウトを削除</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -8577,7 +8577,7 @@ To get started, click on the "+" button to save the current window and view sett
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>現在のウィンドウを基にしたレイアウトを追加します。</string>
+		<string>現在のウインドウを基にしたレイアウトを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>

@@ -1534,7 +1534,7 @@
 				<integer>101</integer>
 			</dict>
 		</dict>
-		<string>ブックマークのオプション。</string>
+		<string>ブックマークのオプション</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1557,7 +1557,7 @@
 				<integer>103</integer>
 			</dict>
 		</dict>
-		<string>選択されたブックマークを削除します。</string>
+		<string>選択したブックマークを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1995,7 +1995,7 @@
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>ブックマークのオプション。</string>
+		<string>ブックマークのオプション</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -2036,7 +2036,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたブックマークを削除します。</string>
+		<string>選択したブックマークを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>

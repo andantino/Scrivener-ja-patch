@@ -4877,7 +4877,7 @@
 				<integer>176</integer>
 			</dict>
 		</dict>
-		<string>バインダーセレクションの影響</string>
+		<string>バインダ選択の影響範囲</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4995,7 +4995,7 @@
 				<integer>181</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5072,7 +5072,7 @@
 				<integer>184</integer>
 			</dict>
 		</dict>
-		<string>トップエディタのみ</string>
+		<string>上のエディタのみ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5111,7 +5111,7 @@
 				<integer>186</integer>
 			</dict>
 		</dict>
-		<string>ボトムエディタのみ</string>
+		<string>下のエディタのみ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5188,7 +5188,7 @@
 				<integer>189</integer>
 			</dict>
 		</dict>
-		<string>両エディタ</string>
+		<string>両方のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5424,7 +5424,7 @@
 				<integer>209</integer>
 			</dict>
 		</dict>
-		<string>Copy to Project</string>
+		<string>プロジェクトにコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5776,7 +5776,7 @@
 				<integer>227</integer>
 			</dict>
 		</dict>
-		<string>複数単語</string>
+		<string>単語</string>
 		<string>DocTargetsMenu</string>
 		<dict>
 			<key>$class</key>
@@ -7743,7 +7743,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8015,7 +8016,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>オーバーランを表示</string>
+		<string>超過を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8129,7 +8130,7 @@
 				<integer>131</integer>
 			</dict>
 		</dict>
-		<string>オーバーラン許容値：</string>
+		<string>超過許容値：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8764,7 +8765,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>Show allowance in progress bar</string>
+		<string>プログレスバーに許容値を表示</string>
 		<string>{315, 279}</string>
 		<dict>
 			<key>$classes</key>
@@ -9214,7 +9215,7 @@
 				<integer>397</integer>
 			</dict>
 		</dict>
-		<string>新しい文書</string>
+		<string>新しいドキュメント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9417,7 +9418,7 @@
 				<integer>406</integer>
 			</dict>
 		</dict>
-		<string>ウェブページ...</string>
+		<string>Webページ...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9770,7 +9771,7 @@
 				<integer>423</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9979,7 +9980,7 @@
 				<integer>432</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10188,7 +10189,7 @@
 				<integer>441</integer>
 			</dict>
 		</dict>
-		<string>編集しています...</string>
+		<string>編集...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10409,7 +10410,7 @@
 				<integer>451</integer>
 			</dict>
 		</dict>
-		<string>Copy to Project</string>
+		<string>プロジェクトにコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10838,7 +10839,7 @@
 				<integer>470</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダーに</string>
+		<string>コピーホルダに</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11232,7 +11233,7 @@
 				<integer>489</integer>
 			</dict>
 		</dict>
-		<string>バインダーで表示</string>
+		<string>バインダで表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11267,7 +11268,7 @@
 				<integer>491</integer>
 			</dict>
 		</dict>
-		<string>バインダーセパレーターとして表示</string>
+		<string>バインダセパレーターとして表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11317,7 +11318,7 @@
 				<integer>493</integer>
 			</dict>
 		</dict>
-		<string>バインダーセレクションの影響</string>
+		<string>バインダ選択の影響範囲</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14664,7 +14665,7 @@
 				<integer>131</integer>
 			</dict>
 		</dict>
-		<string>バインダー</string>
+		<string>バインダ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15438,7 +15439,7 @@
 			</dict>
 		</dict>
 		<string>BINDER</string>
-		<string>バインダー</string>
+		<string>バインダ</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -16930,7 +16931,7 @@
 				<integer>717</integer>
 			</dict>
 		</dict>
-		<string>バインダーの順番</string>
+		<string>バインダの順番</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18864,7 +18865,7 @@
 				<integer>131</integer>
 			</dict>
 		</dict>
-		<string>選択されたドキュメント内の全ての書式設定は、デフォルトにリセットされます。この操作を元に戻すことはできません。</string>
+		<string>選択したドキュメント内の全ての書式設定はデフォルトにリセットされます。この操作は取り消せません。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20778,7 +20779,7 @@
 				<integer>131</integer>
 			</dict>
 		</dict>
-		<string>ディスプレイ</string>
+		<string> </string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20892,7 +20893,7 @@
 				<integer>131</integer>
 			</dict>
 		</dict>
-		<string>カードの枚数</string>
+		<string>枚のカードを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21986,7 +21987,7 @@
 				<integer>16</integer>
 			</dict>
 		</dict>
-		<string>Synopses</string>
+		<string>あらすじ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23273,7 +23274,7 @@
 				<integer>131</integer>
 			</dict>
 		</dict>
-		<string>ごみ箱を空にする</string>
+		<string>ゴミ箱を空にする</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23403,7 +23404,7 @@
 				<integer>131</integer>
 			</dict>
 		</dict>
-		<string>ごみ箱の項目すべてを完全に削除しますか？この操作を元に戻すことはできません。</string>
+		<string>ゴミ箱にある項目を完全に消去してもよろしいですか？ この操作は取り消せません。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24430,7 +24431,7 @@
 			<integer>2</integer>
 		</dict>
 		<string>{20, 20}</string>
-		<string>選択されたドキュメントを上に移動。</string>
+		<string>選択したドキュメントを上に移動</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -24516,7 +24517,7 @@
 			<integer>2</integer>
 		</dict>
 		<string>{20, 20}</string>
-		<string>選択されたドキュメントを下に移動。</string>
+		<string>選択したドキュメントを下に移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24588,7 +24589,7 @@
 			<integer>2</integer>
 		</dict>
 		<string>{20, 20}</string>
-		<string>選択されたドキュメントを左に移動。</string>
+		<string>選択したドキュメントを左に移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24660,7 +24661,7 @@
 			<integer>2</integer>
 		</dict>
 		<string>{20, 20}</string>
-		<string>選択されたドキュメントを右に移動。</string>
+		<string>選択したドキュメントを右に移動</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -25012,7 +25013,7 @@
 			<key>NSSegmentItemWidth</key>
 			<real>32</real>
 		</dict>
-		<string>選択されたドキュメントを左に移動。</string>
+		<string>選択したドキュメントを左に移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25041,7 +25042,7 @@
 			<key>NSSegmentItemWidth</key>
 			<real>32</real>
 		</dict>
-		<string>選択されたドキュメントを右に移動。</string>
+		<string>選択したドキュメントを右に移動</string>
 		<string>moveLeftRightSegmentedControl</string>
 		<dict>
 			<key>$class</key>
@@ -25368,7 +25369,7 @@
 			<key>NSSegmentItemWidth</key>
 			<real>32</real>
 		</dict>
-		<string>選択されたドキュメントを上に移動。</string>
+		<string>選択したドキュメントを上に移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25397,7 +25398,7 @@
 			<key>NSSegmentItemWidth</key>
 			<real>32</real>
 		</dict>
-		<string>選択されたドキュメントを下に移動。</string>
+		<string>選択したドキュメントを下に移動</string>
 		<string>moveUpDownSegmentedControl</string>
 		<dict>
 			<key>$class</key>
@@ -27402,7 +27403,7 @@
 			</dict>
 		</dict>
 		<string>{{196, 408}, {420, 126}}</string>
-		<string>スナップショットを撮る</string>
+		<string>スナップショット作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28215,7 +28216,7 @@
 			</dict>
 		</dict>
 		<string>{{196, 438}, {211, 72}}</string>
-		<string>スナップショットを撮る</string>
+		<string>スナップショット作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28942,7 +28943,7 @@
 				<integer>1303</integer>
 			</dict>
 		</dict>
-		<string>新しい文書</string>
+		<string>新しいドキュメント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29160,7 +29161,7 @@
 				<integer>1314</integer>
 			</dict>
 		</dict>
-		<string>ウェブページをインポートしています...</string>
+		<string>Webページを読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29317,7 +29318,7 @@
 				<integer>1323</integer>
 			</dict>
 		</dict>
-		<string>Focus Off</string>
+		<string>フォーカスしない</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29392,7 +29393,7 @@
 				<integer>1326</integer>
 			</dict>
 		</dict>
-		<string>Focus Line</string>
+		<string>行にフォーカス</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29429,7 +29430,7 @@
 				<integer>1328</integer>
 			</dict>
 		</dict>
-		<string>Focus Sentence</string>
+		<string>文にフォーカス</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29466,7 +29467,7 @@
 				<integer>1330</integer>
 			</dict>
 		</dict>
-		<string>Focus Paragraph</string>
+		<string>段落にフォーカス</string>
 		<string>toolbarFocusModeMenu</string>
 		<dict>
 			<key>$class</key>
@@ -29592,7 +29593,7 @@
 				<integer>1336</integer>
 			</dict>
 		</dict>
-		<string>ファイルからの画像挿入</string>
+		<string>ファイルから画像挿入</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30496,7 +30497,7 @@
 				<integer>1382</integer>
 			</dict>
 		</dict>
-		<string>バインダーを表示</string>
+		<string>バインダを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32777,7 +32778,7 @@
 				<integer>1518</integer>
 			</dict>
 		</dict>
-		<string>バインダーセパレーターとして表示</string>
+		<string>バインダセパレーターとして表示</string>
 		<string>trashContextMenu</string>
 		<dict>
 			<key>$class</key>
@@ -34262,7 +34263,7 @@
 				<integer>1579</integer>
 			</dict>
 		</dict>
-		<string>概要</string>
+		<string>あらすじ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35132,7 +35133,7 @@
 				<integer>1623</integer>
 			</dict>
 		</dict>
-		<string>バインダー選択だけを検索</string>
+		<string>バインダ選択だけを検索</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35283,7 +35284,7 @@
 				<integer>1631</integer>
 			</dict>
 		</dict>
-		<string>"含まれる"文書を検索</string>
+		<string>"含まれる"ドキュメントを検索</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35341,7 +35342,7 @@
 				<integer>1634</integer>
 			</dict>
 		</dict>
-		<string>"除外"文書を検索</string>
+		<string>"除外"ドキュメントを検索</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35397,7 +35398,7 @@
 				<integer>1637</integer>
 			</dict>
 		</dict>
-		<string>大文字と小文字を区別</string>
+		<string>大文字・小文字を区別</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35453,7 +35454,7 @@
 				<integer>1640</integer>
 			</dict>
 		</dict>
-		<string>発音区別符を無視</string>
+		<string>アクセント記号を無視</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -41937,7 +41938,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>コレクションを削除します。</string>
+		<string>コレクションを削除</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -42015,7 +42016,7 @@
 				<integer>2096</integer>
 			</dict>
 		</dict>
-		<string>新しいドキュメントを作成します。</string>
+		<string>新しいドキュメントを作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -42038,7 +42039,7 @@
 				<integer>2098</integer>
 			</dict>
 		</dict>
-		<string>新しいフォルダを作成します。</string>
+		<string>新しいフォルダを作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -42061,7 +42062,7 @@
 				<integer>2100</integer>
 			</dict>
 		</dict>
-		<string>現在のエディターに現在のリストのコンテンツを表示します。</string>
+		<string>表示中のリストのコンテンツをエディタに表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -42084,7 +42085,7 @@
 				<integer>2102</integer>
 			</dict>
 		</dict>
-		<string>現在のコレクション、検索結果またはホイストグループを閉じ、完全なバインダーを表示します。</string>
+		<string>現在のコレクション、検索結果またはホイストグループを閉じ、完全なバインダを表示します。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -42107,7 +42108,7 @@
 				<integer>2104</integer>
 			</dict>
 		</dict>
-		<string>選択されたドキュメントから新しいコレクションを作成します（サブドキュメントを含むにはOpt-クリック）。</string>
+		<string>選択したドキュメントから新しいコレクションを作成（サブドキュメントを含むにはOpt-クリック）。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -42130,7 +42131,7 @@
 				<integer>2106</integer>
 			</dict>
 		</dict>
-		<string>選択されたドキュメントをコレクションから削除</string>
+		<string>選択したドキュメントをコレクションから削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54243,7 +54244,7 @@
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>新しいドキュメントを追加します。</string>
+		<string>新しいドキュメントを追加</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -54284,7 +54285,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいフォルダを追加します。</string>
+		<string>新しいフォルダを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54316,7 +54317,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>文脈メニューを表示します。</string>
+		<string>文脈メニューを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54412,7 +54413,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>バインダーに戻ります。</string>
+		<string>バインダに戻る</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54476,7 +54477,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>現在のコレクションを削除します。</string>
+		<string>現在のコレクションを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54508,7 +54509,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいコレクションを追加します。</string>
+		<string>新しいコレクションを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54540,7 +54541,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたドキュメントをコレクションから削除</string>
+		<string>選択したドキュメントをコレクションから削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54572,7 +54573,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>別の検索を行うか、現在のホイストグループをエディタで開きます。</string>
+		<string>別の検索を行うか、現在のホイストグループをエディタで開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -54732,7 +54733,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>エディターでコンテンツを表示。</string>
+		<string>エディタでコンテンツを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>

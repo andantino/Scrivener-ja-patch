@@ -1013,7 +1013,7 @@
 				<integer>48</integer>
 			</dict>
 		</dict>
-		<string>プリファレンスパネルからいつでもこの設定を変更できます（"Scrivener"メニューから利用可能）。</string>
+		<string>環境設定パネルからいつでもこの設定を変更できます（"Scrivener"メニューから利用可能）。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1181,7 +1181,8 @@
 			<integer>1044</integer>
 		</dict>
 		<string></string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$classes</key>
 			<array>

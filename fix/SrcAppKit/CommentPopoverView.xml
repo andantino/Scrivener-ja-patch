@@ -3641,7 +3641,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>このコメントまたは脚注を削除します。</string>
+		<string>このコメントまたは脚注を削除</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -3673,7 +3673,7 @@
 				<integer>183</integer>
 			</dict>
 		</dict>
-		<string>前のコメントまたは脚注。</string>
+		<string>前のコメントまたは脚注</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3696,7 +3696,7 @@
 				<integer>185</integer>
 			</dict>
 		</dict>
-		<string>次のコメントまたは脚注。</string>
+		<string>次のコメントまたは脚注</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4668,7 +4668,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>次のコメントまたは脚注に進みます。</string>
+		<string>次のコメントまたは脚注に進む</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -4709,7 +4709,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたコメントまたは脚注を削除します。</string>
+		<string>選択したコメントまたは脚注を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4741,7 +4741,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>前のコメントまたは脚注に進みます。</string>
+		<string>前のコメントまたは脚注に進む</string>
 		<dict>
 			<key>$class</key>
 			<dict>

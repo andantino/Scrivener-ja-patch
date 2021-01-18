@@ -1519,7 +1519,7 @@
 			<key>NSTag</key>
 			<integer>1</integer>
 		</dict>
-		<string>バックドロップがありません</string>
+		<string>背景なし</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3156,7 +3156,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<string>chooseBackdropButton</string>
 		<dict>
 			<key>$class</key>
@@ -3323,7 +3323,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<string>chooseBackupLocationButton</string>
 		<dict>
 			<key>$class</key>
@@ -3478,7 +3478,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>選択します...</string>
+		<string>選択...</string>
 		<string>chooseCorkboardBackgroundButton</string>
 		<dict>
 			<key>$class</key>
@@ -4664,7 +4664,7 @@
 			<key>NSTag</key>
 			<integer>1</integer>
 		</dict>
-		<string>デフォルトのバックグラウンドを使用</string>
+		<string>デフォルトの背景を使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18909,7 +18909,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>ダブルクリックして色を編集します。</string>
+		<string>ダブルクリックして色を編集</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23177,7 +23177,7 @@
 			<integer>274</integer>
 		</dict>
 		<string>{501, 341}</string>
-		<string>オートコンプリート</string>
+		<string>自動補完</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23384,7 +23384,7 @@
 				<integer>91</integer>
 			</dict>
 		</dict>
-		<string>構成モードバックドロップ：</string>
+		<string>組版モード背景：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23500,7 +23500,7 @@
 				<integer>91</integer>
 			</dict>
 		</dict>
-		<string>フリーフォームコルクボードモードバックグラウンド：</string>
+		<string>フリーフォームコルクボードモード背景：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23787,7 +23787,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>（プリファレンスから設定）</string>
+		<string>（環境設定から設定）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23908,7 +23908,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>バックドロップはページレイアウトモードでは表示されません。</string>
+		<string>背景はページレイアウトモードでは表示されません。</string>
 		<string>{513, 408}</string>
 		<dict>
 			<key>$class</key>
@@ -25149,7 +25149,7 @@
 			<key>NSShouldBeArchived</key>
 			<true/>
 		</dict>
-		<string>バックドロップ</string>
+		<string>背景</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25480,7 +25480,7 @@
 				<integer>36</integer>
 			</dict>
 		</dict>
-		<string>テンプレートフォルダーがありません</string>
+		<string>テンプレートフォルダがありません</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25662,7 +25662,7 @@
 				<integer>91</integer>
 			</dict>
 		</dict>
-		<string>テンプレートフォルダー：</string>
+		<string>テンプレートフォルダ：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25783,7 +25783,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>テンプレートフォルダー内のドキュメントは、プロジェクト &gt; テンプレートから新しく開くを使って新規ドキュメントの基本として使用できます。テンプレートから新しく開くメニューでアイテムを選択すると、選択されたテンプレートドキュメントのコピーが作成され、新規ドキュメントのようにプロジェクトに挿入されます。</string>
+		<string>テンプレートフォルダ内のドキュメントは、プロジェクト &gt; テンプレートから新しく開くを使って新規ドキュメントの基本として使用できます。テンプレートから新しく開くメニューでアイテムを選択すると、選択したテンプレートドキュメントのコピーが作成され、新規ドキュメントのようにプロジェクトに挿入されます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -26205,7 +26205,7 @@
 				<integer>91</integer>
 			</dict>
 		</dict>
-		<string>デフォルトの新規ブックマークフォルダー：</string>
+		<string>デフォルトの新規ブックマークフォルダ：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -26326,7 +26326,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>Quick Referenceパネルのプロジェクトブックマークペインで作成された新規ドキュメントは、デフォルトでこのフォルダー内に入れられます。</string>
+		<string>Quick Referenceパネルのプロジェクトブックマークペインで作成された新規ドキュメントは、デフォルトでこのフォルダ内に入れられます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27975,7 +27975,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>このプロジェクトのカスタムバックアップフォルダーを使用：</string>
+		<string>このプロジェクトのカスタムバックアップフォルダを使用：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28113,7 +28113,7 @@
 				<integer>90</integer>
 			</dict>
 		</dict>
-		<string>バックアップフォルダーを開きます...</string>
+		<string>バックアップフォルダを開く...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28366,7 +28366,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>（これらのオプションを使用する場合、自動バックアップはプリファレンスでオンにされる必要があります）</string>
+		<string>（これらのオプションを使用する場合、自動バックアップを環境設定で有効にする必要があります）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28661,7 +28661,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>バックアッププリファレンスを開きます...</string>
+		<string>バックアップ環境設定を開く...</string>
 		<string>{513, 408}</string>
 		<dict>
 			<key>$class</key>
@@ -29614,7 +29614,7 @@
 			<key>NSShouldBeArchived</key>
 			<true/>
 		</dict>
-		<string>Backup</string>
+		<string>バックアップ</string>
 		<string>tabView</string>
 		<dict>
 			<key>$class</key>
@@ -29979,7 +29979,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34241,7 +34242,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>新しいステータスを追加します。</string>
+		<string>新しいステータスを追加</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -34273,7 +34274,7 @@
 				<integer>1334</integer>
 			</dict>
 		</dict>
-		<string>新しいメタデータフィールドを追加します。</string>
+		<string>新しいメタデータフィールドを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34296,7 +34297,7 @@
 				<integer>1336</integer>
 			</dict>
 		</dict>
-		<string>新しいラベルを追加します。</string>
+		<string>新しいラベルを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34319,7 +34320,7 @@
 				<integer>1338</integer>
 			</dict>
 		</dict>
-		<string>新しいリストオプションを追加します。</string>
+		<string>新しいリストオプションを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34342,7 +34343,7 @@
 				<integer>1340</integer>
 			</dict>
 		</dict>
-		<string>日付形式パターンを表示するUnicode Standardウェブページを開きます。</string>
+		<string>日付形式を表示するUnicode Standard Webページを開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34365,7 +34366,7 @@
 				<integer>1342</integer>
 			</dict>
 		</dict>
-		<string>選択されたメタデータフィールドを削除します。</string>
+		<string>選択したメタデータフィールドを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34388,7 +34389,7 @@
 				<integer>1344</integer>
 			</dict>
 		</dict>
-		<string>選択されたラベルを削除します。</string>
+		<string>選択したラベルを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34411,7 +34412,7 @@
 				<integer>1346</integer>
 			</dict>
 		</dict>
-		<string>選択されたリスト項目を削除します。</string>
+		<string>選択したリスト項目を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34434,7 +34435,7 @@
 				<integer>1348</integer>
 			</dict>
 		</dict>
-		<string>選択したステータス項目を削除します。</string>
+		<string>選択したステータス項目を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46291,7 +46292,7 @@
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>新しいラベルを追加します。</string>
+		<string>新しいラベルを追加</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -46332,7 +46333,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたラベルを削除します。</string>
+		<string>選択したラベルを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46364,7 +46365,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいステータスを追加します。</string>
+		<string>新しいステータスを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46396,7 +46397,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択したステータス項目を削除します。</string>
+		<string>選択したステータス項目を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46428,7 +46429,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたメタデータフィールドを削除します。</string>
+		<string>選択したメタデータフィールドを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46460,7 +46461,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいメタデータフィールドを追加します。</string>
+		<string>新しいメタデータフィールドを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46492,7 +46493,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたリスト項目を削除します。</string>
+		<string>選択したリスト項目を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -46524,7 +46525,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>新しいリストオプションを追加します。</string>
+		<string>新しいリストオプションを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>

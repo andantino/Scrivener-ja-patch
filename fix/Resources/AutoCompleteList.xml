@@ -995,7 +995,7 @@
 				<integer>58</integer>
 			</dict>
 		</dict>
-		<string>複数単語</string>
+		<string>単語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2918,7 +2918,7 @@
 				<integer>152</integer>
 			</dict>
 		</dict>
-		<string>「範囲」は単語がスクリプトモードか一般（非スクリプト）モード、またはその両方で使用されるかどうかを決定。</string>
+		<string>「範囲」は単語が脚本モードか一般（脚本以外）モード、またはその両方で使用されるかどうかを決定。</string>
 		<dict>
 			<key>$class</key>
 			<dict>

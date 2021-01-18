@@ -3579,7 +3579,7 @@
 				<integer>158</integer>
 			</dict>
 		</dict>
-		<string>ウェブ/ファイルリンク</string>
+		<string>Web/ファイルリンク</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6107,7 +6107,8 @@
 			</dict>
 		</dict>
 		<string>次へ</string>
-		<string></string>
+		<string>
+</string>
 		<string>findNextButton</string>
 		<dict>
 			<key>$class</key>
@@ -7788,7 +7789,7 @@
 				<integer>87</integer>
 			</dict>
 		</dict>
-		<string>すべての文書</string>
+		<string>すべてのドキュメント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8576,7 +8577,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>Scrivenerリンクのテキストを、リンクされた文書のタイトルに置き換えます。</string>
+		<string>Scrivenerリンクのテキストを、リンクされたドキュメントのタイトルに置き換えます。</string>
 		<dict>
 			<key>$classes</key>
 			<array>

@@ -909,7 +909,7 @@
 				<integer>38</integer>
 			</dict>
 		</dict>
-		<string>ウェブページをロード</string>
+		<string>Webページを読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4212,7 +4212,7 @@
 				<integer>284</integer>
 			</dict>
 		</dict>
-		<string>ズーム先：</string>
+		<string>ズーム倍率：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4365,7 +4365,8 @@
 			</dict>
 		</dict>
 		<string>拡大/縮小</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>

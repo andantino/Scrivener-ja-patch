@@ -2426,7 +2426,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2547,7 +2548,7 @@
 				<integer>49</integer>
 			</dict>
 		</dict>
-		<string>インポートされた名前リストについて次の詳細を提供してください：</string>
+		<string>読み込まれた名前リストについて次の詳細を提供してください：</string>
 		<string>{334, 199}</string>
 		<dict>
 			<key>$class</key>
@@ -3717,7 +3718,7 @@
 				<integer>73</integer>
 			</dict>
 		</dict>
-		<string>姓を設定：</string>
+		<string>次で指定する姓：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3792,7 +3793,7 @@
 				<integer>162</integer>
 			</dict>
 		</dict>
-		<string>姓の始め：</string>
+		<string>次で始まる姓：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3841,7 +3842,7 @@
 				<integer>164</integer>
 			</dict>
 		</dict>
-		<string>姓の最後：</string>
+		<string>次で終わる姓：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4213,7 +4214,7 @@
 				<integer>73</integer>
 			</dict>
 		</dict>
-		<string>名前の設定：</string>
+		<string>次で指定する名：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4288,7 +4289,7 @@
 				<integer>179</integer>
 			</dict>
 		</dict>
-		<string>名前の始め：</string>
+		<string>次で始まる名：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4337,7 +4338,7 @@
 				<integer>181</integer>
 			</dict>
 		</dict>
-		<string>名前の最後：</string>
+		<string>次で終わる名：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4386,7 +4387,7 @@
 				<integer>183</integer>
 			</dict>
 		</dict>
-		<string>次を含む名前：</string>
+		<string>次を含む名：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4646,7 +4647,7 @@
 				<integer>40</integer>
 			</dict>
 		</dict>
-		<string>頭韻の試行</string>
+		<string>頭韻</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -4996,7 +4997,7 @@
 			<key>NSTag</key>
 			<integer>2</integer>
 		</dict>
-		<string>どちらか</string>
+		<string>どちらでも</string>
 		<string>{133, 18}</string>
 		<string>{4, 2}</string>
 		<string>NSActionCell</string>
@@ -5312,7 +5313,7 @@
 				<integer>40</integer>
 			</dict>
 		</dict>
-		<string>二連式姓</string>
+		<string>二重姓</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5450,7 +5451,7 @@
 				<integer>40</integer>
 			</dict>
 		</dict>
-		<string>名はイニシャルだけを使用</string>
+		<string>名はイニシャルのみ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6818,7 +6819,7 @@
 				<integer>279</integer>
 			</dict>
 		</dict>
-		<string>含む</string>
+		<string>使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7998,7 +7999,7 @@
 				<integer>49</integer>
 			</dict>
 		</dict>
-		<string>曖昧さのレベル</string>
+		<string>難解さのレベル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8539,7 +8540,7 @@
 				<integer>49</integer>
 			</dict>
 		</dict>
-		<string>名前作成に含む名前リスト：</string>
+		<string>使用する名前リスト：</string>
 		<string>{{393, 0}, {295, 488}}</string>
 		<dict>
 			<key>$class</key>
@@ -13960,7 +13961,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>カスタム名前リストを削除します。</string>
+		<string>カスタム名前リストを削除</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -13992,7 +13993,7 @@
 				<integer>586</integer>
 			</dict>
 		</dict>
-		<string>カスタム名前リストを追加します。</string>
+		<string>カスタム名前リストを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14528,7 +14529,7 @@
 			</array>
 		</dict>
 		<string>NSDisplayPattern</string>
-		<string>%{Value1}@ 名を作成</string>
+		<string>%{value1}@人分の名前を作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18687,7 +18688,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>カスタム名前リストを追加します。</string>
+		<string>カスタム名前リストを追加</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -18728,7 +18729,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>カスタム名前リストを削除します。</string>
+		<string>カスタム名前リストを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>

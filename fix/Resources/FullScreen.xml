@@ -3326,7 +3326,7 @@
 				<integer>126</integer>
 			</dict>
 		</dict>
-		<string>バックグラウンドフェード</string>
+		<string>背景フェード</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5931,7 +5931,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>Typewriter</string>
+		<string>タイプライター</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6759,7 +6759,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>Focus</string>
+		<string>フォーカス</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9334,7 +9334,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>テキストスケール</string>
+		<string>テキスト表示倍率</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9961,7 +9961,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>複数単語：0    文字：0</string>
+		<string>単語：0    文字：0</string>
 		<string>{223, 56}</string>
 		<dict>
 			<key>$classes</key>
@@ -10348,7 +10348,7 @@
 				<integer>152</integer>
 			</dict>
 		</dict>
-		<string>シーンヘッディング</string>
+		<string>シーン頭書き</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10590,7 +10590,7 @@
 				<integer>459</integer>
 			</dict>
 		</dict>
-		<string>ダイアログ</string>
+		<string>台詞</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11031,7 +11031,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>スクリーンプレイ要素</string>
+		<string>映画シナリオ要素</string>
 		<string>{223, 56}</string>
 		<string>表示</string>
 		<dict>
@@ -13544,7 +13544,7 @@
 				<integer>588</integer>
 			</dict>
 		</dict>
-		<string>文書に移動</string>
+		<string>ドキュメントに移動</string>
 		<string>goToMenu</string>
 		<dict>
 			<key>$class</key>
@@ -16841,7 +16841,7 @@
 				<integer>152</integer>
 			</dict>
 		</dict>
-		<string>概要と注釈</string>
+		<string>あらすじと注釈</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20170,7 +20170,7 @@
 			</dict>
 		</dict>
 		<string>{{558, 484}, {227, 130}}</string>
-		<string>テキストをロードしています...</string>
+		<string>テキストを読み込み中...</string>
 		<string>KBPopoverPanel</string>
 		<string>{200, 100}</string>
 		<dict>
@@ -20922,7 +20922,7 @@
 			</dict>
 		</dict>
 		<string>{{214, 285}, {790, 472}}</string>
-		<string>フルスクリーンウィンドウ</string>
+		<string>フルスクリーンウインドウ</string>
 		<string>KBFullScreenWindow</string>
 		<string>{213, 107}</string>
 		<string>KBFullScreenContentView</string>
@@ -22129,7 +22129,7 @@
 				<integer>72</integer>
 			</dict>
 		</dict>
-		<string>ズーム先：</string>
+		<string>ズーム倍率：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22257,7 +22257,8 @@
 			</dict>
 		</dict>
 		<string>拡大/縮小</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24017,7 +24018,7 @@
 				<integer>1140</integer>
 			</dict>
 		</dict>
-		<string>Focus Off</string>
+		<string>フォーカスしない</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24092,7 +24093,7 @@
 				<integer>1143</integer>
 			</dict>
 		</dict>
-		<string>Focus Line</string>
+		<string>行にフォーカス</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24129,7 +24130,7 @@
 				<integer>1145</integer>
 			</dict>
 		</dict>
-		<string>Focus Sentence</string>
+		<string>文にフォーカス</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24166,7 +24167,7 @@
 				<integer>1147</integer>
 			</dict>
 		</dict>
-		<string>Focus Paragraph</string>
+		<string>段落にフォーカス</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25137,7 +25138,7 @@
 				<integer>1229</integer>
 			</dict>
 		</dict>
-		<string>インスペクタパネルを表示/隠します。</string>
+		<string>インスペクタパネルを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25206,7 +25207,7 @@
 				<integer>1235</integer>
 			</dict>
 		</dict>
-		<string>オプションを押し下げ、紙の高さを変更。</string>
+		<string>オプションを押し下げ、紙の高さを変更</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25229,7 +25230,7 @@
 				<integer>1237</integer>
 			</dict>
 		</dict>
-		<string>オプションを押し下げ、紙の高さを変更。</string>
+		<string>オプションを押し下げ、紙の高さを変更</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25252,7 +25253,7 @@
 				<integer>1239</integer>
 			</dict>
 		</dict>
-		<string>キーワードを追加します。</string>
+		<string>キーワードを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25275,7 +25276,7 @@
 				<integer>1241</integer>
 			</dict>
 		</dict>
-		<string>キーワードパネルを表示/隠します。</string>
+		<string>キーワードパネルを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25298,7 +25299,7 @@
 				<integer>1243</integer>
 			</dict>
 		</dict>
-		<string>コメントを追加します。</string>
+		<string>コメントを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25321,7 +25322,7 @@
 				<integer>1245</integer>
 			</dict>
 		</dict>
-		<string>テキストスケールを変更します。</string>
+		<string>テキスト表示倍率を変更</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25344,7 +25345,7 @@
 				<integer>1247</integer>
 			</dict>
 		</dict>
-		<string>ブックマークのオプション。</string>
+		<string>ブックマークのオプション</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25367,7 +25368,7 @@
 				<integer>1249</integer>
 			</dict>
 		</dict>
-		<string>作成モードを終了します。</string>
+		<string>組版モードを終了</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25390,7 +25391,7 @@
 				<integer>1251</integer>
 			</dict>
 		</dict>
-		<string>次の文書に移動。</string>
+		<string>次のドキュメントに移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25413,7 +25414,7 @@
 				<integer>1253</integer>
 			</dict>
 		</dict>
-		<string>脚注を追加します。</string>
+		<string>脚注を追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25436,7 +25437,7 @@
 				<integer>1255</integer>
 			</dict>
 		</dict>
-		<string>選択されたブックマークを削除します。</string>
+		<string>選択したブックマークを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25459,7 +25460,7 @@
 				<integer>1257</integer>
 			</dict>
 		</dict>
-		<string>選択したキーワードを削除。</string>
+		<string>選択したキーワードを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25482,7 +25483,7 @@
 				<integer>1259</integer>
 			</dict>
 		</dict>
-		<string>選択したコメントまたは脚注を削除。</string>
+		<string>選択したコメントまたは脚注を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31976,7 +31977,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>テキストスケールを変更します。</string>
+		<string>テキスト表示倍率を変更</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -32017,7 +32018,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>キーワードパネルを表示、または隠します。</string>
+		<string>キーワードパネルを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32049,7 +32050,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>バックグラウンドをフェイドアウトさせます。</string>
+		<string>背景をフェイドアウト</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32081,7 +32082,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>バックグランドを不透明にします。</string>
+		<string>バックグランドを不透明</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32113,7 +32114,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>インスペクタパネルを表示、または隠します。</string>
+		<string>インスペクタパネルを表示/非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32145,7 +32146,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>作成モードを終了します。</string>
+		<string>組版モードを終了</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32177,7 +32178,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>表示するサポート情報またはメタデータを選択。</string>
+		<string>表示するサポート情報またはメタデータを選択</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32209,7 +32210,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>キーワードを追加します。</string>
+		<string>キーワードを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32241,7 +32242,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択したキーワードを削除。</string>
+		<string>選択したキーワードを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32273,7 +32274,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>その他のキーワードオプションを表示します。</string>
+		<string>その他のキーワードオプションを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32305,7 +32306,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択したコメントまたは脚注を削除。</string>
+		<string>選択したコメントまたは脚注を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32337,7 +32338,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>脚注を追加します。</string>
+		<string>脚注を追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32369,7 +32370,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>コメントを追加します。</string>
+		<string>コメントを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32401,7 +32402,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>メニューから1つを選択して別の文書に移動。</string>
+		<string>メニューから1つを選択して別のドキュメントに移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32433,7 +32434,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択されたブックマークを削除します。</string>
+		<string>選択したブックマークを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32497,7 +32498,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>ブックマークオプションを表示します。</string>
+		<string>ブックマークオプションを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>

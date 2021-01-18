@@ -1435,7 +1435,7 @@
 		<string>decimalSeparator</string>
 		<string>negativeInfinitySymbol</string>
 		<string>formatterBehavior</string>
-		<string>#,##0 words</string>
+		<string>#,##0 語</string>
 		<string>,</string>
 		<dict>
 			<key>$class</key>
@@ -1738,7 +1738,7 @@
 		</dict>
 		<true/>
 		<string>+∞</string>
-		<string>-#,##0 words</string>
+		<string>-#,##0 語</string>
 		<string></string>
 		<string>.</string>
 		<string>-∞</string>
@@ -6954,7 +6954,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>#,##0 words</string>
+		<string>#,##0 語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6973,7 +6973,7 @@
 			</dict>
 		</dict>
 		<string>+∞</string>
-		<string>-#,##0 words</string>
+		<string>-#,##0 語</string>
 		<string>-∞</string>
 		<dict>
 			<key>$class</key>
@@ -7432,7 +7432,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>#,##0 words</string>
+		<string>#,##0 語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7451,7 +7451,7 @@
 			</dict>
 		</dict>
 		<string>+∞</string>
-		<string>-#,##0 words</string>
+		<string>-#,##0 語</string>
 		<string>-∞</string>
 		<dict>
 			<key>$class</key>
@@ -10004,7 +10004,7 @@
 		<string>Frequency</string>
 		<string>wordFrequencyArray.Word</string>
 		<string>frequency</string>
-		<string>words</string>
+		<string>語</string>
 		<string>NSDictionary</string>
 		<dict>
 			<key>$class</key>
@@ -11144,7 +11144,7 @@
 				<integer>95</integer>
 			</dict>
 		</dict>
-		<string>デフォルト設定では、単語頻度リストは使用されている単語全てのリストを表示します。下のフィールドを使って、単語頻度カウントから省略したい単語リストー行ごとに1つーを作成します （例： "the" および "and"のような共通の単語を無視したいと考える場合）。このリストは全てのプロジェクトで使用されます。</string>
+		<string>デフォルト設定では、頻出単語リストは使用されている単語全てのリストを表示します。下のフィールドを使って、頻出単語カウントから省略したい単語リストー行ごとに1つーを作成します （例： "the" および "and"のような共通の単語を無視したいと考える場合）。このリストは全てのプロジェクトで使用されます。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12326,7 +12326,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13322,7 +13323,7 @@
 				<integer>552</integer>
 			</dict>
 		</dict>
-		<string>複数単語</string>
+		<string>単語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14073,7 +14074,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>#,##0 words</string>
+		<string>#,##0 語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14092,7 +14093,7 @@
 			</dict>
 		</dict>
 		<string>+∞</string>
-		<string>-#,##0 words</string>
+		<string>-#,##0 語</string>
 		<string>-∞</string>
 		<dict>
 			<key>$class</key>
@@ -18104,7 +18105,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>#,##0 words</string>
+		<string>#,##0 語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18123,7 +18124,7 @@
 			</dict>
 		</dict>
 		<string>+∞</string>
-		<string>-#,##0 words</string>
+		<string>-#,##0 語</string>
 		<string>-∞</string>
 		<dict>
 			<key>$class</key>
@@ -18500,7 +18501,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>#,##0 words</string>
+		<string>#,##0 語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18519,7 +18520,7 @@
 			</dict>
 		</dict>
 		<string>+∞</string>
-		<string>-#,##0 words</string>
+		<string>-#,##0 語</string>
 		<string>-∞</string>
 		<dict>
 			<key>$class</key>
@@ -21838,7 +21839,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>複数単語：</string>
+		<string>単語：</string>
 		<string>{{14, 473}, {176, 14}}</string>
 		<dict>
 			<key>$class</key>
@@ -21880,7 +21881,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>文字:</string>
+		<string>文字：</string>
 		<string>{{14, 243}, {176, 14}}</string>
 		<dict>
 			<key>$class</key>
@@ -21964,7 +21965,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>文字（スペースなし）：</string>
+		<string>文字（空白を除く）：</string>
 		<string>{{14, 333}, {176, 14}}</string>
 		<dict>
 			<key>$class</key>
@@ -22048,7 +22049,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>Average document length:</string>
+		<string>ドキュメントの平均長:</string>
 		<string>{{14, 293}, {176, 14}}</string>
 		<dict>
 			<key>$class</key>
@@ -22090,7 +22091,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>Longest document:</string>
+		<string>最長ドキュメント:</string>
 		<string>{{14, 423}, {176, 14}}</string>
 		<dict>
 			<key>$class</key>
@@ -22548,7 +22549,7 @@
 				<integer>43</integer>
 			</dict>
 		</dict>
-		<string>単語頻度</string>
+		<string>頻出単語</string>
 		<string>{{14, 273}, {176, 14}}</string>
 		<dict>
 			<key>$class</key>
@@ -22590,7 +22591,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>Shortest document:</string>
+		<string>最短ドキュメント:</string>
 		<string>{{10, 29}, {382, 515}}</string>
 		<string>{{13, 36}, {402, 557}}</string>
 		<dict>
@@ -22938,7 +22939,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>複数単語：</string>
+		<string>単語：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23052,7 +23053,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>文字:</string>
+		<string>文字：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23394,7 +23395,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>文字（スペースなし）：</string>
+		<string>文字（空白を除く）：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24366,7 +24367,7 @@
 				<integer>43</integer>
 			</dict>
 		</dict>
-		<string>単語頻度</string>
+		<string>頻出単語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24480,7 +24481,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>Average document length:</string>
+		<string>ドキュメントの平均長:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24594,7 +24595,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>Longest document:</string>
+		<string>最長ドキュメント:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -24708,9 +24709,9 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>Shortest document:</string>
+		<string>最短ドキュメント:</string>
 		<string>{{10, 25}, {382, 519}}</string>
-		<string>選択されたドキュメント</string>
+		<string>選択したドキュメント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25286,7 +25287,7 @@
 				<integer>95</integer>
 			</dict>
 		</dict>
-		<string>単語頻度のオプション</string>
+		<string>頻出単語のオプション</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25547,7 +25548,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>無視する単語のリストを設定する...</string>
+		<string>無視する単語のリストを設定...</string>
 		<dict>
 			<key>$class</key>
 			<dict>

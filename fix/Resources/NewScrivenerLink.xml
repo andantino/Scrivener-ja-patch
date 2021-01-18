@@ -1786,7 +1786,7 @@
 				<integer>86</integer>
 			</dict>
 		</dict>
-		<string>新規ドキュメントとリンクを作成します。</string>
+		<string>新規ドキュメントとリンクを作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2771,7 +2771,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>

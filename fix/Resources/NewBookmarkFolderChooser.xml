@@ -1573,7 +1573,7 @@
 				<integer>80</integer>
 			</dict>
 		</dict>
-		<string>新規ドキュメントが作成され、プロジェクトブックマークに追加されます。このドキュメントがバインダー内で保存されるべき場所を選択してください。</string>
+		<string>新規ドキュメントが作成され、プロジェクトブックマークに追加されます。このドキュメントがバインダ内で保存されるべき場所を選択してください。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1926,7 +1926,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>

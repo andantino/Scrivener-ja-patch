@@ -3050,7 +3050,7 @@
 				<integer>145</integer>
 			</dict>
 		</dict>
-		<string>コメントと注釈を含む</string>
+		<string>コメントと注釈を含める</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3266,7 +3266,7 @@
 				<integer>145</integer>
 			</dict>
 		</dict>
-		<string>脚注を含む</string>
+		<string>脚注を含める</string>
 		<string>popoverIncludeFootnotesButton</string>
 		<dict>
 			<key>$class</key>
@@ -6510,7 +6510,7 @@
 				<integer>94</integer>
 			</dict>
 		</dict>
-		<string>文字（スペースなし）：</string>
+		<string>文字（空白を除く）：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6622,7 +6622,7 @@
 				<integer>94</integer>
 			</dict>
 		</dict>
-		<string>文字:</string>
+		<string>文字：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6734,7 +6734,7 @@
 				<integer>94</integer>
 			</dict>
 		</dict>
-		<string>複数単語：</string>
+		<string>単語：</string>
 		<string>{317, 263}</string>
 		<string>NSView</string>
 		<dict>

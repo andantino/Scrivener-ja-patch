@@ -1269,7 +1269,7 @@
 				<integer>68</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダーに表示</string>
+		<string>コピーホルダに表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1304,7 +1304,7 @@
 				<integer>70</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダーに変更を表示</string>
+		<string>コピーホルダに変更を表示</string>
 		<string>contextMenu</string>
 		<dict>
 			<key>$class</key>
@@ -6771,7 +6771,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>比較精度を変更します。</string>
+		<string>比較精度を変更</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -6803,7 +6803,7 @@
 				<integer>359</integer>
 			</dict>
 		</dict>
-		<string>現在のドキュメントを選択したスナップショットにロールバックします。</string>
+		<string>現在のドキュメントを選択したスナップショットにロールバック</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6826,7 +6826,7 @@
 				<integer>361</integer>
 			</dict>
 		</dict>
-		<string>選択されたスナップショットをドキュメントのアクティブバージョンと比較するか、2つの選択されたスナップショットを比較します。（スナップショットをエディターのヘッダーバーにOpt-ドラッグし、主要エディタで比較を表示します。）</string>
+		<string>選択したスナップショットをドキュメントのアクティブバージョンと比較するか、選択した2つのスナップショットを比較します。（スナップショットをエディタのヘッダバーにOpt-ドラッグし、主要エディタで比較を表示します。）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8453,7 +8453,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>比較精度を変更します。</string>
+		<string>比較精度を変更</string>
 		<dict>
 			<key>$classes</key>
 			<array>

@@ -3407,7 +3407,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6745,7 +6746,7 @@
 				<integer>129</integer>
 			</dict>
 		</dict>
-		<string>インポートされたスタイルでアップデートしますか？それとも既存のスタイルを保持しますか？</string>
+		<string>読み込まれたスタイルでアップデートしますか？それとも既存のスタイルを保持しますか？</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7684,7 +7685,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>インポートされたスタイルを追加</string>
+		<string>読み込まれたスタイルを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7927,9 +7928,9 @@
 			</dict>
 		</dict>
 		<string>下記のオプションは次の効果があります:
-既存のスタイルを保持：上記のスタイルはインポートされません。
+既存のスタイルを保持：上記のスタイルは読み込まれません。
 既存のスタイルの置換：上記のスタイルはプロジェクト内のスタイルを置換、テキストをアップデートします。
-インポートされたスタイルを追加：上記のスタイルは既存のスタイルを置き換えることなくプロジェクトに追加されます。</string>
+読み込まれたスタイルを追加：上記のスタイルは既存のスタイルを置き換えることなくプロジェクトに追加されます。</string>
 		<string>{608, 433}</string>
 		<string>{{0, 0}, {2560, 1415}}</string>
 		<string>importStylesSheet</string>
@@ -8504,7 +8505,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>インポートされたスタイルがあるプロジェクトのスタイルを置き換えます。</string>
+		<string>読み込まれたスタイルがあるプロジェクトのスタイルを置き換えます。</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -8536,7 +8537,7 @@
 				<integer>409</integer>
 			</dict>
 		</dict>
-		<string>インポートされたスタイルを既存のスタイルを置き換えることなく追加します。</string>
+		<string>読み込まれたスタイルを既存のスタイルを置き換えることなく追加します。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8559,7 +8560,7 @@
 				<integer>411</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトに存在するスタイルをインポートしないでください。</string>
+		<string>プロジェクトに存在するスタイルを読み込まないでください。</string>
 		<dict>
 			<key>$class</key>
 			<dict>

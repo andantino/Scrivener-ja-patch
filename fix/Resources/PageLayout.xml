@@ -9368,7 +9368,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>概要</string>
+		<string>あらすじ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9868,7 +9868,7 @@
 				<integer>323</integer>
 			</dict>
 		</dict>
-		<string>ヘッダー：</string>
+		<string>ヘッダ：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15366,7 +15366,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>概要</string>
+		<string>あらすじ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -19099,7 +19099,7 @@
 				<integer>74</integer>
 			</dict>
 		</dict>
-		<string>ウェブページ</string>
+		<string>Webページ</string>
 		<dict>
 			<key>$class</key>
 			<dict>

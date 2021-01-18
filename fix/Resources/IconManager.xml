@@ -3873,7 +3873,8 @@
 			<key>NSfFlags</key>
 			<integer>1044</integer>
 		</dict>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -5653,7 +5654,7 @@
 				<integer>171</integer>
 			</dict>
 		</dict>
-		<string>（ScrivenerのApplication Supportフォルダに保存されているアイコン。）</string>
+		<string>（ScrivenerのApplication Supportフォルダに保存されているアイコン）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7263,7 +7264,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>アイコンをコンピュータから削除。</string>
+		<string>アイコンをコンピュータから削除</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -7295,7 +7296,7 @@
 				<integer>343</integer>
 			</dict>
 		</dict>
-		<string>アイコンをプロジェクトから削除。</string>
+		<string>アイコンをプロジェクトから削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7318,7 +7319,7 @@
 				<integer>345</integer>
 			</dict>
 		</dict>
-		<string>コンピュータにアイコンを追加。</string>
+		<string>コンピュータにアイコンを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7341,7 +7342,7 @@
 				<integer>347</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトにアイコンを追加。</string>
+		<string>プロジェクトにアイコンを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9382,7 +9383,7 @@
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>プロジェクトにアイコンを追加。</string>
+		<string>プロジェクトにアイコンを追加</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -9423,7 +9424,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択したアイコンをプロジェクトから削除。</string>
+		<string>選択したアイコンをプロジェクトから削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9455,7 +9456,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>コンピュータにアイコンを追加。</string>
+		<string>コンピュータにアイコンを追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9487,7 +9488,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>選択したアイコンをコンピュータから削除。</string>
+		<string>選択したアイコンをコンピュータから削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>

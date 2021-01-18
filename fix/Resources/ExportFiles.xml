@@ -1104,7 +1104,7 @@
 				<integer>32</integer>
 			</dict>
 		</dict>
-		<string>選択されたドキュメントのみ</string>
+		<string>選択したドキュメントのみ</string>
 		<string>exportAnnotationsSelectedOnlyButton</string>
 		<dict>
 			<key>$class</key>
@@ -2215,7 +2215,7 @@
 				<integer>95</integer>
 			</dict>
 		</dict>
-		<string>情報をエクスポート</string>
+		<string>情報を保存</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2612,7 +2612,7 @@
 				<integer>108</integer>
 			</dict>
 		</dict>
-		<string>非テキストファイルは元の形式でエクスポートされる。</string>
+		<string>非テキストファイルは元の形式で保存</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2786,7 +2786,7 @@
 			</dict>
 		</dict>
 		<string>{{241, 252}, {426, 87}}</string>
-		<string>ファイルをエクスポート中...</string>
+		<string>ファイルを保存中...</string>
 		<string>NSPanel</string>
 		<string>{213, 80}</string>
 		<dict>
@@ -3677,7 +3677,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>コメントと注釈の追加・削除</string>
+		<string>コメントと注釈を削除する</string>
 		<string>exportFilesRemoveCommentsButton</string>
 		<dict>
 			<key>$class</key>
@@ -3832,7 +3832,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>デフォルトの最終ドラフト台本要素を使用</string>
+		<string>デフォルトの最終ドラフト脚本要素を使用</string>
 		<string>exportFilesUseDefaultFDXSettingsButton</string>
 		<dict>
 			<key>$class</key>
@@ -4132,7 +4132,7 @@
 				<integer>190</integer>
 			</dict>
 		</dict>
-		<string>輸出支援資料：</string>
+		<string>保存に含める：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5140,7 +5140,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>サブ文書をエクスポートしない</string>
+		<string>サブドキュメントを保存しない</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5267,7 +5267,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>エクスポートされたファイルの数</string>
+		<string>保存したファイルに番号を振る</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6912,7 +6912,7 @@
 				<integer>295</integer>
 			</dict>
 		</dict>
-		<string>ファウンテン・スクリーンプレイ(.fountain)</string>
+		<string>Fountain映画シナリオ(.fountain)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7207,7 +7207,7 @@
 				<integer>108</integer>
 			</dict>
 		</dict>
-		<string>テキストファイルを次のようにエクスポート：</string>
+		<string>保存形式：</string>
 		<string>{574, 196}</string>
 		<dict>
 			<key>$class</key>
@@ -8629,7 +8629,7 @@
 				<integer>32</integer>
 			</dict>
 		</dict>
-		<string>バインダー全体をエクスポートする</string>
+		<string>バインダ全体を保存する</string>
 		<string>{234, 142}</string>
 		<dict>
 			<key>$class</key>
@@ -11408,7 +11408,7 @@
 				<integer>108</integer>
 			</dict>
 		</dict>
-		<string>エクスポートしています。しばらくお待ちください...</string>
+		<string>保存...</string>
 		<string>exportScrivenerProjectProgressLabel</string>
 		<dict>
 			<key>$class</key>
@@ -11508,7 +11508,7 @@
 			</dict>
 		</dict>
 		<string>{{272, 172}, {346, 111}}</string>
-		<string>Scrivener 2.xプロジェクトのエクスポート</string>
+		<string>Scrivener 2.xプロジェクトの保存</string>
 		<dict>
 			<key>$class</key>
 			<dict>

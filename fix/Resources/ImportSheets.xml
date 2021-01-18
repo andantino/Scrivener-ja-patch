@@ -588,7 +588,7 @@
 				<integer>34</integer>
 			</dict>
 		</dict>
-		<string>シーンヘッディング</string>
+		<string>シーン頭書き</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1003,7 +1003,7 @@
 				<integer>45</integer>
 			</dict>
 		</dict>
-		<string>ダイアログ</string>
+		<string>台詞</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3622,7 +3622,7 @@
 				<integer>185</integer>
 			</dict>
 		</dict>
-		<string>セクション分離要因：</string>
+		<string>セクションのセパレータ：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4101,7 +4101,7 @@
 				<integer>185</integer>
 			</dict>
 		</dict>
-		<string>ドキュメントはテキスト内にセパレータを見つけて分離されます。</string>
+		<string>テキスト内のセパレータを検索してドキュメントを分割します。</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -4405,7 +4405,7 @@
 				<integer>185</integer>
 			</dict>
 		</dict>
-		<string>セクション分離要因：</string>
+		<string>セクションのセパレータ：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5365,7 +5365,7 @@
 				<integer>13</integer>
 			</dict>
 		</dict>
-		<string>テキスト内でセパレータを見つけてセクションに分離</string>
+		<string>テキスト内でセパレータを探してセクションを分割</string>
 		<string>{420, 23}</string>
 		<string>{4, 2}</string>
 		<string>NSActionCell</string>
@@ -5757,7 +5757,7 @@
 				<integer>185</integer>
 			</dict>
 		</dict>
-		<string>セクション分離要因：</string>
+		<string>セクションのセパレータ：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6645,7 +6645,7 @@
 			<key>NSTag</key>
 			<integer>1</integer>
 		</dict>
-		<string>テキストのMarkdownヘッディングを使って分離・構造化</string>
+		<string>テキストのMarkdownヘッディングを使って分割・構造化</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6694,7 +6694,7 @@
 				<integer>13</integer>
 			</dict>
 		</dict>
-		<string>テキスト内でセパレータを見つけてセクションに分離</string>
+		<string>テキスト内でセパレータを探してセクションを分割</string>
 		<string>{420, 23}</string>
 		<dict>
 			<key>$class</key>
@@ -6912,7 +6912,7 @@
 		</dict>
 		<string>最終ドラフトセパレータ要素：</string>
 		<string>{460, 133}</string>
-		<string>スクリプト</string>
+		<string>脚本</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7559,7 +7559,7 @@
 				<integer>185</integer>
 			</dict>
 		</dict>
-		<string>0/0インポートしています</string>
+		<string>0/0 読み込み中</string>
 		<string>importCountTextField</string>
 		<dict>
 			<key>$class</key>
@@ -7745,7 +7745,7 @@
 			</dict>
 		</dict>
 		<string>{{242, 468}, {426, 87}}</string>
-		<string>インポート</string>
+		<string>読み込む</string>
 		<string>{213, 75}</string>
 		<dict>
 			<key>$class</key>
@@ -8454,7 +8454,7 @@
 				<integer>13</integer>
 			</dict>
 		</dict>
-		<string>合体前にプロジェクトをバックアップ</string>
+		<string>結合前にプロジェクトをバックアップ</string>
 		<string>mergeBackupButton</string>
 		<dict>
 			<key>$class</key>
@@ -8603,7 +8603,7 @@
 				<integer>410</integer>
 			</dict>
 		</dict>
-		<string>"${PROJECT_NAME}"は既存のプロジェクト${EDITOR}でもバージョンが異なるようです。コンテンツを現在のプロジェクトと統合しますか、それとも新しい文書としてコンテンツをただインポートしますか?</string>
+		<string>"${PROJECT_NAME}"は既存のプロジェクト${EDITOR}でもバージョンが異なるようです。コンテンツを現在のプロジェクトと統合しますか、それとも新しいドキュメントとしてコンテンツをただ読み込みますか?</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8728,7 +8728,7 @@
 			</dict>
 		</dict>
 		<string>{{272, 172}, {399, 274}}</string>
-		<string>インポートおよび合体</string>
+		<string>読み込んで結合</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8881,7 +8881,7 @@
 				<integer>410</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトをインポートおよび合体しますか？</string>
+		<string>プロジェクトを読み込んで結合しますか？</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9025,8 +9025,9 @@
 				<integer>13</integer>
 			</dict>
 		</dict>
-		<string>インポートおよび合体</string>
-		<string></string>
+		<string>読み込んで結合</string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9153,7 +9154,7 @@
 				<integer>13</integer>
 			</dict>
 		</dict>
-		<string>インポートのみ</string>
+		<string>読み込みのみ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9903,7 +9904,7 @@
 			</dict>
 		</dict>
 		<string>{{254, 308}, {416, 121}}</string>
-		<string>ウェブページをインポート</string>
+		<string>Webページを読み込む</string>
 		<string>{213, 107}</string>
 		<dict>
 			<key>$class</key>

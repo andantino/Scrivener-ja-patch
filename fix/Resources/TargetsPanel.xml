@@ -2840,7 +2840,7 @@
 				<integer>156</integer>
 			</dict>
 		</dict>
-		<string>複数単語</string>
+		<string>単語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4976,7 +4976,7 @@
 				<integer>14</integer>
 			</dict>
 		</dict>
-		<string>オーバーランを表示</string>
+		<string>超過を表示</string>
 		<string>KBAutoShrinkingTextField</string>
 		<string>{{26, 135}, {146, 17}}</string>
 		<dict>
@@ -5094,7 +5094,7 @@
 				<integer>59</integer>
 			</dict>
 		</dict>
-		<string>オーバーラン許容値：</string>
+		<string>超過許容値：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5287,7 +5287,7 @@
 				<integer>59</integer>
 			</dict>
 		</dict>
-		<string>複数単語</string>
+		<string>単語</string>
 		<string>{{178, 132}, {107, 22}}</string>
 		<dict>
 			<key>$class</key>
@@ -6532,7 +6532,7 @@
 				<integer>59</integer>
 			</dict>
 		</dict>
-		<string>書込日数：</string>
+		<string>執筆日数：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6732,7 +6732,7 @@
 				<integer>156</integer>
 			</dict>
 		</dict>
-		<string>毎日の設定時間</string>
+		<string>毎日、指定した時間に</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6807,7 +6807,7 @@
 				<integer>336</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトを閉じる際</string>
+		<string>プロジェクトを閉じるとき</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6856,7 +6856,7 @@
 				<integer>338</integer>
 			</dict>
 		</dict>
-		<string>開かれた次の日</string>
+		<string>プロジェクトを開いた翌日</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6905,7 +6905,7 @@
 				<integer>340</integer>
 			</dict>
 		</dict>
-		<string>実行しない</string>
+		<string>リセットしない</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7028,7 +7028,7 @@
 				<integer>59</integer>
 			</dict>
 		</dict>
-		<string>リセットセッションカウント：</string>
+		<string>セッションカウントのリセット：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7284,7 +7284,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<string>{468, 391}</string>
 		<string>{{0, 0}, {2560, 1418}}</string>
 		<string>{10000000000000, 10000000000000}</string>
@@ -8207,7 +8208,7 @@
 				<integer>156</integer>
 			</dict>
 		</dict>
-		<string>複数単語</string>
+		<string>単語</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9819,7 +9820,7 @@
 				<integer>59</integer>
 			</dict>
 		</dict>
-		<string>の</string>
+		<string>中の</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11299,7 +11300,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>ターゲットをカスタマイズします。</string>
+		<string>ターゲットをカスタマイズ</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -11331,7 +11332,7 @@
 				<integer>569</integer>
 			</dict>
 		</dict>
-		<string>新しいターゲットを適用します。</string>
+		<string>新しいターゲットを適用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11354,7 +11355,7 @@
 				<integer>571</integer>
 			</dict>
 		</dict>
-		<string>現在のセッションのカウントをリセットします。</string>
+		<string>現在のセッションのカウントをリセット</string>
 		<dict>
 			<key>$class</key>
 			<dict>

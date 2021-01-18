@@ -3286,7 +3286,7 @@
 			</dict>
 		</dict>
 		<string>NSToolTipHelpKey</string>
-		<string>実際のサイズで画像を表示します。</string>
+		<string>実際のサイズで画像を表示</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -3341,7 +3341,7 @@
 				<integer>182</integer>
 			</dict>
 		</dict>
-		<string>最大サイズで画像を表示します。</string>
+		<string>最大サイズで画像を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3364,7 +3364,7 @@
 				<integer>184</integer>
 			</dict>
 		</dict>
-		<string>最小サイズで画像を表示します。</string>
+		<string>最小サイズで画像を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3387,7 +3387,7 @@
 				<integer>186</integer>
 			</dict>
 		</dict>
-		<string>画像を調節して表示にフィットさせます。</string>
+		<string>画像を調節して表示にフィット</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4188,7 +4188,7 @@
 			<key>$classname</key>
 			<string>NSMutableString</string>
 		</dict>
-		<string>最大サイズで画像を表示します。</string>
+		<string>最大サイズで画像を表示</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -4229,7 +4229,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>最小サイズで画像を表示します。</string>
+		<string>最小サイズで画像を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4261,7 +4261,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>画像を調節して表示にフィットさせます。</string>
+		<string>画像を調節して表示にフィット</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4293,7 +4293,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>画像を回転します。</string>
+		<string>画像を回転</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4325,7 +4325,7 @@
 			<key>NS.string</key>
 			<string>AXDescription</string>
 		</dict>
-		<string>実際のサイズで画像を表示します。</string>
+		<string>実際のサイズで画像を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>

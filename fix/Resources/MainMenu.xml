@@ -3086,7 +3086,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>しまう</string>
+		<string>最小化</string>
 		<string>m</string>
 		<dict>
 			<key>$class</key>
@@ -3711,7 +3711,7 @@
 				<integer>62</integer>
 			</dict>
 		</dict>
-		<string>フロートウィンドウ</string>
+		<string>フロートウインドウ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4410,7 +4410,7 @@
 				<integer>93</integer>
 			</dict>
 		</dict>
-		<string>System Default</string>
+		<string>システムデフォルト</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4447,7 +4447,7 @@
 				<integer>95</integer>
 			</dict>
 		</dict>
-		<string>Dark</string>
+		<string>ダーク</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4484,7 +4484,7 @@
 				<integer>97</integer>
 			</dict>
 		</dict>
-		<string>Light</string>
+		<string>ライト</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4559,7 +4559,7 @@
 				<integer>100</integer>
 			</dict>
 		</dict>
-		<string>Keep Main Editors Light</string>
+		<string>メインエディタをライトにする</string>
 		<string>L</string>
 		<dict>
 			<key>$class</key>
@@ -4718,7 +4718,7 @@
 				<integer>108</integer>
 			</dict>
 		</dict>
-		<string>テーマをインポート...</string>
+		<string>テーマを読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5026,7 +5026,7 @@
 				<integer>123</integer>
 			</dict>
 		</dict>
-		<string>Scrivenerを隠す</string>
+		<string>Scrivenerを非表示</string>
 		<string>h</string>
 		<dict>
 			<key>$class</key>
@@ -5064,7 +5064,7 @@
 				<integer>126</integer>
 			</dict>
 		</dict>
-		<string>ほかを隠す</string>
+		<string>ほかを非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5918,7 +5918,7 @@
 				<integer>167</integer>
 			</dict>
 		</dict>
-		<string>Finderでプロジェクトを表示</string>
+		<string>プロジェクトをFinderで表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5955,7 +5955,7 @@
 				<integer>169</integer>
 			</dict>
 		</dict>
-		<string>Spotlightですべてのプロジェクトを検索</string>
+		<string>すべてのプロジェクトをSpotlightで検索</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6109,7 +6109,7 @@
 				<integer>177</integer>
 			</dict>
 		</dict>
-		<string>ウィンドウを閉じる</string>
+		<string>ウインドウを閉じる</string>
 		<string>w</string>
 		<dict>
 			<key>$class</key>
@@ -6317,7 +6317,7 @@
 				<integer>189</integer>
 			</dict>
 		</dict>
-		<string>インポート</string>
+		<string>読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6335,7 +6335,7 @@
 				<integer>191</integer>
 			</dict>
 		</dict>
-		<string>インポート</string>
+		<string>読み込む</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6450,7 +6450,7 @@
 				<integer>197</integer>
 			</dict>
 		</dict>
-		<string>ウェブページ...</string>
+		<string>Webページ...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6674,7 +6674,7 @@
 				<integer>207</integer>
 			</dict>
 		</dict>
-		<string>インポートと分割...</string>
+		<string>読み込んで分割...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6726,7 +6726,7 @@
 				<integer>209</integer>
 			</dict>
 		</dict>
-		<string>エクスポート</string>
+		<string>書き出す</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6744,7 +6744,7 @@
 				<integer>211</integer>
 			</dict>
 		</dict>
-		<string>エクスポート</string>
+		<string>書き出す</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6928,7 +6928,7 @@
 				<integer>220</integer>
 			</dict>
 		</dict>
-		<string>アウトライナーの内容をCSV形式でエクスポート...</string>
+		<string>アウトライナーの内容をCSV形式で保存...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7038,7 +7038,7 @@
 				<integer>225</integer>
 			</dict>
 		</dict>
-		<string>Scrivener 2プロジェクトとしてエクスポート...</string>
+		<string>Scrivener 2プロジェクトとして保存...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7514,7 +7514,7 @@
 				<integer>249</integer>
 			</dict>
 		</dict>
-		<string>Back Up All Projects Now</string>
+		<string>すべてのプロジェクトを今すぐバックアップ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7666,7 +7666,7 @@
 				<integer>257</integer>
 			</dict>
 		</dict>
-		<string>現在のドキュメントを印刷する...</string>
+		<string>現在のドキュメントをプリント...</string>
 		<string>p</string>
 		<dict>
 			<key>$class</key>
@@ -9257,7 +9257,7 @@
 				<integer>335</integer>
 			</dict>
 		</dict>
-		<string>スペースを含む文を選択する</string>
+		<string>空白を含む文を選択</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9692,7 +9692,7 @@
 				<integer>356</integer>
 			</dict>
 		</dict>
-		<string>選択 "含む" サブドキュメント</string>
+		<string>含めるサブドキュメントを選択</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9817,7 +9817,7 @@
 				<integer>361</integer>
 			</dict>
 		</dict>
-		<string>完成</string>
+		<string>補完</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9835,7 +9835,7 @@
 				<integer>363</integer>
 			</dict>
 		</dict>
-		<string>完成</string>
+		<string>補完</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9967,7 +9967,7 @@
 				<integer>371</integer>
 			</dict>
 		</dict>
-		<string>オートコンプリートリストに選択項目を追加</string>
+		<string>選択部分を自動補完リストに追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10303,7 +10303,7 @@
 				<integer>391</integer>
 			</dict>
 		</dict>
-		<string>Sort</string>
+		<string>並べ替え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10381,7 +10381,7 @@
 				<integer>395</integer>
 			</dict>
 		</dict>
-		<string>Ascending (A-Z)</string>
+		<string>昇順 (A-Z)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10418,7 +10418,7 @@
 				<integer>397</integer>
 			</dict>
 		</dict>
-		<string>Descending (Z-A)</string>
+		<string>降順 (Z-A)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -10491,7 +10491,7 @@
 				<integer>400</integer>
 			</dict>
 		</dict>
-		<string>Collection into Binder Order</string>
+		<string>バインダの順にコレクション</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11270,7 +11270,7 @@
 				<integer>438</integer>
 			</dict>
 		</dict>
-		<string>プロジェクトの置換</string>
+		<string>プロジェクト内の置換</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11508,7 +11508,7 @@
 				<integer>450</integer>
 			</dict>
 		</dict>
-		<string>検索に選択範囲を使用</string>
+		<string>選択部分を検索に使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11623,7 +11623,7 @@
 				<integer>456</integer>
 			</dict>
 		</dict>
-		<string>書式設定で検索...</string>
+		<string>書式設定を検索...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11874,7 +11874,7 @@
 				<integer>470</integer>
 			</dict>
 		</dict>
-		<string>書類を今すぐチェック</string>
+		<string>ドキュメントを今すぐチェック</string>
 		<string>;</string>
 		<dict>
 			<key>$class</key>
@@ -12357,7 +12357,7 @@
 				<integer>496</integer>
 			</dict>
 		</dict>
-		<string>Capitalize</string>
+		<string>すべて大文字にする</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12427,7 +12427,7 @@
 				<integer>500</integer>
 			</dict>
 		</dict>
-		<string>Remove Small Caps</string>
+		<string>スモールキャピタルを解除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -12649,7 +12649,7 @@
 				<integer>510</integer>
 			</dict>
 		</dict>
-		<string>Inspectorコメントをインライン注釈に変換</string>
+		<string>インスペクタコメントをインライン注釈に変換</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13110,7 +13110,7 @@
 				<integer>532</integer>
 			</dict>
 		</dict>
-		<string>取り消し線のあるテキストを削除</string>
+		<string>打ち消し線のあるテキストを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13183,7 +13183,7 @@
 				<integer>535</integer>
 			</dict>
 		</dict>
-		<string>目標タイトルを使用するためのドキュメントリンクを更新</string>
+		<string>リンクにリンク先タイトルを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13218,7 +13218,7 @@
 				<integer>537</integer>
 			</dict>
 		</dict>
-		<string>段落番号を付け直す</string>
+		<string>段落番号を振り直す</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13293,7 +13293,7 @@
 				<integer>540</integer>
 			</dict>
 		</dict>
-		<string>複数スペースを単一スペースに置き換える</string>
+		<string>複数の空白を1個にする</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13365,7 +13365,7 @@
 				<integer>544</integer>
 			</dict>
 		</dict>
-		<string>ページの区切りを削除する</string>
+		<string>ページ区切りを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13400,7 +13400,7 @@
 				<integer>546</integer>
 			</dict>
 		</dict>
-		<string>先行タブを取り除く</string>
+		<string>行頭タブを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13435,7 +13435,7 @@
 				<integer>548</integer>
 			</dict>
 		</dict>
-		<string>ﾕﾆｺｰﾄﾞ字削除</string>
+		<string>制御文字を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13584,7 +13584,7 @@
 				<integer>555</integer>
 			</dict>
 		</dict>
-		<string>辞書と類義語辞典を見る</string>
+		<string>辞書/類義語辞典を開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14731,7 +14731,8 @@
 			</dict>
 		</dict>
 		<string>改行</string>
-		<string></string>
+		<string>
+</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14805,7 +14806,7 @@
 				<integer>615</integer>
 			</dict>
 		</dict>
-		<string>ノーブレークスペース</string>
+		<string>非分割空白</string>
 		<string> </string>
 		<dict>
 			<key>$class</key>
@@ -14843,7 +14844,7 @@
 				<integer>618</integer>
 			</dict>
 		</dict>
-		<string>単語結合子を挿入</string>
+		<string>単語結合子</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -14968,7 +14969,7 @@
 				<integer>625</integer>
 			</dict>
 		</dict>
-		<string>中心線</string>
+		<string>中央寄せの線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15005,7 +15006,7 @@
 				<integer>627</integer>
 			</dict>
 		</dict>
-		<string>ページ幅のラインを挿入</string>
+		<string>ページ幅の線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15042,7 +15043,7 @@
 				<integer>629</integer>
 			</dict>
 		</dict>
-		<string>署名ライン</string>
+		<string>署名用の線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15644,7 +15645,7 @@
 				<integer>657</integer>
 			</dict>
 		</dict>
-		<string>ドラフトの単語数</string>
+		<string>ドラフト単語数</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -15662,7 +15663,7 @@
 				<integer>659</integer>
 			</dict>
 		</dict>
-		<string>ドラフトの単語数</string>
+		<string>ドラフト単語数</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -16215,7 +16216,7 @@
 				<integer>687</integer>
 			</dict>
 		</dict>
-		<string>エンドノートマーカー</string>
+		<string>巻末注マーカー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -16743,7 +16744,7 @@
 				<integer>711</integer>
 			</dict>
 		</dict>
-		<string>バインダーの表示/非表示</string>
+		<string>バインダの表示/非表示</string>
 		<string>b</string>
 		<dict>
 			<key>$class</key>
@@ -16980,7 +16981,7 @@
 				<integer>724</integer>
 			</dict>
 		</dict>
-		<string>ヘッダーバーを表示</string>
+		<string>ヘッダバーを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -17019,7 +17020,7 @@
 				<integer>726</integer>
 			</dict>
 		</dict>
-		<string>フッターバーを表示</string>
+		<string>フッタバーを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -17251,7 +17252,7 @@
 				<integer>738</integer>
 			</dict>
 		</dict>
-		<string>エディタを交換</string>
+		<string>エディタを入れ替え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -17529,7 +17530,7 @@
 				<integer>752</integer>
 			</dict>
 		</dict>
-		<string>ボトム</string>
+		<string>下</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -17566,7 +17567,7 @@
 				<integer>754</integer>
 			</dict>
 		</dict>
-		<string>Close Copyholder</string>
+		<string>コピーホルダを閉じる</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -17958,7 +17959,7 @@
 				<integer>771</integer>
 			</dict>
 		</dict>
-		<string>フォルダーの連結表示タイトルのみ表示</string>
+		<string>フォルダの連結表示タイトルのみ表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18068,7 +18069,7 @@
 				<integer>776</integer>
 			</dict>
 		</dict>
-		<string>マークアップを隠す</string>
+		<string>マークアップを非表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18571,7 +18572,7 @@
 				<integer>797</integer>
 			</dict>
 		</dict>
-		<string>Focus</string>
+		<string>フォーカス</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18653,7 +18654,7 @@
 				<integer>801</integer>
 			</dict>
 		</dict>
-		<string>Off</string>
+		<string>無効</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18728,7 +18729,7 @@
 				<integer>804</integer>
 			</dict>
 		</dict>
-		<string>Line</string>
+		<string>行</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -18765,7 +18766,7 @@
 				<integer>806</integer>
 			</dict>
 		</dict>
-		<string>Sentence</string>
+		<string>文章</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -19656,7 +19657,7 @@
 				<integer>845</integer>
 			</dict>
 		</dict>
-		<string>オートフィット</string>
+		<string>自動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20243,7 +20244,7 @@
 				<integer>872</integer>
 			</dict>
 		</dict>
-		<string>グリッドとして</string>
+		<string>グリッド</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20280,7 +20281,7 @@
 				<integer>874</integer>
 			</dict>
 		</dict>
-		<string>行内</string>
+		<string>行</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20317,7 +20318,7 @@
 				<integer>876</integer>
 			</dict>
 		</dict>
-		<string>列内</string>
+		<string>列</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20394,7 +20395,7 @@
 				<integer>879</integer>
 			</dict>
 		</dict>
-		<string>ラベルの色をエッジに沿って表示</string>
+		<string>ラベル色を枠に表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20433,7 +20434,7 @@
 				<integer>881</integer>
 			</dict>
 		</dict>
-		<string>スタンプを表示</string>
+		<string>印を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20584,7 +20585,7 @@
 				<integer>888</integer>
 			</dict>
 		</dict>
-		<string>セクションごとの数</string>
+		<string>セクション毎に番号付け</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -20657,7 +20658,7 @@
 				<integer>891</integer>
 			</dict>
 		</dict>
-		<string>ゴーストとして空欄のカードを表示する</string>
+		<string>空のカードをゴースト表示する</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21067,7 +21068,7 @@
 				<integer>909</integer>
 			</dict>
 		</dict>
-		<string>および概要</string>
+		<string>およびあらすじ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21496,7 +21497,7 @@
 				<integer>931</integer>
 			</dict>
 		</dict>
-		<string>エクスポートに含める</string>
+		<string>書き出す内容に含める</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -21840,7 +21841,7 @@
 				<integer>948</integer>
 			</dict>
 		</dict>
-		<string>バインダー</string>
+		<string>バインダ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -22071,7 +22072,7 @@
 				<integer>959</integer>
 			</dict>
 		</dict>
-		<string>Show as Background Color in Binder</string>
+		<string>バインダの背景色として表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23421,7 +23422,7 @@
 				<integer>1023</integer>
 			</dict>
 		</dict>
-		<string>バインダー内のサブドキュメント数を表示</string>
+		<string>バインダ内のサブドキュメント数を表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23494,7 +23495,7 @@
 				<integer>1026</integer>
 			</dict>
 		</dict>
-		<string>バインダーをホイスト</string>
+		<string>バインダをホイスト</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23571,7 +23572,7 @@
 				<integer>1029</integer>
 			</dict>
 		</dict>
-		<string>フルスクリーンにする</string>
+		<string>フルスクリーン</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23610,7 +23611,7 @@
 				<integer>1031</integer>
 			</dict>
 		</dict>
-		<string>作成モードに入る</string>
+		<string>組版モードを開始</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -23958,7 +23959,7 @@
 				<integer>1045</integer>
 			</dict>
 		</dict>
-		<string>バインダーで表示</string>
+		<string>バインダで表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25074,7 +25075,7 @@
 				<integer>1100</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<string>O</string>
 		<dict>
 			<key>$class</key>
@@ -25145,7 +25146,7 @@
 				<integer>1105</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダーに</string>
+		<string>コピーホルダに</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25180,7 +25181,7 @@
 				<integer>1107</integer>
 			</dict>
 		</dict>
-		<string>in Quick Look</string>
+		<string>クイックルックで</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -25419,7 +25420,7 @@
 				<integer>1119</integer>
 			</dict>
 		</dict>
-		<string>他のエディタ コルクボードで</string>
+		<string>別のエディタ コルクボードで</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -26049,7 +26050,7 @@
 				<integer>1148</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -26067,7 +26068,7 @@
 				<integer>1150</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -26332,7 +26333,7 @@
 				<integer>1164</integer>
 			</dict>
 		</dict>
-		<string>Go to Previous Page</string>
+		<string>前のページへ</string>
 		<string></string>
 		<dict>
 			<key>$class</key>
@@ -26370,7 +26371,7 @@
 				<integer>1167</integer>
 			</dict>
 		</dict>
-		<string>Go to Next Page</string>
+		<string>次のページへ</string>
 		<string></string>
 		<dict>
 			<key>$class</key>
@@ -26997,7 +26998,7 @@
 				<integer>1197</integer>
 			</dict>
 		</dict>
-		<string>バインダー/検索テーブル</string>
+		<string>バインダ/検索テーブル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27075,7 +27076,7 @@
 				<integer>1201</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27114,7 +27115,7 @@
 				<integer>1203</integer>
 			</dict>
 		</dict>
-		<string>ヘッダーバーのタイトル</string>
+		<string>ヘッダバーのタイトル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27153,7 +27154,7 @@
 				<integer>1205</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダー</string>
+		<string>コピーホルダ</string>
 		<string>d</string>
 		<dict>
 			<key>$class</key>
@@ -27537,7 +27538,7 @@
 				<integer>1225</integer>
 			</dict>
 		</dict>
-		<string>概要</string>
+		<string>あらすじ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27828,7 +27829,7 @@
 				<integer>1241</integer>
 			</dict>
 		</dict>
-		<string>バインダーセレクションの影響</string>
+		<string>バインダ選択の影響範囲</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27846,7 +27847,7 @@
 				<integer>1243</integer>
 			</dict>
 		</dict>
-		<string>バインダーセレクションの影響</string>
+		<string>バインダ選択の影響範囲</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -27972,7 +27973,7 @@
 				<integer>1248</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28049,7 +28050,7 @@
 				<integer>1251</integer>
 			</dict>
 		</dict>
-		<string>トップエディタのみ</string>
+		<string>上のエディタのみ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28088,7 +28089,7 @@
 				<integer>1253</integer>
 			</dict>
 		</dict>
-		<string>ボトムエディタのみ</string>
+		<string>下のエディタのみ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28165,7 +28166,7 @@
 				<integer>1256</integer>
 			</dict>
 		</dict>
-		<string>両エディタ</string>
+		<string>両方のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28277,7 +28278,7 @@
 				<integer>1261</integer>
 			</dict>
 		</dict>
-		<string>グループ外項目を別のエディターで開く</string>
+		<string>グループ外項目を別のエディタで開く</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28331,7 +28332,7 @@
 				<integer>1263</integer>
 			</dict>
 		</dict>
-		<string>エディターセレクションの影響</string>
+		<string>エディタ選択の影響範囲</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28349,7 +28350,7 @@
 				<integer>1265</integer>
 			</dict>
 		</dict>
-		<string>エディターセレクションの影響</string>
+		<string>エディタ選択の影響範囲</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28447,7 +28448,7 @@
 				<integer>1270</integer>
 			</dict>
 		</dict>
-		<string>その他のエディタ</string>
+		<string>別のエディタ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28486,7 +28487,7 @@
 				<integer>1272</integer>
 			</dict>
 		</dict>
-		<string>コピーホルダー</string>
+		<string>コピーホルダ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -28746,7 +28747,7 @@
 				<integer>1282</integer>
 			</dict>
 		</dict>
-		<string>新しい文書</string>
+		<string>新しいドキュメント</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29087,7 +29088,7 @@
 				<integer>1300</integer>
 			</dict>
 		</dict>
-		<string>履歴作成中...</string>
+		<string>履歴作成...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29396,7 +29397,7 @@
 				<integer>1315</integer>
 			</dict>
 		</dict>
-		<string>ごみ箱を空にする...</string>
+		<string>ゴミ箱を空にする...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29735,7 +29736,7 @@
 				<integer>1327</integer>
 			</dict>
 		</dict>
-		<string>スナップショットを撮る</string>
+		<string>スナップショット作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -29774,7 +29775,7 @@
 				<integer>1329</integer>
 			</dict>
 		</dict>
-		<string>タイトル付きスナップショットを撮る</string>
+		<string>タイトル付きスナップショット作成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -30931,7 +30932,7 @@
 				<integer>1385</integer>
 			</dict>
 		</dict>
-		<string>マージ</string>
+		<string>結合</string>
 		<string>M</string>
 		<dict>
 			<key>$class</key>
@@ -31301,7 +31302,7 @@
 				<integer>1405</integer>
 			</dict>
 		</dict>
-		<string>Copy to Project</string>
+		<string>プロジェクトにコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31319,7 +31320,7 @@
 				<integer>1407</integer>
 			</dict>
 		</dict>
-		<string>Copy to Project</string>
+		<string>プロジェクトにコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31765,7 +31766,7 @@
 				<integer>1430</integer>
 			</dict>
 		</dict>
-		<string>スクリプト形式...</string>
+		<string>脚本形式...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -31881,7 +31882,7 @@
 				<integer>1435</integer>
 			</dict>
 		</dict>
-		<string>ウェブページからテキストへ</string>
+		<string>Webページからテキストへ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32012,7 +32013,7 @@
 				<integer>1442</integer>
 			</dict>
 		</dict>
-		<string>選択したテキストをタイトルとして設定</string>
+		<string>選択したテキストをタイトルに設定</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32086,7 +32087,7 @@
 				<integer>1446</integer>
 			</dict>
 		</dict>
-		<string>概要の自動生成</string>
+		<string>あらすじの自動生成</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32123,7 +32124,7 @@
 				<integer>1448</integer>
 			</dict>
 		</dict>
-		<string>Synopsesをメインテキストに追加</string>
+		<string>あらすじをメインテキストに追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -32992,7 +32993,7 @@
 				<integer>1487</integer>
 			</dict>
 		</dict>
-		<string>ボールド</string>
+		<string>太字</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33083,7 +33084,7 @@
 				<integer>1491</integer>
 			</dict>
 		</dict>
-		<string>アンダーライン</string>
+		<string>下線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33101,7 +33102,7 @@
 				<integer>1493</integer>
 			</dict>
 		</dict>
-		<string>アンダーライン</string>
+		<string>下線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33221,7 +33222,7 @@
 				<integer>1498</integer>
 			</dict>
 		</dict>
-		<string>シングル</string>
+		<string>一重線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33258,7 +33259,7 @@
 				<integer>1500</integer>
 			</dict>
 		</dict>
-		<string>ダブル</string>
+		<string>二重線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33333,7 +33334,7 @@
 				<integer>1503</integer>
 			</dict>
 		</dict>
-		<string>ソリッド</string>
+		<string>実線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33370,7 +33371,7 @@
 				<integer>1505</integer>
 			</dict>
 		</dict>
-		<string>ドット</string>
+		<string>点線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33407,7 +33408,7 @@
 				<integer>1507</integer>
 			</dict>
 		</dict>
-		<string>ダッシュ</string>
+		<string>破線</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -33519,7 +33520,7 @@
 				<integer>1512</integer>
 			</dict>
 		</dict>
-		<string>取り消し線</string>
+		<string>打ち消し線</string>
 		<string>_</string>
 		<dict>
 			<key>$class</key>
@@ -33847,7 +33848,7 @@
 				<integer>1529</integer>
 			</dict>
 		</dict>
-		<string>デフォルト</string>
+		<string>デフォルトを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34087,7 +34088,7 @@
 				<integer>1542</integer>
 			</dict>
 		</dict>
-		<string>デフォルト</string>
+		<string>デフォルトを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34298,7 +34299,7 @@
 				<integer>1553</integer>
 			</dict>
 		</dict>
-		<string>デフォルト</string>
+		<string>デフォルトを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34644,7 +34645,7 @@
 				<integer>1571</integer>
 			</dict>
 		</dict>
-		<string>フォントのコピー</string>
+		<string>フォントをコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -34681,7 +34682,7 @@
 				<integer>1573</integer>
 			</dict>
 		</dict>
-		<string>フォントの貼り付け</string>
+		<string>フォントをペースト</string>
 		<string>_NSFontMenu</string>
 		<dict>
 			<key>$class</key>
@@ -34947,7 +34948,7 @@
 				<integer>1587</integer>
 			</dict>
 		</dict>
-		<string>両端揃え</string>
+		<string>均等割り付け</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35916,7 +35917,7 @@
 				<integer>1634</integer>
 			</dict>
 		</dict>
-		<string>	Default</string>
+		<string>	デフォルトを使用</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35951,7 +35952,7 @@
 				<integer>1636</integer>
 			</dict>
 		</dict>
-		<string>	Left to Right</string>
+		<string>	左から右へ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -35986,7 +35987,7 @@
 				<integer>1638</integer>
 			</dict>
 		</dict>
-		<string>	Right to Left</string>
+		<string>	右から左へ</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36253,7 +36254,7 @@
 				<integer>1647</integer>
 			</dict>
 		</dict>
-		<string>次と同じにする</string>
+		<string>次以降も維持</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36271,7 +36272,7 @@
 				<integer>1649</integer>
 			</dict>
 		</dict>
-		<string>次と同じにする</string>
+		<string>次以降も維持</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36368,7 +36369,7 @@
 				<integer>1653</integer>
 			</dict>
 		</dict>
-		<string>On</string>
+		<string>有効</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36441,7 +36442,7 @@
 				<integer>1656</integer>
 			</dict>
 		</dict>
-		<string>Can Split Across Pages</string>
+		<string>ページ分割可</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36491,7 +36492,7 @@
 				<integer>1658</integer>
 			</dict>
 		</dict>
-		<string>HTMLヘッダーレベル</string>
+		<string>HTMLヘッダレベル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36509,7 +36510,7 @@
 				<integer>1660</integer>
 			</dict>
 		</dict>
-		<string>HTMLヘッダーレベル</string>
+		<string>HTMLヘッダレベル</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36881,7 +36882,7 @@
 				<integer>1678</integer>
 			</dict>
 		</dict>
-		<string>段落属性のコピー</string>
+		<string>段落属性をコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -36918,7 +36919,7 @@
 				<integer>1680</integer>
 			</dict>
 		</dict>
-		<string>段落属性の貼り付け</string>
+		<string>段落属性をペースト</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -37109,7 +37110,7 @@
 				<integer>1688</integer>
 			</dict>
 		</dict>
-		<string>選択から新しいスタイルを開く...</string>
+		<string>選択部分を新しいスタイルとして追加...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -37161,7 +37162,7 @@
 				<integer>1690</integer>
 			</dict>
 		</dict>
-		<string>選択範囲から既存のスタイルを更新</string>
+		<string>選択部分を既存スタイルに設定</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -37240,7 +37241,7 @@
 				<integer>1695</integer>
 			</dict>
 		</dict>
-		<string>スタイルの削除</string>
+		<string>スタイルを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -37258,7 +37259,7 @@
 				<integer>1697</integer>
 			</dict>
 		</dict>
-		<string>スタイルの削除</string>
+		<string>スタイルを削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -37381,7 +37382,7 @@
 				<integer>1703</integer>
 			</dict>
 		</dict>
-		<string>Show Styles Menu</string>
+		<string>スタイルメニューを表示</string>
 		<string>Y</string>
 		<dict>
 			<key>$class</key>
@@ -37492,7 +37493,7 @@
 				<integer>1709</integer>
 			</dict>
 		</dict>
-		<string>スタイルのインポート...</string>
+		<string>スタイルを読み込む...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -37784,7 +37785,7 @@
 				<integer>1719</integer>
 			</dict>
 		</dict>
-		<string>上の複数行を追加</string>
+		<string>上に行を追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -37819,7 +37820,7 @@
 				<integer>1721</integer>
 			</dict>
 		</dict>
-		<string>下の複数行を追加</string>
+		<string>下に行を追加</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38000,7 +38001,7 @@
 				<integer>1729</integer>
 			</dict>
 		</dict>
-		<string>複数の行を上に移動</string>
+		<string>行を上に移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38035,7 +38036,7 @@
 				<integer>1731</integer>
 			</dict>
 		</dict>
-		<string>複数の行を下に移動</string>
+		<string>行を下に移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38216,7 +38217,7 @@
 				<integer>1739</integer>
 			</dict>
 		</dict>
-		<string>複数行の削除</string>
+		<string>行を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38251,7 +38252,7 @@
 				<integer>1741</integer>
 			</dict>
 		</dict>
-		<string>列の削除</string>
+		<string>列を削除</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38324,7 +38325,7 @@
 				<integer>1744</integer>
 			</dict>
 		</dict>
-		<string>行を昇順にソート</string>
+		<string>行を昇順に並べ替え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -38361,7 +38362,7 @@
 				<integer>1746</integer>
 			</dict>
 		</dict>
-		<string>行を降順にソート</string>
+		<string>行を降順に並べ替え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -39981,7 +39982,7 @@
 				<integer>1821</integer>
 			</dict>
 		</dict>
-		<string>台本</string>
+		<string>脚本</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -39999,7 +40000,7 @@
 				<integer>1823</integer>
 			</dict>
 		</dict>
-		<string>台本</string>
+		<string>脚本</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -40080,7 +40081,7 @@
 				<integer>1826</integer>
 			</dict>
 		</dict>
-		<string>スクリプトモード</string>
+		<string>脚本モード</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -40159,7 +40160,7 @@
 				<integer>1829</integer>
 			</dict>
 		</dict>
-		<string>スクリプト設定...</string>
+		<string>脚本設定...</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -40196,7 +40197,7 @@
 				<integer>1831</integer>
 			</dict>
 		</dict>
-		<string>スクリプトを大文字に変更</string>
+		<string>脚本を大文字に変更</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -40288,7 +40289,7 @@
 				<integer>1834</integer>
 			</dict>
 		</dict>
-		<string>に要素を変更</string>
+		<string>要素を変更</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -40306,7 +40307,7 @@
 				<integer>1836</integer>
 			</dict>
 		</dict>
-		<string>に要素を変更</string>
+		<string>要素を変更</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -40350,7 +40351,7 @@
 				<integer>1839</integer>
 			</dict>
 		</dict>
-		<string>スクリプト要素メニューを表示</string>
+		<string>脚本要素メニューを表示</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -40467,7 +40468,7 @@
 				<integer>1843</integer>
 			</dict>
 		</dict>
-		<string>色...</string>
+		<string>カラー...</string>
 		<string>C</string>
 		<dict>
 			<key>$class</key>
@@ -41210,7 +41211,7 @@
 				<integer>1880</integer>
 			</dict>
 		</dict>
-		<string>書式設定を貼り付け</string>
+		<string>書式設定をペースト</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -41662,7 +41663,7 @@
 				<integer>1900</integer>
 			</dict>
 		</dict>
-		<string>Reset Tutorial</string>
+		<string>チュートリアルをリセット</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -42064,7 +42065,7 @@
 				<integer>1919</integer>
 			</dict>
 		</dict>
-		<string>最新の状態に保つ...</string>
+		<string>最新情報を入手...</string>
 		<string>_NSMainMenu</string>
 		<dict>
 			<key>$class</key>
@@ -42898,7 +42899,7 @@
 				<integer>1968</integer>
 			</dict>
 		</dict>
-		<string>Scrivenerは、プロジェクトが終了するたびにプロジェクトを自動的にバックアップできます。この機能をオンにするには、"バックアップフォルダを選択" をクリックして自動バックアップのフォルダを選択してください。（Scrivenerのプリファレンスからこの機能の設定を有効にし、変更することができます。）</string>
+		<string>Scrivenerは、プロジェクトが終了するたびにプロジェクトを自動的にバックアップできます。この機能をオンにするには、"バックアップフォルダを選択" をクリックして自動バックアップのフォルダを選択してください。（Scrivenerの環境設定からこの機能の設定を有効にし、変更することができます。）</string>
 		<dict>
 			<key>$class</key>
 			<dict>
