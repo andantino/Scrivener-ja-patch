@@ -47901,7 +47901,7 @@
 				<integer>239</integer>
 			</dict>
 		</dict>
-		<string>ページに移動：</string>
+		<string>次のページに移動：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -48122,7 +48122,7 @@
 				<integer>239</integer>
 			</dict>
 		</dict>
-		<string>ページに移動：</string>
+		<string>次のページに移動：</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50731,7 +50731,7 @@
 				<integer>2376</integer>
 			</dict>
 		</dict>
-		<string>ページに移動</string>
+		<string>ページを移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -50754,7 +50754,7 @@
 				<integer>2378</integer>
 			</dict>
 		</dict>
-		<string>ページに移動</string>
+		<string>ページを移動</string>
 		<dict>
 			<key>$class</key>
 			<dict>
