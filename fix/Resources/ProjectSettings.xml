@@ -9196,7 +9196,7 @@
 				<integer>15</integer>
 			</dict>
 		</dict>
-		<string>ラップテキスト</string>
+		<string>テキストを折り返す</string>
 		<string>{{18, 179}, {147, 18}}</string>
 		<dict>
 			<key>$class</key>
@@ -9784,7 +9784,7 @@
 				<integer>18</integer>
 			</dict>
 		</dict>
-		<string>左</string>
+		<string>左揃え</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -9904,7 +9904,7 @@
 				<integer>421</integer>
 			</dict>
 		</dict>
-		<string>右</string>
+		<string>右揃え</string>
 		<string>{508, 270}</string>
 		<dict>
 			<key>$class</key>
@@ -11042,7 +11042,7 @@
 				<integer>463</integer>
 			</dict>
 		</dict>
-		<string>はっきりとチェックが入れられていない、またはチェックが外されている項目のチェックボックスの状態を決定します。</string>
+		<string>チェックボックスの初期状態を決定します。</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -13353,7 +13353,7 @@
 				<integer>408</integer>
 			</dict>
 		</dict>
-		<string>"None" item title:</string>
+		<string>項目がないときのタイトル:</string>
 		<string>{508, 270}</string>
 		<dict>
 			<key>$class</key>
