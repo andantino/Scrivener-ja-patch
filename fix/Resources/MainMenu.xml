@@ -8390,7 +8390,7 @@
 				<integer>291</integer>
 			</dict>
 		</dict>
-		<string>ドキュメントをToCとしてコピー</string>
+		<string>ドキュメントを目次としてコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -8429,7 +8429,7 @@
 				<integer>293</integer>
 			</dict>
 		</dict>
-		<string>ToCとしてタイトル付きドキュメントをコピー</string>
+		<string>目次としてタイトル付きドキュメントをコピー</string>
 		<dict>
 			<key>$class</key>
 			<dict>
