@@ -467,7 +467,7 @@
 				<integer>32</integer>
 			</dict>
 		</dict>
-		<string>Table of Contents Settings</string>
+		<string>目次の設定</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -876,7 +876,7 @@
 				<integer>42</integer>
 			</dict>
 		</dict>
-		<string>Reset to Defaults</string>
+		<string>デフォルトに戻す</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1685,7 +1685,7 @@
 				<integer>32</integer>
 			</dict>
 		</dict>
-		<string>Indent width:</string>
+		<string>インデント幅:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2242,7 +2242,7 @@
 				<integer>32</integer>
 			</dict>
 		</dict>
-		<string>Right margin:</string>
+		<string>右マージン:</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2462,7 +2462,7 @@
 				<integer>12</integer>
 			</dict>
 		</dict>
-		<string>Page width</string>
+		<string>ページ幅</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2652,7 +2652,7 @@
 				<integer>146</integer>
 			</dict>
 		</dict>
-		<string>Custom</string>
+		<string>カスタム</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -2816,7 +2816,7 @@
 				<integer>32</integer>
 			</dict>
 		</dict>
-		<string>pts</string>
+		<string>pt</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3105,7 +3105,8 @@
 			</dict>
 		</dict>
 		<string>OK</string>
-		<string></string>
+		<string>
+</string>
 		<string>{{0, 4}, {354, 219}}</string>
 		<dict>
 			<key>$class</key>
