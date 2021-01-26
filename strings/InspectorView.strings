@@ -1,0 +1,299 @@
+
+/* Class = "NSMenu"; title = "InspectorLabelMenu"; ObjectID = "130"; */
+"130.title" = "InspectorLabelMenu";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "131"; */
+"131.title" = "メニューのクリア";
+
+/* Class = "NSMenu"; title = "InspectorStatusMenu"; ObjectID = "136"; */
+"136.title" = "InspectorStatusMenu";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "137"; */
+"137.title" = "メニューのクリア";
+
+/* Class = "NSMenuItem"; title = "Show Project Keywords"; ObjectID = "159"; */
+"159.title" = "プロジェクトキーワードを表示";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Show other keyword options."; ObjectID = "249"; */
+"249.ibExternalAccessibilityDescription" = "その他のキーワードオプションを表示します。";
+
+/* Class = "NSMenu"; title = "InspectorKeywordsActionMenu"; ObjectID = "250"; */
+"250.title" = "InspectorKeywordsActionMenu";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "252"; */
+"252.title" = "メニューのクリア";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected keyword."; ObjectID = "253"; */
+"253.ibExternalAccessibilityDescription" = "選択されたキーワードを削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove keyword."; ObjectID = "253"; */
+"253.ibShadowedToolTip" = "キーワードを削除します。";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "287"; */
+"287.title" = "編集しています...";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "289"; */
+"289.title" = "編集しています...";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide or show general metadata."; ObjectID = "294"; */
+"294.ibExternalAccessibilityDescription" = "一般的なメタデータを隠す、または表示します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hide or show general metadata."; ObjectID = "294"; */
+"294.ibShadowedToolTip" = "一般的なメタデータを隠す、または表示します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hise or show synopsis."; ObjectID = "298"; */
+"298.ibExternalAccessibilityDescription" = "概要を隠す、または表示します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hide or show synopsis."; ObjectID = "298"; */
+"298.ibShadowedToolTip" = "概要を隠す、または表示します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Inspector notes."; ObjectID = "100413"; */
+"100413.ibExternalAccessibilityDescription" = "インスペクタノート。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Notes."; ObjectID = "100413"; */
+"100413.ibShadowedToolTip" = "注釈。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Inspector bookmarks."; ObjectID = "100417"; */
+"100417.ibExternalAccessibilityDescription" = "インスペクタブックマーク。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Bookmarks."; ObjectID = "100417"; */
+"100417.ibShadowedToolTip" = "ブックマーク。";
+
+/* Class = "NSTabViewItem"; label = "Notes"; ObjectID = "100431"; */
+"100431.label" = "注釈";
+
+/* Class = "NSMenu"; title = "InspectorDocReferencesMenu"; ObjectID = "100439"; */
+"100439.title" = "InspectorDocReferencesMenu";
+
+/* Class = "NSMenuItem"; title = "Project Bookmarks"; ObjectID = "100440"; */
+"100440.title" = "プロジェクトブックマーク";
+
+/* Class = "NSMenuItem"; title = "Document Bookmarks"; ObjectID = "100441"; */
+"100441.title" = "ドキュメントブックマーク";
+
+/* Class = "NSButtonCell"; title = "Synopsis"; ObjectID = "1100856"; */
+"1100856.title" = "概要";
+
+/* Class = "NSTextFieldCell"; title = "Project Boookmarks"; ObjectID = "1100877"; */
+"1100877.title" = "プロジェクトブックマーク";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add keyword."; ObjectID = "1100916"; */
+"1100916.ibExternalAccessibilityDescription" = "キーワードを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add keyword."; ObjectID = "1100916"; */
+"1100916.ibShadowedToolTip" = "キーワードを追加します。";
+
+/* Class = "NSMenuItem"; title = "Add Keyword"; ObjectID = "1100919"; */
+"1100919.title" = "キーワードを追加";
+
+/* Class = "NSMenu"; title = "Add Keyword"; ObjectID = "1100920"; */
+"1100920.title" = "キーワードを追加";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Inspector snapshots."; ObjectID = "1100934"; */
+"1100934.ibExternalAccessibilityDescription" = "インスペクタのスナップショット。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Snapshots."; ObjectID = "1100934"; */
+"1100934.ibShadowedToolTip" = "スナップショット。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Inspector comments and footnotes."; ObjectID = "1100936"; */
+"1100936.ibExternalAccessibilityDescription" = "インスペクタコメントと脚注。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Comments & Footnotes."; ObjectID = "1100936"; */
+"1100936.ibShadowedToolTip" = "コメントと脚注。";
+
+/* Class = "NSTabViewItem"; label = "Snapshots"; ObjectID = "1100945"; */
+"1100945.label" = "スナップショット";
+
+/* Class = "NSTabViewItem"; label = "Comments"; ObjectID = "1100947"; */
+"1100947.label" = "コメント";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Take snapshot."; ObjectID = "1100965"; */
+"1100965.ibExternalAccessibilityDescription" = "スナップショットを撮る。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Take snapshot."; ObjectID = "1100965"; */
+"1100965.ibShadowedToolTip" = "スナップショットを撮る。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete selected snapshot."; ObjectID = "1100968"; */
+"1100968.ibExternalAccessibilityDescription" = "選択されたスナップショットを削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete Snapshot."; ObjectID = "1100968"; */
+"1100968.ibShadowedToolTip" = "スナップショットを削除します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add footnote."; ObjectID = "1100978"; */
+"1100978.ibExternalAccessibilityDescription" = "脚注を追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add footnote."; ObjectID = "1100978"; */
+"1100978.ibShadowedToolTip" = "脚注を追加します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete selected comments and footnotes."; ObjectID = "1100979"; */
+"1100979.ibExternalAccessibilityDescription" = "選択されたコメントと注釈を削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete selected comments and footnotes."; ObjectID = "1100979"; */
+"1100979.ibShadowedToolTip" = "選択されたコメントと注釈を削除します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add comment."; ObjectID = "1100990"; */
+"1100990.ibExternalAccessibilityDescription" = "コメントを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add comment."; ObjectID = "1100990"; */
+"1100990.ibShadowedToolTip" = "コメントを追加します。";
+
+/* Class = "NSTextFieldCell"; title = "Comments & Footnotes"; ObjectID = "1101071"; */
+"1101071.title" = "コメント＆脚注";
+
+/* Class = "NSTextFieldCell"; title = "Snapshots"; ObjectID = "1101073"; */
+"1101073.title" = "スナップショット";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Inspector metadata."; ObjectID = "1101081"; */
+"1101081.ibExternalAccessibilityDescription" = "インスペクタメタデータ。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Metadata."; ObjectID = "1101081"; */
+"1101081.ibShadowedToolTip" = "メタデータ。";
+
+/* Class = "NSButtonCell"; title = "General Metadata"; ObjectID = "1101135"; */
+"1101135.title" = "一般メタデータ";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Show bookmark options."; ObjectID = "38b-Zu-pfY"; */
+"38b-Zu-pfY.ibExternalAccessibilityDescription" = "ブックマークオプションを表示します。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Show bookmark options."; ObjectID = "38b-Zu-pfY"; */
+"38b-Zu-pfY.ibShadowedToolTip" = "ブックマークオプションを表示します。";
+
+/* Class = "NSTextFieldCell"; title = "Modified:"; ObjectID = "9jv-16-lMd"; */
+"9jv-16-lMd.title" = "修正済み：";
+
+/* Class = "NSMenuItem"; title = "Lock Inspector to Current Editor"; ObjectID = "BrN-BN-7US"; */
+"BrN-BN-7US.title" = "インスペクタを現在のエディタにロック";
+
+/* Class = "NSMenuItem"; title = "Lock Inspector to Current Editor"; ObjectID = "Btj-ac-DUL"; */
+"Btj-ac-DUL.title" = "インスペクタを現在のエディタにロック";
+
+/* Class = "NSMenuItem"; title = "Structure-Based"; ObjectID = "Dqz-oB-0cv"; */
+"Dqz-oB-0cv.title" = "構造ベース";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected bookmarks."; ObjectID = "EvW-C3-sPH"; */
+"EvW-C3-sPH.ibExternalAccessibilityDescription" = "選択されたブックマークを削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove bookmarks."; ObjectID = "EvW-C3-sPH"; */
+"EvW-C3-sPH.ibShadowedToolTip" = "ブックマークを削除します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit custom metadata."; ObjectID = "Fh5-2r-Zs6"; */
+"Fh5-2r-Zs6.ibExternalAccessibilityDescription" = "カスタムメタデータを編集します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit custom metadata."; ObjectID = "Fh5-2r-Zs6"; */
+"Fh5-2r-Zs6.ibShadowedToolTip" = "カスタムメタデータを編集します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Toggle between showing the synopsis and an image to represent the document."; ObjectID = "Fwo-Qz-JYQ"; */
+"Fwo-Qz-JYQ.ibExternalAccessibilityDescription" = "概要の表示と画像を切り替え、ドキュメントを表示します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle show image."; ObjectID = "Fwo-Qz-JYQ"; */
+"Fwo-Qz-JYQ.ibShadowedToolTip" = "切り替えて画像を表示します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Determines whether the document should be included in the compiled draft (applies to text documents only)."; ObjectID = "G69-cu-Hze"; */
+"G69-cu-Hze.ibShadowedToolTip" = "ドキュメントをコンパイルされたdraftに含めるアk同化を決定します（テキストドキュメントのみに適用）。";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "JHw-LL-DHK"; */
+"JHw-LL-DHK.title" = "タイトル";
+
+/* Class = "NSButtonCell"; title = "Custom Metadata"; ObjectID = "LJb-db-GwF"; */
+"LJb-db-GwF.title" = "カスタムメタデータ";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "NCz-mJ-X7Y"; */
+"NCz-mJ-X7Y.title" = "メニューのクリア";
+
+/* Class = "NSMenu"; title = "InspectorKeywordsActionMenu"; ObjectID = "NVf-05-y7G"; */
+"NVf-05-y7G.title" = "InspectorKeywordsActionMenu";
+
+/* Class = "NSTextFieldCell"; title = "Section type:"; ObjectID = "Ozp-Mo-hj4"; */
+"Ozp-Mo-hj4.title" = "セクションタイプ：";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "R1E-tk-TOc"; */
+"R1E-tk-TOc.title" = "タイトル";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "Sxe-LL-k9Z"; */
+"Sxe-LL-k9Z.title" = "タイトル";
+
+/* Class = "NSTextFieldCell"; title = "Created:"; ObjectID = "Yii-sp-5Hn"; */
+"Yii-sp-5Hn.title" = "作成済み：";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide or show keywords."; ObjectID = "Z0g-uE-HKL"; */
+"Z0g-uE-HKL.ibExternalAccessibilityDescription" = "キーワードを隠す、または表示します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hide or show keywords."; ObjectID = "Z0g-uE-HKL"; */
+"Z0g-uE-HKL.ibShadowedToolTip" = "キーワードを隠す、または表示します。";
+
+/* Class = "NSMenu"; title = "InspectorKeywordsActionMenu"; ObjectID = "baD-Pb-nFk"; */
+"baD-Pb-nFk.title" = "InspectorKeywordsActionMenu";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide or show custom metadata."; ObjectID = "dbX-8V-i8q"; */
+"dbX-8V-i8q.ibExternalAccessibilityDescription" = "カスタムメタデータを隠す、または表示します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hide or show custom metadata."; ObjectID = "dbX-8V-i8q"; */
+"dbX-8V-i8q.ibShadowedToolTip" = "カスタムメタデータを隠す、または表示します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected bookmarks."; ObjectID = "dlF-UC-x5N"; */
+"dlF-UC-x5N.ibExternalAccessibilityDescription" = "選択されたブックマークを削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove bookmarks."; ObjectID = "dlF-UC-x5N"; */
+"dlF-UC-x5N.ibShadowedToolTip" = "ブックマークを削除します。";
+
+/* Class = "NSMenuItem"; title = "As-Is"; ObjectID = "eFa-II-bX7"; */
+"eFa-II-bX7.title" = "そのまま";
+
+/* Class = "NSTabViewItem"; label = "Bookmarks"; ObjectID = "f9V-wU-9qL"; */
+"f9V-wU-9qL.label" = "ブックマーク";
+
+/* Class = "NSButtonCell"; title = "Keywords"; ObjectID = "gfy-PQ-Uy1"; */
+"gfy-PQ-Uy1.title" = "キーワード";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Show bookmark options."; ObjectID = "glN-ZO-teI"; */
+"glN-ZO-teI.ibExternalAccessibilityDescription" = "ブックマークオプションを表示します。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Show bookmark options."; ObjectID = "glN-ZO-teI"; */
+"glN-ZO-teI.ibShadowedToolTip" = "ブックマークオプションを表示します。";
+
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "i6I-gh-BLr"; */
+"i6I-gh-BLr.title" = "Type";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "p5U-36-WAB"; */
+"p5U-36-WAB.title" = "編集しています...";
+
+/* Class = "NSTabViewItem"; label = "MetaData"; ObjectID = "pT1-9m-Tc7"; */
+"pT1-9m-Tc7.label" = "MetaData";
+
+/* Class = "NSButtonCell"; title = "Include in Compile"; ObjectID = "qk7-Rm-1vD"; */
+"qk7-Rm-1vD.title" = "コンパイルに含める";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "xF7-Ur-3gQ"; */
+"xF7-Ur-3gQ.title" = "タイトル";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "ybt-Ow-Br6"; */
+"ybt-Ow-Br6.title" = "メニューのクリア";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "yib-Yy-acQ"; */
+"yib-Yy-acQ.title" = "テキスト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide or show synopsis."; ObjectID = "300450"; */
+"300450.ibExternalAccessibilityDescription" = "概要を隠す、または表示します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide or show keywords."; ObjectID = "Avt-ez-2PV"; */
+"Avt-ez-2PV.ibExternalAccessibilityDescription" = "キーワードを隠す、または表示します。";
+
+/* Class = "NSButtonCell"; title = "Notes"; ObjectID = "MiI-t4-Kiw"; */
+"MiI-t4-Kiw.title" = "注釈";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hise or show synopsis."; ObjectID = "z0i-WC-cko"; */
+"z0i-WC-cko.ibExternalAccessibilityDescription" = "概要を隠す、または表示します。";
+
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide or show general meta-data."; ObjectID = "1101134"; */
+"1101134.ibExternalAccessibilityDescription" = "一般的なメタデータを非表示または表示します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide or show notes."; ObjectID = "Jia-ho-c4E"; */
+"Jia-ho-c4E.ibExternalAccessibilityDescription" = "注釈を非表示/表示。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide or show custom meta-data."; ObjectID = "Jpe-vD-KLB"; */
+"Jpe-vD-KLB.ibExternalAccessibilityDescription" = "カスタムメタデータを隠す、または表示します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hide or show notes."; ObjectID = "z0i-WC-cko"; */
+"z0i-WC-cko.ibShadowedToolTip" = "注釈を非表示/表示。";
+

@@ -1,0 +1,400 @@
+
+/* Class = "NSWindow"; title = "Script Settings"; ObjectID = "123"; */
+"123.title" = "スクリプト設定";
+
+/* Class = "NSTableColumn"; headerCell.title = "Elements"; ObjectID = "128"; */
+"128.headerCell.title" = "要素";
+
+/* Class = "NSTabViewItem"; label = "Paragraph"; ObjectID = "130"; */
+"130.label" = "段落";
+
+/* Class = "NSTabViewItem"; label = "Font"; ObjectID = "132"; */
+"132.label" = "フォント";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "message font"; ObjectID = "135"; */
+"135.ibExternalAccessibilityDescription" = "メッセージフォント";
+
+/* Class = "NSComboBox"; ibExternalAccessibilityDescription = "message font size"; ObjectID = "141"; */
+"141.ibExternalAccessibilityDescription" = "メッセージフォントサイズ";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "message font"; ObjectID = "152"; */
+"152.ibExternalAccessibilityDescription" = "メッセージフォント";
+
+/* Class = "NSMenuItem"; title = "Justified"; ObjectID = "154"; */
+"154.title" = "端を揃える";
+
+/* Class = "NSMenuItem"; title = "Right"; ObjectID = "155"; */
+"155.title" = "右";
+
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "156"; */
+"156.title" = "左";
+
+/* Class = "NSMenuItem"; title = "Center"; ObjectID = "158"; */
+"158.title" = "中央揃え";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "message font"; ObjectID = "160"; */
+"160.ibExternalAccessibilityDescription" = "メッセージフォント";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "message font"; ObjectID = "168"; */
+"168.ibExternalAccessibilityDescription" = "メッセージフォント";
+
+/* Class = "NSMenuItem"; title = "Manage..."; ObjectID = "249"; */
+"249.title" = "管理...";
+
+/* Class = "NSMenuItem"; title = "Save to file..."; ObjectID = "250"; */
+"250.title" = "ファイルを保存しています...";
+
+/* Class = "NSMenuItem"; title = "Load from file..."; ObjectID = "251"; */
+"251.title" = "ファイルからロードしています...";
+
+/* Class = "NSMenuItem"; title = "Reset to defaults"; ObjectID = "252"; */
+"252.title" = "デフォルトにリセット";
+
+/* Class = "NSTabViewItem"; label = "Tab/Return"; ObjectID = "323"; */
+"323.label" = "タブ/戻る";
+
+/* Class = "NSTabViewItem"; label = "Auto-Complete"; ObjectID = "346"; */
+"346.label" = "オートコンプリート";
+
+/* Class = "NSTableColumn"; headerCell.title = "Completion"; ObjectID = "371"; */
+"371.headerCell.title" = "コンプリーション";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new script element."; ObjectID = "377"; */
+"377.ibExternalAccessibilityDescription" = "新しいスクリプト要素を追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new script element."; ObjectID = "377"; */
+"377.ibShadowedToolTip" = "新しいスクリプト要素を追加します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete selected script element."; ObjectID = "378"; */
+"378.ibExternalAccessibilityDescription" = "選択されたスクリプト要素を削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete selected script element."; ObjectID = "378"; */
+"378.ibShadowedToolTip" = "選択されたスクリプト要素を削除します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new auto-completion."; ObjectID = "379"; */
+"379.ibExternalAccessibilityDescription" = "新しい自動完成を追加。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete selected auto-completion."; ObjectID = "380"; */
+"380.ibExternalAccessibilityDescription" = "選択されたオートコンプリーションを削除します。";
+
+/* Class = "NSMenuItem"; title = "Save for use with other projects"; ObjectID = "26900426"; */
+"26900426.title" = "別のプロジェクトと使用するために保存";
+
+/* Class = "NSWindow"; title = "SaveSheet"; ObjectID = "26900428"; */
+"26900428.title" = "SaveSheet";
+
+/* Class = "NSWindow"; title = "Advanced"; ObjectID = "53900448"; */
+"53900448.title" = "先端";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "message font"; ObjectID = "53900455"; */
+"53900455.ibExternalAccessibilityDescription" = "メッセージフォント";
+
+/* Class = "NSMenuItem"; title = "Right to Left"; ObjectID = "53900468"; */
+"53900468.title" = "右から左";
+
+/* Class = "NSMenuItem"; title = "Left to Right"; ObjectID = "53900469"; */
+"53900469.title" = "左から右";
+
+/* Class = "NSMenuItem"; title = "Natural"; ObjectID = "53900470"; */
+"53900470.title" = "ナチュラル";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "message font"; ObjectID = "107900495"; */
+"107900495.ibExternalAccessibilityDescription" = "メッセージフォント";
+
+/* Class = "NSMenuItem"; title = "Inches"; ObjectID = "107900498"; */
+"107900498.title" = "インチ";
+
+/* Class = "NSMenuItem"; title = "Centimeters"; ObjectID = "107900499"; */
+"107900499.title" = "センチメートル";
+
+/* Class = "NSMenuItem"; title = "Points"; ObjectID = "107900500"; */
+"107900500.title" = "ポイント";
+
+/* Class = "NSMenuItem"; title = "Use current font & paragraph settings"; ObjectID = "215900892"; */
+"215900892.title" = "現在のフォント＆段落設定を使用";
+
+/* Class = "NSMenuItem"; title = "Load from Final Draft .fdx or .fdxt file..."; ObjectID = "215901098"; */
+"215901098.title" = "最終ドラフト.fdxまたは.fdxtファイルからロードします...";
+
+/* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "215901102"; */
+"215901102.title" = "配列";
+
+/* Class = "NSTextFieldCell"; title = "Spacing:"; ObjectID = "215901104"; */
+"215901104.title" = "スペース：";
+
+/* Class = "NSTextFieldCell"; title = "Space Before:"; ObjectID = "215901106"; */
+"215901106.title" = "前にスペース：";
+
+/* Class = "NSTextFieldCell"; title = "Left Indent:"; ObjectID = "215901110"; */
+"215901110.title" = "左インデント：";
+
+/* Class = "NSTextFieldCell"; title = "inch(es)"; ObjectID = "215901111"; */
+"215901111.title" = "インチ";
+
+/* Class = "NSTextFieldCell"; title = "Right Indent:"; ObjectID = "215901114"; */
+"215901114.title" = "右インデント：";
+
+/* Class = "NSTextFieldCell"; title = "inch(es)"; ObjectID = "215901115"; */
+"215901115.title" = "インチ";
+
+/* Class = "NSTextFieldCell"; title = "First Tab:"; ObjectID = "215901118"; */
+"215901118.title" = "最初のタブ：";
+
+/* Class = "NSTextFieldCell"; title = "inch(es)"; ObjectID = "215901119"; */
+"215901119.title" = "インチ";
+
+/* Class = "NSTextFieldCell"; title = "First Line Indent:"; ObjectID = "215901122"; */
+"215901122.title" = "最初の行のインデント：";
+
+/* Class = "NSTextFieldCell"; title = "inch(es)"; ObjectID = "215901123"; */
+"215901123.title" = "インチ";
+
+/* Class = "NSButtonCell"; title = "Options..."; ObjectID = "215901124"; */
+"215901124.title" = "オプション...";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "215901125"; */
+"215901125.title" = "フォント：";
+
+/* Class = "NSComboBoxCell"; title = "12"; ObjectID = "215901128"; */
+"215901128.title" = "12";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[0] = "8"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[0]" = "8";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[1] = "9"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[1]" = "9";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[2] = "10"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[2]" = "10";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[3] = "11"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[3]" = "11";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[4] = "12"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[4]" = "12";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[5] = "13"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[5]" = "13";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[6] = "14"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[6]" = "14";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[7] = "16"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[7]" = "16";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[8] = "18"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[8]" = "18";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[9] = "20"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[9]" = "20";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[10] = "24"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[10]" = "24";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[11] = "28"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[11]" = "28";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[12] = "32"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[12]" = "32";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[13] = "48"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[13]" = "48";
+
+/* Class = "NSComboBoxCell"; 215901128.ibShadowedObjectValues[14] = "64"; ObjectID = "215901128"; */
+"215901128.ibShadowedObjectValues[14]" = "64";
+
+/* Class = "NSButtonCell"; title = "Bold"; ObjectID = "215901129"; */
+"215901129.title" = "ボールド";
+
+/* Class = "NSButtonCell"; title = "Italic"; ObjectID = "215901130"; */
+"215901130.title" = "イタリック";
+
+/* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "215901131"; */
+"215901131.title" = "スタイル：";
+
+/* Class = "NSButtonCell"; title = "Underline by word"; ObjectID = "215901132"; */
+"215901132.title" = "単語ごとにアンダーライン";
+
+/* Class = "NSButtonCell"; title = "Parenthetical"; ObjectID = "215901133"; */
+"215901133.title" = "角括弧";
+
+/* Class = "NSTextFieldCell"; title = "Menu shortcut:"; ObjectID = "215901137"; */
+"215901137.title" = "メニューのショートカット：";
+
+/* Class = "NSTextFieldCell"; title = "On return:"; ObjectID = "215901140"; */
+"215901140.title" = "戻る：";
+
+/* Class = "NSTextFieldCell"; title = "Tab behavior"; ObjectID = "215901141"; */
+"215901141.title" = "タブの行動";
+
+/* Class = "NSButtonCell"; title = "Allow tabs"; ObjectID = "215901143"; */
+"215901143.title" = "タブを許可";
+
+/* Class = "NSTextFieldCell"; title = "Tabbing after typing:"; ObjectID = "215901144"; */
+"215901144.title" = "タイプ後にタブ入力：";
+
+/* Class = "NSTextFieldCell"; title = "Tabbing on an empty line:"; ObjectID = "215901146"; */
+"215901146.title" = "空欄行にタブ入力：";
+
+/* Class = "NSTextFieldCell"; title = "Go to:"; ObjectID = "215901147"; */
+"215901147.title" = "移動先：";
+
+/* Class = "NSButtonCell"; title = "Include project completions for this element"; ObjectID = "215901152"; */
+"215901152.title" = "この要素のプロジェクト完成を含める";
+
+/* Class = "NSTextFieldCell"; title = "Custom Script"; ObjectID = "215901154"; */
+"215901154.title" = "カスタムスクリプト";
+
+/* Class = "NSTextFieldCell"; title = "Format Title:"; ObjectID = "215901155"; */
+"215901155.title" = "フォーマットタイトル：";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "215901156"; */
+"215901156.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "215901157"; */
+"215901157.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Unit:"; ObjectID = "215901161"; */
+"215901161.title" = "単位：";
+
+/* Class = "NSTextFieldCell"; title = "Please enter a name for the template file:"; ObjectID = "215901164"; */
+"215901164.title" = "テンプレートファイル名を入力してください：";
+
+/* Class = "NSTextFieldCell"; title = "The template will be saved in Scrivener's Application Support folder."; ObjectID = "215901165"; */
+"215901165.title" = "テンプレートはScrivenerのアプリケーションサポートフォルダに保存されます。";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "215901166"; */
+"215901166.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "215901167"; */
+"215901167.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "inch(es)"; ObjectID = "215901168"; */
+"215901168.title" = "インチ";
+
+/* Class = "NSTextFieldCell"; title = "Default Tab Interval:"; ObjectID = "215901171"; */
+"215901171.title" = "デフォルトタブの間隔：";
+
+/* Class = "NSTextFieldCell"; title = "Writing direction:"; ObjectID = "215901172"; */
+"215901172.title" = "文章の方向：";
+
+/* Class = "NSTextFieldCell"; title = "point(s)"; ObjectID = "215901174"; */
+"215901174.title" = "ポイント";
+
+/* Class = "NSTextFieldCell"; title = "Fixed Line Height:"; ObjectID = "215901177"; */
+"215901177.title" = "固定された行の高さ：";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "215901178"; */
+"215901178.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "And:"; ObjectID = "215901218"; */
+"215901218.title" = "および：";
+
+/* Class = "NSTextFieldCell"; title = "Between:"; ObjectID = "215901219"; */
+"215901219.title" = "間：";
+
+/* Class = "NSButtonCell"; title = "Automatically add phrases to project list that occur:"; ObjectID = "215901220"; */
+"215901220.title" = "生じるプロジェクトリストに文を自動的に追加：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Go To Next Line"; ObjectID = "215901223"; */
+"215901223.headerCell.title" = "次の行に移動";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "215901226"; */
+"215901226.title" = "チェック";
+
+/* Class = "NSMenuItem"; title = "Do nothing"; ObjectID = "215901239"; */
+"215901239.title" = "何もしない";
+
+/* Class = "NSMenuItem"; title = "Go to next line"; ObjectID = "215901240"; */
+"215901240.title" = "次の行に移動";
+
+/* Class = "NSMenuItem"; title = "Insert a tab"; ObjectID = "215901241"; */
+"215901241.title" = "タブを挿入";
+
+/* Class = "NSTextFieldCell"; title = "After project list completions:"; ObjectID = "215901243"; */
+"215901243.title" = "プロジェクトリストの完成後：";
+
+/* Class = "NSTextFieldCell"; title = "Script Settings"; ObjectID = "215901253"; */
+"215901253.title" = "スクリプト設定";
+
+/* Class = "NSButtonCell"; title = "Keep with next paragraph"; ObjectID = "215901257"; */
+"215901257.title" = "次の段落をキープする";
+
+/* Class = "NSButtonCell"; title = "All caps"; ObjectID = "215901261"; */
+"215901261.title" = "全てのキャピタル";
+
+/* Class = "NSTextFieldCell"; title = "Style to:"; ObjectID = "215901265"; */
+"215901265.title" = "スタイル先：";
+
+/* Class = "NSButtonCell"; title = "Add colon before return"; ObjectID = "215901272"; */
+"215901272.title" = "戻る前にコロンを追加";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "215901280"; */
+"215901280.title" = "色：";
+
+/* Class = "NSTextFieldCell"; title = "Only phrases from the project auto-complete list will be suggested between the delimiters."; ObjectID = "215901292"; */
+"215901292.title" = "プロジェクトのオートコンプリートリストからの文だけが区切り文字の間に提案されます。";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "215901316"; */
+"215901316.title" = "チェック";
+
+/* Class = "NSTextFieldCell"; title = "Add prefix when compiling:"; ObjectID = "215901328"; */
+"215901328.title" = "コンパイル時に接頭辞を追加：";
+
+/* Class = "NSButtonCell"; title = "Only add prefix when compiling to print/PDF"; ObjectID = "215901335"; */
+"215901335.title" = "印刷/PDFにコンパイル時に接頭辞のみを追加";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "215901346"; */
+"215901346.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "Against Left Margin"; ObjectID = "215901347"; */
+"215901347.title" = "左マージンに対して";
+
+/* Class = "NSMenuItem"; title = "Against Right Margin"; ObjectID = "215901348"; */
+"215901348.title" = "右マージンに対して";
+
+/* Class = "NSMenuItem"; title = "Against Both Margins"; ObjectID = "215901352"; */
+"215901352.title" = "両方のマージンに対して";
+
+/* Class = "NSTextFieldCell"; title = "Sequential numbering:"; ObjectID = "215901354"; */
+"215901354.title" = "連続番号付け：";
+
+/* Class = "NSTextFieldCell"; title = "Compile Settings"; ObjectID = "215901356"; */
+"215901356.title" = "コンパイル設定";
+
+/* Class = "NSTextFieldCell"; title = "Numbering is only supported for print, PDF and FDX formats."; ObjectID = "215901360"; */
+"215901360.title" = "番号付けは印刷、PDF、FDX形式にのみサポートされています。";
+
+/* Class = "NSMenuItem"; title = "End of line"; ObjectID = "215901364"; */
+"215901364.title" = "行終了";
+
+/* Class = "NSMenuItem"; title = "First tab"; ObjectID = "215901365"; */
+"215901365.title" = "最初のタブ";
+
+/* Class = "NSMenuItem"; title = "Character delimiter"; ObjectID = "215901366"; */
+"215901366.title" = "区切り文字";
+
+/* Class = "NSMenuItem"; title = "No Underline"; ObjectID = "215901372"; */
+"215901372.title" = "アンダーラインなし";
+
+/* Class = "NSMenuItem"; title = "Single Underline"; ObjectID = "215901373"; */
+"215901373.title" = "単一罫線";
+
+/* Class = "NSMenuItem"; title = "Double Underline"; ObjectID = "215901374"; */
+"215901374.title" = "二重罫線";
+
+/* Class = "NSButtonCell"; title = "Italicize text after style delimiter"; ObjectID = "215901398"; */
+"215901398.title" = "スタイル区切り文字の後のテキストをイタリックにする";
+
+/* Class = "NSTextFieldCell"; title = "Insert:"; ObjectID = "GQ5-hS-CvV"; */
+"GQ5-hS-CvV.title" = "挿入：";
+
+/* Class = "NSTextFieldCell"; title = "Elements"; ObjectID = "HsO-74-OuG"; */
+"HsO-74-OuG.title" = "要素";
+
+/* Class = "NSTextFieldCell"; title = "Go to:"; ObjectID = "jRc-4U-rRQ"; */
+"jRc-4U-rRQ.title" = "移動先：";
+
+/* Class = "NSTextFieldCell"; title = "\"Go to\" is used if \"Insert\" is empty or already exists in the line."; ObjectID = "UYV-cS-YkT"; */
+"UYV-cS-YkT.title" = "\"挿入\"が空かすでに行にあれば\"移動\"を使用します。";
+

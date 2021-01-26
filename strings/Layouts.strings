@@ -1,0 +1,54 @@
+
+/* Class = "NSWindow"; title = "Layouts"; ObjectID = "1"; */
+"1.title" = "レイアウト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete selected layout."; ObjectID = "114"; */
+"114.ibExternalAccessibilityDescription" = "選択されたレイアウトを削除します";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete selected layout."; ObjectID = "114"; */
+"114.ibShadowedToolTip" = "選択されたレイアウトを削除します";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add layout based on current window."; ObjectID = "115"; */
+"115.ibExternalAccessibilityDescription" = "現在のウィンドウを基にしたレイアウトを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add layout based on current window."; ObjectID = "115"; */
+"115.ibShadowedToolTip" = "現在のウィンドウを基にしたレイアウトを追加します。";
+
+/* Class = "NSMenuItem"; title = "Import Layouts..."; ObjectID = "194"; */
+"194.title" = "レイアウトをインポートします...";
+
+/* Class = "NSMenuItem"; title = "Export Selected Layout..."; ObjectID = "195"; */
+"195.title" = "選択されたレイアウトをエクスポートします...";
+
+/* Class = "NSMenuItem"; title = "Update Selected Layout"; ObjectID = "204"; */
+"204.title" = "選択されたレイアウトをアップデート";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Loads the selected layout."; ObjectID = "206"; */
+"206.ibShadowedToolTip" = "選択されたレイアウトをロードします。";
+
+/* Class = "NSButtonCell"; title = "Use"; ObjectID = "207"; */
+"207.title" = "使用";
+
+/* Class = "NSButtonCell"; title = "Save outliner and corkboard settings"; ObjectID = "214"; */
+"214.title" = "アウトライナーとコルクボード設定を保存";
+
+/* Class = "NSButtonCell"; title = "Preserve all metadata appearance options"; ObjectID = "216"; */
+"216.title" = "全てのメタデータの外見オプションを保持";
+
+/* Class = "NSTabViewItem"; label = "Image"; ObjectID = "233"; */
+"233.label" = "画像";
+
+/* Class = "NSTabViewItem"; label = "Message"; ObjectID = "235"; */
+"235.label" = "Message";
+
+/* Class = "NSTextFieldCell"; title = "Layouts"; ObjectID = "242"; */
+"242.title" = "レイアウト";
+
+/* Class = "NSMenuItem"; title = "Use Selected Layout When Entering Full Screen"; ObjectID = "244"; */
+"244.title" = "フルスクリーンにする際に、選択されたレイアウトを使用";
+
+/* Class = "NSTextFieldCell"; title = "\"Layouts\" allow you to save the current window and interface set-up so that you can quickly switch between different workspace arrangements.\n\nTo get started, click on the \"+\" button to save the current window and view settings."; ObjectID = "238"; */
+"238.title" = "\"Layouts\" allow you to save the current window and interface set-up so that you can quickly switch between different workspace arrangements.\n\nTo get started, click on the \"+\" button to save the current window and view settings.";
+
+/* Class = "NSMenuItem"; title = "Hide Built-In Layouts in Menus"; ObjectID = "TLf-iR-mK5"; */
+"TLf-iR-mK5.title" = "メニューの組み込みレイアウトを非表示";

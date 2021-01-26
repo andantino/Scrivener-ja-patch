@@ -1,0 +1,1701 @@
+
+/* Class = "NSMenuItem"; title = "Color"; ObjectID = "819103852"; */
+"819103852.title" = "色";
+
+/* Class = "NSMenuItem"; title = "Custom background..."; ObjectID = "819103853"; */
+"819103853.title" = "カスタムバックグラウンド...";
+
+/* Class = "NSMenuItem"; title = "Centimeters"; ObjectID = "819104483"; */
+"819104483.title" = "センチメートル";
+
+/* Class = "NSMenuItem"; title = "Inches"; ObjectID = "819104484"; */
+"819104484.title" = "インチ";
+
+/* Class = "NSMenuItem"; title = "No scroller"; ObjectID = "819104605"; */
+"819104605.title" = "スクローラーがありません";
+
+/* Class = "NSMenuItem"; title = "Full screen scroller"; ObjectID = "819104606"; */
+"819104606.title" = "フルスクリーンスクローラー";
+
+/* Class = "NSMenuItem"; title = "Auto-hiding scroller (uses text color)"; ObjectID = "819104607"; */
+"819104607.title" = "Autohidingスクローラー（テキストカラーを使用）";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "819104670"; */
+"819104670.title" = "テキスト";
+
+/* Class = "NSMenuItem"; title = "WebArchives"; ObjectID = "819104671"; */
+"819104671.title" = "WebArchives";
+
+/* Class = "NSMenuItem"; title = "Swedish"; ObjectID = "819104679"; */
+"819104679.title" = "スウェーデン語";
+
+/* Class = "NSMenuItem"; title = "Dutch"; ObjectID = "819104680"; */
+"819104680.title" = "オランダ語";
+
+/* Class = "NSMenuItem"; title = "Danish"; ObjectID = "819104681"; */
+"819104681.title" = "デンマーク語";
+
+/* Class = "NSMenuItem"; title = "English"; ObjectID = "819104682"; */
+"819104682.title" = "英語";
+
+/* Class = "NSMenuItem"; title = "Finnish"; ObjectID = "819104683"; */
+"819104683.title" = "フィンランド語";
+
+/* Class = "NSMenuItem"; title = "French"; ObjectID = "819104684"; */
+"819104684.title" = "フランス語";
+
+/* Class = "NSMenuItem"; title = "Italian"; ObjectID = "819104685"; */
+"819104685.title" = "イタリア語";
+
+/* Class = "NSMenuItem"; title = "Norwegian"; ObjectID = "819104686"; */
+"819104686.title" = "ノルウェー語";
+
+/* Class = "NSMenuItem"; title = "Portuguese"; ObjectID = "819104687"; */
+"819104687.title" = "ポルトガル語";
+
+/* Class = "NSMenuItem"; title = "Spanish"; ObjectID = "819104688"; */
+"819104688.title" = "スペイン語";
+
+/* Class = "NSMenuItem"; title = "German"; ObjectID = "819104689"; */
+"819104689.title" = "ドイツ語";
+
+/* Class = "NSMenuItem"; title = "Compile settings"; ObjectID = "819104722"; */
+"819104722.title" = "コンパイル設定";
+
+/* Class = "NSMenuItem"; title = "File ▹ Page Setup settings"; ObjectID = "819104723"; */
+"819104723.title" = "ファイル ▹ ページセットアップの設定";
+
+/* Class = "NSMenuItem"; title = "Lined"; ObjectID = "819105997"; */
+"819105997.title" = "罫線";
+
+/* Class = "NSMenuItem"; title = "Plain"; ObjectID = "819105998"; */
+"819105998.title" = "プレーン";
+
+/* Class = "NSMenuItem"; title = "Standard"; ObjectID = "819105999"; */
+"819105999.title" = "標準";
+
+/* Class = "NSMenuItem"; title = "Use standard macOS .doc exporter"; ObjectID = "819107002"; */
+"819107002.title" = "標準macOS .doc エクスポーターを使用";
+
+/* Class = "NSMenuItem"; title = "Export as RTF-based .doc file"; ObjectID = "819107003"; */
+"819107003.title" = "RTFベースの.docファイルとしてエクスポート";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select to include HTML code that preserves the blank areas currently in your document."; ObjectID = "819107520"; */
+"819107520.ibShadowedToolTip" = "選択して、ドキュメント内の空欄を保存するHTMLコードを含みます。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose the document type for saved HTML files."; ObjectID = "819107521"; */
+"819107521.ibShadowedToolTip" = "保存したHTMLファイルのドキュメントタイプを選択します。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose the form of cascading style sheets (CSS) you want, otherwise choose No CSS."; ObjectID = "819107522"; */
+"819107522.ibShadowedToolTip" = "カスケーディング・スタイル・シート（CSS）の書式を選択します。そうでない場合は「CSSなし」を選択します。";
+
+/* Class = "NSMenuItem"; title = "Embedded CSS"; ObjectID = "819107529"; */
+"819107529.title" = "組込CSS";
+
+/* Class = "NSMenuItem"; title = "Inline CSS"; ObjectID = "819107530"; */
+"819107530.title" = "インラインCSS";
+
+/* Class = "NSMenuItem"; title = "No CSS"; ObjectID = "819107531"; */
+"819107531.title" = "CSSなし";
+
+/* Class = "NSMenuItem"; title = "HTML 4.01 Strict"; ObjectID = "819107534"; */
+"819107534.title" = "HTML 4.01 Strict";
+
+/* Class = "NSMenuItem"; title = "HTML 4.01 Transitional"; ObjectID = "819107535"; */
+"819107535.title" = "HTML 4.01 Transitional";
+
+/* Class = "NSMenuItem"; title = "XHTML 1.0 Strict"; ObjectID = "819107536"; */
+"819107536.title" = "XHTML 1.0 Strict";
+
+/* Class = "NSMenuItem"; title = "XHTML 1.0 Transitional"; ObjectID = "819107537"; */
+"819107537.title" = "XHTML 1.0 Transitional";
+
+/* Class = "NSMenuItem"; title = "Manage..."; ObjectID = "819108121"; */
+"819108121.title" = "管理...";
+
+/* Class = "NSMenuItem"; title = "Load All Preferences..."; ObjectID = "819108122"; */
+"819108122.title" = "全てのお気に入りをロードします...";
+
+/* Class = "NSMenuItem"; title = "Save All Preferences..."; ObjectID = "819108123"; */
+"819108123.title" = "全てのお気に入りを保存します...";
+
+/* Class = "NSWindow"; title = "Scrivener Preferences"; ObjectID = "819108146"; */
+"819108146.title" = "Scrivenerの優先";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose the document type for saved HTML files."; ObjectID = "819110612"; */
+"819110612.ibShadowedToolTip" = "保存したHTMLファイルのドキュメントタイプを選択します。";
+
+/* Class = "NSMenuItem"; title = "Synopsis"; ObjectID = "819110615"; */
+"819110615.title" = "概要";
+
+/* Class = "NSMenuItem"; title = "Main Text"; ObjectID = "819110616"; */
+"819110616.title" = "主要テキスト";
+
+/* Class = "NSMenuItem"; title = "Notes"; ObjectID = "819110617"; */
+"819110617.title" = "注釈";
+
+/* Class = "NSTableColumn"; headerCell.title = "Feature"; ObjectID = "819113103"; */
+"819113103.headerCell.title" = "機能";
+
+/* Class = "NSTableColumn"; headerCell.title = "Separator"; ObjectID = "819113104"; */
+"819113104.headerCell.title" = "セパレータ";
+
+/* Class = "NSTableColumn"; headerCell.title = "Custom Separator"; ObjectID = "819113107"; */
+"819113107.headerCell.title" = "カスタムセパレータ";
+
+/* Class = "NSMenuItem"; title = "Opens the parent corkboard"; ObjectID = "819113801"; */
+"819113801.title" = "親のコルクボードを開く";
+
+/* Class = "NSMenuItem"; title = "Creates a new card"; ObjectID = "819113802"; */
+"819113802.title" = "新しいカードを作成";
+
+/* Class = "NSMenuItem"; title = "Does nothing"; ObjectID = "819113803"; */
+"819113803.title" = "何もしない";
+
+/* Class = "NSButtonCell"; title = "Draw notepad lines in document notes"; ObjectID = "819114198"; */
+"819114198.title" = "ドキュメント注釈でノートパッドラインを引く";
+
+/* Class = "NSButtonCell"; title = "Outliner uses alternating row colors"; ObjectID = "819114204"; */
+"819114204.title" = "アウトライナーは欄に代わりの色を使用します";
+
+/* Class = "NSTextFieldCell"; title = "High"; ObjectID = "819114205"; */
+"819114205.title" = "高";
+
+/* Class = "NSTextFieldCell"; title = "Low"; ObjectID = "819114207"; */
+"819114207.title" = "低";
+
+/* Class = "NSTextFieldCell"; title = "Opacity of label colors when used in backgrounds:"; ObjectID = "819114208"; */
+"819114208.title" = "背景で使用した場合のラベルカラーの不透明度";
+
+/* Class = "NSButtonCell"; title = "Outliner has vertical grid lines"; ObjectID = "819114209"; */
+"819114209.title" = "アウトライナーには垂直のグリッドラインがあります";
+
+/* Class = "NSTextFieldCell"; title = "Binder font:"; ObjectID = "819114215"; */
+"819114215.title" = "バインダーフォント：";
+
+/* Class = "NSTextFieldCell"; title = "Titles:"; ObjectID = "819114220"; */
+"819114220.title" = "タイトル：";
+
+/* Class = "NSButtonCell"; title = "Outliner has horizontal grid lines"; ObjectID = "819114221"; */
+"819114221.title" = "アウトライナーには水平のグリッドラインがあります";
+
+/* Class = "NSTextFieldCell"; title = "Status stamp opacity:"; ObjectID = "819114224"; */
+"819114224.title" = "ステータススタンプの不透明度：";
+
+/* Class = "NSButtonCell"; title = "Display images as photographs"; ObjectID = "819114225"; */
+"819114225.title" = "写真として画像を表示";
+
+/* Class = "NSTextFieldCell"; title = "Low"; ObjectID = "819114226"; */
+"819114226.title" = "低";
+
+/* Class = "NSTextFieldCell"; title = "Corkboard background:"; ObjectID = "819114231"; */
+"819114231.title" = "コルクボードの背景：";
+
+/* Class = "NSTextFieldCell"; title = "High"; ObjectID = "819114232"; */
+"819114232.title" = "高";
+
+/* Class = "NSTextFieldCell"; title = "Index card theme:"; ObjectID = "819114235"; */
+"819114235.title" = "インデックスカードのテーマ：";
+
+/* Class = "NSTextFieldCell"; title = "Index card titles:"; ObjectID = "819114242"; */
+"819114242.title" = "インデックスカードのタイトル：";
+
+/* Class = "NSTextFieldCell"; title = "Photograph titles:"; ObjectID = "819114245"; */
+"819114245.title" = "写真のタイトル：";
+
+/* Class = "NSTextFieldCell"; title = "Index card text:"; ObjectID = "819114248"; */
+"819114248.title" = "インデックスカードのテキスト：";
+
+/* Class = "NSTextFieldCell"; title = "Status stamps:"; ObjectID = "819114251"; */
+"819114251.title" = "ステータススタンプ：";
+
+/* Class = "NSButtonCell"; title = "Allow drop ons in corkboard"; ObjectID = "819114253"; */
+"819114253.title" = "コルクボードにドロップオンを可能にする";
+
+/* Class = "NSButtonCell"; title = "Arrange cards from right to left"; ObjectID = "819114254"; */
+"819114254.title" = "右から左へカードを整理する";
+
+/* Class = "NSTextFieldCell"; title = "Double-clicking corkboard background:"; ObjectID = "819114256"; */
+"819114256.title" = "ダブルクリックしたコルクボードの背景：";
+
+/* Class = "NSButtonCell"; title = "Use Formatting in Current Editor"; ObjectID = "819114259"; */
+"819114259.title" = "現在のエディタで書式設定を使用";
+
+/* Class = "NSButtonCell"; title = "Center titles"; ObjectID = "819114264"; */
+"819114264.title" = "タイトルを中央揃えにする";
+
+/* Class = "NSTextFieldCell"; title = "Notes font:"; ObjectID = "819114268"; */
+"819114268.title" = "注釈のフォント：";
+
+/* Class = "NSTextFieldCell"; title = "Scrivening titles:"; ObjectID = "819114272"; */
+"819114272.title" = "連結表示時のタイトル：";
+
+/* Class = "NSButtonCell"; title = "Different inline footnotes font:"; ObjectID = "819114276"; */
+"819114276.title" = "インライン脚注の異なるフォント：";
+
+/* Class = "NSButtonCell"; title = "Show folder text when selected from search results"; ObjectID = "819114279"; */
+"819114279.title" = "検索結果からの選択時にフォルダテキストを表示";
+
+/* Class = "NSButtonCell"; title = "Treat all documents with subdocuments as folders"; ObjectID = "819114280"; */
+"819114280.title" = "サブドキュメントが付いたドキュメントすべてをフォルダとして処理する";
+
+/* Class = "NSButtonCell"; title = "Creates new item in list, outline and corkboard views"; ObjectID = "819114281"; */
+"819114281.title" = "リスト、アウトライン、コルクボード表示内に新しい項目を作成する";
+
+/* Class = "NSButtonCell"; title = "Collapse auto-expanded outline items after drag and drop"; ObjectID = "819114285"; */
+"819114285.title" = "ドラッグ＆ドロップ後に自動的に展開されたアウトライン項目を折りたたむ";
+
+/* Class = "NSButtonCell"; title = "Include enclosing folder text in scrivenings mode"; ObjectID = "819114286"; */
+"819114286.title" = "連結表示モードで親フォルダを含む";
+
+/* Class = "NSButtonCell"; title = "Ends editing synopsis in corkboard and outliner"; ObjectID = "819114287"; */
+"819114287.title" = "コルクボードとアウトライナー内での概要の編集を終了する";
+
+/* Class = "NSButtonCell"; title = "Smart copy/paste"; ObjectID = "819114289"; */
+"819114289.title" = "スマートコピー/ペースト";
+
+/* Class = "NSButtonCell"; title = "Typing clears search highlights"; ObjectID = "819114290"; */
+"819114290.title" = "タイピングクリア 検索ハイライト";
+
+/* Class = "NSTextFieldCell"; title = "(Used for window zooming and for the width of the fixed-width editor. Enter 0 to force the window to fit the screen.)"; ObjectID = "819114299"; */
+"819114299.title" = "（ウィンドウのズームと固定幅エディタの幅に使用。0を入力してウィンドウを画面にフィットさせる。）";
+
+/* Class = "NSButtonCell"; title = "Use Current"; ObjectID = "819114300"; */
+"819114300.title" = "現在のページを使用";
+
+/* Class = "NSTextFieldCell"; title = "Default text zoom:"; ObjectID = "819114304"; */
+"819114304.title" = "デフォルトのテキストズーム：";
+
+/* Class = "NSTextFieldCell"; title = "Spacing between pages:"; ObjectID = "819114307"; */
+"819114307.title" = "ページ間の間隔：";
+
+/* Class = "NSButtonCell"; title = "Draw shadow around pages"; ObjectID = "819114308"; */
+"819114308.title" = "ページ周辺に影を描く";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819114326"; */
+"819114326.title" = "ポイント";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819114327"; */
+"819114327.title" = "ポイント";
+
+/* Class = "NSTextFieldCell"; title = "Top/Bottom:"; ObjectID = "819114328"; */
+"819114328.title" = "トップ/ボトム：";
+
+/* Class = "NSTextFieldCell"; title = "Left/Right:"; ObjectID = "819114330"; */
+"819114330.title" = "左/右：";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819114334"; */
+"819114334.title" = "ポイント";
+
+/* Class = "NSButtonCell"; title = "Main editor and Quick Reference panels"; ObjectID = "819114336"; */
+"819114336.title" = "メインエディタとクイックリファレンスパネル";
+
+/* Class = "NSButtonCell"; title = "Main editor and Quick Reference panels"; ObjectID = "819114337"; */
+"819114337.title" = "メインエディタとクイックリファレンスパネル";
+
+/* Class = "NSTextFieldCell"; title = "Ruler units:"; ObjectID = "819114339"; */
+"819114339.title" = "定規の単位：";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819114340"; */
+"819114340.title" = "ポイント";
+
+/* Class = "NSButtonCell"; title = "Show page view in new projects"; ObjectID = "819114341"; */
+"819114341.title" = "新規プロジェクトでページ表示を表示";
+
+/* Class = "NSButtonCell"; title = "Highlight current line"; ObjectID = "819114342"; */
+"819114342.title" = "現在のラインをハイライト";
+
+/* Class = "NSButtonCell"; title = "Use hyphenation"; ObjectID = "819114343"; */
+"819114343.title" = "ハイフンを使用";
+
+/* Class = "NSButtonCell"; title = "Center pages"; ObjectID = "819114344"; */
+"819114344.title" = "センターページ";
+
+/* Class = "NSButtonCell"; title = "Use fixed width editor"; ObjectID = "819114345"; */
+"819114345.title" = "固定幅エディタを使用";
+
+/* Class = "NSButtonCell"; title = "Show margin guides"; ObjectID = "819114346"; */
+"819114346.title" = "マージンガイドを表示";
+
+/* Class = "NSTextFieldCell"; title = "Left/Right:"; ObjectID = "819114348"; */
+"819114348.title" = "左/右：";
+
+/* Class = "NSButtonCell"; title = "Hide main window in composition mode"; ObjectID = "819114349"; */
+"819114349.title" = "構成モードでメインウィンドウを隠す";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819114350"; */
+"819114350.title" = "ポイント";
+
+/* Class = "NSTextFieldCell"; title = "Top/Bottom:"; ObjectID = "819114351"; */
+"819114351.title" = "トップ/ボトム：";
+
+/* Class = "NSButtonCell"; title = "Fade between modes"; ObjectID = "819114358"; */
+"819114358.title" = "モード間でフェード";
+
+/* Class = "NSTextFieldCell"; title = "Scroller type:"; ObjectID = "819114359"; */
+"819114359.title" = "スクローラータイプ：";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819114360"; */
+"819114360.title" = "ポイント";
+
+/* Class = "NSButtonCell"; title = "Composition mode"; ObjectID = "819114361"; */
+"819114361.title" = "構成モード";
+
+/* Class = "NSButtonCell"; title = "Composition mode"; ObjectID = "819114362"; */
+"819114362.title" = "構成モード";
+
+/* Class = "NSTextFieldCell"; title = "Editor margins:"; ObjectID = "819114368"; */
+"819114368.title" = "エディタマージン：";
+
+/* Class = "NSButtonCell"; title = "Highlight current line"; ObjectID = "819114383"; */
+"819114383.title" = "現在のラインをハイライト";
+
+/* Class = "NSButtonCell"; title = "Convert imported WebArchives and web pages to text"; ObjectID = "819114386"; */
+"819114386.title" = "インポートされたウェブアーカイブ（WebArchives）とウェブページをテキストに変換";
+
+/* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "819114395"; */
+"819114395.title" = "言語：";
+
+/* Class = "NSTextFieldCell"; title = "Microsoft .doc:"; ObjectID = "819114399"; */
+"819114399.title" = "Microsoft .doc:";
+
+/* Class = "NSButtonCell"; title = "Preserve white space"; ObjectID = "819114403"; */
+"819114403.title" = "空欄を保存";
+
+/* Class = "NSTextFieldCell"; title = "Import notes into:"; ObjectID = "819114408"; */
+"819114408.title" = "注釈のインポート先：";
+
+/* Class = "NSTextFieldCell"; title = "Convert HTML files to:"; ObjectID = "819114411"; */
+"819114411.title" = "HTMLファイルの変換先：";
+
+/* Class = "NSButtonCell"; title = "Create folder to hold imported OPML items"; ObjectID = "819114414"; */
+"819114414.title" = "インポートされたOPMLアイテムを保存するためにフォルダーを作成する";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "819114419"; */
+"819114419.title" = "リセット";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "819114420"; */
+"819114420.title" = "選択します...";
+
+/* Class = "NSTextFieldCell"; title = "None"; ObjectID = "819114421"; */
+"819114421.title" = "なし";
+
+/* Class = "NSTextFieldCell"; title = "Bibliography Manager:"; ObjectID = "819114422"; */
+"819114422.title" = "バイオグラフィーマネージャー：";
+
+/* Class = "NSButtonCell"; title = "Check for external project changes:"; ObjectID = "819114423"; */
+"819114423.title" = "外部プロジェクトの変更を確認：";
+
+/* Class = "NSTextFieldCell"; title = "second(s) of inactivity"; ObjectID = "819114424"; */
+"819114424.title" = "使用していない時間（秒）";
+
+/* Class = "NSButtonCell"; title = "Show template chooser when there are no projects open"; ObjectID = "819114425"; */
+"819114425.title" = "プロジェクトが開かれていない場合、テンプレートチューザーを表示";
+
+/* Class = "NSButtonCell"; title = "Reopen projects that were open on quit"; ObjectID = "819114429"; */
+"819114429.title" = "終了時に開かれていたプロジェクトを再度開く";
+
+/* Class = "NSTextFieldCell"; title = "Auto-save after"; ObjectID = "819114430"; */
+"819114430.title" = "後に自動保存";
+
+/* Class = "NSButtonCell"; title = "Bring Scrivener to front when using Services"; ObjectID = "819114433"; */
+"819114433.title" = "サービス使用時にScrivenerを前面に出す";
+
+/* Class = "NSButtonCell"; title = "Reset All Warnings"; ObjectID = "819114435"; */
+"819114435.title" = "全ての警告をリセット";
+
+/* Class = "NSTextFieldCell"; title = "Hot key:"; ObjectID = "819114438"; */
+"819114438.title" = "ホットキー：";
+
+/* Class = "NSTextFieldCell"; title = "Notes location:"; ObjectID = "819114439"; */
+"819114439.title" = "注釈の場所：";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "819114440"; */
+"819114440.title" = "選択します...";
+
+/* Class = "NSButtonCell"; title = "Turn on automatic backups"; ObjectID = "819114443"; */
+"819114443.title" = "自動バックアップをオンにする";
+
+/* Class = "NSButtonCell"; title = "Back up on project open"; ObjectID = "819114444"; */
+"819114444.title" = "プロジェクトのバックアップを開きます";
+
+/* Class = "NSButtonCell"; title = "Back up with each manual save"; ObjectID = "819114445"; */
+"819114445.title" = "それぞれ手動で保存さるバックアップ";
+
+/* Class = "NSButtonCell"; title = "Compress automatic backups as zip files (slower)"; ObjectID = "819114449"; */
+"819114449.title" = "zipファイルで自動的にバックアップを圧縮（遅い）";
+
+/* Class = "NSButtonCell"; title = "Only keep"; ObjectID = "819114450"; */
+"819114450.title" = "維持のみ";
+
+/* Class = "NSTextFieldCell"; title = "most recent backups"; ObjectID = "819114452"; */
+"819114452.title" = "最も最近のバックアップ";
+
+/* Class = "NSTextFieldCell"; title = "Backup location:"; ObjectID = "819114453"; */
+"819114453.title" = "バックアップの場所：";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "819114454"; */
+"819114454.title" = "選択します...";
+
+/* Class = "NSButtonCell"; title = "Open backup folder..."; ObjectID = "819114456"; */
+"819114456.title" = "バックアップフォルダーを開きます...";
+
+/* Class = "NSButtonCell"; title = "Back up on project close"; ObjectID = "819114457"; */
+"819114457.title" = "プロジェクトのバックアップを閉じます";
+
+/* Class = "NSButtonCell"; title = "Defaults"; ObjectID = "819114458"; */
+"819114458.title" = "デフォルト";
+
+/* Class = "NSMenuItem"; title = "Single Return"; ObjectID = "819114475"; */
+"819114475.title" = "1つだけ戻る";
+
+/* Class = "NSMenuItem"; title = "Empty Line"; ObjectID = "819114476"; */
+"819114476.title" = "空欄の行";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "819114477"; */
+"819114477.title" = "カスタム";
+
+/* Class = "NSButtonCell"; title = "Escape key closes composition mode"; ObjectID = "819114486"; */
+"819114486.title" = "Escapeキーは構成モードを閉じます";
+
+/* Class = "NSButtonCell"; title = "Use smart quotes (“ ”) in new projects"; ObjectID = "819114566"; */
+"819114566.title" = "新規プロジェクトでスマートクォート(“ ”)を使用";
+
+/* Class = "NSButtonCell"; title = "Fix capitalization of sentences"; ObjectID = "819114567"; */
+"819114567.title" = "文章の大文字使用を固定";
+
+/* Class = "NSButtonCell"; title = "Capitalize 'i'"; ObjectID = "819114568"; */
+"819114568.title" = " 'i'を大文字にする";
+
+/* Class = "NSButtonCell"; title = "Use smart dashes and ellipses in new projects"; ObjectID = "819114569"; */
+"819114569.title" = "新規プロジェクトでスマートダッシュと楕円を使用";
+
+/* Class = "NSButtonCell"; title = "Superscript ordinals (1st, 2nd, etc)"; ObjectID = "819114571"; */
+"819114571.title" = "上付き文字（1st、2ndなど）";
+
+/* Class = "NSButtonCell"; title = "Symbol and text substitution"; ObjectID = "819114572"; */
+"819114572.title" = "シンボルとテキスト代用";
+
+/* Class = "NSButtonCell"; title = "Disable smart quotes, dashes and ellipses in script mode"; ObjectID = "819114573"; */
+"819114573.title" = "スマートクォート、ダッシュ、楕円をスクリプトモードで無効にする";
+
+/* Class = "NSButtonCell"; title = "Suggest completions as you type"; ObjectID = "819114586"; */
+"819114586.title" = "入力時に言葉を提案";
+
+/* Class = "NSButtonCell"; title = "In script mode only"; ObjectID = "819114587"; */
+"819114587.title" = "スクリプトモードのみ";
+
+/* Class = "NSButtonCell"; title = "Automatically detect web addresses "; ObjectID = "819114588"; */
+"819114588.title" = "自動的にウェブアドレスを検出 ";
+
+/* Class = "NSButtonCell"; title = "Only suggest completions from custom auto-complete lists"; ObjectID = "819114589"; */
+"819114589.title" = "カスタムの自動コンプリートリストからのみコンプリーションを提案";
+
+/* Class = "NSButtonCell"; title = "System Text Preferences..."; ObjectID = "819114663"; */
+"819114663.title" = "システムテキストプリファレンス...";
+
+/* Class = "NSTextFieldCell"; title = "To edit substitutions and smart quote types, use the System Text Preferences:"; ObjectID = "819114665"; */
+"819114665.title" = "代用とスマートクォートタイプを編集するには、システムテキストプリファレンスを使用します：";
+
+/* Class = "NSButtonCell"; title = "Correct spelling errors as you type"; ObjectID = "819114669"; */
+"819114669.title" = "入力時にスペルエラーを修正";
+
+/* Class = "NSTextFieldCell"; title = "Auto-Correction:"; ObjectID = "819114673"; */
+"819114673.title" = "自動修正：";
+
+/* Class = "NSTextFieldCell"; title = "Auto-Completion:"; ObjectID = "819114675"; */
+"819114675.title" = "自動コンプリーション：";
+
+/* Class = "NSTextFieldCell"; title = "Note: Excepting the main editor, not all text areas in Scrivener support all substitution types."; ObjectID = "819114681"; */
+"819114681.title" = "注釈：主要エディタを除き、Scrivenerでは全てのテキストエリアで全ての代用タイプがサポートされているわけではありません。";
+
+/* Class = "NSTextFieldCell"; title = "(Default text formatting can be overridden on a per-project basis via Project > Project Settings...)"; ObjectID = "819114683"; */
+"819114683.title" = "（デフォルトのテキスト書式設定は、プロジェクト > プロジェクトの書式設定からプロジェクトごとに上書きできます...)";
+
+/* Class = "NSMenuItem"; title = "Picas"; ObjectID = "819114685"; */
+"819114685.title" = "Picas(パイカ)";
+
+/* Class = "NSMenuItem"; title = "Points"; ObjectID = "819114686"; */
+"819114686.title" = "ポイント";
+
+/* Class = "NSMenuItem"; title = "Current Editor"; ObjectID = "819114690"; */
+"819114690.title" = "現在のエディタ";
+
+/* Class = "NSMenuItem"; title = "Other Editor"; ObjectID = "819114691"; */
+"819114691.title" = "その他のエディタ";
+
+/* Class = "NSMenuItem"; title = "Quick Reference Panel"; ObjectID = "819114692"; */
+"819114692.title" = "クイックリファレンス パネル";
+
+/* Class = "NSTextFieldCell"; title = "Open clicked document links in:"; ObjectID = "819114694"; */
+"819114694.title" = "クリックされたドキュメントリンクを開く：";
+
+/* Class = "NSTextFieldCell"; title = "Open new document links in:"; ObjectID = "819114696"; */
+"819114696.title" = "新しいドキュメントリンクを開く：";
+
+/* Class = "NSMenuItem"; title = "Quick Reference Panel"; ObjectID = "819114700"; */
+"819114700.title" = "クイックリファレンス パネル";
+
+/* Class = "NSMenuItem"; title = "Other Editor"; ObjectID = "819114701"; */
+"819114701.title" = "その他のエディタ";
+
+/* Class = "NSMenuItem"; title = "Current Editor"; ObjectID = "819114702"; */
+"819114702.title" = "現在のエディタ";
+
+/* Class = "NSTextFieldCell"; title = "Note: In full screen composition mode, bookmarks and document links will open in Quick Reference panels if 'Other Editor' is selected or if 'Current Editor' is selected and the linked document is not a text file. Bookmarks and document links always open in other Quick Reference panels when selected from a Quick Reference panel."; ObjectID = "819114708"; */
+"819114708.title" = "注釈：フルスクリーン構成モードでは、「その他のエディタ」が選択された場合や、「現在のエディタ」が選択され、リンク付けられたドキュメントがテキストファイルでない場合、ブックマークとドキュメントリンクがクイックリファレンスパネルで開きます。ブックマークとドキュメントのリンクは常に、クイックリファレンスパネルから選択された場合、他のクイックリファレンスパネルで開きます。";
+
+/* Class = "NSButtonCell"; title = "Import comments as inline annotations"; ObjectID = "819114710"; */
+"819114710.title" = "インライン注釈としてコメントをインポート";
+
+/* Class = "NSButtonCell"; title = "Import footnotes and endnotes as inline footnotes"; ObjectID = "819114712"; */
+"819114712.title" = "インライン脚注として脚注とエンドノートをインポート";
+
+/* Class = "NSMenuItem"; title = "Quick Reference Panel"; ObjectID = "819114723"; */
+"819114723.title" = "クイックリファレンス パネル";
+
+/* Class = "NSMenuItem"; title = "Editor"; ObjectID = "819114724"; */
+"819114724.title" = "エディタ";
+
+/* Class = "NSTextFieldCell"; title = "Space key opens selected document in:"; ObjectID = "819114725"; */
+"819114725.title" = "スペースキーは選択されたドキュメントを開きます：";
+
+/* Class = "NSButtonCell"; title = "Smooth text and line art in PDF documents"; ObjectID = "819114729"; */
+"819114729.title" = "PDFドキュメントのスムーズテキストとラインアート";
+
+/* Class = "NSButtonCell"; title = "Always create new items as siblings"; ObjectID = "819114733"; */
+"819114733.title" = "常に新規アイテムを兄弟として作成する";
+
+/* Class = "NSButtonCell"; title = "Automatically detect [[document links]]"; ObjectID = "819114736"; */
+"819114736.title" = " [[ドキュメントのリンク]]を自動検出";
+
+/* Class = "NSButtonCell"; title = "Show notifications when saving in composition mode"; ObjectID = "819114742"; */
+"819114742.title" = "構成モードの保存時に通知を表示";
+
+/* Class = "NSButtonCell"; title = "Always creates a new card in freeform mode"; ObjectID = "819114779"; */
+"819114779.title" = "常にフリーフォーム(freeform)モードで新しいカードを作成する";
+
+/* Class = "NSMenuItem"; title = "Color"; ObjectID = "819114786"; */
+"819114786.title" = "色";
+
+/* Class = "NSMenuItem"; title = "Custom background..."; ObjectID = "819114787"; */
+"819114787.title" = "カスタムバックグラウンド...";
+
+/* Class = "NSTextFieldCell"; title = "Freeform background:"; ObjectID = "819114788"; */
+"819114788.title" = "フリーフォーム(freeform)バックグラウンド：";
+
+/* Class = "NSTextFieldCell"; title = "When focused editor is locked in place:"; ObjectID = "819114804"; */
+"819114804.title" = "所定の場所にフォーカスドエディタがロックされている場合：";
+
+/* Class = "NSTextFieldCell"; title = "3 seconds"; ObjectID = "819114817"; */
+"819114817.title" = "3秒";
+
+/* Class = "NSTextFieldCell"; title = "Rewind when paused by:"; ObjectID = "819114819"; */
+"819114819.title" = "中断時に巻き戻す：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ seconds"; ObjectID = "819114822"; */
+"819114822.ibShadowedDisplayPattern" = "%{Value1}@ 秒";
+
+/* Class = "NSButtonCell"; title = "Option-dragging creates duplicates"; ObjectID = "819114844"; */
+"819114844.title" = "オプション―ドラッグはコピーを作成します";
+
+/* Class = "NSMenuItem"; title = "(Do not open)"; ObjectID = "819114870"; */
+"819114870.title" = "（開かないでください）";
+
+/* Class = "NSButtonCell"; title = "Use inline footnotes font for inspector footnotes too"; ObjectID = "819114884"; */
+"819114884.title" = "インスペクタの脚注でもインライン脚注フォントを使用";
+
+/* Class = "NSTextFieldCell"; title = "Inspector comments font:"; ObjectID = "819114887"; */
+"819114887.title" = "インスペクタコメントフォント：";
+
+/* Class = "NSTextFieldCell"; title = "Header bar:"; ObjectID = "819114894"; */
+"819114894.title" = "ヘッダーバー：";
+
+/* Class = "NSButtonCell"; title = "Use date in backup file names"; ObjectID = "819114907"; */
+"819114907.title" = "バックアップファイル名で日付を使用";
+
+/* Class = "NSButtonCell"; title = "Use title background color"; ObjectID = "819114936"; */
+"819114936.title" = "タイトルバックグラウンドカラーを使用";
+
+/* Class = "NSButtonCell"; title = "Show title prompt when using clipping Services"; ObjectID = "819114941"; */
+"819114941.title" = "クリッピングサービスを使用する際、タイトルプロンプトを表示";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select to include HTML code that preserves the blank areas currently in your document."; ObjectID = "819114948"; */
+"819114948.ibShadowedToolTip" = "選択して、ドキュメント内の空欄を保存するHTMLコードを含みます。";
+
+/* Class = "NSButtonCell"; title = "Include image file names for Nisus Writer (RTF only)"; ObjectID = "819114949"; */
+"819114949.title" = "Nisus Writerに画像ファイル名を含める（RTFのみ）";
+
+/* Class = "NSButtonCell"; title = "Underline titles"; ObjectID = "819114953"; */
+"819114953.title" = "アンダーラインタイトル";
+
+/* Class = "NSButtonCell"; title = "Document links and bookmarks create back-link bookmarks"; ObjectID = "819114957"; */
+"819114957.title" = "ドキュメントリンクとブックマークはバックリンクブックマークを作成します";
+
+/* Class = "NSButtonCell"; title = "Blank out other screens"; ObjectID = "819114964"; */
+"819114964.title" = "他の画面をブランクアウト";
+
+/* Class = "NSMenuItem"; title = "Hourly"; ObjectID = "819114979"; */
+"819114979.title" = "時間ごと";
+
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "819114980"; */
+"819114980.title" = "毎日";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "819114981"; */
+"819114981.title" = "週1回";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "819114982"; */
+"819114982.title" = "月1回";
+
+/* Class = "NSButtonCell"; title = "Use fine kerning"; ObjectID = "819115000"; */
+"819115000.title" = "細いカーニングを使用";
+
+/* Class = "NSButtonCell"; title = "Target progress bars use smooth transition between colors"; ObjectID = "819115005"; */
+"819115005.title" = "ターゲット進捗バーは色の間でスムーズな移行を使用します";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, RTFD data doesn't get added to the pasteboard, so that Word 2011 will use RTF instead, which has better results. Also useful for other word processors such as Nisus Writer."; ObjectID = "819115020"; */
+"819115020.ibShadowedToolTip" = "チェックが入れられている場合、RTFDデータはペーストボードに追加されません。そのためWord 2011は代わりにさらに優れた結果を生むRTFを使用します。また、Nisus Writerといった他のワードプロセッサでも便利です。";
+
+/* Class = "NSButtonCell"; title = "Use Word 2011-compatible copy"; ObjectID = "819115021"; */
+"819115021.title" = "Word 2011と互換性のあるコピーを使用";
+
+/* Class = "NSButtonCell"; title = "Use facing pages in new projects"; ObjectID = "819115028"; */
+"819115028.title" = "新規プロジェクトで対向ページを使用";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, plain text (.txt) files will have blank lines inserted between paragraphs on export, and removed on import."; ObjectID = "819115035"; */
+"819115035.ibShadowedToolTip" = "チェックが入れられている場合、プレーンテキスト(.txt）ファイルにはエクスポートされる際に段落の間に空欄行が挿入され、インポート時には削除されます。";
+
+/* Class = "NSButtonCell"; title = "Convert text inside (( )) and {{ }} to inline notes when syncing plain text"; ObjectID = "819115036"; */
+"819115036.title" = "プレーンテキストの同期時に (( )) と {{ }}テキスト内でテキストをインラインオートに変換";
+
+/* Class = "NSTextFieldCell"; title = "Please enter a name for this preset:"; ObjectID = "819115049"; */
+"819115049.title" = "この事前設定の名前を入力してください：";
+
+/* Class = "NSTextFieldCell"; title = "The preset will be saved in Scrivener's Application Support folder and will be available in the \"Manage...\" menu."; ObjectID = "819115053"; */
+"819115053.title" = "事前設定はScrivenerのアプリケーションサポートフォルダーに保存され、 \"管理...\"で利用できるようになります。";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "819115055"; */
+"819115055.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "819115057"; */
+"819115057.title" = "キャンセル";
+
+/* Class = "NSMenuItem"; title = "Save All Preferences as Preset..."; ObjectID = "819115062"; */
+"819115062.title" = "事前設定として全てのお気に入りを保存...";
+
+/* Class = "NSButtonCell"; title = "Underline links"; ObjectID = "819115068"; */
+"819115068.title" = "アンダーラインリンク";
+
+/* Class = "NSMenuItem"; title = "Minimalist scroller (uses text color)"; ObjectID = "819115072"; */
+"819115072.title" = "ミニマリストスクローラー（テキストカラーを使用）";
+
+/* Class = "NSButtonCell"; title = "Reopen Quick Reference panels when opening projects"; ObjectID = "819115078"; */
+"819115078.title" = "プロジェクトを開く際、クイックリファレンスパネルを再度開く";
+
+/* Class = "NSButtonCell"; title = "Use current composition settings for new projects"; ObjectID = "819115082"; */
+"819115082.title" = "新規プロジェクトに現在の構成設定を使用";
+
+/* Class = "NSTextFieldCell"; title = "Affects text zoom, background fade, typewriter scrolling and paper position, width and height. (Note that you can hold down the Option key to change the paper height while in composition mode.)"; ObjectID = "819115088"; */
+"819115088.title" = "テキストズーム、バックグラウンドフェード、タイプライタースクローリングおよび紙の位置、幅および高さに影響します。（オプションキーを押したままにし、構成モードで紙の高さを変更できます。）";
+
+/* Class = "NSTextFieldCell"; title = "Editor margins:"; ObjectID = "819115213"; */
+"819115213.title" = "エディタマージン：";
+
+/* Class = "NSTextFieldCell"; title = "Default editor width:"; ObjectID = "819115215"; */
+"819115215.title" = "デフォルトのエディタ幅：";
+
+/* Class = "NSTextFieldCell"; title = "Base page view size on:"; ObjectID = "819115222"; */
+"819115222.title" = "ベースページ表示のサイズ：";
+
+/* Class = "NSTextFieldCell"; title = "Synopses:"; ObjectID = "819115286"; */
+"819115286.title" = "概要：";
+
+/* Class = "NSButtonCell"; title = "Binder font"; ObjectID = "819115297"; */
+"819115297.title" = "バインダーフォント";
+
+/* Class = "NSButtonCell"; title = "Outliner fonts"; ObjectID = "819115299"; */
+"819115299.title" = "アウトライナーフォント";
+
+/* Class = "NSButtonCell"; title = "Corkboard fonts"; ObjectID = "819115301"; */
+"819115301.title" = "コルクボードフォント";
+
+/* Class = "NSButtonCell"; title = "Header bar font"; ObjectID = "819115303"; */
+"819115303.title" = "ヘッダーバーフォント";
+
+/* Class = "NSTextFieldCell"; title = "Please enter a name for this theme:"; ObjectID = "819115306"; */
+"819115306.title" = "このテーマ名を入力してください：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "819115310"; */
+"819115310.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "819115311"; */
+"819115311.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "The theme will be saved in ~/Library/Application Support/Scrivener/PreferencePresets and will be available in the \"Manage...\" menu."; ObjectID = "819115315"; */
+"819115315.title" = "テーマは ~/ライブラリー/アプリケーションサポート/Scrivener/プリファレンス事前設定に保存され、 \"管理...\"で利用できるようになります。";
+
+/* Class = "NSBox"; title = "Fonts to include in theme"; ObjectID = "819115321"; */
+"819115321.title" = "テーマに含めるフォント";
+
+/* Class = "NSTextFieldCell"; title = "Themes save only the main appearance preferences, such as colors and corkboard settings."; ObjectID = "819115323"; */
+"819115323.title" = "テーマは色、コルクボード設定といった主要な外見の好みだけを保存します。";
+
+/* Class = "NSButtonCell"; title = "Header bar font"; ObjectID = "819115328"; */
+"819115328.title" = "ヘッダーバーフォント";
+
+/* Class = "NSButtonCell"; title = "Corkboard fonts"; ObjectID = "819115329"; */
+"819115329.title" = "コルクボードフォント";
+
+/* Class = "NSButtonCell"; title = "Binder font"; ObjectID = "819115330"; */
+"819115330.title" = "バインダーフォント";
+
+/* Class = "NSButtonCell"; title = "Outliner fonts"; ObjectID = "819115331"; */
+"819115331.title" = "アウトライナーフォント";
+
+/* Class = "NSTextFieldCell"; title = "Fonts to include in theme:"; ObjectID = "819115337"; */
+"819115337.title" = "テーマに含めるフォント：";
+
+/* Class = "NSTextFieldCell"; title = "Themes save only the main appearance preferences, such as colors and corkboard settings."; ObjectID = "819115339"; */
+"819115339.title" = "テーマは色、コルクボード設定といった主要な外見の好みだけを保存します。";
+
+/* Class = "NSMenuItem"; title = "Save Theme Preferences as Preset..."; ObjectID = "819115346"; */
+"819115346.title" = "事前設定としてテーマプリファレンスを保存します...";
+
+/* Class = "NSMenuItem"; title = "Load Theme Preferences..."; ObjectID = "819115349"; */
+"819115349.title" = "テーマプリファレンスをロードします...";
+
+/* Class = "NSMenuItem"; title = "Save Theme Preferences..."; ObjectID = "819115351"; */
+"819115351.title" = "テーマプリファレンスを保存します...";
+
+/* Class = "NSTextFieldCell"; title = "Typewriter scroll line:"; ObjectID = "819115365"; */
+"819115365.title" = "タイプライタースクロールライン：";
+
+/* Class = "NSMenuItem"; title = "Top third of editor"; ObjectID = "819115368"; */
+"819115368.title" = "エディタの上3分の1";
+
+/* Class = "NSMenuItem"; title = "Top quarter of editor"; ObjectID = "819115369"; */
+"819115369.title" = "エディタの上4分の1";
+
+/* Class = "NSMenuItem"; title = "Middle of editor"; ObjectID = "819115370"; */
+"819115370.title" = "エディタの中間";
+
+/* Class = "NSMenuItem"; title = "Bottom third of editor"; ObjectID = "819115371"; */
+"819115371.title" = "エディタの下3分の1";
+
+/* Class = "NSMenuItem"; title = "Bottom quarter of editor"; ObjectID = "819115373"; */
+"819115373.title" = "エディタの下位4分の1";
+
+/* Class = "NSMenuItem"; title = "72 dpi"; ObjectID = "819115378"; */
+"819115378.title" = "72 dpi";
+
+/* Class = "NSMenuItem"; title = "100 dpi"; ObjectID = "819115379"; */
+"819115379.title" = "100 dpi";
+
+/* Class = "NSMenuItem"; title = "150 dpi"; ObjectID = "819115380"; */
+"819115380.title" = "150 dpi";
+
+/* Class = "NSMenuItem"; title = "200 dpi"; ObjectID = "819115381"; */
+"819115381.title" = "200 dpi";
+
+/* Class = "NSMenuItem"; title = "300 dpi"; ObjectID = "819115382"; */
+"819115382.title" = "300 dpi";
+
+/* Class = "NSMenuItem"; title = "400 dpi"; ObjectID = "819115383"; */
+"819115383.title" = "400 dpi";
+
+/* Class = "NSMenuItem"; title = "600 dpi"; ObjectID = "819115384"; */
+"819115384.title" = "600 dpi";
+
+/* Class = "NSTextFieldCell"; title = "Resolution for PDF images converted to PNG:"; ObjectID = "819115397"; */
+"819115397.title" = "PNGに変換されたPDF画像の解像度：";
+
+/* Class = "NSTextFieldCell"; title = "Embedded PDF images are not supported for all formats, and so are converted to PNG format during the export process."; ObjectID = "819115399"; */
+"819115399.title" = "組込まれたPDF画像は、全ての書式設定がサポートされていません。そのため、エクスポートプロセス中にPNG形式に変換されます。";
+
+/* Class = "NSMenuItem"; title = "Regular scroller"; ObjectID = "819115401"; */
+"819115401.title" = "レギュラースクローラー";
+
+/* Class = "NSButtonCell"; title = "Center the editor when using a fixed width"; ObjectID = "819115403"; */
+"819115403.title" = "固定幅を使用する際、エディタを中央に揃えます";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819115409"; */
+"819115409.title" = "ポイント";
+
+/* Class = "NSButtonCell"; title = "Always auto-hide toolbar in full screen mode"; ObjectID = "819115431"; */
+"819115431.title" = "常にフルスクリーンモードではツールバーを自動的に隠します";
+
+/* Class = "NSButtonCell"; title = "Automatically shrink titles to fit"; ObjectID = "819115451"; */
+"819115451.title" = "自動的にタイトルを縮小し、フィットさせます";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "819115458"; */
+"819115458.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSButtonCell"; title = "Allow two lines in title areas"; ObjectID = "819115460"; */
+"819115460.title" = "2行をタイトルエリアに使用できるようにします";
+
+/* Class = "NSButtonCell"; title = "Always show synopsis rather than image by default in inspector"; ObjectID = "819115471"; */
+"819115471.title" = "インスペクタでは、デフォルトで画像の代わりに概要を常に表示します";
+
+/* Class = "NSButtonCell"; title = "Automatically detect dates, addresses, etc"; ObjectID = "819115481"; */
+"819115481.title" = "自動的に日付、アドレスなどを検出します";
+
+/* Class = "NSButtonCell"; title = "Use enhanced converters for Microsoft Word and OpenOffice documents"; ObjectID = "819115494"; */
+"819115494.title" = "Microsoft WordとOpenOfficeドキュメントでは強化コンバータを使用します";
+
+/* Class = "NSButtonCell"; title = "Set Up Improved MS Word and OpenOffice Converters..."; ObjectID = "819115498"; */
+"819115498.title" = "機能が向上したMS Word およびOpenOfficeコンバータを設定します...";
+
+/* Class = "NSTextFieldCell"; title = "If enabled, Scrivener will try to use improved converters for Word and OpenOffice documents (requires Java). This is slower, but results in much better formatting fidelity. If disabled, the standard macOS converters will be used and some formatting and document features may be lost during document conversion. It is strongly recommended that you enable this feature for best import and export results."; ObjectID = "819115502"; */
+"819115502.title" = "有効になっている場合、ScrivenerはWord およびOpenOfficeドキュメントに機能が向上したコンバータを使用しようとします（Javaが必要）。これは、動作を遅くしますが、結果の書式は本来のものにより忠実になります。無効になっている場合、標準macOSコンバータが使用され、一部の書式およびドキュメント機能がドキュメントの変換時に失われることがあります。そのため、この機能を有効にして、最適なインポート・エクスポート結果を得られるようにすることが強く推奨されます。";
+
+/* Class = "NSTextFieldCell"; title = "This setting is only used as a fall-back when Scrivener cannot use the custom .doc converters."; ObjectID = "819115507"; */
+"819115507.title" = "この設定はScrivenerがカスタム.docコンバータを使用できない場合のフォールバックとして使用されます。";
+
+/* Class = "NSTextFieldCell"; title = "Document type:"; ObjectID = "819115509"; */
+"819115509.title" = "ドキュメントタイプ：";
+
+/* Class = "NSTextFieldCell"; title = "Styling:"; ObjectID = "819115511"; */
+"819115511.title" = "スタイル：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected plain text extension."; ObjectID = "819115517"; */
+"819115517.ibShadowedToolTip" = "選択されたプレーンテキストの拡張子を削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new plain text extension."; ObjectID = "819115518"; */
+"819115518.ibShadowedToolTip" = "新しいプレーンテキストの拡張子を追加します。";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Extension"; ObjectID = "819115525"; */
+"819115525.headerCell.title" = "ファイルの拡張子";
+
+/* Class = "NSButtonCell"; title = "Take snapshots of changed text documents on manual save"; ObjectID = "819115568"; */
+"819115568.title" = "変更されたテキストドキュメントのスナップショットを手動保存します";
+
+/* Class = "NSButtonCell"; title = "Hide binder and inspector when entering full screen mode"; ObjectID = "819115577"; */
+"819115577.title" = "フルスクリーンモードにする際、バインダーとインスペクタを隠します";
+
+/* Class = "NSMenuItem"; title = "German (Guillemets)"; ObjectID = "819115585"; */
+"819115585.title" = "ドイツ語（ギルメット）";
+
+/* Class = "NSMenuItem"; title = "Rich Text with Attachments (.rtfd)"; ObjectID = "819115595"; */
+"819115595.title" = "添付付きのリッチテキスト (.rtfd)";
+
+/* Class = "NSMenuItem"; title = "Rich Text Format (.rtf)"; ObjectID = "819115596"; */
+"819115596.title" = "リッチテキスト形式(.rtf)";
+
+/* Class = "NSMenuItem"; title = "Plain Text"; ObjectID = "819115597"; */
+"819115597.title" = "プレーンテキスト";
+
+/* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "819115600"; */
+"819115600.title" = "デフォルトの書式設定：";
+
+/* Class = "NSTextFieldCell"; title = "ext:"; ObjectID = "819115607"; */
+"819115607.title" = "ext:";
+
+/* Class = "NSTextFieldCell"; title = "Min"; ObjectID = "819115623"; */
+"819115623.title" = "最小";
+
+/* Class = "NSTextFieldCell"; title = "Max"; ObjectID = "819115624"; */
+"819115624.title" = "最大";
+
+/* Class = "NSButton"; ibShadowedToolTip = "This is a debugging tool. Please only turn it on if you are encountering problems in Scrivener."; ObjectID = "819115628"; */
+"819115628.ibShadowedToolTip" = "これはデバッグ用ツールです。Scrivenerで問題が生じた場合にのみオンにしてください。";
+
+/* Class = "NSButtonCell"; title = "Show internal error alerts"; ObjectID = "819115629"; */
+"819115629.title" = "内部エラーアラートを表示";
+
+/* Class = "NSTabViewItem"; label = "Warnings"; ObjectID = "819115646"; */
+"819115646.label" = "警告";
+
+/* Class = "NSTabViewItem"; label = "Saving"; ObjectID = "819115647"; */
+"819115647.label" = "保存";
+
+/* Class = "NSTabViewItem"; label = "Services"; ObjectID = "819115650"; */
+"819115650.label" = "サービス";
+
+/* Class = "NSTabViewItem"; label = "Scratch Pad"; ObjectID = "819115652"; */
+"819115652.label" = "スクラッチパッド";
+
+/* Class = "NSTabViewItem"; label = "Citations"; ObjectID = "819115654"; */
+"819115654.label" = "引用";
+
+/* Class = "NSTabViewItem"; label = "Separators"; ObjectID = "819115656"; */
+"819115656.label" = "セパレータ";
+
+/* Class = "NSTabViewItem"; label = "Startup"; ObjectID = "819115660"; */
+"819115660.label" = "スタートアップ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "No Bibliography Manager Set"; ObjectID = "819115678"; */
+"819115678.ibShadowedIsNilPlaceholder" = "バイオグラフィーマネージャーがセットされていません";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "819115701"; */
+"819115701.label" = "オプション";
+
+/* Class = "NSTabViewItem"; label = "Fonts"; ObjectID = "819115702"; */
+"819115702.label" = "フォント";
+
+/* Class = "NSTabViewItem"; label = "Colors"; ObjectID = "819115705"; */
+"819115705.label" = "色";
+
+/* Class = "NSButtonCell"; title = "Override text color with color:"; ObjectID = "819115735"; */
+"819115735.title" = "色付きのテキストカラーを上書き：";
+
+/* Class = "NSButtonCell"; title = "Use Default Color"; ObjectID = "819115736"; */
+"819115736.title" = "デフォルトカラーを使用";
+
+/* Class = "NSTextFieldCell"; title = "Description"; ObjectID = "819115737"; */
+"819115737.title" = "Description";
+
+/* Class = "NSButtonCell"; title = "Choose Texture..."; ObjectID = "819115738"; */
+"819115738.title" = "テキスチャを選択...";
+
+/* Class = "NSTextFieldCell"; title = "Scrivenings Titles"; ObjectID = "819115775"; */
+"819115775.title" = "連結表示時のタイトル";
+
+/* Class = "NSTextFieldCell"; title = "(Turn scrivenings titles on via the View > Text Editing menu.)"; ObjectID = "819115780"; */
+"819115780.title" = "(表示 > テキスト編集メニューで連結表示タイトルをオン。）";
+
+/* Class = "NSTextFieldCell"; title = "Status Stamps:"; ObjectID = "819115792"; */
+"819115792.title" = "ステータススタンプ：";
+
+/* Class = "NSTextFieldCell"; title = "Text Separators"; ObjectID = "819115799"; */
+"819115799.title" = "テキストセパレータ";
+
+/* Class = "NSButtonCell"; title = "Highlight current line"; ObjectID = "819115824"; */
+"819115824.title" = "現在のラインをハイライト";
+
+/* Class = "NSButtonCell"; title = "Folders"; ObjectID = "819115835"; */
+"819115835.title" = "フォルダ";
+
+/* Class = "NSButtonCell"; title = "Document groups"; ObjectID = "819115836"; */
+"819115836.title" = "ドキュメントグループ";
+
+/* Class = "NSTextFieldCell"; title = "Use bold font for:"; ObjectID = "819115848"; */
+"819115848.title" = "太字フォントを使用：";
+
+/* Class = "NSTextFieldCell"; title = "Use bold font for:"; ObjectID = "819115868"; */
+"819115868.title" = "太字フォントを使用：";
+
+/* Class = "NSButtonCell"; title = "Folder titles"; ObjectID = "819115870"; */
+"819115870.title" = "フォルダタイトル";
+
+/* Class = "NSButtonCell"; title = "Document group titles"; ObjectID = "819115871"; */
+"819115871.title" = "ドキュメントグループタイトル";
+
+/* Class = "NSTextFieldCell"; title = "The binder font is also used by the search results list and collections."; ObjectID = "819115891"; */
+"819115891.title" = "バインダーフォントはまた、検索結果リストとコレクションによって使用されます。";
+
+/* Class = "NSButtonCell"; title = "Show invisible characters when selecting text"; ObjectID = "819115911"; */
+"819115911.title" = "テキスト選択時に見えない文字を表示";
+
+/* Class = "NSTextFieldCell"; title = "Top/Bottom:"; ObjectID = "819115921"; */
+"819115921.title" = "トップ/ボトム：";
+
+/* Class = "NSTextFieldCell"; title = "Text editor margins:"; ObjectID = "819115922"; */
+"819115922.title" = "テキストエディタマージン：";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819115923"; */
+"819115923.title" = "ポイント";
+
+/* Class = "NSTextFieldCell"; title = "points"; ObjectID = "819115928"; */
+"819115928.title" = "ポイント";
+
+/* Class = "NSTextFieldCell"; title = "Left/Right:"; ObjectID = "819115929"; */
+"819115929.title" = "左/右：";
+
+/* Class = "NSTabViewItem"; label = "Formatting"; ObjectID = "819115973"; */
+"819115973.label" = "書式設定";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "819115974"; */
+"819115974.label" = "オプション";
+
+/* Class = "NSTextFieldCell"; title = "Disable insertion point blinking in:"; ObjectID = "819115984"; */
+"819115984.title" = "挿入ポイントの点滅を無効にする：";
+
+/* Class = "NSTextFieldCell"; title = "Use block insertion point in:"; ObjectID = "819115986"; */
+"819115986.title" = "ブロック挿入ポイントを使用：";
+
+/* Class = "NSTextFieldCell"; title = "Block insertion point width:"; ObjectID = "819115988"; */
+"819115988.title" = "ブロック挿入ポイント幅：";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "819115992"; */
+"819115992.title" = "オプション：";
+
+/* Class = "NSTabViewItem"; label = "Revisions"; ObjectID = "819115993"; */
+"819115993.label" = "訂正";
+
+/* Class = "NSButtonCell"; title = "Terminate footnotes before punctuation"; ObjectID = "819116002"; */
+"819116002.title" = "句読点の前に脚注を入れる";
+
+/* Class = "NSButtonCell"; title = "Do not color the text of inline annotations (faster)"; ObjectID = "819116003"; */
+"819116003.title" = "インライン注釈のテキストに色をつけない（早い）";
+
+/* Class = "NSTextFieldCell"; title = "Footnotes & Comments:"; ObjectID = "819116007"; */
+"819116007.title" = "脚注＆コメント";
+
+/* Class = "NSBox"; title = "Notes"; ObjectID = "819116009"; */
+"819116009.title" = "注釈";
+
+/* Class = "NSBox"; title = "Comments & Footnotes"; ObjectID = "819116010"; */
+"819116010.title" = "コメント＆脚注";
+
+/* Class = "NSTextFieldCell"; title = "(Used for document notes and the scratch pad.)"; ObjectID = "819116013"; */
+"819116013.title" = "（ドキュメントノートとスクラッチパッドに使用）";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "message font"; ObjectID = "819116017"; */
+"819116017.ibExternalAccessibilityDescription" = "メッセージフォント";
+
+/* Class = "NSMenuItem"; title = "Natural (use language settings)"; ObjectID = "819116020"; */
+"819116020.title" = "ナチュラル（言語設定を使用）";
+
+/* Class = "NSMenuItem"; title = "Left to Right"; ObjectID = "819116021"; */
+"819116021.title" = "左から右";
+
+/* Class = "NSMenuItem"; title = "Right to Left"; ObjectID = "819116022"; */
+"819116022.title" = "右から左";
+
+/* Class = "NSTextFieldCell"; title = "Writing direction:"; ObjectID = "819116023"; */
+"819116023.title" = "文章の方向：";
+
+/* Class = "NSTextFieldCell"; title = "Revision Colors"; ObjectID = "819116032"; */
+"819116032.title" = "訂正の色";
+
+/* Class = "NSTextFieldCell"; title = "First revision:"; ObjectID = "819116034"; */
+"819116034.title" = "第1版：";
+
+/* Class = "NSTextFieldCell"; title = "Second revision:"; ObjectID = "819116036"; */
+"819116036.title" = "第2版：";
+
+/* Class = "NSTextFieldCell"; title = "Third revision:"; ObjectID = "819116040"; */
+"819116040.title" = "第3版：";
+
+/* Class = "NSTextFieldCell"; title = "Fourth revision:"; ObjectID = "819116042"; */
+"819116042.title" = "第4版：";
+
+/* Class = "NSTextFieldCell"; title = "Fifth revision:"; ObjectID = "819116044"; */
+"819116044.title" = "第5版：";
+
+/* Class = "NSTabViewItem"; label = "Folders"; ObjectID = "819116066"; */
+"819116066.label" = "フォルダ";
+
+/* Class = "NSTabViewItem"; label = "Dragging"; ObjectID = "819116067"; */
+"819116067.label" = "ドラッギング";
+
+/* Class = "NSTabViewItem"; label = "Clicking"; ObjectID = "819116070"; */
+"819116070.label" = "クリッキング";
+
+/* Class = "NSTabViewItem"; label = "Navigation"; ObjectID = "819116072"; */
+"819116072.label" = "ナビゲーション";
+
+/* Class = "NSTabViewItem"; label = "Return"; ObjectID = "819116074"; */
+"819116074.label" = "戻る";
+
+/* Class = "NSTabViewItem"; label = "Media"; ObjectID = "819116076"; */
+"819116076.label" = "メディア";
+
+/* Class = "NSTabViewItem"; label = "Compose"; ObjectID = "819116078"; */
+"819116078.label" = "構成";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "819116081"; */
+"819116081.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Binder selection affects other editor"; ObjectID = "819116082"; */
+"819116082.title" = "バインダー選択は他のエディタに影響を与えます";
+
+/* Class = "NSButtonCell"; title = "Binder selection does nothing"; ObjectID = "819116083"; */
+"819116083.title" = "バインダー選択は何もしません";
+
+/* Class = "NSTabViewItem"; label = "RefLinks"; ObjectID = "819116087"; */
+"819116087.label" = "RefLinks";
+
+/* Class = "NSTextFieldCell"; title = "Return key:"; ObjectID = "819116093"; */
+"819116093.title" = "リターンキー：";
+
+/* Class = "NSTextFieldCell"; title = "Data-Detection:"; ObjectID = "819116101"; */
+"819116101.title" = "データ検知：";
+
+/* Class = "NSTabViewItem"; label = "Export"; ObjectID = "819116111"; */
+"819116111.label" = "エクスポート";
+
+/* Class = "NSTabViewItem"; label = "Import"; ObjectID = "819116112"; */
+"819116112.label" = "インポート";
+
+/* Class = "NSButtonCell"; title = "Imported plain text files use font:"; ObjectID = "819116129"; */
+"819116129.title" = "インポートされたプレーンテキストファイルが使用するフォント：";
+
+/* Class = "NSTextFieldCell"; title = "Plain text import formats:"; ObjectID = "819116132"; */
+"819116132.title" = "プレーンテキストインポート形式：";
+
+/* Class = "NSTabViewItem"; label = "Sync"; ObjectID = "819116135"; */
+"819116135.label" = "同期";
+
+/* Class = "NSTextFieldCell"; title = "Used when saving JPG images for use inside rich text, MultiMarkdown and e-book files."; ObjectID = "819116163"; */
+"819116163.title" = "内部リッチテキスト、MultiMarkdown、Eブックファイルとして使用するためにJPG画像を保存する際に使用します。";
+
+/* Class = "NSTabViewItem"; label = "Conversion"; ObjectID = "819116172"; */
+"819116172.label" = "変換";
+
+/* Class = "NSTextFieldCell"; title = "Rich Text:"; ObjectID = "819116179"; */
+"819116179.title" = "Rich Text:";
+
+/* Class = "NSTextFieldCell"; title = "HTML:"; ObjectID = "819116184"; */
+"819116184.title" = "HTML:";
+
+/* Class = "NSTextFieldCell"; title = "MultiMarkdown:"; ObjectID = "819116188"; */
+"819116188.title" = "MultiMarkdown:";
+
+/* Class = "NSTextFieldCell"; title = "JPEG Compression:"; ObjectID = "819116191"; */
+"819116191.title" = "JPEG圧縮：";
+
+/* Class = "NSTextFieldCell"; title = "Rich Text:"; ObjectID = "819116196"; */
+"819116196.title" = "Rich Text:";
+
+/* Class = "NSTextFieldCell"; title = "HTML:"; ObjectID = "819116201"; */
+"819116201.title" = "HTML:";
+
+/* Class = "NSTextFieldCell"; title = "OPML:"; ObjectID = "819116203"; */
+"819116203.title" = "OPML:";
+
+/* Class = "NSTextFieldCell"; title = "Plain Text:"; ObjectID = "819116207"; */
+"819116207.title" = "プレーンテキスト：";
+
+/* Class = "NSTextFieldCell"; title = "Add the extensions of any plain text file formats you want Scrivener to import as editable text. (Files with the \".txt\" extension or with no extension are supported automatically.)"; ObjectID = "819116211"; */
+"819116211.title" = "Scrivenerに希望するプレーンテキストファイル形式の拡張子を追加し、編集可能なテキストとしてインポートします。(拡張子 \".txt\"が付いたファイル。)";
+
+/* Class = "NSMenuItem"; title = "Dashed Line"; ObjectID = "819116225"; */
+"819116225.title" = "ダッシュドライン";
+
+/* Class = "NSMenuItem"; title = "Divider"; ObjectID = "819116226"; */
+"819116226.title" = "ディバイダ";
+
+/* Class = "NSTextFieldCell"; title = "If ticked, the binder and inspector will slide in when the mouse is moved to the edge of the screen. (Not applicable when using multiple displays.)"; ObjectID = "819116238"; */
+"819116238.title" = "チェックが入れられている場合、バインダーとインスペクタはマウスが画面の端に動かされた際にスライドします。（複数のディスプレイを使用する場合は適用されません。）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, RTFD data doesn't get added to the pasteboard, so that Word 2011 will use RTF instead, which has better results. Also useful for other word processors such as Nisus Writer."; ObjectID = "819116279"; */
+"819116279.ibShadowedToolTip" = "チェックが入れられている場合、RTFDデータはペーストボードに追加されません。そのためWord 2011は代わりにさらに優れた結果を生むRTFを使用します。また、Nisus Writerといった他のワードプロセッサでも便利です。";
+
+/* Class = "NSButtonCell"; title = "Use Word 2011-compatible copy"; ObjectID = "819116280"; */
+"819116280.title" = "Word 2011と互換性のあるコピーを使用";
+
+/* Class = "NSTextFieldCell"; title = "Microsoft .doc:"; ObjectID = "819116281"; */
+"819116281.title" = "Microsoft .doc:";
+
+/* Class = "NSTextFieldCell"; title = "This setting is only used as a fall-back when Scrivener is not set to use the enhanced .doc converters."; ObjectID = "819116282"; */
+"819116282.title" = "この設定はScrivenerが強化.docコンバータを使用するよう設定されていない場合のフォールバックとして使用されます。";
+
+/* Class = "NSMenuItem"; title = "Use standard macOS .doc exporter"; ObjectID = "819116285"; */
+"819116285.title" = "標準macOS .doc エクスポーターを使用";
+
+/* Class = "NSMenuItem"; title = "Export as RTF-based .doc file"; ObjectID = "819116286"; */
+"819116286.title" = "RTFベースの.docファイルとしてエクスポート";
+
+/* Class = "NSTextFieldCell"; title = "If enabled, Scrivener will use improved, Java-based converters for Word and OpenOffice documents. This is slower, but results in much better formatting fidelity. If disabled, the standard macOS converters will be used and some formatting and document features may be lost during document conversion. It is strongly recommended that you enable this feature for best import and export results."; ObjectID = "819116287"; */
+"819116287.title" = "有効になっている場合、ScrivenerはWordおよびOpenOfficeドキュメントに機能が向上したJavaベースのコンバータを使用します。これは、動作を遅くしますが、結果の書式は本来のものにより忠実になります。無効になっている場合、標準macOSコンバータが使用され、一部の書式およびドキュメント機能がドキュメントの変換時に失われることがあります。そのため、この機能を有効にして、最適なインポート・エクスポート結果を得られるようにすることが強く推奨されます。";
+
+/* Class = "NSButtonCell"; title = "Use enhanced converters for Microsoft Word and OpenOffice documents"; ObjectID = "819116289"; */
+"819116289.title" = "Microsoft WordとOpenOfficeドキュメントでは強化コンバータを使用します";
+
+/* Class = "NSButtonCell"; title = "Slide in binder and inspector when hidden"; ObjectID = "819116320"; */
+"819116320.title" = "隠されている場合、バインダーとインスペクタをスライドイン";
+
+/* Class = "NSTabViewItem"; label = "Automatic Quit"; ObjectID = "819116322"; */
+"819116322.label" = "自動終了";
+
+/* Class = "NSButtonCell"; title = "Automatically quit after a period of inactivity"; ObjectID = "819116325"; */
+"819116325.title" = "一定の期間使用されていない場合、自動的に終了します";
+
+/* Class = "NSTextFieldCell"; title = "Quit after inactive for:"; ObjectID = "819116329"; */
+"819116329.title" = "終了するまでの時間：";
+
+/* Class = "NSTextFieldCell"; title = "minute(s)"; ObjectID = "819116331"; */
+"819116331.title" = "分";
+
+/* Class = "NSTextFieldCell"; title = "(Applies to corkboard and outliner only.)"; ObjectID = "819116355"; */
+"819116355.title" = "（コルクボードとアウトライナーだけに適用されます。）";
+
+/* Class = "NSTextFieldCell"; title = "Minimum font size:"; ObjectID = "819116357"; */
+"819116357.title" = "最小フォントサイズ：";
+
+/* Class = "NSButtonCell"; title = "Import first lines of notes as titles only"; ObjectID = "819116361"; */
+"819116361.title" = "タイトルとしてのみ注釈の最初のラインをインポート";
+
+/* Class = "NSTextFieldCell"; title = "Scapple:"; ObjectID = "819116365"; */
+"819116365.title" = "Scapple:";
+
+/* Class = "NSButtonCell"; title = "Comment highlights"; ObjectID = "819116372"; */
+"819116372.title" = "コメントハイライト";
+
+/* Class = "NSButtonCell"; title = "Footnote highlights"; ObjectID = "819116374"; */
+"819116374.title" = "脚注ハイライト";
+
+/* Class = "NSButtonCell"; title = "Links"; ObjectID = "819116376"; */
+"819116376.title" = "リンク";
+
+/* Class = "NSButtonCell"; title = "Preserve Formatting markup"; ObjectID = "819116382"; */
+"819116382.title" = "書式設定マークアップを保存";
+
+/* Class = "NSMenuItem"; title = "French"; ObjectID = "05m-dP-idy"; */
+"05m-dP-idy.title" = "フランス語";
+
+/* Class = "NSButtonCell"; title = "Ignore stylesheet information in imported documents"; ObjectID = "0v5-Li-9M5"; */
+"0v5-Li-9M5.title" = "インポートされたドキュメントのスタイルシート情報を無視";
+
+/* Class = "NSButtonCell"; title = "Update styles in pasted text to match destination styles"; ObjectID = "2Pi-sr-j3f"; */
+"2Pi-sr-j3f.title" = "ペーストテキストのスタイルをアップデートして目標のスタイルをマッチさせます";
+
+/* Class = "NSMenuItem"; title = "30 seconds"; ObjectID = "2TS-7n-Y65"; */
+"2TS-7n-Y65.title" = "30秒";
+
+/* Class = "NSMenuItem"; title = "Other Editor"; ObjectID = "2wo-io-h8L"; */
+"2wo-io-h8L.title" = "その他のエディタ";
+
+/* Class = "NSTextFieldCell"; title = "Row spacing:"; ObjectID = "3P3-0V-PFL"; */
+"3P3-0V-PFL.title" = "行の間隔：";
+
+/* Class = "NSTextFieldCell"; title = "x"; ObjectID = "4Mw-Ko-cKh"; */
+"4Mw-Ko-cKh.title" = "x";
+
+/* Class = "NSButtonCell"; title = "Attach format bar to toolbar in full screen mode"; ObjectID = "6BF-3q-wVU"; */
+"6BF-3q-wVU.title" = "フルスクリーンモードでツールバーにフォーマットバーを添付";
+
+/* Class = "NSTextFieldCell"; title = "Default styles for new projects:"; ObjectID = "6Bj-Tb-S87"; */
+"6Bj-Tb-S87.title" = "新規プロジェクトのデフォルトスタイル：";
+
+/* Class = "NSButtonCell"; title = "Use system Java version for conversion if installed"; ObjectID = "6gU-PN-77G"; */
+"6gU-PN-77G.title" = "インストールされている場合、変換にシステムJavaバージョンを使用";
+
+/* Class = "NSMenuItem"; title = "Custom background..."; ObjectID = "6x8-DD-gbP"; */
+"6x8-DD-gbP.title" = "カスタムバックグラウンド...";
+
+/* Class = "NSButtonCell"; title = "Zoom"; ObjectID = "88M-Up-vyE"; */
+"88M-Up-vyE.title" = "拡大/縮小";
+
+/* Class = "NSMenuItem"; title = "Single Return"; ObjectID = "95g-Kx-G0e"; */
+"95g-Kx-G0e.title" = "1つだけ戻る";
+
+/* Class = "NSMenuItem"; title = "Rounded"; ObjectID = "Ate-Bf-mw3"; */
+"Ate-Bf-mw3.title" = "概数";
+
+/* Class = "NSTextFieldCell"; title = "High"; ObjectID = "Bbc-Lq-NjM"; */
+"Bbc-Lq-NjM.title" = "高";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "Bmi-bJ-QlZ"; */
+"Bmi-bJ-QlZ.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSMenuItem"; title = "Corkboard Texture"; ObjectID = "Bu4-Tm-gqx"; */
+"Bu4-Tm-gqx.title" = "コルクボードのテキスチャー";
+
+/* Class = "NSButtonCell"; title = "Show current editor document indicator"; ObjectID = "Bui-JZ-ySF"; */
+"Bui-JZ-ySF.title" = "現在のエディタードキュメントインジケータを表示";
+
+/* Class = "NSTextFieldCell"; title = "Zoom to:"; ObjectID = "Dvn-7n-0am"; */
+"Dvn-7n-0am.title" = "ズーム先：";
+
+/* Class = "NSMenuItem"; title = "Primary Display"; ObjectID = "EF8-Tb-jn2"; */
+"EF8-Tb-jn2.title" = "主要ディスプレイ";
+
+/* Class = "NSButtonCell"; title = "Before text documents"; ObjectID = "EOl-cy-thJ"; */
+"EOl-cy-thJ.title" = "テキストドキュメント前";
+
+/* Class = "NSMenuItem"; title = "Chinese"; ObjectID = "FQk-dr-yLK"; */
+"FQk-dr-yLK.title" = "中国語";
+
+/* Class = "NSMenuItem"; title = "Color"; ObjectID = "FSE-7v-N2N"; */
+"FSE-7v-N2N.title" = "色";
+
+/* Class = "NSTabViewItem"; label = "Snapshots"; ObjectID = "FZz-md-Qi0"; */
+"FZz-md-Qi0.label" = "スナップショット";
+
+/* Class = "NSButtonCell"; title = "Link to images dragged from binder into editor"; ObjectID = "G4P-oZ-COq"; */
+"G4P-oZ-COq.title" = "バインダーからエディタにドラッグされた画像にリンクさせます";
+
+/* Class = "NSMenuItem"; title = "Hour"; ObjectID = "H4F-a7-XGL"; */
+"H4F-a7-XGL.title" = "時間";
+
+/* Class = "NSTextFieldCell"; title = "Interface language:"; ObjectID = "H4r-yo-x6a"; */
+"H4r-yo-x6a.title" = "インターフェースの言語：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If checked, plain text (.txt) files will have blank lines inserted between paragraphs on export, and removed on import."; ObjectID = "HD2-63-yHb"; */
+"HD2-63-yHb.ibShadowedToolTip" = "チェックが入れられている場合、プレーンテキスト(.txt）ファイルにはエクスポートされる際に段落の間に空欄行が挿入され、インポート時には削除されます。";
+
+/* Class = "NSMenuItem"; title = "Corkboard Texture"; ObjectID = "HPG-Ew-xcu"; */
+"HPG-Ew-xcu.title" = "コルクボードのテキスチャー";
+
+/* Class = "NSButtonCell"; title = "Words"; ObjectID = "HhC-0d-j4a"; */
+"HhC-0d-j4a.title" = "複数単語";
+
+/* Class = "NSButtonCell"; title = "Use revision colors in notes"; ObjectID = "HoB-Ct-mkH"; */
+"HoB-Ct-mkH.title" = "注釈で改訂色を使用";
+
+/* Class = "NSWindow"; title = "Zoom"; ObjectID = "HoD-8x-Q2n"; */
+"HoD-8x-Q2n.title" = "拡大/縮小";
+
+/* Class = "NSMenuItem"; title = "Minute"; ObjectID = "IDB-Vx-Lu2"; */
+"IDB-Vx-Lu2.title" = "分";
+
+/* Class = "NSMenuItem"; title = "English"; ObjectID = "Ifj-9n-Xbj"; */
+"Ifj-9n-Xbj.title" = "英語";
+
+/* Class = "NSMenuItem"; title = "5 Minutes"; ObjectID = "Jro-hF-qtL"; */
+"Jro-hF-qtL.title" = "5分";
+
+/* Class = "NSButtonCell"; title = "Remove stylesheet information when syncing with a folder"; ObjectID = "Kaq-uS-23v"; */
+"Kaq-uS-23v.title" = "フォルダと同期する際にスタイルシート情報を削除します";
+
+/* Class = "NSMenuItem"; title = "Automatically hide and show Dock"; ObjectID = "LBA-m3-Sav"; */
+"LBA-m3-Sav.title" = "自動的にDockを隠す・表示";
+
+/* Class = "NSButtonCell"; title = "Show notification when snapshots are taken"; ObjectID = "Msh-ub-XAI"; */
+"Msh-ub-XAI.title" = "スナップショットを撮った際に通知を表示";
+
+/* Class = "NSTextFieldCell"; title = "Epub2/Mobi:"; ObjectID = "NaQ-Cz-wgP"; */
+"NaQ-Cz-wgP.title" = "Epub2/Mobi:";
+
+/* Class = "NSMenuItem"; title = "System Default"; ObjectID = "OIt-ID-qx9"; */
+"OIt-ID-qx9.title" = "システムデフォルト";
+
+/* Class = "NSButtonCell"; title = "Automatically load web pages in bookmarks preview"; ObjectID = "Ou9-tG-h45"; */
+"Ou9-tG-h45.title" = "ブックマークプレビューに自動的にウェブページをロード";
+
+/* Class = "NSButtonCell"; title = "Before folders"; ObjectID = "PP1-VQ-NpN"; */
+"PP1-VQ-NpN.title" = "フォルダ前";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "Px4-BE-w3V"; */
+"Px4-BE-w3V.title" = "カスタム";
+
+/* Class = "NSButtonCell"; title = "Open comments in Inspector if possible"; ObjectID = "QTJ-mm-JfW"; */
+"QTJ-mm-JfW.title" = "可能な場合、インスペクタでコメントを開く";
+
+/* Class = "NSTextFieldCell"; title = "Punctuation:"; ObjectID = "Qf9-eG-e4E"; */
+"Qf9-eG-e4E.title" = "句読点";
+
+/* Class = "NSButtonCell"; title = "Pages"; ObjectID = "RT7-an-qYF"; */
+"RT7-an-qYF.title" = "ページ";
+
+/* Class = "NSTextFieldCell"; title = "Low"; ObjectID = "T8c-JY-obw"; */
+"T8c-JY-obw.title" = "低";
+
+/* Class = "NSButtonCell"; title = "Base selection color on background color"; ObjectID = "TSd-Ym-VKO"; */
+"TSd-Ym-VKO.title" = "バックグラウンドカラーのベース選択カラー";
+
+/* Class = "NSMenuItem"; title = "Rounded and Lined"; ObjectID = "UdV-TS-R09"; */
+"UdV-TS-R09.title" = "曲線とライン";
+
+/* Class = "NSButtonCell"; title = "Image links create back-link bookmarks"; ObjectID = "Uvh-dO-ZoU"; */
+"Uvh-dO-ZoU.title" = "画像リンクとブックマークはバックリンクブックマークを作成します";
+
+/* Class = "NSMenuItem"; title = "Hide Dock"; ObjectID = "VHd-ut-M9Q"; */
+"VHd-ut-M9Q.title" = "ドキュメントを隠す";
+
+/* Class = "NSMenuItem"; title = "Fourth Screen"; ObjectID = "VOW-wV-eI1"; */
+"VOW-wV-eI1.title" = "4つ目の画面";
+
+/* Class = "NSButtonCell"; title = "Back up before syncing with mobile devices"; ObjectID = "VOh-ex-bEX"; */
+"VOh-ex-bEX.title" = "モバイルデバイスと同期する前にバックアップ";
+
+/* Class = "NSTabViewItem"; label = "Shared Templates"; ObjectID = "Wwd-L3-52f"; */
+"Wwd-L3-52f.label" = "共有テンプレート";
+
+/* Class = "NSTextFieldCell"; title = "You must quit and relaunch Scrivener for this setting to take effect."; ObjectID = "XLJ-BG-QQ3"; */
+"XLJ-BG-QQ3.title" = "この設定を有効にするにはScrivenerを終了し、再起動する必要があります。";
+
+/* Class = "NSMenuItem"; title = "Other..."; ObjectID = "Yno-e6-Nl2"; */
+"Yno-e6-Nl2.title" = "その他...";
+
+/* Class = "NSButtonCell"; title = "Total columns only count documents included in Compile"; ObjectID = "ZvS-XA-RH1"; */
+"ZvS-XA-RH1.title" = "列合計は、コンパイルに含まれているドキュメントだけをカウントします";
+
+/* Class = "NSButtonCell"; title = "Draw shadows around cards"; ObjectID = "ZwA-hu-tmK"; */
+"ZwA-hu-tmK.title" = "カード周辺に影を描く";
+
+/* Class = "NSMenuItem"; title = "Corkboard Texture"; ObjectID = "aEe-y4-6cl"; */
+"aEe-y4-6cl.title" = "コルクボードのテキスチャー";
+
+/* Class = "NSMenuItem"; title = "Second Screen"; ObjectID = "aZM-FQ-8y1"; */
+"aZM-FQ-8y1.title" = "2つ目の画面";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "bFO-cP-dZJ"; */
+"bFO-cP-dZJ.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Highlight boxes around styled text"; ObjectID = "bNh-uZ-AZa"; */
+"bNh-uZ-AZa.title" = "スタイルテキスト周辺のボックスをハイライト";
+
+/* Class = "NSTabViewItem"; label = "Language"; ObjectID = "boI-Hp-yYY"; */
+"boI-Hp-yYY.label" = "言語";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "cz8-Xf-9Yq"; */
+"cz8-Xf-9Yq.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSMenuItem"; title = "Portuguese"; ObjectID = "d83-QD-1RU"; */
+"d83-QD-1RU.title" = "ポルトガル語";
+
+/* Class = "NSTextFieldCell"; title = "(Note that changes to these colors will only affect newly-typed text.)"; ObjectID = "dJZ-nE-thA"; */
+"dJZ-nE-thA.title" = "（これらの色への変更は、新しくタイプされたテキストだけに影響をを与えます。）";
+
+/* Class = "NSTextFieldCell"; title = "Use page break separators in page layout view:"; ObjectID = "eiH-B2-oXX"; */
+"eiH-B2-oXX.title" = "ページレイアウト表示でページブレイクセパレータを使用：";
+
+/* Class = "NSMenuItem"; title = "30 Minutes"; ObjectID = "fMt-1D-kbj"; */
+"fMt-1D-kbj.title" = "30分";
+
+/* Class = "NSTextFieldCell"; title = "External Folder Sync"; ObjectID = "fdm-Nm-5ZD"; */
+"fdm-Nm-5ZD.title" = "外部フォルダの同期";
+
+/* Class = "NSButtonCell"; title = "Place documents affected by sync into a \"Synced Documents\" collection"; ObjectID = "fxG-UW-B0X"; */
+"fxG-UW-B0X.title" = " \"ドキュメントの動機\" に同期により影響を受けたドキュメントを配置";
+
+/* Class = "NSTextFieldCell"; title = "Freeform grid size:"; ObjectID = "gs1-8v-fiZ"; */
+"gs1-8v-fiZ.title" = "フリーフォームグリッドサイズ：";
+
+/* Class = "NSMenuItem"; title = "Spanish"; ObjectID = "hDO-0c-36Y"; */
+"hDO-0c-36Y.title" = "スペイン語";
+
+/* Class = "NSTextFieldCell"; title = "Live counts show:"; ObjectID = "hrm-ad-wHf"; */
+"hrm-ad-wHf.title" = "ライブカウント表示：";
+
+/* Class = "NSButtonCell"; title = "Reset to Defaults"; ObjectID = "iUz-4V-kmQ"; */
+"iUz-4V-kmQ.title" = "デフォルトにリセット";
+
+/* Class = "NSMenuItem"; title = "Current Editor"; ObjectID = "idG-Tk-cn0"; */
+"idG-Tk-cn0.title" = "現在のエディタ";
+
+/* Class = "NSButtonCell"; title = "Open composition mode in its own Space"; ObjectID = "ilH-rI-rO9"; */
+"ilH-rI-rO9.title" = "構成モードをそれ自体のスペースで開きます";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "inS-qM-0RM"; */
+"inS-qM-0RM.title" = "実行しない";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "iuo-yh-OOt"; */
+"iuo-yh-OOt.title" = "その他：";
+
+/* Class = "NSTextFieldCell"; title = "Mobile Sync"; ObjectID = "j7R-LL-xj8"; */
+"j7R-LL-xj8.title" = "モバイルの同期";
+
+/* Class = "NSButtonCell"; title = "Adjust window size to accommodate binder and inspector"; ObjectID = "k5v-Bh-1Hu"; */
+"k5v-Bh-1Hu.title" = "ウィンドウサイズを調節して、バインダーとインスペクタに適用させます";
+
+/* Class = "NSMenuItem"; title = "Current Screen"; ObjectID = "kqG-Sk-A7t"; */
+"kqG-Sk-A7t.title" = "現在の画面";
+
+/* Class = "NSButtonCell"; title = "Do not include stylesheet information"; ObjectID = "lHO-wy-fiy"; */
+"lHO-wy-fiy.title" = "スタイルシート情報を含めない";
+
+/* Class = "NSMenuItem"; title = "Quick Reference Panel"; ObjectID = "lLG-Oz-j9v"; */
+"lLG-Oz-j9v.title" = "クイックリファレンス パネル";
+
+/* Class = "NSMenuItem"; title = "Korean"; ObjectID = "lMd-um-iOD"; */
+"lMd-um-iOD.title" = "韓国語";
+
+/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "lSF-D6-Gr3"; */
+"lSF-D6-Gr3.title" = "クリア";
+
+/* Class = "NSMenuItem"; title = "Swedish"; ObjectID = "leN-vc-0dv"; */
+"leN-vc-0dv.title" = "スウェーデン語";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "ly9-kp-zN1"; */
+"ly9-kp-zN1.title" = "選択します...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "mCL-Lf-JHk"; */
+"mCL-Lf-JHk.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Play shutter sound when snapshots are taken"; ObjectID = "oQR-do-PZJ"; */
+"oQR-do-PZJ.title" = "スナップショット撮影時にシャッターサウンドを再生";
+
+/* Class = "NSTextFieldCell"; title = "Freeform grid opacity:"; ObjectID = "oaX-uU-s9D"; */
+"oaX-uU-s9D.title" = "フリーフォームグリッドの不透明度：";
+
+/* Class = "NSMenuItem"; title = "German"; ObjectID = "ooY-LX-I3g"; */
+"ooY-LX-I3g.title" = "ドイツ語";
+
+/* Class = "NSTextFieldCell"; title = "Label view background:"; ObjectID = "q53-Gs-5UN"; */
+"q53-Gs-5UN.title" = "ラベル表示バックグラウンド：";
+
+/* Class = "NSButtonCell"; title = "Use custom colors in toolbar progress bars"; ObjectID = "qEi-NG-Nae"; */
+"qEi-NG-Nae.title" = "ツールバーの進捗バーでカスタムカラーを使用";
+
+/* Class = "NSButtonCell"; title = "Always resize editors proportionally when resizing window"; ObjectID = "r7c-Og-ipj"; */
+"r7c-Og-ipj.title" = "ウィンドウをリサイズする際は、常にエディターの割合をリサイズします。";
+
+/* Class = "NSButtonCell"; title = "Characters"; ObjectID = "sNj-Br-r9v"; */
+"sNj-Br-r9v.title" = "文字";
+
+/* Class = "NSTextFieldCell"; title = "Open Inspector bookmarks in:"; ObjectID = "t11-XJ-FWg"; */
+"t11-XJ-FWg.title" = "インスペクタブックマークを開く：";
+
+/* Class = "NSMenuItem"; title = "Empty Line"; ObjectID = "tCE-z4-nSc"; */
+"tCE-z4-nSc.title" = "空欄の行";
+
+/* Class = "NSButtonCell"; title = "Automatically show the \"Synced Documents\" collection after a sync"; ObjectID = "tQU-7k-nem"; */
+"tQU-7k-nem.title" = "動的に \"ドキュメントを同期\"を表示";
+
+/* Class = "NSTextFieldCell"; title = "Open composition mode on:"; ObjectID = "tXw-pk-gAo"; */
+"tXw-pk-gAo.title" = "構成モードを開く：";
+
+/* Class = "NSMenuItem"; title = "Third Screen"; ObjectID = "tdd-eB-w1w"; */
+"tdd-eB-w1w.title" = "3つ目の画面";
+
+/* Class = "NSMenuItem"; title = "10 Minutes"; ObjectID = "uRU-eg-Ki2"; */
+"uRU-eg-Ki2.title" = "10分";
+
+/* Class = "NSButtonCell"; title = "Open shared templates folder..."; ObjectID = "uqe-vL-skS"; */
+"uqe-vL-skS.title" = "共有テンプレートフォルダを開きます...";
+
+/* Class = "NSButtonCell"; title = "Take snapshots before updating documents"; ObjectID = "v8S-wX-MDu"; */
+"v8S-wX-MDu.title" = "ドキュメントアップデート前にスナップショットを撮影";
+
+/* Class = "NSMenuItem"; title = "Italian"; ObjectID = "vAz-3Z-wmg"; */
+"vAz-3Z-wmg.title" = "イタリア語";
+
+/* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "vNJ-AQ-oQa"; */
+"vNJ-AQ-oQa.title" = "日本語";
+
+/* Class = "NSTextFieldCell"; title = "Check for changes every:"; ObjectID = "vP4-uP-2Lp"; */
+"vP4-uP-2Lp.title" = "変更の確認間隔：";
+
+/* Class = "NSButtonCell"; title = "Merge all stylesheet information into a single CSS file"; ObjectID = "wUi-UW-fWr"; */
+"wUi-UW-fWr.title" = "全てのスタイルシートを単一CSSファイルにマージ";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "xiz-wY-8Jj"; */
+"xiz-wY-8Jj.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSMenuItem"; title = "10 seconds"; ObjectID = "xx8-PR-Pre"; */
+"xx8-PR-Pre.title" = "10秒";
+
+/* Class = "NSTextFieldCell"; title = "When synopses are hidden:"; ObjectID = "u0E-ND-Fas"; */
+"u0E-ND-Fas.title" = "一覧非表示の時";
+
+/* Class = "NSButtonCell"; title = "Use \"Other\" font for titles"; ObjectID = "tnc-Re-aeY"; */
+"tnc-Re-aeY.title" = "見出しに\"Other\"フォント使用";
+
+/* Class = "NSTextFieldCell"; title = "When synopses are shown:"; ObjectID = "qO0-Sr-Weu"; */
+"qO0-Sr-Weu.title" = "一覧表示中";
+
+/* Class = "NSButtonCell"; title = "Remove bold from titles with no synopsis"; ObjectID = "AhH-w9-bkl"; */
+"AhH-w9-bkl.title" = "一覧なし見出しの太字解除";
+
+/* Class = "NSTextFieldCell"; title = "Row spacing (with synopses):"; ObjectID = "dt5-DW-07f"; */
+"dt5-DW-07f.title" = "行間（一覧あり:";
+
+/* Class = "NSTextFieldCell"; title = "Row spacing (titles only):"; ObjectID = "Q8T-El-scx"; */
+"Q8T-El-scx.title" = "行間（一覧なし:";
+
+/* Class = "NSButtonCell"; title = "Set from Current Project"; ObjectID = "QAD-qZ-4hI"; */
+"QAD-qZ-4hI.title" = "現在のプロジェクトから設定";
+
+/* Class = "NSMenuItem"; title = "Dashed Line"; ObjectID = "eli-eW-5EB"; */
+"eli-eW-5EB.title" = "ダッシュドライン";
+
+/* Class = "NSTextFieldCell"; title = "Minimum font size:"; ObjectID = "oED-WX-Fu4"; */
+"oED-WX-Fu4.title" = "最小フォントサイズ：";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "wzl-1T-wOg"; */
+"wzl-1T-wOg.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSButtonCell"; title = "Convert underscores to underlines when converting Markdown"; ObjectID = "xH7-HA-jyS"; */
+"xH7-HA-jyS.title" = "Markdown変換時に下線をアンダーラインに変換";
+
+/* Class = "NSMenuItem"; title = "Divider"; ObjectID = "xzN-fn-5hS"; */
+"xzN-fn-5hS.title" = "ディバイダ";
+
+/* Class = "NSTextFieldCell"; title = "Main text formatting for new documents:"; ObjectID = "819114257"; */
+"819114257.title" = "新規ドキュメントのメインテキスト形式：";
+
+/* Class = "NSTextFieldCell"; title = "(\"Rewind on pause\" must be turned on in the media control bar.)"; ObjectID = "819115199"; */
+"819115199.title" = "(\"Rewind on pause\" must be turned on in the media control bar.)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Choose a tiling image texture file to use instead of a colour."; ObjectID = "819115730"; */
+"819115730.ibShadowedToolTip" = "色の代わりに使用するために、タイトル画像テキスチャファイルを選択します。";
+
+/* Class = "NSMenuItem"; title = "Corners"; ObjectID = "819116224"; */
+"819116224.title" = "コーナー";
+
+/* Class = "NSTextFieldCell"; title = "Normal:"; ObjectID = "819116230"; */
+"819116230.title" = "通常:";
+
+/* Class = "NSTextFieldCell"; title = "\"Hide Markup\" hides:"; ObjectID = "819116368"; */
+"819116368.title" = "\"Hide Markup\" hides:";
+
+/* Class = "NSTextFieldCell"; title = "(\"Hide Markup\" can be found in the View > Text Editing menu. Note that it only affects the main editor.)"; ObjectID = "819116370"; */
+"819116370.title" = "(\"Hide Markup\" can be found in the View > Text Editing menu. Note that it only affects the main editor.)";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "1Jq-t8-Zc2"; */
+"1Jq-t8-Zc2.title" = "Eメール:";
+
+/* Class = "NSButtonCell"; title = "Show progress bars in Quick Search toolbar item"; ObjectID = "3ZU-52-5QY"; */
+"3ZU-52-5QY.title" = "進捗バーをクイック検索ツールバーの項目に表示";
+
+/* Class = "NSButtonCell"; title = "Do not show separators above titles"; ObjectID = "6Se-pu-PK3"; */
+"6Se-pu-PK3.title" = "タイトル上にセパレータを非表示";
+
+/* Class = "NSTextFieldCell"; title = "This option does not apply when using fixed row heights."; ObjectID = "9UM-BD-CbZ"; */
+"9UM-BD-CbZ.title" = "このオプションは行高さ固定を使用する場合は適用されません。";
+
+/* Class = "NSButtonCell"; title = "Typewriter scrolling always jumps to scroll line"; ObjectID = "Aof-N0-r7X"; */
+"Aof-N0-r7X.title" = "タイプライタースクローリングでは常にスクロール行まで飛びます";
+
+/* Class = "NSMenuItem"; title = "Corners"; ObjectID = "GZO-Kt-wWJ"; */
+"GZO-Kt-wWJ.title" = "コーナー";
+
+/* Class = "NSButtonCell"; title = "Only when using fixed row heights"; ObjectID = "IyQ-oF-gcQ"; */
+"IyQ-oF-gcQ.title" = "行高さ固定にする場合のみ";
+
+/* Class = "NSTextFieldCell"; title = "Scriptwriting:"; ObjectID = "M5K-SZ-LYI"; */
+"M5K-SZ-LYI.title" = "台本:";
+
+/* Class = "NSTextFieldCell"; title = "Scrivenings Separator"; ObjectID = "Pr4-xc-Abe"; */
+"Pr4-xc-Abe.title" = "連結表示セパレータ";
+
+/* Class = "NSMenuItem"; title = "Bookish"; ObjectID = "SOd-Hm-RZo"; */
+"SOd-Hm-RZo.title" = "書籍風";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Last Name"; ObjectID = "TUw-XF-ZYa"; */
+"TUw-XF-ZYa.placeholderString" = "名";
+
+/* Class = "NSTextFieldCell"; title = "This information is used to fill out author details in title pages and elsewhere. If not filled in, it will be pulled from Contacts."; ObjectID = "ZWU-6u-4Wv"; */
+"ZWU-6u-4Wv.title" = "この情報を使ってタイトル ページ等に作成者情報を記入します。記入しない場合作成者が連絡先から消去されます。";
+
+/* Class = "NSTextFieldCell"; title = "Country:"; ObjectID = "caI-sD-4KY"; */
+"caI-sD-4KY.title" = "国:";
+
+/* Class = "NSTextFieldCell"; title = "City:"; ObjectID = "eE6-gR-Nmp"; */
+"eE6-gR-Nmp.title" = "都市名:";
+
+/* Class = "NSTextFieldCell"; title = "Shared document templates folder:"; ObjectID = "fZe-y7-fEx"; */
+"fZe-y7-fEx.title" = "共有文書テンプレートフォルダー：";
+
+/* Class = "NSTextFieldCell"; title = "Phone Number:"; ObjectID = "fkc-js-p9C"; */
+"fkc-js-p9C.title" = "電話番号:";
+
+/* Class = "NSTabViewItem"; label = "Author Information"; ObjectID = "jSR-Ly-ftx"; */
+"jSR-Ly-ftx.label" = "作成者情報";
+
+/* Class = "NSTextFieldCell"; title = "Files placed in the shared document templates folder can quickly be imported into projects via the Project > New from Template menu."; ObjectID = "lt5-jX-Xb5"; */
+"lt5-jX-Xb5.title" = "共有文書フォルダーに入れられたファイルは、プロジェクト > テンプレートから新しく開くからプロジェクトにすぐにインポートできます。";
+
+/* Class = "NSTextFieldCell"; title = "ZIP/Postcode:"; ObjectID = "maG-Hs-nBN"; */
+"maG-Hs-nBN.title" = "〒:";
+
+/* Class = "NSTextFieldCell"; title = "Determines the styles that appear in the Format > Style menu for new projects that don't include built-in styles."; ObjectID = "n08-Ne-sWP"; */
+"n08-Ne-sWP.title" = "組み込みスタイルのない新規プロジェクトの書式 > スタイルメニューに表示されるスタイルを決定します。";
+
+/* Class = "NSTextFieldCell"; title = "Reduce font size per level by:"; ObjectID = "ogr-ee-wzm"; */
+"ogr-ee-wzm.title" = "レベル当たりフォントサイズを小さくする程度:";
+
+/* Class = "NSMenuItem"; title = "Bookish"; ObjectID = "pIO-lO-NBv"; */
+"pIO-lO-NBv.title" = "書籍風";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "rm0-su-E9E"; */
+"rm0-su-E9E.title" = "名前：";
+
+/* Class = "NSButtonCell"; title = "Always indent title column if available"; ObjectID = "se9-Tz-96O"; */
+"se9-Tz-96O.title" = "タイトル列を常にインデント（利用可能な場合）";
+
+/* Class = "NSTextFieldCell"; title = "State/County:"; ObjectID = "uTW-Z5-liH"; */
+"uTW-Z5-liH.title" = "都道府県:";
+
+/* Class = "NSButtonCell"; title = "Set Styles Defaults..."; ObjectID = "uwn-Te-xai"; */
+"uwn-Te-xai.title" = "スタイルをデフォルトに設定...";
+
+/* Class = "NSTextFieldCell"; title = "Street:"; ObjectID = "v5p-bS-z1G"; */
+"v5p-bS-z1G.title" = "住所:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "First Name"; ObjectID = "yHJ-7F-bnW"; */
+"yHJ-7F-bnW.placeholderString" = "姓";

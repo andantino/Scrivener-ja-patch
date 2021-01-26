@@ -1,0 +1,303 @@
+
+/* Class = "NSWindow"; title = "Project Settings"; ObjectID = "5"; */
+"5.title" = "プロジェクト設定";
+
+/* Class = "NSTabViewItem"; label = "Labels"; ObjectID = "8"; */
+"8.label" = "複数ラベル";
+
+/* Class = "NSTabViewItem"; label = "Status"; ObjectID = "10"; */
+"10.label" = "ステータス";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new label."; ObjectID = "37"; */
+"37.ibExternalAccessibilityDescription" = "新しいラベルを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new label."; ObjectID = "37"; */
+"37.ibShadowedToolTip" = "新しいラベルを追加します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected labels."; ObjectID = "38"; */
+"38.ibExternalAccessibilityDescription" = "選択されたラベルを削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected labels."; ObjectID = "38"; */
+"38.ibShadowedToolTip" = "選択されたラベルを削除します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new status."; ObjectID = "42"; */
+"42.ibExternalAccessibilityDescription" = "新しいステータスを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new status."; ObjectID = "42"; */
+"42.ibShadowedToolTip" = "新しいステータスを追加します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected status items."; ObjectID = "43"; */
+"43.ibExternalAccessibilityDescription" = "選択したステータス項目を削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected status items."; ObjectID = "43"; */
+"43.ibShadowedToolTip" = "選択したステータス項目を削除します。";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "135"; */
+"135.title" = "ラベル";
+
+/* Class = "NSTextFieldCell"; title = "Custom Title:"; ObjectID = "136"; */
+"136.title" = "カスタムタイトル：";
+
+/* Class = "NSTextFieldCell"; title = "Double-click to edit colors."; ObjectID = "139"; */
+"139.title" = "ダブルクリックして色を編集します。";
+
+/* Class = "NSButtonCell"; title = "Make Default"; ObjectID = "140"; */
+"140.title" = "デフォルトにする";
+
+/* Class = "NSButtonCell"; title = "Make Default"; ObjectID = "144"; */
+"144.title" = "デフォルトにする";
+
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "145"; */
+"145.title" = "ステータス";
+
+/* Class = "NSTextFieldCell"; title = "Custom Title:"; ObjectID = "146"; */
+"146.title" = "カスタムタイトル：";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "150"; */
+"150.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "151"; */
+"151.title" = "キャンセル";
+
+/* Class = "NSTabViewItem"; label = "Custom Metadata"; ObjectID = "158"; */
+"158.label" = "カスタムメタデータ";
+
+/* Class = "NSTextFieldCell"; title = "Custom metadata appears in the \"Custom Metadata\" pane of the inspector and can be added as columns to the outliner."; ObjectID = "172"; */
+"172.title" = "カスタムメタデータがインスペクタの \"カスタムメタデータ\"ペインに表示され、アウトライナーの列として追加できます。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected metadata fields."; ObjectID = "173"; */
+"173.ibExternalAccessibilityDescription" = "選択されたメタデータフィールドを削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected metadata fields."; ObjectID = "173"; */
+"173.ibShadowedToolTip" = "選択されたメタデータフィールドを削除します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new metadata field."; ObjectID = "174"; */
+"174.ibExternalAccessibilityDescription" = "新しいメタデータフィールドを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new metadata field."; ObjectID = "174"; */
+"174.ibShadowedToolTip" = "新しいメタデータフィールドを追加します。";
+
+/* Class = "NSTextFieldCell"; title = "Text color:"; ObjectID = "185"; */
+"185.title" = "テキストカラー：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Metadata Title"; ObjectID = "196"; */
+"196.headerCell.title" = "メタデータタイトル";
+
+/* Class = "NSTabViewItem"; label = "Formatting"; ObjectID = "291"; */
+"291.label" = "書式設定";
+
+/* Class = "NSTabViewItem"; label = "Auto-Complete"; ObjectID = "293"; */
+"293.label" = "オートコンプリート";
+
+/* Class = "NSTabViewItem"; label = "Backdrop"; ObjectID = "295"; */
+"295.label" = "バックドロップ";
+
+/* Class = "NSTextFieldCell"; title = "Composition Mode Backdrop:"; ObjectID = "298"; */
+"298.title" = "構成モードバックドロップ：";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "300"; */
+"300.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "No backdrop"; ObjectID = "301"; */
+"301.title" = "バックドロップがありません";
+
+/* Class = "NSButtonCell"; title = "Choose from disk:"; ObjectID = "302"; */
+"302.title" = "ディスクから選択：";
+
+/* Class = "NSButtonCell"; title = "Use image from project:"; ObjectID = "303"; */
+"303.title" = "プロジェクトから画像を使用：";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "305"; */
+"305.title" = "選択します...";
+
+/* Class = "NSTextFieldCell"; title = "Current Path"; ObjectID = "313"; */
+"313.title" = "現在のパス";
+
+/* Class = "NSTabViewItem"; label = "TemplateFolder"; ObjectID = "320"; */
+"320.label" = "TemplateFolder";
+
+/* Class = "NSMenuItem"; title = "No Templates Folder"; ObjectID = "325"; */
+"325.title" = "テンプレートフォルダーがありません";
+
+/* Class = "NSTextFieldCell"; title = "Templates Folder:"; ObjectID = "330"; */
+"330.title" = "テンプレートフォルダー：";
+
+/* Class = "NSTabViewItem"; label = "Backup"; ObjectID = "336"; */
+"336.label" = "Backup";
+
+/* Class = "NSButtonCell"; title = "Open Backup Preferences..."; ObjectID = "339"; */
+"339.title" = "バックアッププリファレンスを開きます...";
+
+/* Class = "NSButtonCell"; title = "Use custom backup folder for this project:"; ObjectID = "343"; */
+"343.title" = "このプロジェクトのカスタムバックアップフォルダーを使用：";
+
+/* Class = "NSTextFieldCell"; title = "Backup location:"; ObjectID = "348"; */
+"348.title" = "バックアップの場所：";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "349"; */
+"349.title" = "選択します...";
+
+/* Class = "NSButtonCell"; title = "Open backup folder..."; ObjectID = "351"; */
+"351.title" = "バックアップフォルダーを開きます...";
+
+/* Class = "NSButtonCell"; title = "Exclude from automatic backups"; ObjectID = "353"; */
+"353.title" = "自動バックアップから除外";
+
+/* Class = "NSTextFieldCell"; title = "(Automatic backups must be turned on in the Preferences for these options to be available.)"; ObjectID = "357"; */
+"357.title" = "（これらのオプションを使用する場合、自動バックアップはプリファレンスでオンにされる必要があります）";
+
+/* Class = "NSMenuItem"; title = "Medium Date & Time"; ObjectID = "1BY-7L-j8a"; */
+"1BY-7L-j8a.title" = "Medium型日付 & 時間";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "1Jm-oj-U75"; */
+"1Jm-oj-U75.title" = "カスタム";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "28e-FD-TvU"; */
+"28e-FD-TvU.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSButtonCell"; title = "Use colored text"; ObjectID = "6pe-fK-Hmr"; */
+"6pe-fK-Hmr.title" = "カラーテキストを使用";
+
+/* Class = "NSMenuItem"; title = "Short Date"; ObjectID = "7r5-OE-Hg2"; */
+"7r5-OE-Hg2.title" = "短日付";
+
+/* Class = "NSTextFieldCell"; title = "Freeform Corkboard Mode Background:"; ObjectID = "7tO-Fh-YXK"; */
+"7tO-Fh-YXK.title" = "フリーフォームコルクボードモードバックグラウンド：";
+
+/* Class = "NSTableColumn"; headerCell.title = "List Items"; ObjectID = "8c0-v6-z8z"; */
+"8c0-v6-z8z.headerCell.title" = "リスト項目";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected list items."; ObjectID = "BCm-MV-ZfE"; */
+"BCm-MV-ZfE.ibExternalAccessibilityDescription" = "選択されたリスト項目を削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected list items."; ObjectID = "BCm-MV-ZfE"; */
+"BCm-MV-ZfE.ibShadowedToolTip" = "選択されたリスト項目を削除します。";
+
+/* Class = "NSTabViewItem"; label = "List"; ObjectID = "Bp2-qZ-4A5"; */
+"Bp2-qZ-4A5.label" = "リスト";
+
+/* Class = "NSTextFieldCell"; title = "Note that the backdrop will not be shown in page layout mode."; ObjectID = "Cyp-vL-USh"; */
+"Cyp-vL-USh.title" = "バックドロップはページレイアウトモードでは表示されません。";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "FTT-HF-CED"; */
+"FTT-HF-CED.title" = "フォーマット：";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "HPP-CA-AGr"; */
+"HPP-CA-AGr.title" = "テキスト";
+
+/* Class = "NSTabViewItem"; label = "Checkbox"; ObjectID = "Hgb-Zs-Ja6"; */
+"Hgb-Zs-Ja6.label" = "チェックボックス";
+
+/* Class = "NSTabViewItem"; label = "Text"; ObjectID = "Jzb-sT-6uu"; */
+"Jzb-sT-6uu.label" = "テキスト";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open Unicode Standards web page showing date format patterns."; ObjectID = "KMj-kK-74i"; */
+"KMj-kK-74i.ibShadowedToolTip" = "日付形式パターンを表示するUnicode Standardウェブページを開きます。";
+
+/* Class = "NSButtonCell"; title = "Wrap text"; ObjectID = "KhD-G5-kbH"; */
+"KhD-G5-kbH.title" = "ラップテキスト";
+
+/* Class = "NSTabViewItem"; label = "Types"; ObjectID = "Nc3-bz-usL"; */
+"Nc3-bz-usL.label" = "Types";
+
+/* Class = "NSButtonCell"; title = "Ignore time zone changes"; ObjectID = "Nkd-rF-pBL"; */
+"Nkd-rF-pBL.title" = "タイムゾーンの変更を無視";
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "QAV-dO-80v"; */
+"QAV-dO-80v.title" = "日付";
+
+/* Class = "NSMenuItem"; title = "List"; ObjectID = "QuE-Fc-XRS"; */
+"QuE-Fc-XRS.title" = "リスト";
+
+/* Class = "NSTextFieldCell"; title = "Determines the checkbox state for items that have not been explicitly ticked or unticked."; ObjectID = "Rsf-uU-NAM"; */
+"Rsf-uU-NAM.title" = "はっきりとチェックが入れられていない、またはチェックが外されている項目のチェックボックスの状態を決定します。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = " "; ObjectID = "SLN-iV-du6"; */
+"SLN-iV-du6.ibShadowedNoSelectionPlaceholder" = " ";
+
+/* Class = "NSTextFieldCell"; title = "(Set via preferences)"; ObjectID = "Vl7-zJ-VFK"; */
+"Vl7-zJ-VFK.title" = "（プリファレンスから設定）";
+
+/* Class = "NSTextFieldCell"; title = "Current Path"; ObjectID = "WBf-jc-8eI"; */
+"WBf-jc-8eI.title" = "現在のパス";
+
+/* Class = "NSMenuItem"; title = "Long Date & Time"; ObjectID = "XB3-cx-rDG"; */
+"XB3-cx-rDG.title" = "長日時";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "YAn-2n-Maf"; */
+"YAn-2n-Maf.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "Yco-VU-bcS"; */
+"Yco-VU-bcS.title" = "タイプ：";
+
+/* Class = "NSTextFieldCell"; title = "Custom Format:"; ObjectID = "bbe-xn-bjm"; */
+"bbe-xn-bjm.title" = "カスタム形式：";
+
+/* Class = "NSTabViewItem"; label = "Date"; ObjectID = "dwp-CB-hm5"; */
+"dwp-CB-hm5.label" = "日付";
+
+/* Class = "NSTextFieldCell"; title = "Default New Bookmarks Folder:"; ObjectID = "eba-Pt-Coh"; */
+"eba-Pt-Coh.title" = "デフォルトの新規ブックマークフォルダー：";
+
+/* Class = "NSMenuItem"; title = "Full Date"; ObjectID = "fAs-h1-pTn"; */
+"fAs-h1-pTn.title" = "日付";
+
+/* Class = "NSMenuItem"; title = "Long Date"; ObjectID = "fTF-Jy-A3W"; */
+"fTF-Jy-A3W.title" = "長日付";
+
+/* Class = "NSTextFieldCell"; title = "Custom date formats support patterns conforming to Unicode Technical Standard #35, e.g:\n• Weekday: EEEE = Monday, EEE = Mon\n• Day: d = 1, dd = 01\n• Month: MMMM = January, MMM = Jan, MM = 01\n• Year: yyyy = 2001, yy = 01\n• Time: hh:mm:ss a = 6:05:59 PM, kk:mm = 18:05"; ObjectID = "fdR-uJ-mHn"; */
+"fdR-uJ-mHn.title" = "カスタムデータフォーマットは次のパターンをサポートしています。Unicode Technical Standard #35, 例:\n• 平日： EEEE = 月曜日、EEE = 月\n• 日： d = 1、dd = 01\n• 月： MMMM = 1月、MMM = 1月、MM = 01\n• 年： yyyy = 2001, yy = 01\n• 時間： hh:mm:ss a = 6:05:59 PM、 kk:mm = 18:05";
+
+/* Class = "NSButtonCell"; title = "Use default background"; ObjectID = "hM0-Qv-YPd"; */
+"hM0-Qv-YPd.title" = "デフォルトのバックグラウンドを使用";
+
+/* Class = "NSMenuItem"; title = "Short Date & Time"; ObjectID = "hay-gW-JkW"; */
+"hay-gW-JkW.title" = "Short型日付 & 時間";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "hjP-co-3RB"; */
+"hjP-co-3RB.title" = "選択します...";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new list option."; ObjectID = "rPl-M0-UmP"; */
+"rPl-M0-UmP.ibExternalAccessibilityDescription" = "新しいリストオプションを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new list option."; ObjectID = "rPl-M0-UmP"; */
+"rPl-M0-UmP.ibShadowedToolTip" = "新しいリストオプションを追加します。";
+
+/* Class = "NSButtonCell"; title = "Tick by default"; ObjectID = "raR-2L-Wtn"; */
+"raR-2L-Wtn.title" = "デフォルトでチェックを入れる";
+
+/* Class = "NSButtonCell"; title = "Choose from disk:"; ObjectID = "sHj-Zv-WEJ"; */
+"sHj-Zv-WEJ.title" = "ディスクから選択：";
+
+/* Class = "NSTextFieldCell"; title = "New documents created in the project bookmarks pane of Quick Reference panels will be placed inside this folder by default."; ObjectID = "sJ8-zY-24g"; */
+"sJ8-zY-24g.title" = "Quick Referenceパネルのプロジェクトブックマークペインで作成された新規ドキュメントは、デフォルトでこのフォルダー内に入れられます。";
+
+/* Class = "NSMenuItem"; title = "Full Date & Time"; ObjectID = "trL-8C-c6C"; */
+"trL-8C-c6C.title" = "Full型日付 & 時間";
+
+/* Class = "NSMenuItem"; title = "Checkbox"; ObjectID = "vJD-gW-GLT"; */
+"vJD-gW-GLT.title" = "チェックボックス";
+
+/* Class = "NSMenuItem"; title = "Time"; ObjectID = "vV5-ex-r3v"; */
+"vV5-ex-r3v.title" = "時間";
+
+/* Class = "NSMenuItem"; title = "Medium Date"; ObjectID = "xwj-kq-wpz"; */
+"xwj-kq-wpz.title" = "Medium型日付";
+
+/* Class = "NSTextFieldCell"; title = "Documents contained inside the templates folder can be used as the basis for new documents by using Project > New from Template. When you select an item in the New from Template menu, a duplicate of the selected template document will be created and inserted into the project as though it were a new document."; ObjectID = "332"; */
+"332.title" = "テンプレートフォルダー内のドキュメントは、プロジェクト > テンプレートから新しく開くを使って新規ドキュメントの基本として使用できます。テンプレートから新しく開くメニューでアイテムを選択すると、選択されたテンプレートドキュメントのコピーが作成され、新規ドキュメントのようにプロジェクトに挿入されます。";
+
+/* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "8hF-b7-Dlp"; */
+"8hF-b7-Dlp.title" = "配列:";
+
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "NYJ-mL-ckn"; */
+"NYJ-mL-ckn.title" = "左";
+
+/* Class = "NSMenuItem"; title = "Center"; ObjectID = "ktl-Pa-6DN"; */
+"ktl-Pa-6DN.title" = "中央揃え";
+
+/* Class = "NSMenuItem"; title = "Right"; ObjectID = "my2-V0-2K2"; */
+"my2-V0-2K2.title" = "右";
+
+/* Class = "NSTextFieldCell"; title = "\"None\" item title:"; ObjectID = "x60-i4-wK2"; */
+"x60-i4-wK2.title" = "\"None\" item title:";

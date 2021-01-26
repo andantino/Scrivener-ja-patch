@@ -1,0 +1,51 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Roll back the current document to the selected snapshot."; ObjectID = "13"; */
+"13.ibShadowedToolTip" = "現在のドキュメントを選択したスナップショットにロールバックします。";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "22"; */
+"22.title" = "削除";
+
+/* Class = "NSMenuItem"; title = "Roll Back"; ObjectID = "23"; */
+"23.title" = "ロールバック";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "34"; */
+"34.headerCell.title" = "日付";
+
+/* Class = "NSDateFormatter"; ibShadowedDateFormat = "d MMMM y, HH:mm"; ObjectID = "60"; */
+"60.ibShadowedDateFormat" = "d MMMM y, HH:mm";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "100072"; */
+"100072.headerCell.title" = "タイトル";
+
+/* Class = "NSButtonCell"; title = "Roll Back"; ObjectID = "200224"; */
+"200224.title" = "ロールバック";
+
+/* Class = "NSTextFieldCell"; title = "Thursday, 1 April 1976 21:00:00 British Summer Time"; ObjectID = "200226"; */
+"200226.title" = "木曜日、1976年4月1日 21:00:00 イギリス夏時間";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Compare the selected snapshot with the active version of the document or compare two selected snapshots. (Opt-drag a snapshot to the editor's header bar to view a comparison in the main editor.)"; ObjectID = "200233"; */
+"200233.ibShadowedToolTip" = "選択されたスナップショットをドキュメントのアクティブバージョンと比較するか、2つの選択されたスナップショットを比較します。（スナップショットをエディターのヘッダーバーにOpt-ドラッグし、主要エディタで比較を表示します。）";
+
+/* Class = "NSButtonCell"; title = "Compare"; ObjectID = "200234"; */
+"200234.title" = "比較";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Change comparison granularity."; ObjectID = "200239"; */
+"200239.ibExternalAccessibilityDescription" = "比較精度を変更します。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Change comparison granularity."; ObjectID = "200239"; */
+"200239.ibShadowedToolTip" = "比較精度を変更します。";
+
+/* Class = "NSMenuItem"; title = "View on Copyholder"; ObjectID = "3kC-VK-eNM"; */
+"3kC-VK-eNM.title" = "コピーホルダーに表示";
+
+/* Class = "NSMenuItem"; title = "By Clause"; ObjectID = "Cnr-b4-19z"; */
+"Cnr-b4-19z.title" = "節単位";
+
+/* Class = "NSMenuItem"; title = "By Word"; ObjectID = "ECZ-xP-RG4"; */
+"ECZ-xP-RG4.title" = "単語単位";
+
+/* Class = "NSMenuItem"; title = "By Paragraph"; ObjectID = "oMY-Vf-ZUL"; */
+"oMY-Vf-ZUL.title" = "段落単位";
+
+/* Class = "NSMenuItem"; title = "View Changes on Copyholder"; ObjectID = "6i0-hm-4Iz"; */
+"6i0-hm-4Iz.title" =  "コピーホルダーに変更を表示";

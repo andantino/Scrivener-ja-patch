@@ -1,0 +1,1852 @@
+
+/* Class = "NSMenuItem"; title = "Pandoc (ePub)"; ObjectID = "04n-N1-9kD"; */
+"04n-N1-9kD.title" = "Pandoc (ePub)";
+
+/* Class = "NSTextFieldCell"; title = "Endnotes page title:"; ObjectID = "08b-NG-k9O"; */
+"08b-NG-k9O.title" = "エンドノートページタイトル：";
+
+/* Class = "NSButtonCell"; title = "Override endnotes font:"; ObjectID = "0Df-V0-j0s"; */
+"0Df-V0-j0s.title" = "文末脚注フォントを上書きする：";
+
+/* Class = "NSMenuItem"; title = "Before page breaks"; ObjectID = "0I4-EZ-k3b"; */
+"0I4-EZ-k3b.title" = "改ページ前";
+
+/* Class = "NSButtonCell"; title = "Use vertical headers and footers"; ObjectID = "0Ka-Kb-c8q"; */
+"0Ka-Kb-c8q.title" = "垂直ヘッダーとフッターを使用する";
+
+/* Class = "NSButtonCell"; title = "Pandoc (DocBook)"; ObjectID = "0Zr-uM-fA5"; */
+"0Zr-uM-fA5.title" = "Pandoc (DocBook)";
+
+/* Class = "NSTextFieldCell"; title = "Blank line separator:"; ObjectID = "0c6-yy-XGj"; */
+"0c6-yy-XGj.title" = "空白行セパレータ：";
+
+/* Class = "NSButtonCell"; title = "HTML"; ObjectID = "0dJ-nl-iL6"; */
+"0dJ-nl-iL6.title" = "HTML";
+
+/* Class = "NSMenuItem"; title = "Use Custom CSS Stylesheet"; ObjectID = "0p8-HG-JaM"; */
+"0p8-HG-JaM.title" = "カスタムCSSスタイルシートを使用する";
+
+/* Class = "NSButton"; ibShadowedToolTip = "MultiMarkdown > Flat XML (.fodt)"; ObjectID = "0rf-pq-A8t"; */
+"0rf-pq-A8t.ibShadowedToolTip" = "MultiMarkdown > Flat XML (.fodt)";
+
+/* Class = "NSButtonCell"; title = "MMD"; ObjectID = "15Z-9h-og5"; */
+"15Z-9h-og5.title" = "MMD";
+
+/* Class = "NSButtonCell"; title = "FDX"; ObjectID = "17o-Hk-WXz"; */
+"17o-Hk-WXz.title" = "FDX";
+
+/* Class = "NSButtonCell"; title = "Use Word-compatible indents for lists"; ObjectID = "1Fb-JQ-4Wa"; */
+"1Fb-JQ-4Wa.title" = "リストにはWordと互換性のあるインデントを使用する";
+
+/* Class = "NSTextFieldCell"; title = "Enclosing markers for annotations:"; ObjectID = "1Gl-ze-RpH"; */
+"1Gl-ze-RpH.title" = "注釈にマーカーを追加：";
+
+/* Class = "NSTextFieldCell"; title = "Footnotes become endnotes when compiled to this file format."; ObjectID = "1Ji-bV-KOO"; */
+"1Ji-bV-KOO.title" = "このファイル形式にコンパリルされると、脚注はエンドノートになります。";
+
+/* Class = "NSTextFieldCell"; title = "Title Prefix:"; ObjectID = "1hX-Yj-Rmn"; */
+"1hX-Yj-Rmn.title" = "タイトル接頭辞：";
+
+/* Class = "NSMenuItem"; title = "1/8 inch"; ObjectID = "1jR-gJ-3d6"; */
+"1jR-gJ-3d6.title" = "1/8インチ";
+
+/* Class = "NSButtonCell"; title = "Fountain"; ObjectID = "1qN-H6-MFY"; */
+"1qN-H6-MFY.title" = "Fountain";
+
+/* Class = "NSTextFieldCell"; title = "LaTeX document class:"; ObjectID = "1xm-OT-gHR"; */
+"1xm-OT-gHR.title" = "LaTeX文書クラス：";
+
+/* Class = "NSMenuItem"; title = "i, ii, iii..."; ObjectID = "1ya-GC-YhA"; */
+"1ya-GC-YhA.title" = "i, ii, iii...";
+
+/* Class = "NSTextFieldCell"; title = "Separator before sections:"; ObjectID = "25Y-es-7B0"; */
+"25Y-es-7B0.title" = "セクション前のセパレータ：";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "2Mz-mg-Z6A"; */
+"2Mz-mg-Z6A.title" = "カスタム";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "2Tp-Oq-Q8C"; */
+"2Tp-Oq-Q8C.title" = "Normal";
+
+/* Class = "NSTextFieldCell"; title = "Internal link prefix and suffix:"; ObjectID = "2mb-5l-tZf"; */
+"2mb-5l-tZf.title" = "内部リンク接頭辞と接尾辞：";
+
+/* Class = "NSTextFieldCell"; title = "Not all word processors automatically color and underline links. (Recommended for Microsoft Word.)"; ObjectID = "2nI-7p-rBo"; */
+"2nI-7p-rBo.title" = "すべてのワードプロセッサが自動的に色付けしたりリンクに下線を付けるわけではない。（Microsoft Wordにおすすめ。）";
+
+/* Class = "NSButtonCell"; title = "Avoid widows and orphans"; ObjectID = "2qb-DR-QkU"; */
+"2qb-DR-QkU.title" = "「widows」や「orphans」避ける";
+
+/* Class = "NSTextFieldCell"; title = "CSS class name:"; ObjectID = "2sC-G9-ac7"; */
+"2sC-G9-ac7.title" = "CSSクラス名：";
+
+/* Class = "NSTextFieldCell"; title = "Header font:"; ObjectID = "2uA-zI-4zN"; */
+"2uA-zI-4zN.title" = "ヘッダーフォント：";
+
+/* Class = "NSButtonCell"; title = "Before back matter"; ObjectID = "2uB-u3-qdv"; */
+"2uB-u3-qdv.title" = "後付けの前に";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add a style."; ObjectID = "3DK-G1-I0z"; */
+"3DK-G1-I0z.ibShadowedToolTip" = "スタイルを追加。";
+
+/* Class = "NSTextFieldCell"; title = "Paragraph first line indents:"; ObjectID = "3J1-YZ-Wh9"; */
+"3J1-YZ-Wh9.title" = "段落一行目インデント：";
+
+/* Class = "NSMenuItem"; title = "Single return"; ObjectID = "3KF-4f-TqR"; */
+"3KF-4f-TqR.title" = "1つだけ戻る";
+
+/* Class = "NSMenuItem"; title = "A, B, C..."; ObjectID = "3Ts-T6-kG1"; */
+"3Ts-T6-kG1.title" = "A, B, C...";
+
+/* Class = "NSTextFieldCell"; title = "Empty Lines Across Page Breaks"; ObjectID = "3XZ-F3-4JV"; */
+"3XZ-F3-4JV.title" = "改ページを越える空行";
+
+/* Class = "NSMenuItem"; title = "i, ii, iii..."; ObjectID = "3YG-ff-CSN"; */
+"3YG-ff-CSN.title" = "i, ii, iii...";
+
+/* Class = "NSButtonCell"; title = "Hide section in e-book"; ObjectID = "3bK-1L-gF6"; */
+"3bK-1L-gF6.title" = "電子書籍でセクションを隠す";
+
+/* Class = "NSButtonCell"; title = "Update titles in document links with prefix and suffix settings"; ObjectID = "3dk-0L-llu"; */
+"3dk-0L-llu.title" = "接頭辞と接尾辞の設定で文書リンク内のタイトルを更新";
+
+/* Class = "NSMenuItem"; title = "TXT"; ObjectID = "3dl-zW-F20"; */
+"3dl-zW-F20.title" = "TXT";
+
+/* Class = "NSButtonCell"; title = "Include revision colors from Preferences"; ObjectID = "3sS-yW-4VP"; */
+"3sS-yW-4VP.title" = "環境設定のリビジョンカラーを含む";
+
+/* Class = "NSButtonCell"; title = "Text"; ObjectID = "3tK-lA-yHk"; */
+"3tK-lA-yHk.title" = "テキスト";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "40e-Wx-BBl"; */
+"40e-Wx-BBl.label" = "オプション";
+
+/* Class = "NSMenuItem"; title = "Single return"; ObjectID = "4DN-qT-jWu"; */
+"4DN-qT-jWu.title" = "1つだけ戻る";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "4XX-n4-sCd"; */
+"4XX-n4-sCd.title" = "カスタム";
+
+/* Class = "NSMenuItem"; title = "Paragraph spacing"; ObjectID = "4dZ-i8-Csc"; */
+"4dZ-i8-Csc.title" = "段落間隔";
+
+/* Class = "NSMenuItem"; title = "On page 5"; ObjectID = "4fH-ZM-q8y"; */
+"4fH-ZM-q8y.title" = "5ページで";
+
+/* Class = "NSMenuItem"; title = "HTML"; ObjectID = "4fs-OG-kC6"; */
+"4fs-OG-kC6.title" = "HTML";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "4hz-lI-OnY"; */
+"4hz-lI-OnY.label" = "オプション";
+
+/* Class = "NSButtonCell"; title = "Insert separator before endnotes"; ObjectID = "4qX-6r-heJ"; */
+"4qX-6r-heJ.title" = "エンドノート前にセパレータを挿入";
+
+/* Class = "NSMenuItem"; title = "Pandoc (DocBook)"; ObjectID = "4tL-QU-hnu"; */
+"4tL-QU-hnu.title" = "Pandoc (DocBook)";
+
+/* Class = "NSTabViewItem"; label = "Endnotes"; ObjectID = "4tZ-7p-nas"; */
+"4tZ-7p-nas.label" = "文末脚注";
+
+/* Class = "NSTextFieldCell"; title = "Enter the text you would like to appear in the left, center and right of the header and footer. Use BBCode or asterisks and underscores to add *⁠*⁠bold⁠*⁠*, *⁠italics⁠* and _⁠underlines⁠_.\n\nInsert <⁠$⁠p⁠> for page number and <⁠$⁠pagecount⁠> for total pages. (Other placeholders can also be used - a full list is available from the Help menu.)"; ObjectID = "4zP-vP-Egj"; */
+"4zP-vP-Egj.title" = "ヘッダーとフッターの左、中央、右に表示したいテキストを入力する。*⁠*⁠bold[太文字]*⁠*、*italics[斜体]*および _⁠underlines[下線]_を追加するにはBBCodeまたはアスタリスクとアンダースコアを使用し、ページ番号には\n\n <⁠$⁠p⁠>を挿入し、 総ページ数には<⁠$⁠pagecount⁠>を使用する。（他のプレースホルダも使用できる。ヘルプメニューからフルリストが利用可能。）";
+
+/* Class = "NSMenuItem"; title = "i, ii, iii..."; ObjectID = "4zf-Mv-ZWf"; */
+"4zf-Mv-ZWf.title" = "i, ii, iii...";
+
+/* Class = "NSTabViewItem"; label = "Text Layout"; ObjectID = "542-fd-cRW"; */
+"542-fd-cRW.label" = "テキストレイアウト";
+
+/* Class = "NSMenuItem"; title = "Uppercase"; ObjectID = "56I-rh-Qn8"; */
+"56I-rh-Qn8.title" = "大文字";
+
+/* Class = "NSTextFieldCell"; title = "Bullets:"; ObjectID = "5L0-Gd-EHC"; */
+"5L0-Gd-EHC.title" = "箇条書き：";
+
+/* Class = "NSTextFieldCell"; title = "Default Stylesheet"; ObjectID = "5mg-3d-U0g"; */
+"5mg-3d-U0g.title" = "デフォルトのスタイルシート";
+
+/* Class = "NSTextFieldCell"; title = "Replacements"; ObjectID = "68R-5t-g5M"; */
+"68R-5t-g5M.title" = "置換";
+
+/* Class = "NSMenuItem"; title = "I, II, III..."; ObjectID = "69G-uw-aoN"; */
+"69G-uw-aoN.title" = "I, II, III...";
+
+/* Class = "NSTextFieldCell"; title = "Endnotes style:"; ObjectID = "6As-fo-f1g"; */
+"6As-fo-f1g.title" = "脚注のスタイル：";
+
+/* Class = "NSMenuItem"; title = "On page 7"; ObjectID = "6Cz-nQ-xVJ"; */
+"6Cz-nQ-xVJ.title" = "7ページで";
+
+/* Class = "NSButtonCell"; title = "Process Markdown inside HTML blocks"; ObjectID = "6NI-j9-dhQ"; */
+"6NI-j9-dhQ.title" = "HTMLブロック内でMarkdownをプロセス";
+
+/* Class = "NSMenuItem"; title = "Base text formatting"; ObjectID = "6Xm-jb-fGR"; */
+"6Xm-jb-fGR.title" = "ベーステキスト書式設定";
+
+/* Class = "NSButtonCell"; title = "Color internal links"; ObjectID = "6ai-uV-VTq"; */
+"6ai-uV-VTq.title" = "色の内部リンク";
+
+/* Class = "NSMenuItem"; title = "APA"; ObjectID = "6gq-8D-uIQ"; */
+"6gq-8D-uIQ.title" = "APA";
+
+/* Class = "NSButtonCell"; title = "From paragraphs after blank lines"; ObjectID = "6hY-Yh-HNA"; */
+"6hY-Yh-HNA.title" = "空白行の後の段落から";
+
+/* Class = "NSMenuItem"; title = "Empty line"; ObjectID = "6xa-nj-D4D"; */
+"6xa-nj-D4D.title" = "空欄の行";
+
+/* Class = "NSButtonCell"; title = "Blank pages"; ObjectID = "6zI-3g-gz7"; */
+"6zI-3g-gz7.title" = "空白ページ";
+
+/* Class = "NSButtonCell"; title = "Count footnotes"; ObjectID = "71V-r5-x1T"; */
+"71V-r5-x1T.title" = "脚注を数える";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "73W-xy-310"; */
+"73W-xy-310.title" = "チェック";
+
+/* Class = "NSTextFieldCell"; title = "Separator to use at page top or bottom:"; ObjectID = "7OB-j3-76a"; */
+"7OB-j3-76a.title" = "ページ上部または下部に使用するセパレータ：";
+
+/* Class = "NSButtonCell"; title = "Replace empty line separators that fall across pages"; ObjectID = "7U0-5F-6AX"; */
+"7U0-5F-6AX.title" = "ページにまたがる空の行区切りを置き換える";
+
+/* Class = "NSButtonCell"; title = "From all paragraphs following other elements"; ObjectID = "7g8-W6-BF4"; */
+"7g8-W6-BF4.title" = "他の要素に続くすべての段落から";
+
+/* Class = "NSButtonCell"; title = "Only override prefixes containing return characters"; ObjectID = "7j8-JB-MeU"; */
+"7j8-JB-MeU.title" = "戻り文字を含む接頭辞のみを上書き";
+
+/* Class = "NSMenuItem"; title = "Endnotes"; ObjectID = "7jE-Bp-yNm"; */
+"7jE-Bp-yNm.title" = "文末脚注";
+
+/* Class = "NSButtonCell"; title = "Group endnotes by section with subheadings"; ObjectID = "7n2-kN-wvW"; */
+"7n2-kN-wvW.title" = "サブ見出しが付いたセクション毎のグループエンドノート";
+
+/* Class = "NSTextFieldCell"; title = "Enclosing markers for footnotes:"; ObjectID = "7na-Ib-yJQ"; */
+"7na-Ib-yJQ.title" = "脚注のためのマーカーを含む：";
+
+/* Class = "NSButtonCell"; title = "Metadata"; ObjectID = "7sl-x7-z1g"; */
+"7sl-x7-z1g.title" = "メタデータ";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "8LO-cg-3ta"; */
+"8LO-cg-3ta.title" = "チェック";
+
+/* Class = "NSTabViewItem"; label = "RTF Compatibility"; ObjectID = "8We-Oc-TO2"; */
+"8We-Oc-TO2.label" = "RTFの互換性";
+
+/* Class = "NSMenuItem"; title = "ePub 2"; ObjectID = "8eq-wL-jgW"; */
+"8eq-wL-jgW.title" = "ePub 2";
+
+/* Class = "NSButtonCell"; title = "Strip table formatting from text"; ObjectID = "8r3-Ht-FFU"; */
+"8r3-Ht-FFU.title" = "テキストからの表形式の書式設定";
+
+/* Class = "NSMenuItem"; title = "Small Caps"; ObjectID = "97x-u0-jZH"; */
+"97x-u0-jZH.title" = "スモールキャップス";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add metadata."; ObjectID = "98X-Wx-gjk"; */
+"98X-Wx-gjk.ibExternalAccessibilityDescription" = "メタデータを追加。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add metadata."; ObjectID = "98X-Wx-gjk"; */
+"98X-Wx-gjk.ibShadowedToolTip" = "メタデータを追加。";
+
+/* Class = "NSButtonCell"; title = "Use Markdown compatibility mode"; ObjectID = "9Ba-Bk-xop"; */
+"9Ba-Bk-xop.title" = "Markdown互換モードを使用する";
+
+/* Class = "NSButtonCell"; title = "RTFD"; ObjectID = "9Kg-yc-QQR"; */
+"9Kg-yc-QQR.title" = "RTFD";
+
+/* Class = "NSMenuItem"; title = "Print"; ObjectID = "9a3-gm-mMw"; */
+"9a3-gm-mMw.title" = "印刷";
+
+/* Class = "NSButtonCell"; title = "Underline hyperlinks"; ObjectID = "9e4-06-SuX"; */
+"9e4-06-SuX.title" = "下線ハイパーリンク";
+
+/* Class = "NSButtonCell"; title = "Margins"; ObjectID = "9i1-JY-Xby"; */
+"9i1-JY-Xby.title" = "マージン";
+
+/* Class = "NSMenuItem"; title = "I, II, III..."; ObjectID = "9k7-SJ-NmM"; */
+"9k7-SJ-NmM.title" = "I, II, III...";
+
+/* Class = "NSTextFieldCell"; title = "Use 100% width for images wider than:"; ObjectID = "9n5-bm-z5O"; */
+"9n5-bm-z5O.title" = "画像に100%画像を使用する最低幅：";
+
+/* Class = "NSTextFieldCell"; title = "This separator is only used when two paragraphs of text are separated by an empty line, and page layout has resulted in the empty line falling at the top or bottom of a page. (The separator must be fewer than 10 characters and should not contain line breaks.)"; ObjectID = "9xL-q0-Pht"; */
+"9xL-q0-Pht.title" = "このセパレータは、テキストの2つの段落が空行で区切られ、ページレイアウトがページの上部または下部に来る空白行となった場合にのみ使用される。（セパレータは10文字未満でなければならず、改行を含んではいけない。）";
+
+/* Class = "NSButtonCell"; title = "Convert “smart” punctuation to \"dumb\" punctuation"; ObjectID = "A9O-zX-kmd"; */
+"A9O-zX-kmd.title" = "「スマート」な句読点を\"ダム\" に変える";
+
+/* Class = "NSButtonCell"; title = "ePub 2"; ObjectID = "AFY-VD-qL1"; */
+"AFY-VD-qL1.title" = "ePub 2";
+
+/* Class = "NSTabViewItem"; label = "Header and Footer Text"; ObjectID = "AIc-Zz-HzJ"; */
+"AIc-Zz-HzJ.label" = "ヘッダーとフッターのテキスト";
+
+/* Class = "NSTextFieldCell"; title = "Summaries font:"; ObjectID = "AYN-un-Rwq"; */
+"AYN-un-Rwq.title" = "概要フォント：";
+
+/* Class = "NSTextFieldCell"; title = "Footnotes become endnotes when compiled to this file format."; ObjectID = "AZm-bI-tuA"; */
+"AZm-bI-tuA.title" = "このファイル形式にコンパリルされると、脚注はエンドノートになります。";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "Aed-mv-KI9"; */
+"Aed-mv-KI9.title" = "Normal";
+
+/* Class = "NSButtonCell"; title = "Indent endnotes to match text"; ObjectID = "Ahu-OQ-cVV"; */
+"Ahu-OQ-cVV.title" = "テキストと一致させるために文末脚注をインデントする";
+
+/* Class = "NSTextFieldCell"; title = "Number of columns:"; ObjectID = "ArW-VQ-y6J"; */
+"ArW-VQ-y6J.title" = "列数：";
+
+/* Class = "NSMenuItem"; title = "Centered"; ObjectID = "B01-tk-Hx6"; */
+"B01-tk-Hx6.title" = "中心";
+
+/* Class = "NSTextFieldCell"; title = "Separator between sections:"; ObjectID = "BTL-ee-0U5"; */
+"BTL-ee-0U5.title" = "セクション間のセパレータ：";
+
+/* Class = "NSTabViewItem"; label = "Footnotes"; ObjectID = "BTr-23-wHq"; */
+"BTr-23-wHq.label" = "脚注";
+
+/* Class = "NSButtonCell"; title = "Convert tables to images with maximum width:"; ObjectID = "BaJ-hv-m0O"; */
+"BaJ-hv-m0O.title" = "テーブルを最大幅の画像に変換する：";
+
+/* Class = "NSButtonCell"; title = "Flatten footnotes and comments into regular text"; ObjectID = "Bcf-r3-OGw"; */
+"Bcf-r3-OGw.title" = "Flatten脚注とコメントを通常のテキストにまとめる";
+
+/* Class = "NSMenuItem"; title = "A, B, C..."; ObjectID = "Bex-qf-Y1X"; */
+"Bex-qf-Y1X.title" = "A, B, C...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new section layout."; ObjectID = "BgN-PO-Fgk"; */
+"BgN-PO-Fgk.ibShadowedToolTip" = "新しいセクションレイアウトを追加します。";
+
+/* Class = "NSMenuItem"; title = "RTFD"; ObjectID = "Bs2-JF-5ZK"; */
+"Bs2-JF-5ZK.title" = "RTFD";
+
+/* Class = "NSMenuItem"; title = "inches"; ObjectID = "CBK-EH-dvl"; */
+"CBK-EH-dvl.title" = "インチ";
+
+/* Class = "NSTabViewItem"; label = "HTML"; ObjectID = "CT3-cY-wap"; */
+"CT3-cY-wap.label" = "HTML";
+
+/* Class = "NSMenuItem"; title = "On page 4"; ObjectID = "CTQ-W7-0pH"; */
+"CTQ-W7-0pH.title" = "4ページで";
+
+/* Class = "NSTableColumn"; headerCell.title = "Case-Sensitive"; ObjectID = "CW8-KF-ieb"; */
+"CW8-KF-ieb.headerCell.title" = "大文字と小文字を区別";
+
+/* Class = "NSMenuItem"; title = "TXT"; ObjectID = "CeQ-Hz-ofE"; */
+"CeQ-Hz-ofE.title" = "TXT";
+
+/* Class = "NSButtonCell"; title = "Use period and space style instead of superscript in markers"; ObjectID = "Cej-TR-Etd"; */
+"Cej-TR-Etd.title" = "マーカー内で上付き文字の代わりに点とスペーススタイルを使用";
+
+/* Class = "NSButtonCell"; title = "Reduce marker size"; ObjectID = "CfS-tH-9TE"; */
+"CfS-tH-9TE.title" = "マーカーサイズを抑制";
+
+/* Class = "NSTextFieldCell"; title = "Block quotes style:"; ObjectID = "D4i-OO-ljO"; */
+"D4i-OO-ljO.title" = "ブロック引用符スタイル：";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "D7q-5K-tXO"; */
+"D7q-5K-tXO.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSTextFieldCell"; title = "Code blocks style:"; ObjectID = "DBV-Ch-3bw"; */
+"DBV-Ch-3bw.title" = "コードブロックスタイル：";
+
+/* Class = "NSTextFieldCell"; title = "Separator before sections:"; ObjectID = "DBk-z4-c6t"; */
+"DBk-z4-c6t.title" = "セクション前のセパレータ：";
+
+/* Class = "NSTextFieldCell"; title = "Section prefix:"; ObjectID = "DH6-Dh-b5P"; */
+"DH6-Dh-b5P.title" = "セクション接頭辞：";
+
+/* Class = "NSMenuItem"; title = "Ledger"; ObjectID = "DIu-Yn-bge"; */
+"DIu-Yn-bge.title" = "台帳";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "DQl-bo-KwF"; */
+"DQl-bo-KwF.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Replace images with text:"; ObjectID = "Dba-e2-tae"; */
+"Dba-e2-tae.title" = "画像をテキストに置き換える：";
+
+/* Class = "NSTextFieldCell"; title = "Right"; ObjectID = "DcL-34-H1M"; */
+"DcL-34-H1M.title" = "右";
+
+/* Class = "NSButtonCell"; title = "Use default separators"; ObjectID = "DiA-hb-YLZ"; */
+"DiA-hb-YLZ.title" = "デフォルトセパレータを使用";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete selected section layout."; ObjectID = "DyN-lW-pIO"; */
+"DyN-lW-pIO.ibShadowedToolTip" = "選択されたセクションレイアウトを削除します";
+
+/* Class = "NSButtonCell"; title = "MMD (FODT)"; ObjectID = "Dz5-oN-dAd"; */
+"Dz5-oN-dAd.title" = "MMD (FODT)";
+
+/* Class = "NSMenuItem"; title = "Empty line"; ObjectID = "E1Y-C4-4kn"; */
+"E1Y-C4-4kn.title" = "空欄の行";
+
+/* Class = "NSTextFieldCell"; title = "Separator between sections:"; ObjectID = "E3K-l3-zIe"; */
+"E3K-l3-zIe.title" = "セクション間のセパレータ：";
+
+/* Class = "NSMenuItem"; title = "A, B, C..."; ObjectID = "EAS-eL-7jM"; */
+"EAS-eL-7jM.title" = "A, B, C...";
+
+/* Class = "NSTextFieldCell"; title = "Case:"; ObjectID = "EFR-fd-Ijf"; */
+"EFR-fd-Ijf.title" = "ケース：";
+
+/* Class = "NSTextFieldCell"; title = "Use <$filename> to refer to the image file name, <$hex> to include the image as hexadecimal data, or <$base64> to include the image as base 64 data. Use <$width> and <$height> to refer to image dimensions."; ObjectID = "EP8-m1-vvm"; */
+"EP8-m1-vvm.title" = "$ファイル名を使って画像ファイル名を参照し、<$hex>を使って十六進法データとして画像を含めます。もしくは、<$base64>を使ってベース64データとして画像を含めます。$幅と$高さを使って、画像サイズを参照します。";
+
+/* Class = "NSTextFieldCell"; title = "Different word processors indent lists in different ways. Ticking this ensures lists appear correctly in Microsoft Word."; ObjectID = "ES4-Xn-9NC"; */
+"ES4-Xn-9NC.title" = "異なるワードプロセッサインデントが異なる方法でリスト化されます。これにチェックを入れると、Microsoft Wordでリストが適切に表示されます。";
+
+/* Class = "NSMenuItem"; title = "ePub 3"; ObjectID = "EVP-Aq-h1c"; */
+"EVP-Aq-h1c.title" = "ePub 3";
+
+/* Class = "NSButtonCell"; title = "Indent footnotes and endnotes to match text"; ObjectID = "EdB-sa-oiV"; */
+"EdB-sa-oiV.title" = "インデント脚注とエンドノートをテキストにマッチ";
+
+/* Class = "NSButtonCell"; title = "Uppercase even when section is not after a page break"; ObjectID = "EeB-tQ-hOo"; */
+"EeB-tQ-hOo.title" = "セクションが改ページ後でない場合でも大文字にする";
+
+/* Class = "NSTextFieldCell"; title = "Title Case:"; ObjectID = "Eez-tY-gNh"; */
+"Eez-tY-gNh.title" = "タイトルケース：";
+
+/* Class = "NSMenuItem"; title = "Page break"; ObjectID = "Ej0-ib-QbE"; */
+"Ej0-ib-QbE.title" = "改ページ";
+
+/* Class = "NSTabViewItem"; label = "LaTeX"; ObjectID = "F4E-pm-8QH"; */
+"F4E-pm-8QH.label" = "LaTeX";
+
+/* Class = "NSTextFieldCell"; title = "Save To:"; ObjectID = "FKn-zC-6XT"; */
+"FKn-zC-6XT.title" = "保存先：";
+
+/* Class = "NSMenuItem"; title = "RTF"; ObjectID = "FM1-Qd-xye"; */
+"FM1-Qd-xye.title" = "RTF";
+
+/* Class = "NSMenuItem"; title = "Pandoc (.docx)"; ObjectID = "Fhj-eJ-569"; */
+"Fhj-eJ-569.title" = "Pandoc (.docx)";
+
+/* Class = "NSTextFieldCell"; title = "Code span style:"; ObjectID = "Fm9-tj-YB4"; */
+"Fm9-tj-YB4.title" = "コードスパンスタイル：";
+
+/* Class = "NSTextFieldCell"; title = "Space between columns:"; ObjectID = "FtC-mH-BNu"; */
+"FtC-mH-BNu.title" = "列間隔：";
+
+/* Class = "NSButtonCell"; title = "Links use title prefixes only (exclude titles and suffixes)"; ObjectID = "FvS-K7-9kl"; */
+"FvS-K7-9kl.title" = "リンクはタイトルの接頭辞だけを使用（タイトルと接尾辞を除く）";
+
+/* Class = "NSTextFieldCell"; title = "Enclosing paragraph markers for footnotes:"; ObjectID = "G1H-dK-heJ"; */
+"G1H-dK-heJ.title" = "脚注に段落マーカーを追加：";
+
+/* Class = "NSButtonCell"; title = "ODT"; ObjectID = "G1m-Xe-UGK"; */
+"G1m-Xe-UGK.title" = "ODT";
+
+/* Class = "NSTextFieldCell"; title = "The separator entered here replaces any whitespace that follows title prefixes in updated links. These settings are also used in the table of contents for e-books, and in endnote subheadings for certain formats."; ObjectID = "GE7-nS-PqK"; */
+"GE7-nS-PqK.title" = "ここに入力されたセパレータは、アップデートされたリンク内のタイトルの接頭辞の後にあるホワイトスペースを置き換えます。これらの設定はまた、Eブックの目次や特定の形式のエンドノートサブ見出しにも使用されます。";
+
+/* Class = "NSMenuItem"; title = "MMD (PDF)"; ObjectID = "GGg-SM-qp2"; */
+"GGg-SM-qp2.title" = "MMD (PDF)";
+
+/* Class = "NSButtonCell"; title = "Different header and footer on pages following page breaks"; ObjectID = "GXC-ZZ-mPq"; */
+"GXC-ZZ-mPq.title" = "改ページ後のページの異なるヘッダーとフッター";
+
+/* Class = "NSTextFieldCell"; title = "Script notes font:"; ObjectID = "GeB-ay-NrN"; */
+"GeB-ay-NrN.title" = "スクリプトノートのフォント：";
+
+/* Class = "NSButtonCell"; title = "Include font family"; ObjectID = "Go1-de-tTK"; */
+"Go1-de-tTK.title" = "フォントファミリーを含む";
+
+/* Class = "NSTextFieldCell"; title = "Page title style:"; ObjectID = "Gxz-fH-IOo"; */
+"Gxz-fH-IOo.title" = "ページタイトルのスタイル：";
+
+/* Class = "NSMenuItem"; title = "Kindle Mobi"; ObjectID = "Gzl-Ys-DYn"; */
+"Gzl-Ys-DYn.title" = "Kindle Mobi";
+
+/* Class = "NSTextFieldCell"; title = "Base text formatting:"; ObjectID = "H21-up-qhP"; */
+"H21-up-qhP.title" = "ベーステキスト書式設定：";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "H3C-zy-A5H"; */
+"H3C-zy-A5H.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "Pandoc (ePub)"; ObjectID = "HBl-0H-uqp"; */
+"HBl-0H-uqp.title" = "Pandoc (ePub)";
+
+/* Class = "NSMenuItem"; title = "Page width"; ObjectID = "HZE-qb-xjn"; */
+"HZE-qb-xjn.title" = "ページ幅";
+
+/* Class = "NSTabViewItem"; label = "Begin Document"; ObjectID = "Hhd-xP-eRd"; */
+"Hhd-xP-eRd.label" = "開始ドキュメント";
+
+/* Class = "NSButtonCell"; title = "Title"; ObjectID = "HjJ-ba-erv"; */
+"HjJ-ba-erv.title" = "タイトル";
+
+/* Class = "NSButtonCell"; title = "Footnote numbering restarts on each page"; ObjectID = "Hmo-zn-FSG"; */
+"Hmo-zn-FSG.title" = "各ページで脚注の番号付けを再開";
+
+/* Class = "NSTextFieldCell"; title = "blank lines"; ObjectID = "HnF-sF-8Cj"; */
+"HnF-sF-8Cj.title" = "空欄行";
+
+/* Class = "NSTextFieldCell"; title = "Captions style:"; ObjectID = "Hoc-QY-eqF"; */
+"Hoc-QY-eqF.title" = "キャプションスタイル：";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "Hp7-dn-Dsv"; */
+"Hp7-dn-Dsv.title" = "なし";
+
+/* Class = "NSTextFieldCell"; title = "If a blank line separator is set, it will be inserted into any blank lines in the section. This can be used for adding scene break separators when multiple scenes occur within the same document, for instance. (Not available for all file types.)"; ObjectID = "Hq4-9z-2Ls"; */
+"Hq4-9z-2Ls.title" = "空欄行のセパレータが設定されている場合、セクションの空欄行に挿入されます。これは、同じドキュメントに複数のシーンが発生する場合など、シーンブレークセパレータを追加する際に使用できます。（全てのファイルタイプで使用できるわけではありません。）";
+
+/* Class = "NSButtonCell"; title = "Export images"; ObjectID = "HuI-qY-a5u"; */
+"HuI-qY-a5u.title" = "画像のエクスポート";
+
+/* Class = "NSMenuItem"; title = "a, b, c..."; ObjectID = "HyT-mM-Gau"; */
+"HyT-mM-Gau.title" = "a, b, c...";
+
+/* Class = "NSButtonCell"; title = "Add \"first-letter\" span style to first letter"; ObjectID = "I2v-AW-PRu"; */
+"I2v-AW-PRu.title" = "\"最初の文字\"スパンスタイルを最初の文字に追加";
+
+/* Class = "NSMenuItem"; title = "Memoir (Book)"; ObjectID = "I6q-ct-Wno"; */
+"I6q-ct-Wno.title" = "Memoir（ブック）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "MultiMarkdown > LaTeX (.tex)"; ObjectID = "IAc-ea-Fu9"; */
+"IAc-ea-Fu9.ibShadowedToolTip" = "MultiMarkdown > LaTeX (.tex)";
+
+/* Class = "NSTextFieldCell"; title = "Custom CSS:"; ObjectID = "IJI-Ws-j4m"; */
+"IJI-Ws-j4m.title" = "カスタムCSS：";
+
+/* Class = "NSButtonCell"; title = "Preview"; ObjectID = "ILu-iS-Nhw"; */
+"ILu-iS-Nhw.title" = "プレビュー";
+
+/* Class = "NSMenuItem"; title = "Uppercase"; ObjectID = "IMf-fA-fey"; */
+"IMf-fA-fey.title" = "大文字";
+
+/* Class = "NSMenuItem"; title = "Fountain"; ObjectID = "IQC-xJ-NM9"; */
+"IQC-xJ-NM9.title" = "Fountain";
+
+/* Class = "NSTextFieldCell"; title = "Bottom"; ObjectID = "IXF-Ng-4Ps"; */
+"IXF-Ng-4Ps.title" = "ボトム";
+
+/* Class = "NSMenuItem"; title = "Single return"; ObjectID = "IbP-7r-w1P"; */
+"IbP-7r-w1P.title" = "1つだけ戻る";
+
+/* Class = "NSButtonCell"; title = "Print"; ObjectID = "IhU-BA-ubu"; */
+"IhU-BA-ubu.title" = "印刷";
+
+/* Class = "NSTabViewItem"; label = "Page Settings"; ObjectID = "Ioq-Wt-Orv"; */
+"Ioq-Wt-Orv.label" = "ページ設定";
+
+/* Class = "NSMenuItem"; title = "End of document"; ObjectID = "Ixc-5p-nIp"; */
+"Ixc-5p-nIp.title" = "ドキュメントの最後";
+
+/* Class = "NSMenuItem"; title = "Hierarchical"; ObjectID = "Iyx-vy-1ev"; */
+"Iyx-vy-1ev.title" = "階層";
+
+/* Class = "NSButtonCell"; title = "MMD (RTF)"; ObjectID = "J8S-Ib-YM0"; */
+"J8S-Ib-YM0.title" = "MMD (RTF)";
+
+/* Class = "NSMenuItem"; title = "Single return"; ObjectID = "JC7-Wu-Qp2"; */
+"JC7-Wu-Qp2.title" = "1つだけ戻る";
+
+/* Class = "NSMenuItem"; title = "After front matter"; ObjectID = "Jfx-tv-3pG"; */
+"Jfx-tv-3pG.title" = "前付け後";
+
+/* Class = "NSMenuItem"; title = "Uppercase"; ObjectID = "Jry-w5-2PZ"; */
+"Jry-w5-2PZ.title" = "大文字";
+
+/* Class = "NSTextFieldCell"; title = "Footnotes and comments become regular text. Useful for word processors that do not support true footnotes."; ObjectID = "Jv6-o7-pq7"; */
+"Jv6-o7-pq7.title" = "脚注とコメントは四角いテキストになります。本当の脚注をサポートしないワードプロセッサに便利です。";
+
+/* Class = "NSTabViewItem"; label = "EbookModern"; ObjectID = "Jyi-CM-dVv"; */
+"Jyi-CM-dVv.label" = "EbookModern";
+
+/* Class = "NSMenuItem"; title = "MMD (HTML)"; ObjectID = "Jz1-NW-1sO"; */
+"Jz1-NW-1sO.title" = "MMD (HTML)";
+
+/* Class = "NSMenuItem"; title = "i, ii, iii..."; ObjectID = "K9e-zU-ihp"; */
+"K9e-zU-ihp.title" = "i, ii, iii...";
+
+/* Class = "NSMenuItem"; title = "Arrows"; ObjectID = "KCV-Rc-hkn"; */
+"KCV-Rc-hkn.title" = "矢印";
+
+/* Class = "NSMenuItem"; title = "On page 10"; ObjectID = "KFi-VU-q8u"; */
+"KFi-VU-q8u.title" = "10ページで";
+
+/* Class = "NSMenuItem"; title = "a, b, c..."; ObjectID = "KQ8-M6-uea"; */
+"KQ8-M6-uea.title" = "a, b, c...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Pandoc > Microsoft Word (.docx)"; ObjectID = "KuO-P8-8C3"; */
+"KuO-P8-8C3.ibShadowedToolTip" = "Pandoc > Microsoft Word (.docx)";
+
+/* Class = "NSMenuItem"; title = "After first document"; ObjectID = "Kvg-EA-0LN"; */
+"Kvg-EA-0LN.title" = "最初のドキュメントの後";
+
+/* Class = "NSMenuItem"; title = "On first page"; ObjectID = "KzR-wD-xS6"; */
+"KzR-wD-xS6.title" = "最初のページで";
+
+/* Class = "NSButtonCell"; title = "Override font:"; ObjectID = "L8j-cb-1V3"; */
+"L8j-cb-1V3.title" = "オーバーライドフォント：";
+
+/* Class = "NSMenuItem"; title = "3/4 inch"; ObjectID = "LAj-1o-xLt"; */
+"LAj-1o-xLt.title" = "3/4 インチ";
+
+/* Class = "NSTextFieldCell"; title = "Page Size"; ObjectID = "LBN-bC-G9C"; */
+"LBN-bC-G9C.title" = "ページサイズ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Web Page"; ObjectID = "LZH-VS-RID"; */
+"LZH-VS-RID.ibShadowedToolTip" = "ウェブページ";
+
+/* Class = "NSMenuItem"; title = "ODT"; ObjectID = "LvG-8n-glO"; */
+"LvG-8n-glO.title" = "ODT";
+
+/* Class = "NSTextFieldCell"; title = "Units:"; ObjectID = "MTZ-S2-gM0"; */
+"MTZ-S2-gM0.title" = "単位：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Options."; ObjectID = "Mda-0W-oVD"; */
+"Mda-0W-oVD.ibShadowedToolTip" = "オプション。";
+
+/* Class = "NSTextFieldCell"; title = "Script formatting CSS:"; ObjectID = "Me7-1u-Usb"; */
+"Me7-1u-Usb.title" = "スクリプト書式設定CSS：";
+
+/* Class = "NSButtonCell"; title = "DOC"; ObjectID = "Meq-OS-HZX"; */
+"Meq-OS-HZX.title" = "DOC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Section Layouts"; ObjectID = "MkX-bj-YbW"; */
+"MkX-bj-YbW.headerCell.title" = "セクションレイアウト";
+
+/* Class = "NSButtonCell"; title = "Use default paper size"; ObjectID = "Mov-r2-CkV"; */
+"Mov-r2-CkV.title" = "デフォルトペーパーサイズを試用";
+
+/* Class = "NSButtonCell"; title = "Insert title as run-in head"; ObjectID = "MqA-T7-dL1"; */
+"MqA-T7-dL1.title" = "欄外見出しとしてタイトルを挿入";
+
+/* Class = "NSTextFieldCell"; title = "UUID:"; ObjectID = "Mwe-uM-SUj"; */
+"Mwe-uM-SUj.title" = "UUID:";
+
+/* Class = "NSTextFieldCell"; title = "Extension:"; ObjectID = "Mxg-FX-gQC"; */
+"Mxg-FX-gQC.title" = "拡張子：";
+
+/* Class = "NSMenuItem"; title = "Kindle KF8/Mobi"; ObjectID = "NJ4-pi-W4I"; */
+"NJ4-pi-W4I.title" = "Kindle KF8/Mobi";
+
+/* Class = "NSMenuItem"; title = "I, II, III..."; ObjectID = "NLw-Dh-Lgx"; */
+"NLw-Dh-Lgx.title" = "I, II, III...";
+
+/* Class = "NSTableColumn"; headerCell.title = "Layout Name"; ObjectID = "NRm-Ga-C7o"; */
+"NRm-Ga-C7o.headerCell.title" = "レイアウト名";
+
+/* Class = "NSButtonCell"; title = "Main text"; ObjectID = "NVj-do-qwK"; */
+"NVj-do-qwK.title" = "主要テキスト";
+
+/* Class = "NSMenuItem"; title = "MMD (FODT)"; ObjectID = "Nji-KR-vl2"; */
+"Nji-KR-vl2.title" = "MMD (FODT)";
+
+/* Class = "NSTabViewItem"; label = "Replacements"; ObjectID = "NsO-9z-U6l"; */
+"NsO-9z-U6l.label" = "置換";
+
+/* Class = "NSMenuItem"; title = "Lowercase"; ObjectID = "NxT-BG-HEt"; */
+"NxT-BG-HEt.title" = "小文字";
+
+/* Class = "NSButtonCell"; title = "Custom separator font:"; ObjectID = "Nzw-ut-TDL"; */
+"Nzw-ut-TDL.title" = "カスタムセパレーターフォント：";
+
+/* Class = "NSButtonCell"; title = "Use period and space style instead of superscript in markers"; ObjectID = "O05-Ll-Nmg"; */
+"O05-Ll-Nmg.title" = "マーカー内で上付き文字の代わりに点とスペーススタイルを使用";
+
+/* Class = "NSMenuItem"; title = "On page 8"; ObjectID = "O60-q7-W4c"; */
+"O60-q7-W4c.title" = "8ページで";
+
+/* Class = "NSButtonCell"; title = "Page numbers count first pages"; ObjectID = "O91-vM-o8h"; */
+"O91-vM-o8h.title" = "ページ番号は最初のページをカウント";
+
+/* Class = "NSButtonCell"; title = "Place suffix inside hashes"; ObjectID = "OR6-IC-B7h"; */
+"OR6-IC-B7h.title" = "ハッシュの中に接尾辞を配置";
+
+/* Class = "NSTextFieldCell"; title = "Body text width:"; ObjectID = "OVC-3E-LcL"; */
+"OVC-3E-LcL.title" = "本文の幅：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "OaD-iD-0kO"; */
+"OaD-iD-0kO.placeholderString" = "オプション";
+
+/* Class = "NSTextFieldCell"; title = "Prefix separator:"; ObjectID = "Og6-Es-90i"; */
+"Og6-Es-90i.title" = "接頭辞セパレータ：";
+
+/* Class = "NSTextFieldCell"; title = "Footnote format:"; ObjectID = "Oir-tG-qVF"; */
+"Oir-tG-qVF.title" = "脚注の形式：";
+
+/* Class = "NSMenuItem"; title = "DOCX"; ObjectID = "Okw-Qw-R45"; */
+"Okw-Qw-R45.title" = "DOCX";
+
+/* Class = "NSMenuItem"; title = "Checkmarks"; ObjectID = "Ox5-n4-UgU"; */
+"Ox5-n4-UgU.title" = "チェックマーク";
+
+/* Class = "NSTabViewItem"; label = "Script Settings"; ObjectID = "P37-Ng-5uQ"; */
+"P37-Ng-5uQ.label" = "スクリプト設定";
+
+/* Class = "NSButtonCell"; title = "Count comments and annotations"; ObjectID = "P51-uV-Wt2"; */
+"P51-uV-Wt2.title" = "コメントと注釈をカウント";
+
+/* Class = "NSTextFieldCell"; title = "Endnote format:"; ObjectID = "PAV-Gt-Ob0"; */
+"PAV-Gt-Ob0.title" = "エンドノート形式：";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "PVK-Vp-NEb"; */
+"PVK-Vp-NEb.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "PYD-Z0-Chc"; */
+"PYD-Z0-Chc.title" = "なし";
+
+/* Class = "NSTextFieldCell"; title = "Pad top of page with:"; ObjectID = "Pky-HJ-Rxc"; */
+"Pky-HJ-Rxc.title" = "ページ上部のパッド：";
+
+/* Class = "NSMenuItem"; title = "MMD"; ObjectID = "Prj-kl-Fpz"; */
+"Prj-kl-Fpz.title" = "MMD";
+
+/* Class = "NSMenuItem"; title = "MMD (FODT)"; ObjectID = "PsW-je-bGY"; */
+"PsW-je-bGY.title" = "MMD (FODT)";
+
+/* Class = "NSButtonCell"; title = "From paragraphs after separators"; ObjectID = "QCF-Us-QGp"; */
+"QCF-Us-QGp.title" = "セパレータ後の段落から";
+
+/* Class = "NSMenuItem"; title = "Article"; ObjectID = "QCY-YE-PjS"; */
+"QCY-YE-PjS.title" = "記事";
+
+/* Class = "NSMenuItem"; title = "Gray Header"; ObjectID = "QMa-lN-FVm"; */
+"QMa-lN-FVm.title" = "グレーのヘッダー";
+
+/* Class = "NSMenuItem"; title = "a recto page"; ObjectID = "Qay-pq-mEd"; */
+"Qay-pq-mEd.title" = "表ページ";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "Qe2-Hf-Jc0"; */
+"Qe2-Hf-Jc0.title" = "Normal";
+
+/* Class = "NSTextFieldCell"; title = "Top"; ObjectID = "QiN-gI-H4X"; */
+"QiN-gI-H4X.title" = "上";
+
+/* Class = "NSTabViewItem"; label = "Default Separators"; ObjectID = "Qil-Zl-ETi"; */
+"Qil-Zl-ETi.label" = "デフォルトのセパレータ";
+
+/* Class = "NSButtonCell"; title = "Underline internal links"; ObjectID = "QkB-o1-pv2"; */
+"QkB-o1-pv2.title" = "内部リンクをアンダーライン";
+
+/* Class = "NSMenuItem"; title = "None (Use Metadata)"; ObjectID = "Qrq-7F-H1e"; */
+"Qrq-7F-H1e.title" = "なし（メタデータを使用）";
+
+/* Class = "NSTextFieldCell"; title = "Word and character counts:"; ObjectID = "R95-Me-ath"; */
+"R95-Me-ath.title" = "単語と文字数：";
+
+/* Class = "NSButtonCell"; title = "Insert separator before endnotes"; ObjectID = "RO1-Q2-ssX"; */
+"RO1-Q2-ssX.title" = "エンドノート前にセパレータを挿入";
+
+/* Class = "NSTextFieldCell"; title = "Document suffix:"; ObjectID = "Rc2-Gj-Zei"; */
+"Rc2-Gj-Zei.title" = "ドキュメントの接尾辞：";
+
+/* Class = "NSButtonCell"; title = "Include scriptwriting CSS"; ObjectID = "Rfg-UK-JDn"; */
+"Rfg-UK-JDn.title" = "台本CSSを含める";
+
+/* Class = "NSMenuItem"; title = "1/2 inch"; ObjectID = "Rgd-fG-czT"; */
+"Rgd-fG-czT.title" = "1/2 インチ";
+
+/* Class = "NSButtonCell"; title = "Ensure hyperlinks are colored and highlighted"; ObjectID = "Rlx-ot-TIq"; */
+"Rlx-ot-TIq.title" = "ハイパーリンクに色が付けられ、ハイライトされていることを確実にします";
+
+/* Class = "NSButtonCell"; title = "Test..."; ObjectID = "RuL-1i-vc1"; */
+"RuL-1i-vc1.title" = "テストしています...";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "Ruv-4t-t0s"; */
+"Ruv-4t-t0s.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "MMD (LaTeX)"; ObjectID = "S0J-bg-fP9"; */
+"S0J-bg-fP9.title" = "MMD (LaTeX)";
+
+/* Class = "NSMenuItem"; title = "a, b, c..."; ObjectID = "S2R-3G-aZe"; */
+"S2R-3G-aZe.title" = "a, b, c...";
+
+/* Class = "NSButtonCell"; title = "Add indent per outline level:"; ObjectID = "SAW-eJ-k1q"; */
+"SAW-eJ-k1q.title" = "アウトラインレベルごとにインデントを追加：";
+
+/* Class = "NSTextFieldCell"; title = "Endnote subheadings font:"; ObjectID = "SDa-PK-ugW"; */
+"SDa-PK-ugW.title" = "エンドノートサブ見出しフォント：";
+
+/* Class = "NSTextFieldCell"; title = "Pixels"; ObjectID = "SQb-yE-XGv"; */
+"SQb-yE-XGv.title" = "ピクセル";
+
+/* Class = "NSTextFieldCell"; title = "Separator before sections"; ObjectID = "Sej-Bq-KUH"; */
+"Sej-Bq-KUH.title" = "セクション前のセパレータ";
+
+/* Class = "NSTabViewItem"; label = "Plain Text"; ObjectID = "Shf-iJ-Wea"; */
+"Shf-iJ-Wea.label" = "プレーンテキスト";
+
+/* Class = "NSButtonCell"; title = "MMD (LaTeX)"; ObjectID = "Siw-hY-dhT"; */
+"Siw-hY-dhT.title" = "MMD (LaTeX)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Default Separators"; ObjectID = "Smr-WY-ClK"; */
+"Smr-WY-ClK.headerCell.title" = "デフォルトのセパレータ";
+
+/* Class = "NSMenuItem"; title = "Empty line"; ObjectID = "Snh-rn-29g"; */
+"Snh-rn-29g.title" = "空欄の行";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Max: 30"; ObjectID = "Sui-yz-Fhv"; */
+"Sui-yz-Fhv.ibShadowedNoSelectionPlaceholder" = "最大：30";
+
+/* Class = "NSMenuItem"; title = "Chicago"; ObjectID = "T3e-3F-hca"; */
+"T3e-3F-hca.title" = "Chicago";
+
+/* Class = "NSButtonCell"; title = "Place notes after main text"; ObjectID = "T3f-6Y-xf0"; */
+"T3f-6Y-xf0.title" = "主要テキスト後に注釈を配置";
+
+/* Class = "NSButtonCell"; title = "Use project page settings"; ObjectID = "T9q-ZK-oNO"; */
+"T9q-ZK-oNO.title" = "プロジェクトページ設定を使用";
+
+/* Class = "NSButtonCell"; title = "Stitch together adjacent tables if possible"; ObjectID = "TMP-HN-HlP"; */
+"TMP-HN-HlP.title" = "可能な場合、隣接する表と共にステッチ";
+
+/* Class = "NSMenuItem"; title = "All whitespace"; ObjectID = "TQE-z9-gde"; */
+"TQE-z9-gde.title" = "全てのホワイトスペース";
+
+/* Class = "NSTableColumn"; headerCell.title = "Whole Word"; ObjectID = "TQY-Em-gqK"; */
+"TQY-Em-gqK.headerCell.title" = "全単語";
+
+/* Class = "NSTextFieldCell"; title = "Endnotes placement:"; ObjectID = "UCx-eK-frT"; */
+"UCx-eK-frT.title" = "エンドノートの配置：";
+
+/* Class = "NSMenuItem"; title = "A, B, C..."; ObjectID = "UEn-qv-1WQ"; */
+"UEn-qv-1WQ.title" = "A, B, C...";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "UJo-Wj-zBp"; */
+"UJo-Wj-zBp.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSButtonCell"; title = "RTF"; ObjectID = "UNg-fT-Uzx"; */
+"UNg-fT-Uzx.title" = "RTF";
+
+/* Class = "NSTextFieldCell"; title = "Separator between sections"; ObjectID = "US9-Oh-7FY"; */
+"US9-Oh-7FY.title" = "セクション間のセパレータ";
+
+/* Class = "NSTabViewItem"; label = "Transformations"; ObjectID = "UWy-Gr-nv9"; */
+"UWy-Gr-nv9.label" = "変換";
+
+/* Class = "NSTabViewItem"; label = "Statistics"; ObjectID = "UcC-ma-lz2"; */
+"UcC-ma-lz2.label" = "統計";
+
+/* Class = "NSButtonCell"; title = "Endnotes use single line spacing"; ObjectID = "Umt-YQ-0M7"; */
+"Umt-YQ-0M7.title" = "エンドノートは単一行間を使用";
+
+/* Class = "NSMenuItem"; title = "a, b, c..."; ObjectID = "Upb-Qx-D1M"; */
+"Upb-Qx-D1M.title" = "a, b, c...";
+
+/* Class = "NSButtonCell"; title = "Group endnotes by section with subheadings"; ObjectID = "Usd-b7-itc"; */
+"Usd-b7-itc.title" = "サブ見出しが付いたセクション毎のグループエンドノート";
+
+/* Class = "NSButtonCell"; title = "Notes"; ObjectID = "UuH-aD-weu"; */
+"UuH-aD-weu.title" = "注釈";
+
+/* Class = "NSTabViewItem"; label = "Styles"; ObjectID = "V6A-kQ-8jY"; */
+"V6A-kQ-8jY.label" = "スタイル";
+
+/* Class = "NSMenuItem"; title = "Before page breaks"; ObjectID = "VFd-2Q-UPp"; */
+"VFd-2Q-UPp.title" = "改ページ前";
+
+/* Class = "NSMenuItem"; title = "FDX"; ObjectID = "VKE-sz-8eA"; */
+"VKE-sz-8eA.title" = "FDX";
+
+/* Class = "NSButtonCell"; title = "DOCX"; ObjectID = "VNS-Cw-ntv"; */
+"VNS-Cw-ntv.title" = "DOCX";
+
+/* Class = "NSMenuItem"; title = "Empty line"; ObjectID = "VOH-Ca-IYh"; */
+"VOH-Ca-IYh.title" = "空欄の行";
+
+/* Class = "NSMenuItem"; title = "I, II, III..."; ObjectID = "VSt-W7-soW"; */
+"VSt-W7-soW.title" = "I, II, III...";
+
+/* Class = "NSTabViewItem"; label = "New Pages"; ObjectID = "VVn-HQ-5ka"; */
+"VVn-HQ-5ka.label" = "新しいページ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete selected replacements."; ObjectID = "VcH-8m-o7M"; */
+"VcH-8m-o7M.ibExternalAccessibilityDescription" = "選択された置換を削除します。";
+
+/* Class = "NSMenuItem"; title = "A, B, C..."; ObjectID = "VdT-oB-Pbr"; */
+"VdT-oB-Pbr.title" = "A, B, C...";
+
+/* Class = "NSMenuItem"; title = "Before last page break"; ObjectID = "VhH-fq-YK7"; */
+"VhH-fq-YK7.title" = "最後の改ページ前";
+
+/* Class = "NSTextFieldCell"; title = "Case:"; ObjectID = "Vj9-7Y-cy1"; */
+"Vj9-7Y-cy1.title" = "ケース：";
+
+/* Class = "NSTextFieldCell"; title = "Determines the separating characters inserted before documents that use a different section layout to the preceding document."; ObjectID = "Vj9-Tp-Eet"; */
+"Vj9-Tp-Eet.title" = "前のドキュメントに対し、異なるセクションレイアウトを使用するドキュメントの前に挿入された分離文字を定義します。";
+
+/* Class = "NSTextFieldCell"; title = "Headers and Footers"; ObjectID = "Vns-q2-puZ"; */
+"Vns-q2-puZ.title" = "ヘッダーとフッター";
+
+/* Class = "NSMenuItem"; title = "ePub 3.0"; ObjectID = "VoY-zF-uPt"; */
+"VoY-zF-uPt.title" = "ePub 3.0";
+
+/* Class = "NSButtonCell"; title = "Do not add prefix or suffix to placeholder titles"; ObjectID = "W8T-zQ-ZYT"; */
+"W8T-zQ-ZYT.title" = "接頭辞または接尾辞をプレースホルダタイトルに追加しないでください";
+
+/* Class = "NSButtonCell"; title = "Pandoc (ePub)"; ObjectID = "WFR-jn-U6v"; */
+"WFR-jn-U6v.title" = "Pandoc (ePub)";
+
+/* Class = "NSTextFieldCell"; title = "No Section Layouts"; ObjectID = "WL0-M9-hVV"; */
+"WL0-M9-hVV.title" = "セクションレイアウトがありません";
+
+/* Class = "NSTextFieldCell"; title = "Format Name:"; ObjectID = "Wid-bw-FuM"; */
+"Wid-bw-FuM.title" = "形式名：";
+
+/* Class = "NSMenuItem"; title = "a, b, c..."; ObjectID = "Wj5-aJ-UH9"; */
+"Wj5-aJ-UH9.title" = "a, b, c...";
+
+/* Class = "NSButtonCell"; title = "Add closing hashes to titles"; ObjectID = "Wkl-ak-NsM"; */
+"Wkl-ak-NsM.title" = "タイトルに閉じハッシュを追加";
+
+/* Class = "NSButtonCell"; title = "Use centered column to restrict body text width"; ObjectID = "Wul-8f-e9m"; */
+"Wul-8f-e9m.title" = "中央揃え列を本文幅の制限に使用";
+
+/* Class = "NSTextFieldCell"; title = "Endnote format:"; ObjectID = "XIN-7I-0dl"; */
+"XIN-7I-0dl.title" = "エンドノート形式：";
+
+/* Class = "NSMenuItem"; title = "i, ii, iii..."; ObjectID = "XKG-Rl-0zz"; */
+"XKG-Rl-0zz.title" = "i, ii, iii...";
+
+/* Class = "NSTextFieldCell"; title = "Styles"; ObjectID = "XKL-za-fbt"; */
+"XKL-za-fbt.title" = "スタイル";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Rich Text Format"; ObjectID = "XQg-W2-jzO"; */
+"XQg-W2-jzO.ibShadowedToolTip" = "リッチテキスト形式";
+
+/* Class = "NSButtonCell"; title = "Insert blank row between stitched-together tables"; ObjectID = "XRK-KB-ase"; */
+"XRK-KB-ase.title" = "ステッチされた表の間に空欄行を挿入";
+
+/* Class = "NSTextFieldCell"; title = "Enclosing markers for annotations:"; ObjectID = "XSP-2O-zKd"; */
+"XSP-2O-zKd.title" = "注釈にマーカーを追加：";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "XdG-4p-6P0"; */
+"XdG-4p-6P0.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "DOCX"; ObjectID = "XhE-Ys-MtQ"; */
+"XhE-Ys-MtQ.title" = "DOCX";
+
+/* Class = "NSTextFieldCell"; title = "Tables:"; ObjectID = "Xi9-da-PkV"; */
+"Xi9-da-PkV.title" = "表：";
+
+/* Class = "NSButtonCell"; title = "Always start section on:"; ObjectID = "XpD-gx-iCW"; */
+"XpD-gx-iCW.title" = "常にセクションを開始：";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "XuP-lm-k2v"; */
+"XuP-lm-k2v.title" = "カスタム";
+
+/* Class = "NSButtonCell"; title = "Different header and footer on first pages"; ObjectID = "Y6L-mt-FWl"; */
+"Y6L-mt-FWl.title" = "最初のページに異なるヘッダーとフッター";
+
+/* Class = "NSTableColumn"; headerCell.title = "Notes"; ObjectID = "YB1-pL-fIj"; */
+"YB1-pL-fIj.headerCell.title" = "注釈";
+
+/* Class = "NSTabViewItem"; label = "Document Title Links"; ObjectID = "YEo-dI-qKo"; */
+"YEo-dI-qKo.label" = "ドキュメントタイトルリンク";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "YLT-Fd-sJO"; */
+"YLT-Fd-sJO.title" = "チェック";
+
+/* Class = "NSTextFieldCell"; title = "Numbered lists:"; ObjectID = "YWO-tX-M2v"; */
+"YWO-tX-M2v.title" = "番号付きリスト：";
+
+/* Class = "NSButtonCell"; title = "Override font:"; ObjectID = "Ycz-uH-a7Q"; */
+"Ycz-uH-a7Q.title" = "オーバーライドフォント：";
+
+/* Class = "NSMenuItem"; title = "MMD (RTF)"; ObjectID = "Yfj-cy-w17"; */
+"Yfj-cy-w17.title" = "MMD (RTF)";
+
+/* Class = "NSButtonCell"; title = "Include placeholder titles for untitled items"; ObjectID = "YpO-9q-NxR"; */
+"YpO-9q-NxR.title" = "タイトルのない項目にプレースホルダタイトルを含める";
+
+/* Class = "NSMenuItem"; title = "PDF"; ObjectID = "Ypq-el-0yz"; */
+"Ypq-el-0yz.title" = "PDF";
+
+/* Class = "NSButtonCell"; title = "Override separator after:"; ObjectID = "YuU-KR-7cE"; */
+"YuU-KR-7cE.title" = "後にオーバーライドセパレータ：";
+
+/* Class = "NSButtonCell"; title = "Do not include title suffixes in updated links"; ObjectID = "ZIG-oL-wls"; */
+"ZIG-oL-wls.title" = "アップデートされたリンクにタイトルの接尾辞を含めない";
+
+/* Class = "NSMenuItem"; title = "Empty line"; ObjectID = "ZUY-ph-7G5"; */
+"ZUY-ph-7G5.title" = "空欄の行";
+
+/* Class = "NSMenuItem"; title = "Paragraph Style"; ObjectID = "ZYT-EI-dj8"; */
+"ZYT-EI-dj8.title" = "段落スタイル";
+
+/* Class = "NSButtonCell"; title = "Convert underlines to italics"; ObjectID = "ZYq-VT-dGD"; */
+"ZYq-VT-dGD.title" = "アンダーラインをイタリックに変換";
+
+/* Class = "NSButtonCell"; title = "Include in RTF bookmarks"; ObjectID = "Zkq-gN-hdF"; */
+"Zkq-gN-hdF.title" = "RTFブックマークに含める";
+
+/* Class = "NSTextFieldCell"; title = "Blank line separator"; ObjectID = "Zrf-67-1dQ"; */
+"Zrf-67-1dQ.title" = "空欄行セパレータ";
+
+/* Class = "NSButtonCell"; title = "Use columns"; ObjectID = "Zxh-Ar-yLK"; */
+"Zxh-Ar-yLK.title" = "列を使用";
+
+/* Class = "NSMenuItem"; title = "RTFD"; ObjectID = "a10-Kl-02M"; */
+"a10-Kl-02M.title" = "RTFD";
+
+/* Class = "NSButtonCell"; title = "Exclude front matter"; ObjectID = "aAC-cF-bb0"; */
+"aAC-cF-bb0.title" = "前付けを除外";
+
+/* Class = "NSMenuItem"; title = "a verso page"; ObjectID = "aYC-YB-W5x"; */
+"aYC-YB-W5x.title" = "裏ページ";
+
+/* Class = "NSTextFieldCell"; title = "Document suffix:"; ObjectID = "aYL-UO-db3"; */
+"aYL-UO-db3.title" = "ドキュメントの接尾辞：";
+
+/* Class = "NSButtonCell"; title = "Insert subtitles between text elements"; ObjectID = "adc-iJ-JJV"; */
+"adc-iJ-JJV.title" = "テキスト要素間にサブタイトルを挿入";
+
+/* Class = "NSTextFieldCell"; title = "Enclosing markers for unstyled italics:"; ObjectID = "ae7-mS-ih0"; */
+"ae7-mS-ih0.title" = "スタイルが付けられていないイタリックにマーカーを追加：";
+
+/* Class = "NSMenuItem"; title = "Lowercase"; ObjectID = "aez-W0-9Nq"; */
+"aez-W0-9Nq.title" = "小文字";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Plain Text"; ObjectID = "afQ-AY-34g"; */
+"afQ-AY-34g.ibShadowedToolTip" = "プレーンテキスト";
+
+/* Class = "NSButtonCell"; title = "MMD (PDF)"; ObjectID = "aka-7N-ajq"; */
+"aka-7N-ajq.title" = "MMD (PDF)";
+
+/* Class = "NSButtonCell"; title = "Include all text"; ObjectID = "aly-Hu-IcF"; */
+"aly-Hu-IcF.title" = "全てのテキストを含む";
+
+/* Class = "NSTextFieldCell"; title = "Endnotes page title:"; ObjectID = "am9-KH-PUt"; */
+"am9-KH-PUt.title" = "エンドノートページタイトル：";
+
+/* Class = "NSButtonCell"; title = "Start next section on:"; ObjectID = "apS-c8-Cl3"; */
+"apS-c8-Cl3.title" = "次のセクションを開始：";
+
+/* Class = "NSTextFieldCell"; title = "Endnote format:"; ObjectID = "asX-uX-H28"; */
+"asX-uX-H28.title" = "エンドノート形式：";
+
+/* Class = "NSTextFieldCell"; title = "Document class and other header material:"; ObjectID = "auE-lY-RFW"; */
+"auE-lY-RFW.title" = "ドキュメントクラスとその他のヘッダー素材：";
+
+/* Class = "NSButtonCell"; title = "Footnotes use single line spacing"; ObjectID = "b1Y-4t-T4U"; */
+"b1Y-4t-T4U.title" = "脚注は単一行間を使用";
+
+/* Class = "NSTextFieldCell"; title = "Endnote format:"; ObjectID = "b3B-t3-2jY"; */
+"b3B-t3-2jY.title" = "エンドノート形式：";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "b3b-Ds-L3R"; */
+"b3b-Ds-L3R.title" = "チェック";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "bME-kM-tyB"; */
+"bME-kM-tyB.title" = "カスタム";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "bNV-Ln-YYv"; */
+"bNV-Ln-YYv.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSButtonCell"; title = "Embed footnotes inline"; ObjectID = "blt-Zw-A59"; */
+"blt-Zw-A59.title" = "脚注インラインを組込み";
+
+/* Class = "NSTextFieldCell"; title = "Supported File Types"; ObjectID = "bo7-0p-f9E"; */
+"bo7-0p-f9E.title" = "サポートされたファイルタイプ";
+
+/* Class = "NSButtonCell"; title = "Include styles information in exported file"; ObjectID = "bq6-Rm-fZK"; */
+"bq6-Rm-fZK.title" = "エクスポートされたファイルにスタイル情報を含む";
+
+/* Class = "NSMenuItem"; title = "Character Style"; ObjectID = "bth-zF-BzN"; */
+"bth-zF-BzN.title" = "文字スタイル";
+
+/* Class = "NSButtonCell"; title = "Convert italics to underlines"; ObjectID = "bxf-ZE-Csj"; */
+"bxf-ZE-Csj.title" = "イタリックをアンダーラインに変換";
+
+/* Class = "NSButtonCell"; title = "Generate PDF outline"; ObjectID = "bz5-hF-PSw"; */
+"bz5-hF-PSw.title" = "PDFアウトラインを作成";
+
+/* Class = "NSMenuItem"; title = "MMD (RTF)"; ObjectID = "c5e-vK-GGQ"; */
+"c5e-vK-GGQ.title" = "MMD (RTF)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Max: 10"; ObjectID = "c6B-aN-8X0"; */
+"c6B-aN-8X0.ibShadowedNoSelectionPlaceholder" = "最大：10";
+
+/* Class = "NSTabViewItem"; label = "CSS"; ObjectID = "c9k-gp-run"; */
+"c9k-gp-run.label" = "CSS";
+
+/* Class = "NSTextFieldCell"; title = "Endnote subheadings font:"; ObjectID = "cIZ-wG-C3K"; */
+"cIZ-wG-C3K.title" = "エンドノートサブ見出しフォント：";
+
+/* Class = "NSMenuItem"; title = "ODT"; ObjectID = "cJe-Na-5KJ"; */
+"cJe-Na-5KJ.title" = "ODT";
+
+/* Class = "NSTextFieldCell"; title = "Footer:"; ObjectID = "cOD-0K-k9K"; */
+"cOD-0K-k9K.title" = "フッター：";
+
+/* Class = "NSTextFieldCell"; title = "(Maximum: 10)"; ObjectID = "cOh-BS-OYq"; */
+"cOh-BS-OYq.title" = "（最大：10)";
+
+/* Class = "NSTextFieldCell"; title = "↑2.54cm, ↓2.54cm, ←2.54cm, →2.54cm"; ObjectID = "cRj-Xl-m5c"; */
+"cRj-Xl-m5c.title" = "↑2.54cm, ↓2.54cm, ←2.54cm, →2.54cm";
+
+/* Class = "NSMenuItem"; title = "Empty line"; ObjectID = "cSk-5V-X3z"; */
+"cSk-5V-X3z.title" = "空欄の行";
+
+/* Class = "NSTextFieldCell"; title = "Footnote format:"; ObjectID = "cXo-zc-Snv"; */
+"cXo-zc-Snv.title" = "脚注の形式：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "MultiMarkdown > Rich Text (.rtf)"; ObjectID = "d8m-F9-ywW"; */
+"d8m-F9-ywW.ibShadowedToolTip" = "MultiMarkdown > Rich Text (.rtf)";
+
+/* Class = "NSMenuItem"; title = "Small Caps"; ObjectID = "dHr-Y3-L5M"; */
+"dHr-Y3-L5M.title" = "スモールキャップス";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "dM0-1v-b7e"; */
+"dM0-1v-b7e.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "I, II, III..."; ObjectID = "dN6-F6-i3G"; */
+"dN6-F6-i3G.title" = "I, II, III...";
+
+/* Class = "NSTableColumn"; headerCell.title = "Replace"; ObjectID = "dR8-qh-2e4"; */
+"dR8-qh-2e4.headerCell.title" = "置換";
+
+/* Class = "NSButtonCell"; title = "Reset to Default"; ObjectID = "deE-HB-Dw4"; */
+"deE-HB-Dw4.title" = "デフォルトにリセット";
+
+/* Class = "NSTextFieldCell"; title = "(Optional)"; ObjectID = "dg2-uP-abi"; */
+"dg2-uP-abi.title" = "（オプション）";
+
+/* Class = "NSButtonCell"; title = "Use facing pages (alternating margins, header and footer)"; ObjectID = "dm0-Mk-P92"; */
+"dm0-Mk-P92.title" = "対向ページを使用（交互のマージン、ヘッダーとフッター）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Microsoft Word (.docx)"; ObjectID = "e1P-h2-HEC"; */
+"e1P-h2-HEC.ibShadowedToolTip" = "Microsoft Word (.docx)";
+
+/* Class = "NSTabViewItem"; label = "Formatting"; ObjectID = "e60-PX-OS7"; */
+"e60-PX-OS7.label" = "書式設定";
+
+/* Class = "NSButtonCell"; title = "Do not count spaces in character counts"; ObjectID = "e8I-b8-lVS"; */
+"e8I-b8-lVS.title" = "文字数にスペースを含めない";
+
+/* Class = "NSMenuItem"; title = "Page break"; ObjectID = "eEZ-g8-RTT"; */
+"eEZ-g8-RTT.title" = "改ページ";
+
+/* Class = "NSTextFieldCell"; title = "The specified command-line path and arguments will be called on the MultiMarkdown file after export.\n\nUse <$inputfile> in the arguments to denote the MultiMarkdown input file that is generated during Compile. If <$inputfile> is not included, the input file name will be added as the last argument.\n\nUse <$outputname> to include the output file name in the arguments. This will be the same as <$inputfile> but without the file extension. You should add the file extension yourself (e.g. \"<$outputname>.docx\")."; ObjectID = "eQv-pW-Gex"; */
+"eQv-pW-Gex.title" = "エクスポート後、指定されたコマンドラインパスと引数がMultiMarkdownファイルに呼び出されます。\n\n引数で <$inputfile>を使用し、コンパイル中に作成されたMultiMarkdownインプットファイルを表示します。<$inputfile>が含まれていない場合、インプットファイル名は最後の引数として追加されます。\n\n<$outputname>を使用して、アウトプットファイル名を引数に含めます。これは<$inputfile>と尾内ですが、ファイル拡張子がありません。ご自身でファイル拡張子を加える必要があります(例：\"<$outputname>.docx\")";
+
+/* Class = "NSButtonCell"; title = "Make text XML friendly"; ObjectID = "eXV-A0-7bp"; */
+"eXV-A0-7bp.title" = "XMLテキストを分かりやすくする";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "eiy-bg-MI8"; */
+"eiy-bg-MI8.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "ejc-GQ-asy"; */
+"ejc-GQ-asy.title" = "カスタム";
+
+/* Class = "NSButtonCell"; title = "PDF"; ObjectID = "ekQ-L8-Y54"; */
+"ekQ-L8-Y54.title" = "PDF";
+
+/* Class = "NSButtonCell"; title = "Include font size"; ObjectID = "em9-QY-Wp4"; */
+"em9-QY-Wp4.title" = "フォントサイズを含む";
+
+/* Class = "NSButtonCell"; title = "Embed MathType equations as MathML"; ObjectID = "emo-4i-Nd8"; */
+"emo-4i-Nd8.title" = "MathType方程式をMathMLとして組み込む";
+
+/* Class = "NSButtonCell"; title = "Different header and footer for back matter"; ObjectID = "eo0-uB-dul"; */
+"eo0-uB-dul.title" = "後付けに異なるヘッダーとフッター";
+
+/* Class = "NSTextFieldCell"; title = "Arguments:"; ObjectID = "eta-aE-hlg"; */
+"eta-aE-hlg.title" = "引数：";
+
+/* Class = "NSTextFieldCell"; title = "No header or footer on:"; ObjectID = "f9h-8E-hYE"; */
+"f9h-8E-hYE.title" = "ヘッダーまたはフッターなし：";
+
+/* Class = "NSTextFieldCell"; title = "Use 100% width for images wider than:"; ObjectID = "fAA-Gq-cH3"; */
+"fAA-Gq-cH3.title" = "画像に100%画像を使用する最低幅：";
+
+/* Class = "NSMenuItem"; title = "A, B, C..."; ObjectID = "fJw-72-lDZ"; */
+"fJw-72-lDZ.title" = "A, B, C...";
+
+/* Class = "NSTabViewItem"; label = "Settings"; ObjectID = "fLl-uz-7qa"; */
+"fLl-uz-7qa.label" = "設定";
+
+/* Class = "NSMenuItem"; title = "i, ii, iii..."; ObjectID = "fNN-wi-yQv"; */
+"fNN-wi-yQv.title" = "i, ii, iii...";
+
+/* Class = "NSButtonCell"; title = "Pandoc (DOCX)"; ObjectID = "fUY-Xa-bC1"; */
+"fUY-Xa-bC1.title" = "Pandoc (DOCX)";
+
+/* Class = "NSTextFieldCell"; title = "Environment:"; ObjectID = "feY-4A-2zQ"; */
+"feY-4A-2zQ.title" = "環境：";
+
+/* Class = "NSTextFieldCell"; title = "Set words and phrases to be replaced during compile."; ObjectID = "fhK-Og-qwD"; */
+"fhK-Og-qwD.title" = "単語と文章を設定して、コンパイル中に置き換えます。";
+
+/* Class = "NSTextFieldCell"; title = "Main body header and footer starts:"; ObjectID = "fiv-0M-AHV"; */
+"fiv-0M-AHV.title" = "本文ヘッダーとフッター開始：";
+
+/* Class = "NSMenuItem"; title = "Page break"; ObjectID = "fkn-jF-fip"; */
+"fkn-jF-fip.title" = "改ページ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Optional"; ObjectID = "fr8-8V-108"; */
+"fr8-8V-108.ibShadowedIsNilPlaceholder" = "オプション";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Optional"; ObjectID = "fr8-8V-108"; */
+"fr8-8V-108.ibShadowedNoSelectionPlaceholder" = "オプション";
+
+/* Class = "NSMenuItem"; title = "cm"; ObjectID = "g5Q-GX-FJG"; */
+"g5Q-GX-FJG.title" = "cm";
+
+/* Class = "NSButtonCell"; title = "Convert to plain text:"; ObjectID = "g7S-mZ-eKu"; */
+"g7S-mZ-eKu.title" = "プレーンテキストに変換：";
+
+/* Class = "NSTextFieldCell"; title = "Determines the separating characters inserted before documents that use a different section layout to the preceding document."; ObjectID = "g8k-oG-Chx"; */
+"g8k-oG-Chx.title" = "前のドキュメントに対し、異なるセクションレイアウトを使用するドキュメントの前に挿入された分離文字を定義します。";
+
+/* Class = "NSMenuItem"; title = "Elegant"; ObjectID = "gKu-Mv-Ygs"; */
+"gKu-Mv-Ygs.title" = "Elegant";
+
+/* Class = "NSMenuItem"; title = "Small Caps"; ObjectID = "gSW-JE-ntN"; */
+"gSW-JE-ntN.title" = "スモールキャップス";
+
+/* Class = "NSMenuItem"; title = "On page 6"; ObjectID = "gie-5p-Jio"; */
+"gie-5p-Jio.title" = "6ページで";
+
+/* Class = "NSMenuItem"; title = "By Level"; ObjectID = "gk7-e8-Ult"; */
+"gk7-e8-Ult.title" = "レベルごと";
+
+/* Class = "NSButtonCell"; title = "Override text and notes formatting"; ObjectID = "gpa-GY-EV5"; */
+"gpa-GY-EV5.title" = "オーバーライドテキストと注釈書式設定";
+
+/* Class = "NSButtonCell"; title = "Group endnotes by section with subheadings"; ObjectID = "gvn-gV-6id"; */
+"gvn-gV-6id.title" = "サブ見出しが付いたセクション毎のグループエンドノート";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Microsoft Word (.doc)"; ObjectID = "h70-HD-2JJ"; */
+"h70-HD-2JJ.ibShadowedToolTip" = "Microsoft Word (.doc)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "hGx-l8-dv0"; */
+"hGx-l8-dv0.headerCell.title" = "キー";
+
+/* Class = "NSTabViewItem"; label = "Section Layout Separators"; ObjectID = "hO3-MJ-Gy4"; */
+"hO3-MJ-Gy4.label" = "セクションレイアウトセパレータ";
+
+/* Class = "NSButtonCell"; title = "Center subheadings"; ObjectID = "hRn-zP-ZWX"; */
+"hRn-zP-ZWX.title" = "サブ見出しを中央揃え";
+
+/* Class = "NSTabViewItem"; label = "Separators"; ObjectID = "hTc-ZT-WET"; */
+"hTc-ZT-WET.label" = "セパレータ";
+
+/* Class = "NSMenuItem"; title = "Lowercase"; ObjectID = "hdj-sx-THJ"; */
+"hdj-sx-THJ.title" = "小文字";
+
+/* Class = "NSButtonCell"; title = "Kindle KF8/Mobi"; ObjectID = "hh6-OQ-Oow"; */
+"hh6-OQ-Oow.title" = "Kindle KF8/Mobi";
+
+/* Class = "NSMenuItem"; title = "Paragraph+Character Style"; ObjectID = "hjL-yS-Hio"; */
+"hjL-yS-Hio.title" = "段落+文字スタイル";
+
+/* Class = "NSTextFieldCell"; title = "Determines the separating characters inserted before documents that use the same section layout as the preceding document."; ObjectID = "hjv-bs-sTT"; */
+"hjv-bs-sTT.title" = "前のドキュメントと同じセクションレイアウトを使用するドキュメントの前に挿入された分離文字を定義します。";
+
+/* Class = "NSMenuItem"; title = "DOC"; ObjectID = "hqC-SP-Pt7"; */
+"hqC-SP-Pt7.title" = "DOC";
+
+/* Class = "NSTextFieldCell"; title = "Default separators are used for any documents set to compile \"As-Is\" and for section layouts with \"Use default separators\" ticked."; ObjectID = "hu7-CD-Iaf"; */
+"hu7-CD-Iaf.title" = "デフォルトセパレータが\"現状のまま\" のコンパイルに設定されたドキュメントと\"デフォルトセパレータを使用\"にチェックが入ったセクションレイアウトに使用されます。";
+
+/* Class = "NSButtonCell"; title = "Override title prefix separator in links"; ObjectID = "hyd-eg-BaU"; */
+"hyd-eg-BaU.title" = "タイトルの接頭辞セパレータをリンク内でオーバーライド";
+
+/* Class = "NSMenuItem"; title = "Page break"; ObjectID = "iAg-U5-TEp"; */
+"iAg-U5-TEp.title" = "改ページ";
+
+/* Class = "NSMenuItem"; title = "On page 2"; ObjectID = "iF6-Uh-SF7"; */
+"iF6-Uh-SF7.title" = "2ページで";
+
+/* Class = "NSMenuItem"; title = "a recto page"; ObjectID = "iFf-AL-8mI"; */
+"iFf-AL-8mI.title" = "表ページ";
+
+/* Class = "NSMenuItem"; title = "Inline comments"; ObjectID = "iIu-v5-eMi"; */
+"iIu-v5-eMi.title" = "インラインコメント";
+
+/* Class = "NSTextFieldCell"; title = "Path:"; ObjectID = "iO4-Nu-Zuo"; */
+"iO4-Nu-Zuo.title" = "パス：";
+
+/* Class = "NSMenuItem"; title = "ePub 2"; ObjectID = "icG-zS-Fkx"; */
+"icG-zS-Fkx.title" = "ePub 2";
+
+/* Class = "NSButtonCell"; title = "Center subheadings"; ObjectID = "ihV-Ts-AoT"; */
+"ihV-Ts-AoT.title" = "サブ見出しを中央揃え";
+
+/* Class = "NSMenuItem"; title = "Before last page break"; ObjectID = "j2b-hM-14h"; */
+"j2b-hM-14h.title" = "最後の改ページ前";
+
+/* Class = "NSMenuItem"; title = "a, b, c..."; ObjectID = "j50-Vh-HKq"; */
+"j50-Vh-HKq.title" = "a, b, c...";
+
+/* Class = "NSMenuItem"; title = "Fountain"; ObjectID = "j6Q-b7-WIG"; */
+"j6Q-b7-WIG.title" = "Fountain";
+
+/* Class = "NSButtonCell"; title = "Single pages"; ObjectID = "jPY-1Z-9jb"; */
+"jPY-1Z-9jb.title" = "シングルページ";
+
+/* Class = "NSButtonCell"; title = "From paragraphs after headings"; ObjectID = "jPw-Ar-4jT"; */
+"jPw-Ar-4jT.title" = "見出し後の段落から";
+
+/* Class = "NSMenuItem"; title = "I, II, III..."; ObjectID = "jZx-2w-psL"; */
+"jZx-2w-psL.title" = "I, II, III...";
+
+/* Class = "NSButtonCell"; title = "Delete exported image files after processing"; ObjectID = "jcg-KK-Q2q"; */
+"jcg-KK-Q2q.title" = "加工後、エクスポートされた画像ファイルを削除する";
+
+/* Class = "NSTextFieldCell"; title = "Margins"; ObjectID = "jef-Oy-MQC"; */
+"jef-Oy-MQC.title" = "マージン";
+
+/* Class = "NSButtonCell"; title = "Restrict width of stitched-together tables to page width"; ObjectID = "jes-6K-bgm"; */
+"jes-6K-bgm.title" = "ステッチされた表の幅をページ幅に制限";
+
+/* Class = "NSMenuItem"; title = "HTML"; ObjectID = "jif-6M-1MN"; */
+"jif-6M-1MN.title" = "HTML";
+
+/* Class = "NSButtonCell"; title = "Endnotes use single line spacing"; ObjectID = "jkM-Nh-Qf9"; */
+"jkM-Nh-Qf9.title" = "エンドノートは単一行間を使用";
+
+/* Class = "NSMenuItem"; title = "MMD (PDF)"; ObjectID = "jmq-Zd-JMm"; */
+"jmq-Zd-JMm.title" = "MMD (PDF)";
+
+/* Class = "NSTextFieldCell"; title = "Separator before sections"; ObjectID = "jpE-SV-ul7"; */
+"jpE-SV-ul7.title" = "セクション前のセパレータ";
+
+/* Class = "NSTextFieldCell"; title = "Section subheadings style:"; ObjectID = "kHj-s6-C3Y"; */
+"kHj-s6-C3Y.title" = "セクションのサブ見出しスタイル：";
+
+/* Class = "NSMenuItem"; title = "i, ii, iii..."; ObjectID = "kYU-t5-hYn"; */
+"kYU-t5-hYn.title" = "i, ii, iii...";
+
+/* Class = "NSTextFieldCell"; title = "Script formatting does not translate well to e-book formats without custom styling. Scrivener’s default CSS styles should work well for most screenplays, but you can edit the CSS if you require more control. (If you make changes, ensure that you create a <p> class for each scriptwriting element.)"; ObjectID = "kfo-Gs-EnP"; */
+"kfo-Gs-EnP.title" = "スクリプトの書式設定はカスタムスタイルがないと、うまくEブック形式に変換されません。ScrivenerのデフォルトCSSスタイルは大半の脚本に良く適用しますが、さらにコントロールが必要な場合はCSSを編集できます。（変更を行う場合、それぞれの台本要素に<p>クラスを作成してください。）";
+
+/* Class = "NSMenuItem"; title = "Basic"; ObjectID = "kk7-gw-4VN"; */
+"kk7-gw-4VN.title" = "基本";
+
+/* Class = "NSButtonCell"; title = "Include scriptwriting CSS"; ObjectID = "kn2-tv-TqH"; */
+"kn2-tv-TqH.title" = "台本CSSを含める";
+
+/* Class = "NSButton"; ibShadowedToolTip = "MultiMarkdown"; ObjectID = "kwn-L4-ckA"; */
+"kwn-L4-ckA.ibShadowedToolTip" = "MultiMarkdown";
+
+/* Class = "NSButtonCell"; title = "Only include:"; ObjectID = "kxf-bK-ZRC"; */
+"kxf-bK-ZRC.title" = "だけを含める：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Metadata"; ObjectID = "kzu-eo-Kza"; */
+"kzu-eo-Kza.headerCell.title" = "メタデータ";
+
+/* Class = "NSMenuItem"; title = "All whitespace (add a one inch margin)"; ObjectID = "l4Z-Z8-4PV"; */
+"l4Z-Z8-4PV.title" = "全てのホワイトスペース（1インチマージンを追加）";
+
+/* Class = "NSTextFieldCell"; title = "Export comments and annotations as:"; ObjectID = "l4f-R2-sFL"; */
+"l4f-R2-sFL.title" = "コメントと注釈を次としてエクスポート：";
+
+/* Class = "NSButtonCell"; title = "Page Setup..."; ObjectID = "lB2-wv-O1V"; */
+"lB2-wv-O1V.title" = "ページ設定…";
+
+/* Class = "NSButtonCell"; title = "Delete MultiMarkdown file after processing"; ObjectID = "lDp-Q2-kwd"; */
+"lDp-Q2-kwd.title" = "加工後、MultiMarkdownファイルを削除する";
+
+/* Class = "NSButton"; ibShadowedToolTip = "MultiMarkdown > PDF"; ObjectID = "lUK-a4-6fM"; */
+"lUK-a4-6fM.ibShadowedToolTip" = "MultiMarkdown > PDF";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "le2-sV-sBA"; */
+"le2-sV-sBA.title" = "デフォルト";
+
+/* Class = "NSMenuItem"; title = "Project Formats"; ObjectID = "leE-r7-hle"; */
+"leE-r7-hle.title" = "プロジェクト形式";
+
+/* Class = "NSTextFieldCell"; title = "Endnotes placement:"; ObjectID = "mGo-qn-KIi"; */
+"mGo-qn-KIi.title" = "エンドノートの配置：";
+
+/* Class = "NSMenuItem"; title = "Footnotes"; ObjectID = "mM6-uU-Mqx"; */
+"mM6-uU-Mqx.title" = "脚注";
+
+/* Class = "NSMenuItem"; title = "points"; ObjectID = "mbD-aU-HoG"; */
+"mbD-aU-HoG.title" = "ポイント";
+
+/* Class = "NSButtonCell"; title = "Exclude back matter"; ObjectID = "mgc-re-gqF"; */
+"mgc-re-gqF.title" = "後付けを除外";
+
+/* Class = "NSMenuItem"; title = "A, B, C..."; ObjectID = "nPA-Jo-O7g"; */
+"nPA-Jo-O7g.title" = "A, B, C...";
+
+/* Class = "NSMenuItem"; title = "MMD (LaTeX)"; ObjectID = "nPH-y6-YkZ"; */
+"nPH-y6-YkZ.title" = "MMD (LaTeX)";
+
+/* Class = "NSMenuItem"; title = "Paragraph spacing and indents"; ObjectID = "nWT-H9-Z2r"; */
+"nWT-H9-Z2r.title" = "段落間隔とインデント";
+
+/* Class = "NSTabViewItem"; label = "ePub"; ObjectID = "nb0-eM-Jfs"; */
+"nb0-eM-Jfs.label" = "ePub";
+
+/* Class = "NSTabViewItem"; label = "Header"; ObjectID = "nfZ-FS-ZYJ"; */
+"nfZ-FS-ZYJ.label" = "ヘッダー";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "nr4-GW-1bt"; */
+"nr4-GW-1bt.title" = "カスタム";
+
+/* Class = "NSTabViewItem"; label = "Ebook Tables & Lists"; ObjectID = "nsg-82-mrj"; */
+"nsg-82-mrj.label" = "Eブック表＆リスト";
+
+/* Class = "NSMenuItem"; title = "Pandoc (.docx)"; ObjectID = "nt8-Cj-pKM"; */
+"nt8-Cj-pKM.title" = "Pandoc (.docx)";
+
+/* Class = "NSButtonCell"; title = "MMD (HTML)"; ObjectID = "nxG-gr-g7r"; */
+"nxG-gr-g7r.title" = "MMD (HTML)";
+
+/* Class = "NSTextFieldCell"; title = "Separator between sections"; ObjectID = "o4o-AR-XpC"; */
+"o4o-AR-XpC.title" = "セクション間のセパレータ";
+
+/* Class = "NSButtonCell"; title = "TXT"; ObjectID = "o91-FD-aHm"; */
+"o91-FD-aHm.title" = "TXT";
+
+/* Class = "NSButtonCell"; title = "Post-process on command-line"; ObjectID = "oAX-2S-eL6"; */
+"oAX-2S-eL6.title" = "コマンドラインのポストプロセス";
+
+/* Class = "NSMenuItem"; title = "End of document"; ObjectID = "oFv-fF-x8z"; */
+"oFv-fF-x8z.title" = "ドキュメントの最後";
+
+/* Class = "NSTextFieldCell"; title = "Header:"; ObjectID = "oLs-Ki-qcg"; */
+"oLs-Ki-qcg.title" = "ヘッダー：";
+
+/* Class = "NSTabViewItem"; label = "PDF Settings"; ObjectID = "oTR-9d-uga"; */
+"oTR-9d-uga.label" = "PDF設定";
+
+/* Class = "NSTabViewItem"; label = "Title Options"; ObjectID = "oYm-Gv-cqU"; */
+"oYm-Gv-cqU.label" = "タイトルオプション";
+
+/* Class = "NSMenuItem"; title = "Single return"; ObjectID = "obW-2Z-7X2"; */
+"obW-2Z-7X2.title" = "1つだけ戻る";
+
+/* Class = "NSMenuItem"; title = "PDF"; ObjectID = "otY-yT-aRd"; */
+"otY-yT-aRd.title" = "PDF";
+
+/* Class = "NSButtonCell"; title = "Use XSLT post-processing"; ObjectID = "ozc-q5-Wmt"; */
+"ozc-q5-Wmt.title" = "XSLTポストプロセッシングを使用";
+
+/* Class = "NSMenuItem"; title = "ePub 3"; ObjectID = "pD6-kw-gmT"; */
+"pD6-kw-gmT.title" = "ePub 3";
+
+/* Class = "NSMenuItem"; title = "Squares"; ObjectID = "pMd-Mt-gqo"; */
+"pMd-Mt-gqo.title" = "四角";
+
+/* Class = "NSTextFieldCell"; title = "Start columns:"; ObjectID = "pVR-em-mVK"; */
+"pVR-em-mVK.title" = "列を開始：";
+
+/* Class = "NSMenuItem"; title = "Print"; ObjectID = "pZL-zJ-hUL"; */
+"pZL-zJ-hUL.title" = "印刷";
+
+/* Class = "NSMenuItem"; title = "1/4 inch"; ObjectID = "pf7-0l-Eif"; */
+"pf7-0l-Eif.title" = "1/4 インチ";
+
+/* Class = "NSTableColumn"; headerCell.title = "RegEx"; ObjectID = "ph5-AJ-oVS"; */
+"ph5-AJ-oVS.headerCell.title" = "RegEx";
+
+/* Class = "NSTextFieldCell"; title = "Separator style:"; ObjectID = "phw-Fh-mEs"; */
+"phw-Fh-mEs.title" = "セパレータのスタイル：";
+
+/* Class = "NSButtonCell"; title = "Use hyphenation"; ObjectID = "pzY-Co-N5H"; */
+"pzY-Co-N5H.title" = "ハイフンを使用";
+
+/* Class = "NSTableColumn"; headerCell.title = "Synopsis"; ObjectID = "qId-0W-b7M"; */
+"qId-0W-b7M.headerCell.title" = "概要";
+
+/* Class = "NSMenuItem"; title = "At <$--ENDNOTES--> marker"; ObjectID = "qOk-2r-jjc"; */
+"qOk-2r-jjc.title" = "<$--ENDNOTES--> マーカーで";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Final Draft"; ObjectID = "qOl-Fo-grq"; */
+"qOl-Fo-grq.ibShadowedToolTip" = "最終ドラフト";
+
+/* Class = "NSMenuItem"; title = "Manuscript"; ObjectID = "qQP-1L-OOY"; */
+"qQP-1L-OOY.title" = "原稿";
+
+/* Class = "NSTabViewItem"; label = "EBook"; ObjectID = "qVS-0b-QNc"; */
+"qVS-0b-QNc.label" = "Eブック";
+
+/* Class = "NSMenuItem"; title = "Basic"; ObjectID = "qaX-e2-MVM"; */
+"qaX-e2-MVM.title" = "基本";
+
+/* Class = "NSTextFieldCell"; title = "Number of hashes:"; ObjectID = "qdB-7b-O3z"; */
+"qdB-7b-O3z.title" = "ハッシュ数：";
+
+/* Class = "NSTextFieldCell"; title = "The header and footer fonts selected here must also occur in the compiled text (or in the formatting of one of the section layouts)."; ObjectID = "qhY-1z-sdz"; */
+"qhY-1z-sdz.title" = "ここで選択されたヘッダーとフッターのフォントはまた、コンパイルされたテキスト内でも生じなければなりません（またはセクションレイアウトの1つの書式設定内で）。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "MultiMarkdown > Web Page (.html)"; ObjectID = "qi5-Ta-y9N"; */
+"qi5-Ta-y9N.ibShadowedToolTip" = "MultiMarkdown > Web Page (.html)";
+
+/* Class = "NSButtonCell"; title = "Use small caps"; ObjectID = "qiI-76-Feq"; */
+"qiI-76-Feq.title" = "スモールキャピタルを使用";
+
+/* Class = "NSTextFieldCell"; title = "Custom Stylesheet"; ObjectID = "qqJ-gb-oex"; */
+"qqJ-gb-oex.title" = "カスタムスタイルシート";
+
+/* Class = "NSTextFieldCell"; title = "Footer font:"; ObjectID = "qu8-ZM-wwa"; */
+"qu8-ZM-wwa.title" = "フッターのフォント：";
+
+/* Class = "NSTextFieldCell"; title = "Left"; ObjectID = "qwu-Ms-2BO"; */
+"qwu-Ms-2BO.title" = "左";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "qww-jS-nJI"; */
+"qww-jS-nJI.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "Margin comments"; ObjectID = "rGt-Xy-SBf"; */
+"rGt-Xy-SBf.title" = "マージンコメント";
+
+/* Class = "NSMenuItem"; title = "Pandoc (DocBook)"; ObjectID = "rny-O5-XLb"; */
+"rny-O5-XLb.title" = "Pandoc (DocBook)";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new replacement."; ObjectID = "rqN-t0-Emc"; */
+"rqN-t0-Emc.ibExternalAccessibilityDescription" = "新しい置換を追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new replacement."; ObjectID = "rqN-t0-Emc"; */
+"rqN-t0-Emc.ibShadowedToolTip" = "新しい置換を追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete selected style."; ObjectID = "s9H-cI-GJI"; */
+"s9H-cI-GJI.ibShadowedToolTip" = "選択されたスタイルを削除します。";
+
+/* Class = "NSMenuItem"; title = "DOC"; ObjectID = "sAo-1E-rmk"; */
+"sAo-1E-rmk.title" = "DOC";
+
+/* Class = "NSTextFieldCell"; title = "Define styles for selection in the \"Styles\" pane. Styles only defined in the current project and not in the format’s \"Styles\" area cannot be selected, because Compile formats are self-contained and can be used with any project."; ObjectID = "sNZ-xj-YO6"; */
+"sNZ-xj-YO6.title" = " \"スタイル\" ペインで選択のスタイルを定義します。現在のプロジェクトで定義されたスタイルと形式の\"スタイル\"エリアにないものは選択できません。それは、コンパイルフォーマットは独立しており、どのプロジェクトでも使用できるためです。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Text"; ObjectID = "sYx-HZ-2UP"; */
+"sYx-HZ-2UP.headerCell.title" = "テキスト";
+
+/* Class = "NSButton"; ibShadowedToolTip = "OpenOffice"; ObjectID = "saQ-Cx-ZlX"; */
+"saQ-Cx-ZlX.ibShadowedToolTip" = "OpenOffice";
+
+/* Class = "NSTabViewItem"; label = "MultiMarkdown Settings"; ObjectID = "sbV-LV-D7B"; */
+"sbV-LV-D7B.label" = "MultiMarkdown設定";
+
+/* Class = "NSTabViewItem"; label = "Print/PDF"; ObjectID = "seM-69-jCc"; */
+"seM-69-jCc.label" = "印刷/PDF";
+
+/* Class = "NSMenuItem"; title = "ePub 2.0"; ObjectID = "ssZ-yj-ZU4"; */
+"ssZ-yj-ZU4.title" = "ePub 2.0";
+
+/* Class = "NSTextFieldCell"; title = "Document prefix:"; ObjectID = "svl-XX-BiT"; */
+"svl-XX-BiT.title" = "ドキュメントの接頭辞：";
+
+/* Class = "NSMenuItem"; title = "MMD"; ObjectID = "t7r-Pp-DyT"; */
+"t7r-Pp-DyT.title" = "MMD";
+
+/* Class = "NSMenuItem"; title = "Page break"; ObjectID = "tBA-vl-yiH"; */
+"tBA-vl-yiH.title" = "改ページ";
+
+/* Class = "NSTabViewItem"; label = "Section Layouts"; ObjectID = "tDW-j8-Pv5"; */
+"tDW-j8-Pv5.label" = "セクションレイアウト";
+
+/* Class = "NSTabViewItem"; label = "Footer"; ObjectID = "tEB-rC-ERd"; */
+"tEB-rC-ERd.label" = "フッター";
+
+/* Class = "NSButtonCell"; title = "Override separator after:"; ObjectID = "tET-UT-dQL"; */
+"tET-UT-dQL.title" = "後にオーバーライドセパレータ：";
+
+/* Class = "NSMenuItem"; title = "Page break"; ObjectID = "tG2-BT-hho"; */
+"tG2-BT-hho.title" = "改ページ";
+
+/* Class = "NSButtonCell"; title = "Notes"; ObjectID = "tOK-2M-kcA"; */
+"tOK-2M-kcA.title" = "注釈";
+
+/* Class = "NSTabViewItem"; label = "Processing"; ObjectID = "tTc-Xd-3HZ"; */
+"tTc-Xd-3HZ.label" = "処理";
+
+/* Class = "NSMenuItem"; title = "a, b, c..."; ObjectID = "tVi-HC-JAH"; */
+"tVi-HC-JAH.title" = "a, b, c...";
+
+/* Class = "NSButtonCell"; title = "Do not change"; ObjectID = "tWZ-ut-NOP"; */
+"tWZ-ut-NOP.title" = "変更しないでください";
+
+/* Class = "NSMenuItem"; title = "Kindle KF8/Mobi"; ObjectID = "tgw-Vt-sIM"; */
+"tgw-Vt-sIM.title" = "Kindle KF8/Mobi";
+
+/* Class = "NSMenuItem"; title = "MMD (HTML)"; ObjectID = "tib-ZE-wyZ"; */
+"tib-ZE-wyZ.title" = "MMD (HTML)";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "tip-TR-7gd"; */
+"tip-TR-7gd.title" = "カスタム";
+
+/* Class = "NSMenuItem"; title = "Append Custom CSS Stylesheet"; ObjectID = "txD-WL-AvQ"; */
+"txD-WL-AvQ.title" = "カスタムCSSスタイルシートを追加";
+
+/* Class = "NSTextFieldCell"; title = "These options are only applied to sections after page breaks."; ObjectID = "tyG-OV-P2S"; */
+"tyG-OV-P2S.title" = "これらのオプションは、改頁後のセクションにのみ適用されます。";
+
+/* Class = "NSTextFieldCell"; title = "Title Suffix:"; ObjectID = "u8b-df-4Ly"; */
+"u8b-df-4Ly.title" = "タイトルの接尾辞：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "uO5-tx-PQD"; */
+"uO5-tx-PQD.headerCell.title" = "タイトル";
+
+/* Class = "NSTextFieldCell"; title = "Use 100% width for images wider than:"; ObjectID = "uZQ-LM-SaO"; */
+"uZQ-LM-SaO.title" = "画像に100%画像を使用する最低幅：";
+
+/* Class = "NSButtonCell"; title = "UUID"; ObjectID = "ubh-Bs-qrA"; */
+"ubh-Bs-qrA.title" = "UUID";
+
+/* Class = "NSMenuItem"; title = "My Formats"; ObjectID = "ug7-nw-wpe"; */
+"ug7-nw-wpe.title" = "マイフォーマット";
+
+/* Class = "NSButtonCell"; title = "Footnote numbering restarts after page breaks"; ObjectID = "ugB-5D-UEO"; */
+"ugB-5D-UEO.title" = "脚注の番号付けは改ページ後に再開します";
+
+/* Class = "NSMenuItem"; title = "Basic"; ObjectID = "ui3-Wv-qeP"; */
+"ui3-Wv-qeP.title" = "基本";
+
+/* Class = "NSMenuItem"; title = "Use Default CSS Stylesheet"; ObjectID = "unO-Li-Rt0"; */
+"unO-Li-Rt0.title" = "デフォルトのCSSスタイルシートを使用";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Rich Text Format with Attachments"; ObjectID = "uzD-QI-Ozr"; */
+"uzD-QI-Ozr.ibShadowedToolTip" = "添付付きのリッチテキスト形式";
+
+/* Class = "NSTextFieldCell"; title = "Enclosing markers for annotations:"; ObjectID = "vPh-wM-EY1"; */
+"vPh-wM-EY1.title" = "注釈にマーカーを追加：";
+
+/* Class = "NSTextFieldCell"; title = "Formats saved into \"My Formats\" are stored in Scrivener's Application Support folder and are available to all projects on this computer. Formats saved into \"Project Formats\" are only available to the current project, but are available even when the project is moved to another computer."; ObjectID = "vPj-2G-T5m"; */
+"vPj-2G-T5m.title" = "\"My Formats\"に保存された形式は、Scrivenerのアプリケーションサポートに形式を保存でき、このコンピューターのすべてのプロジェクトで利用可能です。\"プロジェクトの形式\" に保存された形式は、現在のプロジェクトでのみ利用可能ですが、プロジェクトがほかのコンピューターに移動した際には利用可能です。";
+
+/* Class = "NSTextFieldCell"; title = "External link prefix and suffix:"; ObjectID = "vRD-Xl-Hnz"; */
+"vRD-Xl-Hnz.title" = "外部リンクの接頭辞と接尾辞：";
+
+/* Class = "NSTextFieldCell"; title = "Footnotes become endnotes when compiled to this file format."; ObjectID = "vcF-Sb-Va1"; */
+"vcF-Sb-Va1.title" = "このファイル形式にコンパリルされると、脚注はエンドノートになります。";
+
+/* Class = "NSButtonCell"; title = "Synopsis"; ObjectID = "vdf-Kn-eZh"; */
+"vdf-Kn-eZh.title" = "概要";
+
+/* Class = "NSButtonCell"; title = "ePub 3"; ObjectID = "vjk-sE-WSU"; */
+"vjk-sE-WSU.title" = "ePub 3";
+
+/* Class = "NSMenuItem"; title = "On page 9"; ObjectID = "vjz-Dc-LyV"; */
+"vjz-Dc-LyV.title" = "9ページで";
+
+/* Class = "NSTextFieldCell"; title = "Use <$linkID> to refer to the unique document number."; ObjectID = "vvU-nl-LbH"; */
+"vvU-nl-LbH.title" = "<$linkID>を使用して固有のドキュメント番号を参照します。";
+
+/* Class = "NSButtonCell"; title = "Ignore indents when centering custom separators"; ObjectID = "vxK-km-iFL"; */
+"vxK-km-iFL.title" = "カスタムセパレータを中央揃えする際に、インデントを無視";
+
+/* Class = "NSTabViewItem"; label = "Footnotes & Comments"; ObjectID = "w4V-p5-7CI"; */
+"w4V-p5-7CI.label" = "脚注＆コメント";
+
+/* Class = "NSButtonCell"; title = "Use Pandoc syntax"; ObjectID = "wFs-4v-No7"; */
+"wFs-4v-No7.title" = "Pandoc syntaxを使用";
+
+/* Class = "NSTextFieldCell"; title = "Internal link color:"; ObjectID = "wH4-qt-diC"; */
+"wH4-qt-diC.title" = "内部リンクカラー：";
+
+/* Class = "NSButtonCell"; title = "Convert annotations to HTML-style text"; ObjectID = "wRv-dE-PUI"; */
+"wRv-dE-PUI.title" = "注釈をHTMLスタイルテキストに変換";
+
+/* Class = "NSButtonCell"; title = "Use default Final Draft screenplay elements"; ObjectID = "wWu-Za-w9S"; */
+"wWu-Za-w9S.title" = "デフォルトの最終ドラフト台本要素を使用";
+
+/* Class = "NSButtonCell"; title = "Break dialogue and action at sentences"; ObjectID = "wXT-yz-KWo"; */
+"wXT-yz-KWo.title" = "ダイアログとアクションを文で改行";
+
+/* Class = "NSTextFieldCell"; title = "Section Layouts"; ObjectID = "wan-w5-9yJ"; */
+"wan-w5-9yJ.title" = "セクションレイアウト";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "wfk-Rx-Eev"; */
+"wfk-Rx-Eev.title" = "フォーマット：";
+
+/* Class = "NSMenuItem"; title = "RTF"; ObjectID = "wg0-VP-m6T"; */
+"wg0-VP-m6T.title" = "RTF";
+
+/* Class = "NSMenuItem"; title = "I, II, III..."; ObjectID = "wgh-7A-K0J"; */
+"wgh-7A-K0J.title" = "I, II, III...";
+
+/* Class = "NSTextFieldCell"; title = "This will hide the HTML file containing this section so that it is only accessible via links."; ObjectID = "wkQ-bB-Qdx"; */
+"wkQ-bB-Qdx.title" = "これはこのセクションを含むHTMLファイルを隠します。そのため、リンクからのみアクセスできます。";
+
+/* Class = "NSButtonCell"; title = "Remove from first paragraph"; ObjectID = "wws-ax-J7g"; */
+"wws-ax-J7g.title" = "最初の段落から削除";
+
+/* Class = "NSTabViewItem"; label = "Tables"; ObjectID = "wx0-nH-Y9a"; */
+"wx0-nH-Y9a.label" = "表";
+
+/* Class = "NSTextFieldCell"; title = "Converting file format..."; ObjectID = "x2t-02-e8t"; */
+"x2t-02-e8t.title" = "ファイル形式を変換しています...";
+
+/* Class = "NSTextFieldCell"; title = "Styles defined here can be used in the \"Section Layouts\" settings, and will override styles in the compiled text with the same name and type."; ObjectID = "x36-dg-fdo"; */
+"x36-dg-fdo.title" = "ここで定義されたスタイルは \"セクションレイアウト\"の設定で使用でき、同じ名前でタイプを持つ複雑なテキスト内でスタイルをオーバーライドします。";
+
+/* Class = "NSTextFieldCell"; title = "Endnote format:"; ObjectID = "xA1-Sx-YZY"; */
+"xA1-Sx-YZY.title" = "エンドノート形式：";
+
+/* Class = "NSTableColumn"; headerCell.title = "With"; ObjectID = "xJw-BK-nx1"; */
+"xJw-BK-nx1.headerCell.title" = "共に";
+
+/* Class = "NSMenuItem"; title = "FDX"; ObjectID = "xQB-q3-WDI"; */
+"xQB-q3-WDI.title" = "FDX";
+
+/* Class = "NSSegmentedCell"; xbT-Kn-amZ.ibShadowedLabels[0] = "Formatting"; ObjectID = "xbT-Kn-amZ"; */
+"xbT-Kn-amZ.ibShadowedLabels[0]" = "書式設定";
+
+/* Class = "NSSegmentedCell"; xbT-Kn-amZ.ibShadowedLabels[1] = "Title Options"; ObjectID = "xbT-Kn-amZ"; */
+"xbT-Kn-amZ.ibShadowedLabels[1]" = "タイトルオプション";
+
+/* Class = "NSSegmentedCell"; xbT-Kn-amZ.ibShadowedLabels[2] = "New Pages"; ObjectID = "xbT-Kn-amZ"; */
+"xbT-Kn-amZ.ibShadowedLabels[2]" = "新しいページ";
+
+/* Class = "NSButtonCell"; title = "Color hyperlinks"; ObjectID = "xdH-Yk-J39"; */
+"xdH-Yk-J39.title" = "カラーハイパーリンク";
+
+/* Class = "NSMenuItem"; title = "On page 3"; ObjectID = "xeA-1n-NTW"; */
+"xeA-1n-NTW.title" = "3ページで";
+
+/* Class = "NSMenuItem"; title = "Base text formatting"; ObjectID = "xkW-bF-rea"; */
+"xkW-bF-rea.title" = "ベーステキスト書式設定";
+
+/* Class = "NSButtonCell"; title = "Remove from first paragraph and after empty lines"; ObjectID = "xph-Nr-ubC"; */
+"xph-Nr-ubC.title" = "最初の段落と空欄行から削除";
+
+/* Class = "NSTextFieldCell"; title = "pts"; ObjectID = "xwa-pI-xn5"; */
+"xwa-pI-xn5.title" = "pts(ﾎﾟｲﾝﾄ)";
+
+/* Class = "NSTextFieldCell"; title = "Determines the separating characters inserted before documents that use the same section layout as the preceding document."; ObjectID = "xxw-7k-uPg"; */
+"xxw-7k-uPg.title" = "前のドキュメントと同じセクションレイアウトを使用するドキュメントの前に挿入された分離文字を定義します。";
+
+/* Class = "NSMenuItem"; title = "After front matter"; ObjectID = "y8Y-eC-WV7"; */
+"y8Y-eC-WV7.title" = "前付け後";
+
+/* Class = "NSMenuItem"; title = "Kindle Mobi"; ObjectID = "yHZ-gd-LVe"; */
+"yHZ-gd-LVe.title" = "Kindle Mobi";
+
+/* Class = "NSButtonCell"; title = "Place prefix inside hashes"; ObjectID = "yQ9-T4-ygK"; */
+"yQ9-T4-ygK.title" = "ハッシュの中に接頭辞を配置";
+
+/* Class = "NSTextFieldCell"; title = "Inserted at the bottom of the compiled document:"; ObjectID = "yUA-R5-Khy"; */
+"yUA-R5-Khy.title" = "コンパイルされたドキュメントの下に挿入：";
+
+/* Class = "NSButtonCell"; title = "Page numbers count first page"; ObjectID = "yUw-Jv-pBW"; */
+"yUw-Jv-pBW.title" = "ページ番号は最初のページをカウント";
+
+/* Class = "NSButtonCell"; title = "Synopses"; ObjectID = "yc4-HC-sez"; */
+"yc4-HC-sez.title" = "概要";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new section layout."; ObjectID = "ygN-Ua-zWJ"; */
+"ygN-Ua-zWJ.ibShadowedToolTip" = "新しいセクションレイアウトを追加します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected metadata."; ObjectID = "ygp-su-UsB"; */
+"ygp-su-UsB.ibExternalAccessibilityDescription" = "選択されたメタデータを削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected metadata."; ObjectID = "ygp-su-UsB"; */
+"ygp-su-UsB.ibShadowedToolTip" = "選択されたメタデータを削除します。";
+
+/* Class = "NSTextFieldCell"; title = "Use <$url> to refer to the link."; ObjectID = "ykK-7N-RyJ"; */
+"ykK-7N-RyJ.title" = "<$url>を使用してリンクを参照します。";
+
+/* Class = "NSTextFieldCell"; title = "Number of opening words to make uppercase:"; ObjectID = "yll-MX-26Y"; */
+"yll-MX-26Y.title" = "多数の冒頭文言を大文字にする：";
+
+/* Class = "NSMenuItem"; title = "Single return"; ObjectID = "yne-9E-8Pf"; */
+"yne-9E-8Pf.title" = "1つだけ戻る";
+
+/* Class = "NSButtonCell"; title = "Kindle Mobi"; ObjectID = "yob-Ad-9d9"; */
+"yob-Ad-9d9.title" = "Kindle Mobi";
+
+/* Class = "NSTabViewItem"; label = "MMD Metadata"; ObjectID = "yuA-BI-EGe"; */
+"yuA-BI-EGe.label" = "MMDメタデータ";
+
+/* Class = "NSTextFieldCell"; title = "All preamble material after metadata:"; ObjectID = "z2A-SU-fzk"; */
+"z2A-SU-fzk.title" = "メタデータ後の全ての前文素材：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete selected section layout."; ObjectID = "z8e-gJ-3tM"; */
+"z8e-gJ-3tM.ibShadowedToolTip" = "選択されたセクションレイアウトを削除します";
+
+/* Class = "NSTabViewItem"; label = "RTF"; ObjectID = "zCk-dZ-ykN"; */
+"zCk-dZ-ykN.label" = "RTF";
+
+/* Class = "NSButtonCell"; title = "Reduce marker size"; ObjectID = "zNT-9x-DxW"; */
+"zNT-9x-DxW.title" = "マーカーサイズを抑制";
+
+/* Class = "NSTabViewItem"; label = "XSLT"; ObjectID = "zPr-wY-qfc"; */
+"zPr-wY-qfc.label" = "XSLT";
+
+/* Class = "NSButtonCell"; title = "Group endnotes by section with subheadings"; ObjectID = "ze2-pA-yrq"; */
+"ze2-pA-yrq.title" = "サブ見出しが付いたセクション毎のグループエンドノート";
+
+/* Class = "NSMenuItem"; title = "a verso page"; ObjectID = "zyK-vg-eRq"; */
+"zyK-vg-eRq.title" = "裏ページ";
+
+/* Class = "NSButtonCell"; title = "Delete text of this style"; ObjectID = "3O2-73-x7C"; */
+"3O2-73-x7C.title" = "このスタイルのテキストを削除";
+
+/* Class = "NSTextFieldCell"; title = "Enclosing markers for annotations:"; ObjectID = "8C8-yu-xU5"; */
+"8C8-yu-xU5.title" = "注釈にマーカーを追加：";
+
+/* Class = "NSButtonCell"; title = "Single Paragraphs only"; ObjectID = "8HZ-xt-AHq"; */
+"8HZ-xt-AHq.title" = "単一段落のみ";
+
+/* Class = "NSTextFieldCell"; title = "CSS Class Name:"; ObjectID = "Ab5-L9-Zgn"; */
+"Ab5-L9-Zgn.title" = "CSSクラス名：";
+
+/* Class = "NSTextFieldCell"; title = "Prefix/suffix:"; ObjectID = "HEH-sa-xV1"; */
+"HEH-sa-xV1.title" = "接頭辞/接尾辞：";
+
+/* Class = "NSButtonCell"; title = "Flatten first indent"; ObjectID = "X7S-h1-LaF"; */
+"X7S-h1-LaF.title" = "最初のインデントを平面化";
+
+/* Class = "NSButtonCell"; title = "Place suffix after subdocuments"; ObjectID = "eFg-0s-EKi"; */
+"eFg-0s-EKi.title" = "サブドキュメントの後に接尾辞を配置";
+
+/* Class = "NSTextFieldCell"; title = "Section suffix:"; ObjectID = "gov-2H-q7d"; */
+"gov-2H-q7d.title" = "セクション接尾辞：";
+
+/* Class = "NSButtonCell"; title = "Treat as raw markup"; ObjectID = "jS9-Fg-db5"; */
+"jS9-Fg-db5.title" = "ローマークアップとして処理";
+
+/* Class = "NSButtonCell"; title = "Flatten next indent"; ObjectID = "sov-gj-CVg"; */
+"sov-gj-CVg.title" = "次のインデントを平面化";
+
+/* Class = "NSSegmentedCell"; xbT-Kn-amZ.ibShadowedLabels[5] = "Settings"; ObjectID = "xbT-Kn-amZ"; */
+"xbT-Kn-amZ.ibShadowedLabels[5]" = "設定";
+
+/* Class = "NSTextFieldCell"; title = "Paragraph prefix/suffix:"; ObjectID = "yIx-z8-x6f"; */
+"yIx-z8-x6f.title" = "段落の接頭辞/接尾辞：";
+
+/* Class = "NSButtonCell"; title = "Place prefix after title"; ObjectID = "Jag-HT-PeF"; */
+"Jag-HT-PeF.title" = "タイトルの後にプレフィックス";
+
+/* Class = "NSTextFieldCell"; title = "\"Stitch together adjacent tables\" causes any tables that are separated by only empty lines to be merged into a single table, provided they have the same number of columns. These options are mainly useful for formats which require a single table for the whole document (such as documentary script formats)."; ObjectID = "MPy-zr-eYg"; */
+"MPy-zr-eYg.title" = "\"Stitch together adjacent tables\" causes any tables that are separated by only empty lines to be merged into a single table, provided they have the same number of columns. These options are mainly useful for formats which require a single table for the whole document (such as documentary script formats).";
+
+/* Class = "NSButtonCell"; title = "Remove from all paragraphs following other elements"; ObjectID = "Mz1-YU-BUh"; */
+"Mz1-YU-BUh.title" = "他の要素に続くすべての段落から削除";
+
+/* Class = "NSTabViewItem"; label = "Prefix"; ObjectID = "Oqx-P2-qxq"; */
+"Oqx-P2-qxq.label" = "プレフィックス";
+
+/* Class = "NSTextFieldCell"; title = "Remove first line indents:"; ObjectID = "TdH-B2-yB2"; */
+"TdH-B2-yB2.title" = "最初の行のインデントを削除する";
+
+/* Class = "NSButtonCell"; title = "Footers"; ObjectID = "UyP-Oi-Qbe"; */
+"UyP-Oi-Qbe.title" = "フッター";
+
+/* Class = "NSTextFieldCell"; title = "Draw dividers for:"; ObjectID = "XF7-3v-ZFd"; */
+"XF7-3v-ZFd.title" = "次のものに区切りを入れる";
+
+/* Class = "NSTextFieldCell"; title = "Use <$lnk> for the text to which the comment is applied and <$cmt> for the comment itself. For example:\n\n[<$lnk>]{<$cmt>}\n\nwould become:\n\n...some [commented text.]{A comment.}"; ObjectID = "dfn-lM-fVz"; */
+"dfn-lM-fVz.title" = "コメントを適用するテキストには<$lnk>を使用し、コメント自体には<$cmt>を使用する。例えば:\n\n[<$lnk>]{<$cmt>}\n\nになるであろう:\n\n...いくつかの [コメント付きテキスト.]{コメント.}になります";
+
+/* Class = "NSButtonCell"; title = "Use format for comments:"; ObjectID = "dvc-aK-z4q"; */
+"dvc-aK-z4q.title" = "コメントに使用する書式:";
+
+/* Class = "NSButtonCell"; title = "Use format for comments:"; ObjectID = "gfx-GI-B6t"; */
+"gfx-GI-B6t.title" = "コメントに使用する書式:";
+
+/* Class = "NSTabViewItem"; label = "Suffix"; ObjectID = "q5x-Gn-MLA"; */
+"q5x-Gn-MLA.label" = "サフィックス";
+
+/* Class = "NSButtonCell"; title = "Headers"; ObjectID = "rSY-cq-rgy"; */
+"rSY-cq-rgy.title" = "ヘッダー";
+
+/* Class = "NSSegmentedCell"; xbT-Kn-amZ.ibShadowedLabels[3] = "Prefix"; ObjectID = "xbT-Kn-amZ"; */
+"xbT-Kn-amZ.ibShadowedLabels[3]" = "プレフィックス";
+
+/* Class = "NSSegmentedCell"; xbT-Kn-amZ.ibShadowedLabels[4] = "Suffix"; ObjectID = "xbT-Kn-amZ"; */
+"xbT-Kn-amZ.ibShadowedLabels[4]" = "サフィックス";
+

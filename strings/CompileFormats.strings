@@ -1,0 +1,245 @@
+"Basic MultiMarkdown" = "基本的なMultiMarkdown";
+
+"Heading" = "見出し";
+
+"Text Section with Heading" = "ヘッディング付きのテキストセクション";
+
+"Text Section" = "テキストセクション";
+
+"Addition" = "追加";
+
+"Deletion" = "削除";
+
+"Highlight" = "ハイライト";
+
+"Block Quote" = "引用をブロック";
+
+"Code Block" = "コードブロック";
+
+"Caption" = "キャプション";
+
+"Code Span" = "コードスパン";
+
+"E-book" = "電子書籍";
+
+"Part Number" = "部分番号";
+
+"Part <$t:part>" = "部分<$t:part>";
+
+"part-number" = "part-number";
+
+"Part Title Page" = "部分タイトルページ";
+
+"Part <$t:part>\n\n" = "部分<$t:part>\n\n";
+
+"part-title" = "part-title";
+
+"Chapter Number" = "チャプター番号";
+
+"chapter-heading" = "chapter-heading";
+
+"Chapter Heading" = "チャプター見出し";
+
+"Chapter <$t:chapter><$rst_scene>" = "章<$t:chapter><$rst_scene>";
+
+"chapter-title" = "chapter-title";
+
+"Chapter Title" = "章のタイトル";
+
+"Chapter <$t:chapter><$rst_scene>\n" = "章<$t:chapter><$rst_scene>\n";
+
+"heading" = "見出し";
+
+"Sub-Heading" = "小見出し";
+
+"Numbered Chapter" = "番号付き章";
+
+"chapter" = "章";
+
+"Chapter" = "章";
+
+"titled-chapter" = "titled-chapter";
+
+"Chapter with Title" = "タイトル付き章";
+
+"Section with Title" = "タイトル付きセクション";
+
+"titled-section" = "titled-section";
+
+"Section with Sub-Heading" = "サブ見出し付きセクション";
+
+"Section Text" = "セクションテキスト";
+
+"section" = "セクション";
+
+"Numbered Section" = "番号付きセクション";
+
+"numbered-section" = "numbered-section";
+
+"New Section" = "新しいセクション";
+
+"Attribution" = "属性";
+
+"Body" = "ボディ";
+
+"Title" = "タイトル";
+
+"Heading 1" = "見出し1";
+
+"Heading 2" = "見出し2";
+
+"E-book Screenplay" = "電子書籍スクリーンプレイ";
+
+"Title Page" = "タイトルページ";
+
+"Part Number (Bordered)" = "部分番号（フチ付き）";
+
+"Chapter <$t:chapter>\n" = "章<$t:chapter>\n";
+
+"Chapter Heading (Bordered)" = "章の見出し（フチ付き）";
+
+"Chapter Title (Bordered)" = "章のタイトル（フチ付き）";
+
+"Heading (Bordered)" = "見出し（フチ付き）";
+
+"subheading" = "小見出し";
+
+"Chapter (Bordered Heading)" = "章（フチ付き見出し）";
+
+"Chapter with Title (Bordered)" = "タイトル付き章（フチ付き）";
+
+"Section with Title (Bordered)" = "セクション付き章（フチ付き）";
+
+"sub-headed-section" = "sub-headed-section";
+
+"front-matter" = "前付け";
+
+"Bordered Title" = "フチ付きタイトル";
+
+"Subtitle" = "サブタイトル";
+
+"Section Number" = "セクション番号";
+
+"Page Title" = "ページタイトル";
+
+"Footnotes" = "脚注";
+
+"Enumerated Outline" = "アウトライン一覧";
+
+"Decimal Outline Item" = "箇条書きアウトライン項目";
+
+"Alphanumeric Outline Item (Wide Spacing)" = "英数字アウトラインアイテム（疎植）";
+
+"<$aon>.\t" = "<$aon>.\t";
+
+"Alphanumeric Outline Item" = "英数字アウトライン項目";
+
+"Outline Item" = "アウトライン項目";
+
+"Full Outline" = "完全なアウトライン";
+
+"<$aon>. " = "<$aon>. ";
+
+"Modern" = "近代的";
+
+"Part Number Page" = "部分番号のページ";
+
+"Chapter <$t:chapter>" = "章<$t:chapter>";
+
+"Titled Section" = "タイトル付きセクション";
+
+"New Page" = "新ページ";
+
+"Centered Text" = "テキスト中心寄り";
+
+"Manuscript (Courier)" = "原稿（Courier）";
+
+"Part Title" = "部分タイトル";
+
+"Part <$t:part>: " = "部分<$t:part>: ";
+
+"<$surname> / <$ABBR_PROJECTTITLE> / <$p>" = "<$surname> / <$ABBR_PROJECTTITLE> / <$p>";
+
+"Manuscript (Times)" = "原稿(Times)";
+
+"NaNoWriMo (Obfuscated)" = "NaNoWriMo (Obfuscated)";
+
+"Paperback (5.06\" x 7.81\")" = "Paperback (ペーパーバック)（5.06\" x 7.81\")";
+
+"Part <$t:part>\n" = "部分<$t:part>\n";
+
+"Table of Contents" = "目次";
+
+"Plain Text Manuscript" = "プレーンテキスト原稿";
+
+"----------------------------------------------\n\n\n\n\nPART <$W:part>" = "----------------------------------------------\n\n\n\n\nPART <$W:part>";
+
+"----------------------------------------------\n\n\n\n\nPART <$W:part>: " = "----------------------------------------------\n\n\n\n\nパート <$W:part>: ";
+
+"==============================================\n    CHAPTER <$W:chapter>" = "==============================================\N    章 <$W:chapter>";
+
+"==============================================\n    CHAPTER <$W:chapter>\n        " = "==============================================\N    章 <$W:chapter>\n        ";
+
+"Plain Text Screenplay" = "プレーンテキストスクリーンプレイ";
+
+"Proof Copy" = "校正刷";
+
+"PART <$W:part>" = "部分<$W:part>";
+
+"PART <$W:part>\n" = "部分<$W:part>\n";
+
+"# # Chapter <$W:chapter> # #" = "# # 章<$W:chapter> # #";
+
+"\n(PROOF COPY -- Not for distribution.)" = "\n(校正刷 -- 配布対象外。)";
+
+"Chapter <$W:chapter>\n# # " = "章<$W:chapter>\n# # ";
+
+" # #\n(PROOF COPY -- Not for distribution.)" = " # #\n(校正刷 -- 配布対象外。)";
+
+"Front Matter Page" = "前付けのページ";
+
+"# # END # #" = "# # END # #";
+
+"<$surname> / <$ABBR_PROJECTTITLE>" = "<$surname> / <$ABBR_PROJECTTITLE>";
+
+"PROOF COPY" = "校正刷";
+
+"Not for distribution" = "配布対象外";
+
+"Script or Screenplay" = "スクリプトまたはスクリーンプレイ";
+
+
+"Full Indented Outline" = "インデント付き全アウトライン";
+
+
+"Outline Document" = "文書アウトライン";
+
+
+"PART <$W:part><$rst_arabic_synopsis>" = "第<$W:part><$rst_arabic_synopsis>部";
+
+
+"PART <$W:part><$rst_arabic_synopsis>:" = "第<$W:part><$rst_arabic_synopsis>部";
+
+
+"Chapter <$t:chapter><$rst_arabic_synopsis>" = "第<$t:chapter><$rst_arabic_synopsis>章";
+
+
+"Numbered Synopsis" = "番号付き概要";
+
+
+"Numbered Synopsis (Restarts)" = "番号付き概要(再起動）";
+
+
+"Title and Synopsis" = "タイトルと概要";
+
+
+"Synopsis" = "概要";
+
+
+"The End." = "終了。";
+
+
+"<$ABBR_TITLE> - <$AUTHOR> - <$mediumdate>" = "<$ABBR_TITLE> - <$AUTHOR> - <$mediumdate>";
+
+
+"Page <$p>" = "ページ <$p>";

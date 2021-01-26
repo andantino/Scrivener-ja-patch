@@ -1,0 +1,785 @@
+
+/* Class = "NSMenuItem"; title = "Current Selection"; ObjectID = "030-4J-3Jj"; */
+"030-4J-3Jj.title" = "現在の選択";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Options"; ObjectID = "03l-sC-D6a"; */
+"03l-sC-D6a.ibExternalAccessibilityDescription" = "オプション";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Options."; ObjectID = "03l-sC-D6a"; */
+"03l-sC-D6a.ibShadowedToolTip" = "オプション。";
+
+/* Class = "NSButtonCell"; title = "Treat compile group as complete manuscript"; ObjectID = "075-QU-O0s"; */
+"075-QU-O0s.title" = "コンパイルグループを完全な原稿として扱う";
+
+/* Class = "NSButtonCell"; title = "If no extension is provided, use \".txt\"."; ObjectID = "0IC-ix-L2i"; */
+"0IC-ix-L2i.title" = "拡張子が提供されていない場合は、 \".txt\"を使用してください。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Filter the contents."; ObjectID = "0af-f8-aEG"; */
+"0af-f8-aEG.ibShadowedToolTip" = "内容をフィルタリングする。";
+
+/* Class = "NSButtonCell"; title = "Show PDF log"; ObjectID = "12c-vD-uU4"; */
+"12c-vD-uU4.title" = "PDFログを表示する";
+
+/* Class = "NSButton"; ibShadowedToolTip = "View a preview of how metadata will look when compiled, including any metadata added by the current Compile format."; ObjectID = "1H1-VY-OZE"; */
+"1H1-VY-OZE.ibShadowedToolTip" = "現在のコンパイル形式で追加されたメタデータを含め、コンパイル時のメタデータの表示をプレビューする。";
+
+/* Class = "NSButtonCell"; title = "Convert tables and lists to MultiMarkdown"; ObjectID = "2PV-2w-V16"; */
+"2PV-2w-V16.title" = "テーブルとリストをMultiMarkdownに変換する";
+
+/* Class = "NSTextFieldCell"; title = "Project metadata may be combined with other metadata defined in the Compile format, and with the contents of any \"Metadata\" document found at the start of the draft contents."; ObjectID = "2Ya-Ai-kY8"; */
+"2Ya-Ai-kY8.title" = "プロジェクトのメタデータは、コンパイル形式で定義された他のメタデータおよび\"メタデータ\"の内容と組み合わせることができる。";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "Subject 1, Subject 2"; ObjectID = "35r-Y4-nVm"; */
+"35r-Y4-nVm.placeholderString" = "件名１、件名２";
+
+/* Class = "NSTextFieldCell"; title = "Table of Contents"; ObjectID = "3Rq-y1-Bgp"; */
+"3Rq-y1-Bgp.title" = "目次";
+
+/* Class = "NSMenuItem"; title = "Kindle Mobi eBook (.mobi)"; ObjectID = "4J5-TQ-ns8"; */
+"4J5-TQ-ns8.title" = "Kindle Mobi 電子書籍（.mobi）";
+
+/* Class = "NSTokenField"; ibShadowedToolTip = "Separate keywords with a comma."; ObjectID = "4ZA-T3-e4T"; */
+"4ZA-T3-e4T.ibShadowedToolTip" = "キーワードはコンマで区切る。";
+
+/* Class = "NSTabViewItem"; label = "Cover"; ObjectID = "4vY-Ht-dLn"; */
+"4vY-Ht-dLn.label" = "カバー";
+
+/* Class = "NSTextFieldCell"; title = "Split chapters at level:"; ObjectID = "59p-pD-UCs"; */
+"59p-pD-UCs.title" = "次のレベルで章を分割する：";
+
+/* Class = "NSTextFieldCell"; title = "Subject:"; ObjectID = "5kb-F5-v3s"; */
+"5kb-F5-v3s.title" = "件名：";
+
+/* Class = "NSTextFieldCell"; title = "Publisher:"; ObjectID = "5ks-cq-2I9"; */
+"5ks-cq-2I9.title" = "出版社：";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Delete selected replacements."; ObjectID = "6RO-ke-yWV"; */
+"6RO-ke-yWV.ibExternalAccessibilityDescription" = "選択された置換を削除します。";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "Keyword-1, Keyword-2"; ObjectID = "6UM-UU-Nd8"; */
+"6UM-UU-Nd8.placeholderString" = "キーワード１、キーワード２";
+
+/* Class = "NSButtonCell"; title = "Include document synopses as scene summaries"; ObjectID = "6cR-YK-Ox4"; */
+"6cR-YK-Ox4.title" = "文書の概要をシーンの要約として含める";
+
+/* Class = "NSMenuItem"; title = "Documents in Current Selection"; ObjectID = "6ph-xI-JGp"; */
+"6ph-xI-JGp.title" = "現在選択中の文書";
+
+/* Class = "NSMenuItem"; title = "Delete Format"; ObjectID = "6ub-ae-B6U"; */
+"6ub-ae-B6U.title" = "フォーマットを削除";
+
+/* Class = "NSTextFieldCell"; title = "Language Code:"; ObjectID = "7Pe-zo-7Ei"; */
+"7Pe-zo-7Ei.title" = "言語コード：";
+
+/* Class = "NSTextFieldCell"; title = "Comments:"; ObjectID = "7Y8-nD-RZ8"; */
+"7Y8-nD-RZ8.title" = "コメント：";
+
+/* Class = "NSButtonCell"; title = "Open compiled document in:"; ObjectID = "7jN-jf-93R"; */
+"7jN-jf-93R.title" = "コンパイルされた文書を開く：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Subject 1, Subject 2"; ObjectID = "7o1-zM-nXD"; */
+"7o1-zM-nXD.ibShadowedIsNilPlaceholder" = "件名１、件名２";
+
+/* Class = "NSButtonCell"; title = "Preview"; ObjectID = "83I-2d-yns"; */
+"83I-2d-yns.title" = "プレビュー";
+
+/* Class = "NSMenuItem"; title = "Section Type"; ObjectID = "85C-Fh-qcN"; */
+"85C-Fh-qcN.title" = "セクションタイプ";
+
+/* Class = "NSButtonCell"; title = "Insert unique document identifiers only"; ObjectID = "8O3-cu-BH1"; */
+"8O3-cu-BH1.title" = "一意な文書識別子のみを入れる";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "8ey-ml-EcX"; */
+"8ey-ml-EcX.title" = "選択します...";
+
+/* Class = "NSButtonCell"; title = "Remove comments"; ObjectID = "8tz-mG-699"; */
+"8tz-mG-699.title" = "コメントを削除";
+
+/* Class = "NSTextFieldCell"; title = "Choose KindleGen Path"; ObjectID = "9Ca-CO-iHG"; */
+"9Ca-CO-iHG.title" = "KindleGenのパスを選択";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Metadata"; ObjectID = "9ka-D1-odn"; */
+"9ka-D1-odn.ibExternalAccessibilityDescription" = "メタデータ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Set metadata such as the title and author."; ObjectID = "9ka-D1-odn"; */
+"9ka-D1-odn.ibShadowedToolTip" = "タイトルや著者などのメタデータを設定。";
+
+/* Class = "NSMenuItem"; title = "Fountain Screenplay (.fountain)"; ObjectID = "9vt-y4-muY"; */
+"9vt-y4-muY.title" = "ファウンテン・スクリーンプレイ(.fountain)";
+
+/* Class = "NSMenuItem"; title = "Microsoft Word (.docx)"; ObjectID = "A7h-ds-5M5"; */
+"A7h-ds-5M5.title" = "Microsoft Word (.docx)";
+
+/* Class = "NSMenuItem"; title = "Kindle KF8/Mobi eBook (.mobi)"; ObjectID = "AFs-kl-waH"; */
+"AFs-kl-waH.title" = "Kindle KF8/Mobi 電子書籍（.mobi）";
+
+/* Class = "NSButtonCell"; title = "Remove all hyperlinks"; ObjectID = "AOf-3q-uhY"; */
+"AOf-3q-uhY.title" = "すべてのハイパーリンクを削除";
+
+/* Class = "NSTextFieldCell"; title = "Metadata"; ObjectID = "Ab3-YI-A5i"; */
+"Ab3-YI-A5i.title" = "メタデータ";
+
+/* Class = "NSMenuItem"; title = "Import Formats..."; ObjectID = "Amw-ec-xLS"; */
+"Amw-ec-xLS.title" = "フォーマットをインポート...";
+
+/* Class = "NSTextFieldCell"; title = "Date:"; ObjectID = "Ayg-Tf-80P"; */
+"Ayg-Tf-80P.title" = "日付：";
+
+/* Class = "NSButtonCell"; title = "Convert document links to link back to Scrivener"; ObjectID = "BFb-ek-fUd"; */
+"BFb-ek-fUd.title" = "文書リンクを変換してScrivenerにリンクしなおす";
+
+/* Class = "NSMenuItem"; title = "MultiMarkdown → Rich Text (.rtf)"; ObjectID = "BYU-fc-0q5"; */
+"BYU-fc-0q5.title" = "MultiMarkdown → Rich Text (.rtf)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "First Author; Second Author"; ObjectID = "Bn3-Xy-dW3"; */
+"Bn3-Xy-dW3.ibShadowedIsNilPlaceholder" = "第１著者; 第２著者";
+
+/* Class = "NSTextFieldCell"; title = "Compile for:"; ObjectID = "Bsb-Uc-IqO"; */
+"Bsb-Uc-IqO.title" = "コンパイル対象：";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "Bwz-AO-MIr"; */
+"Bwz-AO-MIr.title" = "チェック";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "CEv-Jx-UVE"; */
+"CEv-Jx-UVE.title" = "続行";
+
+/* Class = "NSTextFieldCell"; title = "Converting file format..."; ObjectID = "CgI-mi-51V"; */
+"CgI-mi-51V.title" = "ファイル形式を変換しています...";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Clf-Ie-Ias"; */
+"Clf-Ie-Ias.headerCell.title" = "名前";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected metadata."; ObjectID = "D7G-WN-qcx"; */
+"D7G-WN-qcx.ibExternalAccessibilityDescription" = "選択されたメタデータを削除します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected metadata."; ObjectID = "D7G-WN-qcx"; */
+"D7G-WN-qcx.ibShadowedToolTip" = "選択されたメタデータを削除します。";
+
+/* Class = "NSButtonCell"; title = "Book begins after front matter"; ObjectID = "D7a-z2-kv8"; */
+"D7a-z2-kv8.title" = "前付けの後に書籍が始まる";
+
+/* Class = "NSTextFieldCell"; title = "Keywords:"; ObjectID = "DN0-Np-t3O"; */
+"DN0-Np-t3O.title" = "キーワード：";
+
+/* Class = "NSTableColumn"; headerCell.title = "With"; ObjectID = "DTQ-hA-NXJ"; */
+"DTQ-hA-NXJ.headerCell.title" = "共に";
+
+/* Class = "NSTextFieldCell"; title = "Authors:"; ObjectID = "DWU-Hf-RgP"; */
+"DWU-Hf-RgP.title" = "著者：";
+
+/* Class = "NSTextFieldCell"; title = "(Refer to the selected cover image using the {$cover_subpath} tag.)"; ObjectID = "Di9-7a-pB2"; */
+"Di9-7a-pB2.title" = "（{$cover_subpath}タグを使用して、選択した表紙イメージを参照。）";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "DrU-Qf-M94"; */
+"DrU-Qf-M94.title" = "タイトル";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "E.g. ISBN"; ObjectID = "DsD-nm-qhB"; */
+"DsD-nm-qhB.ibShadowedIsNilPlaceholder" = "例:ISBN";
+
+/* Class = "NSTextFieldCell"; title = "Cover page title:"; ObjectID = "Dyy-ze-Mh5"; */
+"Dyy-ze-Mh5.title" = "表紙のタイトル：";
+
+/* Class = "NSButtonCell"; title = "Include footnotes as script notes"; ObjectID = "EOm-01-WWj"; */
+"EOm-01-WWj.title" = "脚注をスクリプトノートとして含める";
+
+/* Class = "NSMenuItem"; title = "MultiMarkdown → Flat XML (.fodt)"; ObjectID = "FLR-OB-GY2"; */
+"FLR-OB-GY2.title" = "MultiMarkdown → Flat XML (.fodt)";
+
+/* Class = "NSMenuItem"; title = "Document Group Names"; ObjectID = "FOJ-7S-jyR"; */
+"FOJ-7S-jyR.title" = "文書グループ名";
+
+/* Class = "NSButtonCell"; title = "Overwrite preserves other existing files"; ObjectID = "FZu-Wk-dDU"; */
+"FZu-Wk-dDU.title" = "上書きは他の既存ファイルを保存します";
+
+/* Class = "NSButtonCell"; title = "Use custom book ID:"; ObjectID = "FcJ-kD-1Sh"; */
+"FcJ-kD-1Sh.title" = "カスタムブックIDを使用する：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "GHh-vl-jNe"; */
+"GHh-vl-jNe.headerCell.title" = "キー";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Create a new compile format."; ObjectID = "GfP-2v-8Qa"; */
+"GfP-2v-8Qa.ibShadowedToolTip" = "新しいコンパイル形式を作成する。";
+
+/* Class = "NSButtonCell"; title = "Remove highlighting"; ObjectID = "GtX-mx-E2M"; */
+"GtX-mx-E2M.title" = "ハイライトを削除";
+
+/* Class = "NSMenuItem"; title = "Microsoft Word 97-2004 (.doc)"; ObjectID = "H9a-jy-L0U"; */
+"H9a-jy-L0U.title" = "Microsoft Word 97-2004 (.doc)";
+
+/* Class = "NSWindow"; title = "Error Log"; ObjectID = "Hch-ja-RuU"; */
+"Hch-ja-RuU.title" = "エラーログ";
+
+/* Class = "NSTabViewItem"; label = "ToC"; ObjectID = "He8-qJ-vbN"; */
+"He8-qJ-vbN.label" = "ToC";
+
+/* Class = "NSButtonCell"; title = "Add back matter:"; ObjectID = "Hek-eT-3mF"; */
+"Hek-eT-3mF.title" = "後付けを追加：";
+
+/* Class = "NSButtonCell"; title = "Convert document links to HTML links"; ObjectID = "Hx6-zL-nyW"; */
+"Hx6-zL-nyW.title" = "文章のリンクをHTMLリンクに変換する";
+
+/* Class = "NSMenuItem"; title = "Plain Text (.txt)"; ObjectID = "IUa-Re-feo"; */
+"IUa-Re-feo.title" = "Plain Text (.txt)";
+
+/* Class = "NSTextFieldCell"; title = "To export to the Kindle format, you need to install KindleGen, a free tool from Amazon. To do so, follow the link below and download and install KindleGen to the \"Applications\" folder on your hard drive. Once KindleGen is installed, click on \"Choose...\" to tell Scrivener where it is located."; ObjectID = "Iax-gY-sUi"; */
+"Iax-gY-sUi.title" = "Kindle形式にエクスポートするには、Amazonの無料ツールKindleGenをインストールする必要があります。そのためには下記のリンクをクリックして、KindleGenを、ハードドライブに\"アプリケーション\"フォルダをダウンロード・インストールしてください。KindleGenがインストールされたら、 \"選択...\"をクリックしてScrivenerに場所を教えます。";
+
+/* Class = "NSMenuItem"; title = "Duplicate & Edit Format..."; ObjectID = "IkQ-Vm-vDk"; */
+"IkQ-Vm-vDk.title" = "フォーマットの複製と編集...";
+
+/* Class = "NSTextFieldCell"; title = "Keywords:"; ObjectID = "Jc6-lA-nR8"; */
+"Jc6-lA-nR8.title" = "キーワード：";
+
+/* Class = "NSMenuItem"; title = "Documents in Collection"; ObjectID = "Jg7-gi-DEq"; */
+"Jg7-gi-DEq.title" = "コレクション中の文書";
+
+/* Class = "NSTextFieldCell"; title = "Forename:"; ObjectID = "JgR-Bp-Tfw"; */
+"JgR-Bp-Tfw.title" = "名前：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "KMe-KI-Z5a"; */
+"KMe-KI-Z5a.headerCell.title" = "タイトル";
+
+/* Class = "NSButtonCell"; title = "Treat \"Preserve Formatting\" as raw markup"; ObjectID = "KUr-dh-IKJ"; */
+"KUr-dh-IKJ.title" = "ローマークアップとして\"書式を保存\"処理";
+
+/* Class = "NSTextFieldCell"; title = "Compile:"; ObjectID = "KcU-7t-1zb"; */
+"KcU-7t-1zb.title" = "コンパイル：";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "Subject 1, Subject 2"; ObjectID = "Kcv-vB-0Wa"; */
+"Kcv-vB-0Wa.placeholderString" = "件名１、件名２";
+
+/* Class = "NSTextFieldCell"; title = "Set words and phrases to be replaced during compile."; ObjectID = "Keo-xX-d39"; */
+"Keo-xX-d39.title" = "単語と文章を設定して、コンパイル中に置き換えます。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new replacement."; ObjectID = "Kzq-Lc-Fph"; */
+"Kzq-Lc-Fph.ibExternalAccessibilityDescription" = "新しい置換を追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new replacement."; ObjectID = "Kzq-Lc-Fph"; */
+"Kzq-Lc-Fph.ibShadowedToolTip" = "新しい置換を追加します。";
+
+/* Class = "NSTableColumn"; headerCell.title = "File As"; ObjectID = "LKS-LY-i7c"; */
+"LKS-LY-i7c.headerCell.title" = "ファイル";
+
+/* Class = "NSMenuItem"; title = "Pandoc → ePub (.epub)"; ObjectID = "LXr-Ay-Ul9"; */
+"LXr-Ay-Ul9.title" = "Pandoc → ePub (.epub)";
+
+/* Class = "NSMenuItem"; title = "Included Documents"; ObjectID = "LgD-fp-3if"; */
+"LgD-fp-3if.title" = "含まれる文書";
+
+/* Class = "NSButtonCell"; title = "If no extension is provided, use \".txt\"."; ObjectID = "LqI-Mc-Dur"; */
+"LqI-Mc-Dur.title" = "拡張子が提供されていない場合は、 \".txt\"を使用してください。";
+
+/* Class = "NSMenuItem"; title = "Final Draft (.fdx)"; ObjectID = "LrR-d6-vmq"; */
+"LrR-d6-vmq.title" = "Final Draft (.fdx)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Subject 1, Subject 2"; ObjectID = "LwU-4K-j8E"; */
+"LwU-4K-j8E.ibShadowedIsNilPlaceholder" = "件名１、件名２";
+
+/* Class = "NSButtonCell"; title = "Save source files in a folder with exported Kindle file"; ObjectID = "Lxg-cR-qB6"; */
+"Lxg-cR-qB6.title" = "ソースファイルを、エクスポートされたKindleファイルを含むフォルダに保存する";
+
+/* Class = "NSTokenField"; ibShadowedToolTip = "Separate different author names with a semi-colon."; ObjectID = "M3O-4o-g2t"; */
+"M3O-4o-g2t.ibShadowedToolTip" = "別の著者名をセミコロンで区切る。";
+
+/* Class = "NSTabViewItem"; label = "Replacements"; ObjectID = "MG0-Pf-vlp"; */
+"MG0-Pf-vlp.label" = "置換";
+
+/* Class = "NSTextFieldCell"; title = "Replacements"; ObjectID = "MlG-fU-Dw5"; */
+"MlG-fU-Dw5.title" = "置換";
+
+/* Class = "NSTextFieldCell"; title = "Page Layout Preview"; ObjectID = "MnM-YY-EDk"; */
+"MnM-YY-EDk.title" = "ページレイアウトのプレビュー";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show page layout preview."; ObjectID = "NJi-O5-bYY"; */
+"NJi-O5-bYY.ibShadowedToolTip" = "ページレイアウトのプレビューを表示。";
+
+/* Class = "NSButtonCell"; title = "Insert links back to Scrivener in each section"; ObjectID = "OB6-3o-0UK"; */
+"OB6-3o-0UK.title" = "各セクションでリンクをScrivenerに入れ直す";
+
+/* Class = "NSMenuItem"; title = "OpenOffice (.odt)"; ObjectID = "OHz-75-pRH"; */
+"OHz-75-pRH.title" = "OpenOffice (.odt)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hold Option down to reset settings to the state they were in when the Compile window was opened."; ObjectID = "Ohz-YU-Rnt"; */
+"Ohz-YU-Rnt.ibShadowedToolTip" = "オプションを押し下げ、設定を[コンパイル]画面を開いたときの状態にリセットする。";
+
+/* Class = "NSButtonCell"; title = "Do not show again"; ObjectID = "POI-TZ-79w"; */
+"POI-TZ-79w.title" = "再び表示しない";
+
+/* Class = "NSTableColumn"; headerCell.title = "Section Type"; ObjectID = "PkJ-Sk-ehl"; */
+"PkJ-Sk-ehl.headerCell.title" = "セクションタイプ";
+
+/* Class = "NSButtonCell"; title = "SVG (Advanced)..."; ObjectID = "Pqk-SU-yhq"; */
+"Pqk-SU-yhq.title" = "SVG（上級）...";
+
+/* Class = "NSTextFieldCell"; title = "Table of contents title:"; ObjectID = "PrM-G8-3BU"; */
+"PrM-G8-3BU.title" = "目次タイトル：";
+
+/* Class = "NSButtonCell"; title = "Add HTML cover page"; ObjectID = "QgF-Ke-SVL"; */
+"QgF-Ke-SVL.title" = "HTMLカバーページを追加する";
+
+/* Class = "NSTextFieldCell"; title = "Title Page Metadata"; ObjectID = "Qoa-Rc-jaG"; */
+"Qoa-Rc-jaG.title" = "タイトルページメタデータ";
+
+/* Class = "NSWindow"; title = "Compile Draft"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "下書きをコンパイルする";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "Contributor 1; Contributor 2"; ObjectID = "QwL-Pu-nlR"; */
+"QwL-Pu-nlR.placeholderString" = "第１協力者; 第２協力者";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Documents to Compile"; ObjectID = "Qyv-OE-8aH"; */
+"Qyv-OE-8aH.ibExternalAccessibilityDescription" = "コンパイルする文書";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Choose which documents should be compiled."; ObjectID = "Qyv-OE-8aH"; */
+"Qyv-OE-8aH.ibShadowedToolTip" = "コンパイルする文書を選択。";
+
+/* Class = "NSMenuItem"; title = "Export Format..."; ObjectID = "RUP-g2-8Iv"; */
+"RUP-g2-8Iv.title" = "エクスポート形式...";
+
+/* Class = "NSButtonCell"; title = "Include standard Adobe Digital Editions page template"; ObjectID = "Rqs-mF-hRB"; */
+"Rqs-mF-hRB.title" = "標準のAdobe Digital Editionsページテンプレートを含む";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "S60-TK-mMA"; */
+"S60-TK-mMA.title" = "チェック";
+
+/* Class = "NSButtonCell"; title = "Include comments and annotations as script notes"; ObjectID = "SLp-Um-AQN"; */
+"SLp-Um-AQN.title" = "コメントと注釈をスクリプトノートとして含める";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "SYg-iH-1jx"; */
+"SYg-iH-1jx.headerCell.title" = "キー";
+
+/* Class = "NSTextFieldCell"; title = "Cover Image"; ObjectID = "SuS-jt-0uJ"; */
+"SuS-jt-0uJ.title" = "カバーイメージ";
+
+/* Class = "NSMenuItem"; title = "MultiMarkdown"; ObjectID = "Sxy-VG-rnJ"; */
+"Sxy-VG-rnJ.title" = "MultiMarkdown";
+
+/* Class = "NSMenuItem"; title = "Print"; ObjectID = "TEX-6T-edt"; */
+"TEX-6T-edt.title" = "印刷";
+
+/* Class = "NSButtonCell"; title = "Open compiled document in:"; ObjectID = "TEh-1t-h5e"; */
+"TEh-1t-h5e.title" = "コンパイルされた文書を開く：";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "First Author; Second Author"; ObjectID = "TaB-pS-kc0"; */
+"TaB-pS-kc0.placeholderString" = "第１著者; 第２著者";
+
+/* Class = "NSMenuItem"; title = "Edit Format..."; ObjectID = "Til-hq-ic1"; */
+"Til-hq-ic1.title" = "フォーマットを編集...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hold Option down to save current settings instead of compiling."; ObjectID = "Tt9-39-nn7"; */
+"Tt9-39-nn7.ibShadowedToolTip" = "オプションを押し下げ、コンパイルする代わりに現在の設定を保存する。";
+
+/* Class = "NSButtonCell"; title = "Scale images to fit page width"; ObjectID = "UjK-pl-rza"; */
+"UjK-pl-rza.title" = "画像をページ幅に合わせて拡大/縮小する";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "Uqa-FS-n2E"; */
+"Uqa-FS-n2E.title" = "幅：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "keyword-1, keyword-2"; ObjectID = "VDu-cy-L4I"; */
+"VDu-cy-L4I.ibShadowedIsNilPlaceholder" = "キーワード１、キーワード２";
+
+/* Class = "NSTableColumn"; headerCell.title = "Case-Sensitive"; ObjectID = "VVS-fU-5e2"; */
+"VVS-fU-5e2.headerCell.title" = "大文字と小文字を区別";
+
+/* Class = "NSButtonCell"; title = "Convert linked images to embedded images"; ObjectID = "WRV-3O-N2D"; */
+"WRV-3O-N2D.title" = "リンクされた画像を埋め込み画像に変換する";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add metadata."; ObjectID = "Wf2-kB-NL8"; */
+"Wf2-kB-NL8.ibExternalAccessibilityDescription" = "メタデータを追加。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add metadata."; ObjectID = "Wf2-kB-NL8"; */
+"Wf2-kB-NL8.ibShadowedToolTip" = "メタデータを追加。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add title page metadata."; ObjectID = "WyM-bF-FKI"; */
+"WyM-bF-FKI.ibExternalAccessibilityDescription" = "タイトルページメタデータを追加。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add title page metadata."; ObjectID = "WyM-bF-FKI"; */
+"WyM-bF-FKI.ibShadowedToolTip" = "タイトルページメタデータを追加。";
+
+/* Class = "NSButtonCell"; title = "Use flat table of contents"; ObjectID = "WyM-qj-7eA"; */
+"WyM-qj-7eA.title" = "Flat目次を使用する";
+
+/* Class = "NSTextFieldCell"; title = "When files containing these links or identifiers are re-imported, the links will be converted to internal links that can be used to find and open the original documents in Scrivener. In some programs, you may also be able to click on the link in the exported file to open the associated document in Scrivener."; ObjectID = "Wzw-Bh-laA"; */
+"Wzw-Bh-laA.title" = "これらのリンクまたは識別子を含むファイルを再インポートすると、Scrivenerで元の文書を検索して開くことのできるリンクが内部リンクとして変換されます。一部のプログラムでは、エクスポートされたファイルのリンクをクリックすると、関連する文書をScrivenerで開くこともできます。";
+
+/* Class = "NSTextFieldCell"; title = "Section Layouts"; ObjectID = "Y2N-h8-oqK"; */
+"Y2N-h8-oqK.title" = "セクションレイアウト";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Ygk-dT-2DF"; */
+"Ygk-dT-2DF.title" = "キャンセル";
+
+/* Class = "NSMenuItem"; title = "Export Format..."; ObjectID = "Z0t-pJ-fS7"; */
+"Z0t-pJ-fS7.title" = "エクスポート形式...";
+
+/* Class = "NSMenuItem"; title = "Documents with Status"; ObjectID = "ZU6-O2-u8y"; */
+"ZU6-O2-u8y.title" = "ステータスのある文章";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cover Image"; ObjectID = "a8H-KR-JUI"; */
+"a8H-KR-JUI.ibExternalAccessibilityDescription" = "カバーイメージ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Set up a cover."; ObjectID = "a8H-KR-JUI"; */
+"a8H-KR-JUI.ibShadowedToolTip" = "カバーを設定。";
+
+/* Class = "NSButtonCell"; title = "Remove trailing whitespace from documents"; ObjectID = "aIb-xb-kfe"; */
+"aIb-xb-kfe.title" = "文書から末尾の空白を削除する";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Table of Contents"; ObjectID = "aLP-FW-HLb"; */
+"aLP-FW-HLb.ibExternalAccessibilityDescription" = "目次";
+
+/* Class = "NSButton"; ibShadowedToolTip = "E-book table of contents."; ObjectID = "aLP-FW-HLb"; */
+"aLP-FW-HLb.ibShadowedToolTip" = "電子書籍の目次。";
+
+/* Class = "NSTextFieldCell"; title = "Rights:"; ObjectID = "aVz-Nl-2No"; */
+"aVz-Nl-2No.title" = "利権：";
+
+/* Class = "NSTextFieldCell"; title = "Company:"; ObjectID = "acb-vO-pFq"; */
+"acb-vO-pFq.title" = "会社：";
+
+/* Class = "NSMenuItem"; title = "Web Page (.html)"; ObjectID = "aff-9g-qbo"; */
+"aff-9g-qbo.title" = "Webページ（.html）";
+
+/* Class = "NSTextFieldCell"; title = "Not all text formatting is supported for this file format."; ObjectID = "b6A-Zc-zsn"; */
+"b6A-Zc-zsn.title" = "このファイル形式ですべてのテキスト書式がサポートされているわけではありません。";
+
+/* Class = "NSTextFieldCell"; title = "Compile formats may use the project title and author name settings to populate areas such as headers and footers. You can use them in your own custom Compile formats, or anywhere in your manuscript, by using the following tags:\n\n<$projecttitle>\n<$abbr_title>\n<$fullname>\n<$forename>\n<$surname>"; ObjectID = "bDx-Zw-edi"; */
+"bDx-Zw-edi.title" = "コンパイル形式ではプロジェクトのタイトルと著者名の設定を使用して、ヘッダーやフッターなどの領域を設定できます。それらは、次のタグを使用することで、独自のカスタムコンパイル形式や原稿内で使用できます：\n\n<$projecttitle>\n<$abbr_title>\n<$fullname>\n<$forename>\n<$surname>";
+
+/* Class = "NSTextFieldCell"; placeholderString = "E.g. ISBN"; ObjectID = "bG8-1C-oon"; */
+"bG8-1C-oon.placeholderString" = "例:ISBN";
+
+/* Class = "NSMenuItem"; title = "Include"; ObjectID = "bQb-zd-7Qu"; */
+"bQb-zd-7Qu.title" = "含む";
+
+/* Class = "NSButtonCell"; title = "Delete struck-through text"; ObjectID = "bVT-MY-R2q"; */
+"bVT-MY-R2q.title" = "取り消し線のあるテキストを削除";
+
+/* Class = "NSButtonCell"; title = "Generate HTML table of contents"; ObjectID = "bsj-tZ-sp5"; */
+"bsj-tZ-sp5.title" = "HTML目次を生成する";
+
+/* Class = "NSButtonCell"; title = "Open compiled document in:"; ObjectID = "c31-nF-8pF"; */
+"c31-nF-8pF.title" = "コンパイルされた文書を開く：";
+
+/* Class = "NSButtonCell"; title = "Export inline footnotes as endnotes"; ObjectID = "c3v-6G-GOu"; */
+"c3v-6G-GOu.title" = "インライン脚注を文末脚注としてエクスポートする";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "c4O-FS-P3B"; */
+"c4O-FS-P3B.label" = "オプション";
+
+/* Class = "NSTextFieldCell"; title = "Copyright:"; ObjectID = "cJw-cX-JQb"; */
+"cJw-cX-JQb.title" = "著作権：";
+
+/* Class = "NSButtonCell"; title = "Treat \"Preserve Formatting\" as raw markup"; ObjectID = "cSV-Y4-Qcw"; */
+"cSV-Y4-Qcw.title" = "ローマークアップとして\"書式を保存\"処理";
+
+/* Class = "NSButtonCell"; title = "Save source files in a folder with exported file"; ObjectID = "cbA-ff-QOg"; */
+"cbA-ff-QOg.title" = "ソースファイルを、エクスポートされたファイルを含むフォルダに保存する";
+
+/* Class = "NSButtonCell"; title = "Overwrite preserves other existing files"; ObjectID = "ciu-hj-liK"; */
+"ciu-hj-liK.title" = "上書きは他の既存ファイルを保存します";
+
+/* Class = "NSMenuItem"; title = "Delete Format"; ObjectID = "cjC-dj-dLP"; */
+"cjC-dj-dLP.title" = "フォーマットを削除";
+
+/* Class = "NSTokenField"; ibShadowedToolTip = "Separate different contributor names with a semi-colon."; ObjectID = "cqK-Pb-L9q"; */
+"cqK-Pb-L9q.ibShadowedToolTip" = "別の協力者名をセミコロンで区切る。";
+
+/* Class = "NSMenuItem"; title = "New Format..."; ObjectID = "cvs-Ws-mK6"; */
+"cvs-Ws-mK6.title" = "新しいフォーマット...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "d15-ka-Tec"; */
+"d15-ka-Tec.title" = "キャンセル";
+
+/* Class = "NSTabViewItem"; label = "Contents"; ObjectID = "dE3-gx-90C"; */
+"dE3-gx-90C.label" = "コンテンツ";
+
+/* Class = "NSButtonCell"; title = "Use pop-up footnotes (not supported by all readers)"; ObjectID = "dSa-pv-MW6"; */
+"dSa-pv-MW6.title" = "ポップアップ脚注を使用する（すべてのリーダーがサポートしているとは限らない）";
+
+/* Class = "NSMenuItem"; title = "Determined by Format"; ObjectID = "dZI-nE-sS9"; */
+"dZI-nE-sS9.title" = "フォーマットによって決定される";
+
+/* Class = "NSTextFieldCell"; title = "Formats"; ObjectID = "dxM-Cu-Qkf"; */
+"dxM-Cu-Qkf.title" = "フォーマット";
+
+/* Class = "NSButtonCell"; title = "Include document titles as scene titles"; ObjectID = "e0w-l8-KfV"; */
+"e0w-l8-KfV.title" = "文書のタイトルをシーンタイトルとして含める";
+
+/* Class = "NSTextFieldCell"; title = "Compile:"; ObjectID = "e4o-sH-IBb"; */
+"e4o-sH-IBb.title" = "コンパイル：";
+
+/* Class = "NSButtonCell"; title = "Remove annotations"; ObjectID = "eLl-jR-l9T"; */
+"eLl-jR-l9T.title" = "注釈を削除";
+
+/* Class = "NSButtonCell"; title = "Bold top-level items"; ObjectID = "eNN-gj-Wrz"; */
+"eNN-gj-Wrz.title" = "トップレベルのアイテムを太字にする";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "YYYY / YYYY-MM / YYYY-MM-DD"; ObjectID = "ed2-dZ-qCV"; */
+"ed2-dZ-qCV.ibShadowedIsNilPlaceholder" = "YYYY / YYYY-MM / YYYY-MM-DD";
+
+/* Class = "NSMenuItem"; title = "Documents with Label"; ObjectID = "end-K4-ADO"; */
+"end-K4-ADO.title" = "ラベル付き文書";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove selected title page metadata."; ObjectID = "evw-bB-2KQ"; */
+"evw-bB-2KQ.ibExternalAccessibilityDescription" = "タイトルページメタデータを削除。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove selected title page metadata."; ObjectID = "evw-bB-2KQ"; */
+"evw-bB-2KQ.ibShadowedToolTip" = "タイトルページメタデータを削除。";
+
+/* Class = "NSTextFieldCell"; title = "Scrivener uses the basic system-provided macOS exporters for Word and .odt formats. These exporters strip indents, tabs, line spacing, images, footnotes and comments. If you are exporting for use with Microsoft Word or OpenOffice, it is strongly recommended that you choose the RTF file format instead, which will retain all formatting and is fully supported by all versions of Word and OpenOffice."; ObjectID = "ewG-GA-gJB"; */
+"ewG-GA-gJB.title" = "Scrivenerは、Wordや.odt形式のための基本的なmacOSシステム提供エクスポータを使用する。これらのエクスポータは、インデント、タブ、行間、画像、脚注およびコメントを取り除きます。Microsoft WordまたはOpenOfficeで使用するためにエクスポートするなら、RTFファイル形式を選択することを強く推奨します。この形式はすべての書式を保持し、WordおよびOpenOfficeのすべてのバージョンで完全にサポートされています。";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "f3Q-7N-D6A"; */
+"f3Q-7N-D6A.title" = "OK";
+
+/* Class = "NSMenuItem"; title = "Exclude"; ObjectID = "f5M-fI-9l7"; */
+"f5M-fI-9l7.title" = "除外";
+
+/* Class = "NSTextFieldCell"; title = "SVG viewBox Dimensions"; ObjectID = "fQd-gE-E6S"; */
+"fQd-gE-E6S.title" = "SVG viewBoxの寸法";
+
+/* Class = "NSTextFieldCell"; title = "There was an error parsing the generated MultiMarkdown output. The file could not be created. Please check the standard error output below."; ObjectID = "fYV-8q-Bbv"; */
+"fYV-8q-Bbv.title" = "生成されたMultiMarkdown出力を解析中にエラーが発生しました。ファイルを作成できませんでした。下記の標準エラー出力を確認してください。";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "fdJ-Ru-oFE"; */
+"fdJ-Ru-oFE.title" = "チェック";
+
+/* Class = "NSMenuItem"; title = "Edit Format..."; ObjectID = "gBD-sN-5ww"; */
+"gBD-sN-5ww.title" = "フォーマットを編集...";
+
+/* Class = "NSTableColumn"; headerCell.title = "Role"; ObjectID = "gH5-1h-Kbr"; */
+"gH5-1h-Kbr.headerCell.title" = "役割";
+
+/* Class = "NSMenuItem"; title = "No Cover Image"; ObjectID = "gYJ-rN-BVe"; */
+"gYJ-rN-BVe.title" = "カバーイメージなし";
+
+/* Class = "NSButtonCell"; title = "Add front matter:"; ObjectID = "gmg-oR-Ego"; */
+"gmg-oR-Ego.title" = "前付けを追加：";
+
+/* Class = "NSMenuItem"; title = "Include in Compile"; ObjectID = "gun-dl-fe3"; */
+"gun-dl-fe3.title" = "コンパイルに含める";
+
+/* Class = "NSButtonCell"; title = "Export inspector footnotes as endnotes"; ObjectID = "hYv-pd-a5Y"; */
+"hYv-pd-a5Y.title" = "インスペクタ脚注を文末脚注としてエクスポートする";
+
+/* Class = "NSButtonCell"; title = "Include subdocuments"; ObjectID = "hgh-sh-IcF"; */
+"hgh-sh-IcF.title" = "サブ文書を含む";
+
+/* Class = "NSTokenField"; ibShadowedToolTip = "Separate keywords with a comma."; ObjectID = "hhX-B6-Whw"; */
+"hhX-B6-Whw.ibShadowedToolTip" = "キーワードはコンマで区切る。";
+
+/* Class = "NSTextFieldCell"; title = "SVG Code"; ObjectID = "hqj-eM-sgn"; */
+"hqj-eM-sgn.title" = "SVGコード";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Contributor 1; Contributor 2"; ObjectID = "iE7-B4-V1T"; */
+"iE7-B4-V1T.ibShadowedIsNilPlaceholder" = "第１協力者; 第２協力者";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "iTz-JX-4zs"; */
+"iTz-JX-4zs.title" = "全て";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Lock back matter settings to current file format."; ObjectID = "iX3-6Q-ujE"; */
+"iX3-6Q-ujE.ibShadowedToolTip" = "後付け設定を現在のファイル形式に固定する。";
+
+/* Class = "NSTextFieldCell"; title = "(Cover images must be part of the project.)"; ObjectID = "iX6-6h-0Xi"; */
+"iX6-6h-0Xi.title" = "（カバーイメージはプロジェクトの一部でなければならない。）";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "iYw-pK-rrO"; */
+"iYw-pK-rrO.title" = "高さ：";
+
+/* Class = "NSTextFieldCell"; title = "Subject:"; ObjectID = "iql-Fa-Eab"; */
+"iql-Fa-Eab.title" = "件名：";
+
+/* Class = "NSMenuItem"; title = "Import Scrivener 2 Preset..."; ObjectID = "itq-Rb-Uuf"; */
+"itq-Rb-Uuf.title" = "Scrivener2プリセットをインポートしています...";
+
+/* Class = "NSMenuItem"; title = "Excluded Documents"; ObjectID = "ivg-D1-jQE"; */
+"ivg-D1-jQE.title" = "除外された文書";
+
+/* Class = "NSMenuItem"; title = "MultiMarkdown → PDF"; ObjectID = "jBd-WA-EcI"; */
+"jBd-WA-EcI.title" = "MultiMarkdown → PDF";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "jJi-lu-8Z7"; */
+"jJi-lu-8Z7.title" = "説明：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Replace"; ObjectID = "jTB-mJ-a8r"; */
+"jTB-mJ-a8r.headerCell.title" = "置換";
+
+/* Class = "NSTextFieldCell"; placeholderString = "YYYY / YYYY-MM / YYYY-MM-DD"; ObjectID = "jqc-3A-PU5"; */
+"jqc-3A-PU5.placeholderString" = "YYYY / YYYY-MM / YYYY-MM-DD";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "keyword-1, keyword-2"; ObjectID = "kBF-LU-JEn"; */
+"kBF-LU-JEn.placeholderString" = "キーワード１、キーワード２";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "Subject 1, Subject 2"; ObjectID = "kXz-CX-vhr"; */
+"kXz-CX-vhr.placeholderString" = "件名１、件名２";
+
+/* Class = "NSButtonCell"; title = "Save KindleGen log file with exported Kindle file"; ObjectID = "km5-xN-vDY"; */
+"km5-xN-vDY.title" = "KindleGenログファイルをエクスポートしたKindleファイルと保存する";
+
+/* Class = "NSButtonCell"; title = "Compile"; ObjectID = "l5p-H9-wgG"; */
+"l5p-H9-wgG.title" = "コンパイル";
+
+/* Class = "NSMenuItem"; title = "Import Formats..."; ObjectID = "l9w-xR-Mcx"; */
+"l9w-xR-Mcx.title" = "フォーマットをインポート...";
+
+/* Class = "NSButtonCell"; title = "Include document titles as section headers"; ObjectID = "lAW-ff-qa9"; */
+"lAW-ff-qa9.title" = "文書のタイトルをセクションヘッダーとして含める";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Lock front matter settings to current file format."; ObjectID = "lif-gC-ZA5"; */
+"lif-gC-ZA5.ibShadowedToolTip" = "前付け設定を現在のファイル形式に固定する。";
+
+/* Class = "NSTabViewItem"; label = "Metadata"; ObjectID = "lxj-ES-qg5"; */
+"lxj-ES-qg5.label" = "メタデータ";
+
+/* Class = "NSTextFieldCell"; title = "Base header level:"; ObjectID = "mEJ-kV-mHL"; */
+"mEJ-kV-mHL.title" = "ベースヘッダーレベル：";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "mHr-uR-3aw"; */
+"mHr-uR-3aw.title" = "チェック";
+
+/* Class = "NSMenuItem"; title = "MultiMarkdown → Web Page (.html)"; ObjectID = "mhi-m8-Nfp"; */
+"mhi-m8-Nfp.title" = "MultiMarkdown → Web Page (.html)";
+
+/* Class = "NSMenuItem"; title = "Pandoc → DocBook"; ObjectID = "myL-up-Opc"; */
+"myL-up-Opc.title" = "Pandoc → DocBook";
+
+/* Class = "NSTextFieldCell"; title = "Error Parsing MultiMarkdown File"; ObjectID = "n8E-Mr-VQP"; */
+"n8E-Mr-VQP.title" = "MultiMarkdownファイルの解析エラー";
+
+/* Class = "NSButtonCell"; title = "Apply filter:"; ObjectID = "nEZ-0e-ht5"; */
+"nEZ-0e-ht5.title" = "フィルタを適用する：";
+
+/* Class = "NSButtonCell"; title = "Center body text of HTML table of contents"; ObjectID = "nOv-gH-R0v"; */
+"nOv-gH-R0v.title" = "HTML目次の中心文書";
+
+/* Class = "NSButtonCell"; title = "Open compiled document in:"; ObjectID = "nV5-OH-XWy"; */
+"nV5-OH-XWy.title" = "コンパイルされた文書を開く：";
+
+/* Class = "NSButtonCell"; title = "Save source files in a folder with exported ePub file"; ObjectID = "nXc-X9-p5A"; */
+"nXc-X9-p5A.title" = "ソースファイルを、エクスポートされたePubファイルを含むフォルダに保存する";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Subject 1, Subject 2"; ObjectID = "nfX-n6-hVB"; */
+"nfX-n6-hVB.ibShadowedIsNilPlaceholder" = "件名１、件名２";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "ngR-9v-oTW"; */
+"ngR-9v-oTW.title" = "フォント：";
+
+/* Class = "NSMenuItem"; title = "Rich Text with Attachments (.rtfd)"; ObjectID = "nlb-7m-bGX"; */
+"nlb-7m-bGX.title" = "添付付きのリッチテキスト (.rtfd)";
+
+/* Class = "NSTextFieldCell"; title = "If the title entered here matches the title of one of the compiled documents, the document will be used as the contents page. (This way, you can create custom contents pages using document links.) If the entered title does not match any documents, a contents page will be automatically generated with this title at the top and containing an entry for every document that is separated by a page break."; ObjectID = "nzE-ur-Lo3"; */
+"nzE-ur-Lo3.title" = "ここに入力されたタイトルがコンパイルされた文書のタイトルと一致する場合、その文書はコンテンツページとして使用される。（こうして、文書のリンクを使用してカスタムコンテンツページを作成することができる。）入力されたタイトルがどの文書とも一致しない場合は、このタイトルを上部に表示したコンテンツページが自動的に生成され、これには改ページで区切られたすべての文書へのエントリが含まれる。";
+
+/* Class = "NSTextFieldCell"; title = "Surname:"; ObjectID = "o4A-43-AL1"; */
+"o4A-43-AL1.title" = "苗字：";
+
+/* Class = "NSMenuItem"; title = "Pandoc → Microsoft Word (.docx)"; ObjectID = "oJS-CC-OVe"; */
+"oJS-CC-OVe.title" = "Pandoc → Microsoft Word (.docx)";
+
+/* Class = "NSButtonCell"; title = "First document is title page"; ObjectID = "pIx-OY-j16"; */
+"pIx-OY-j16.title" = "最初の文書はタイトルページです";
+
+/* Class = "NSMenuItem"; title = "MultiMarkdown → LaTeX (.tex)"; ObjectID = "pKo-RM-8IJ"; */
+"pKo-RM-8IJ.title" = "MultiMarkdown → LaTeX (.tex)";
+
+/* Class = "NSTextFieldCell"; title = "Contributors:"; ObjectID = "pYQ-DR-dtr"; */
+"pYQ-DR-dtr.title" = "協力者：";
+
+/* Class = "NSMenuItem"; title = "Duplicate & Edit Format..."; ObjectID = "q36-c1-WqX"; */
+"q36-c1-WqX.title" = "フォーマットの複製と編集...";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Keyword-1, Keyword-2"; ObjectID = "qKg-jt-SG0"; */
+"qKg-jt-SG0.ibShadowedIsNilPlaceholder" = "キーワード１、キーワード２";
+
+/* Class = "NSTextFieldCell"; title = "SVG (Scalable Vector Graphics) XML can optionally be used for more professional-looking covers. Leave these fields blank if you just want to use an image for the cover or are unfamiliar with SVG."; ObjectID = "qli-Aj-CNV"; */
+"qli-Aj-CNV.title" = "SVG（スケーラブル・ベクター・グラフィックス）XMLは、よりプロフェッショナルなカバーのために使用できます。カバーに画像を使用したい場合、またはSVGに慣れていない場合は、これらのフィールドを空白のままにしておく。";
+
+/* Class = "NSButtonCell"; title = "Convert Markdown to rich text in titles and synopses"; ObjectID = "rLQ-Ez-PtS"; */
+"rLQ-Ez-PtS.title" = "タイトルと概要ではMarkdownをリッチテキストに変換する";
+
+/* Class = "NSButtonCell"; title = "Include text of containing group"; ObjectID = "rif-n5-ZcI"; */
+"rif-n5-ZcI.title" = "含まれるグループのテキストを含める";
+
+/* Class = "NSButtonCell"; title = "Convert MultiMarkdown to rich text in notes and text"; ObjectID = "s96-kr-MKn"; */
+"s96-kr-MKn.title" = "メモやテキストではMultiMarkdownをリッチテキストに変換する";
+
+/* Class = "NSWindow"; title = "MultiMarkdown Export Error"; ObjectID = "srl-PZ-mBe"; */
+"srl-PZ-mBe.title" = "MultiMarkdownエクスポートエラー";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Replacements"; ObjectID = "srz-Zx-A4l"; */
+"srz-Zx-A4l.ibExternalAccessibilityDescription" = "置換";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace text during compilation."; ObjectID = "srz-Zx-A4l"; */
+"srz-Zx-A4l.ibShadowedToolTip" = "コンパイル中にテキストを置き換える。";
+
+/* Class = "NSMenuItem"; title = "New Format..."; ObjectID = "suA-d4-o1X"; */
+"suA-d4-o1X.title" = "新しいフォーマット...";
+
+/* Class = "NSTextFieldCell"; title = "Abbreviated Title:"; ObjectID = "tZ7-tJ-Du5"; */
+"tZ7-tJ-Du5.title" = "短縮されたタイトル：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Whole Word"; ObjectID = "taj-lq-hbr"; */
+"taj-lq-hbr.headerCell.title" = "全単語";
+
+/* Class = "NSMenuItem"; title = "Rich Text (.rtf)"; ObjectID = "tau-Te-on3"; */
+"tau-Te-on3.title" = "Rich Text (.rtf)";
+
+/* Class = "NSTextFieldCell"; title = "Subjects:"; ObjectID = "tkb-Wx-vfU"; */
+"tkb-Wx-vfU.title" = "件名：";
+
+/* Class = "NSButtonCell"; title = "Section headers use binder indenting levels"; ObjectID = "u5u-6Q-3lw"; */
+"u5u-6Q-3lw.title" = "セクションヘッダーはバインダーインデントレベルを使用する";
+
+/* Class = "NSButtonCell"; title = "Author and Contributor Details..."; ObjectID = "ufp-T3-rxb"; */
+"ufp-T3-rxb.title" = "著者と協力者の詳細...";
+
+/* Class = "NSButtonCell"; title = "Convert rich text to MultiMarkdown"; ObjectID = "uy2-pN-Spa"; */
+"uy2-pN-Spa.title" = "リッチテキストをMultiMarkdownに変換する";
+
+/* Class = "NSButtonCell"; title = "Assign Section Layouts..."; ObjectID = "vVT-Ru-htu"; */
+"vVT-Ru-htu.title" = "セクションレイアウトを割り当てています...";
+
+/* Class = "NSWindow"; title = "Formatting Warning"; ObjectID = "vbp-jh-XHi"; */
+"vbp-jh-XHi.title" = "フォーマット警告";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "vld-lc-lXC"; */
+"vld-lc-lXC.title" = "チェック";
+
+/* Class = "NSTableColumn"; headerCell.title = "RegEx"; ObjectID = "vtT-93-mve"; */
+"vtT-93-mve.headerCell.title" = "RegEx";
+
+/* Class = "NSMenuItem"; title = "PDF"; ObjectID = "wHA-hU-t3I"; */
+"wHA-hU-t3I.title" = "PDF";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "wPY-C7-3fx"; */
+"wPY-C7-3fx.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "ePub 3 eBook (.epub)"; ObjectID = "wsD-m0-Cqw"; */
+"wsD-m0-Cqw.title" = "ePub 3 eBook (.epub)";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "x4S-X7-TG6"; */
+"x4S-X7-TG6.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "First Image in Front Matter Folder"; ObjectID = "x9K-Kz-4lV"; */
+"x9K-Kz-4lV.title" = "前付けフォルダの最初の画像";
+
+/* Class = "NSButtonCell"; title = "Downsize and resample images to visible size"; ObjectID = "xKu-fb-CbS"; */
+"xKu-fb-CbS.title" = "画像をダウンサイズや再サンプリングし見やすいサイズにする";
+
+/* Class = "NSButtonCell"; title = "Remove text color"; ObjectID = "yOD-fS-6Za"; */
+"yOD-fS-6Za.title" = "テキストの色を削除する";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Manage the compile formats."; ObjectID = "zOU-Rd-tom"; */
+"zOU-Rd-tom.ibShadowedToolTip" = "コンパイル形式を管理する。";
+
+/* Class = "NSMenuItem"; title = "ePub 2 eBook (.epub)"; ObjectID = "zho-vx-ntv"; */
+"zho-vx-ntv.title" = "ePub 2 eBook (.epub)";
+
+/* Class = "NSButtonCell"; title = "Remove footnotes"; ObjectID = "g90-Mo-dIx"; */
+"g90-Mo-dIx.title" = "脚注を削除";
+
+
+
+
+/* Class = "NSButtonCell"; title = "Reset KindleGen location"; ObjectID = "Vez-Wm-bFn"; */
+"Vez-Wm-bFn.title" = "KindleGenの現在位置リセット";
+
+

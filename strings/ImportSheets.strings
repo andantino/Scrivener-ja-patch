@@ -1,0 +1,142 @@
+
+/* Class = "NSWindow"; title = "Web Page Import"; ObjectID = "39"; */
+"39.title" = "ウェブページをインポート";
+
+/* Class = "NSWindow"; title = "Import"; ObjectID = "64"; */
+"64.title" = "インポート";
+
+/* Class = "NSWindow"; title = "Downloading..."; ObjectID = "218"; */
+"218.title" = "ダウンロードしています...";
+
+/* Class = "NSTextFieldCell"; title = "http://"; ObjectID = "314"; */
+"314.title" = "http://";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "315"; */
+"315.title" = "アドレス：";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "316"; */
+"316.title" = "タイトル";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "318"; */
+"318.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "319"; */
+"319.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Importing 0 of 0"; ObjectID = "322"; */
+"322.title" = "0/0インポートしています";
+
+/* Class = "NSTextFieldCell"; title = "File title"; ObjectID = "323"; */
+"323.title" = "ファイルタイトル";
+
+/* Class = "NSTextFieldCell"; title = "Sections are separated by:"; ObjectID = "331"; */
+"331.title" = "セクション分離要因：";
+
+/* Class = "NSTabViewItem"; label = "Text (Generic)"; ObjectID = "343"; */
+"343.label" = "テキスト（ジェネリック）";
+
+/* Class = "NSTabViewItem"; label = "Script"; ObjectID = "345"; */
+"345.label" = "スクリプト";
+
+/* Class = "NSMenuItem"; title = "Scene Heading"; ObjectID = "351"; */
+"351.title" = "シーンヘッディング";
+
+/* Class = "NSMenuItem"; title = "Cast list"; ObjectID = "352"; */
+"352.title" = "キャストリスト";
+
+/* Class = "NSMenuItem"; title = "Act"; ObjectID = "353"; */
+"353.title" = "演技";
+
+/* Class = "NSMenuItem"; title = "Action"; ObjectID = "354"; */
+"354.title" = "アクション";
+
+/* Class = "NSMenuItem"; title = "Character"; ObjectID = "355"; */
+"355.title" = "文字";
+
+/* Class = "NSMenuItem"; title = "Parenthetical"; ObjectID = "356"; */
+"356.title" = "角括弧";
+
+/* Class = "NSMenuItem"; title = "Dialogue"; ObjectID = "357"; */
+"357.title" = "ダイアログ";
+
+/* Class = "NSMenuItem"; title = "Transition"; ObjectID = "358"; */
+"358.title" = "移行";
+
+/* Class = "NSMenuItem"; title = "General"; ObjectID = "359"; */
+"359.title" = "General";
+
+/* Class = "NSTextFieldCell"; title = "Final Draft separator element:"; ObjectID = "360"; */
+"360.title" = "最終ドラフトセパレータ要素：";
+
+/* Class = "NSButtonCell"; title = "Split into scenes"; ObjectID = "366"; */
+"366.title" = "シーンに分割";
+
+/* Class = "NSTabViewItem"; label = "Fountain"; ObjectID = "375"; */
+"375.label" = "Fountain";
+
+/* Class = "NSTextFieldCell"; title = "Fountain files will be split into scenes."; ObjectID = "378"; */
+"378.title" = "ファウンテンファイルはシーンに分けられます。";
+
+/* Class = "NSButtonCell"; title = "Split into sections by finding separators in the text"; ObjectID = "2Po-g5-6Ur"; */
+"2Po-g5-6Ur.title" = "テキスト内でセパレータを見つけてセクションに分離";
+
+/* Class = "NSButtonCell"; title = "Import and Merge"; ObjectID = "2dj-WX-GwP"; */
+"2dj-WX-GwP.title" = "インポートおよび合体";
+
+/* Class = "NSTabViewItem"; label = "OPML"; ObjectID = "3Bg-NM-5SB"; */
+"3Bg-NM-5SB.label" = "OPML";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "49v-fU-g7w"; */
+"49v-fU-g7w.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "OPML files will be split by outline structure."; ObjectID = "4cg-41-dd0"; */
+"4cg-41-dd0.title" = "OPMLファイルはアウトライン構造によって分けられます。";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "5Vi-Td-hql"; */
+"5Vi-Td-hql.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Split and structure using Markdown headings in the text"; ObjectID = "6Xo-7K-d6R"; */
+"6Xo-7K-d6R.title" = "テキストのMarkdownヘッディングを使って分離・構造化";
+
+/* Class = "NSTextFieldCell"; title = "Import and merge project?"; ObjectID = "Aj6-6k-Iy7"; */
+"Aj6-6k-Iy7.title" = "プロジェクトをインポートおよび合体しますか？";
+
+/* Class = "NSButtonCell"; title = "Remove first lines of text when splitting by outline"; ObjectID = "BTn-X2-dcY"; */
+"BTn-X2-dcY.title" = "アウトライン毎に分ける際にテキストの最初の行を削除";
+
+/* Class = "NSButtonCell"; title = "Split using the document's outline structure"; ObjectID = "GFI-GK-Oiz"; */
+"GFI-GK-Oiz.title" = "ドキュメントのアウトライン構造を使って分割";
+
+/* Class = "NSTextFieldCell"; title = "Sections are separated by:"; ObjectID = "GPu-AM-fyB"; */
+"GPu-AM-fyB.title" = "セクション分離要因：";
+
+/* Class = "NSButtonCell"; title = "Import Only"; ObjectID = "Gv0-JQ-6aw"; */
+"Gv0-JQ-6aw.title" = "インポートのみ";
+
+/* Class = "NSTabViewItem"; label = "Rich Text"; ObjectID = "VzZ-tp-9jc"; */
+"VzZ-tp-9jc.label" = "Rich Text";
+
+/* Class = "NSTabViewItem"; label = "Plain Text"; ObjectID = "YMW-Yx-NTO"; */
+"YMW-Yx-NTO.label" = "プレーンテキスト";
+
+/* Class = "NSButtonCell"; title = "Back up project before merging"; ObjectID = "Zm5-NO-EdF"; */
+"Zm5-NO-EdF.title" = "合体前にプロジェクトをバックアップ";
+
+/* Class = "NSButtonCell"; title = "Split into sections by finding separators in the text"; ObjectID = "a27-UG-rjz"; */
+"a27-UG-rjz.title" = "テキスト内でセパレータを見つけてセクションに分離";
+
+/* Class = "NSTextFieldCell"; title = "The document will be split by finding separators in the text."; ObjectID = "bBE-6w-3ZS"; */
+"bBE-6w-3ZS.title" = "ドキュメントはテキスト内にセパレータを見つけて分離されます。";
+
+/* Class = "NSWindow"; title = "Import and Merge"; ObjectID = "dD4-4t-8yJ"; */
+"dD4-4t-8yJ.title" = "インポートおよび合体";
+
+/* Class = "NSTextFieldCell"; title = "Sections are separated by:"; ObjectID = "dI5-LT-qW1"; */
+"dI5-LT-qW1.title" = "セクション分離要因：";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "lOY-PE-VvX"; */
+"lOY-PE-VvX.title" = "Radio";
+
+
+/* Class = "NSTextFieldCell"; title = "\"${PROJECT_NAME}\" seems to be a different version of the existing project${EDITOR}. Would you like to merge its contents with the current project, or simply import its contents as new documents?"; ObjectID = "SQG-8v-dHt"; */
+"SQG-8v-dHt.title" = "\"${PROJECT_NAME}\"は既存のプロジェクト${EDITOR}でもバージョンが異なるようです。コンテンツを現在のプロジェクトと統合しますか、それとも新しい文書としてコンテンツをただインポートしますか?";

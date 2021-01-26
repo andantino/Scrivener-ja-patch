@@ -1,0 +1,788 @@
+
+/* Class = "NSTabViewItem"; label = "Text"; ObjectID = "21"; */
+"21.label" = "テキスト";
+
+/* Class = "NSTabViewItem"; label = "Message"; ObjectID = "23"; */
+"23.label" = "Message";
+
+/* Class = "NSTabViewItem"; label = "Loading"; ObjectID = "25"; */
+"25.label" = "ロードしています";
+
+/* Class = "NSTabViewItem"; label = "Image"; ObjectID = "27"; */
+"27.label" = "画像";
+
+/* Class = "NSTabViewItem"; label = "PDF"; ObjectID = "29"; */
+"29.label" = "PDF";
+
+/* Class = "NSTabViewItem"; label = "QuickTime"; ObjectID = "31"; */
+"31.label" = "QuickTime";
+
+/* Class = "NSTabViewItem"; label = "Web"; ObjectID = "33"; */
+"33.label" = "Web";
+
+/* Class = "NSTabViewItem"; label = "Outliner"; ObjectID = "35"; */
+"35.label" = "アウトライナー";
+
+/* Class = "NSTabViewItem"; label = "Corkboard"; ObjectID = "37"; */
+"37.label" = "コルクボード";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title and Synopsis"; ObjectID = "59"; */
+"59.headerCell.title" = "タイトルと概要";
+
+/* Class = "NSTableColumn"; headerCell.title = "Label"; ObjectID = "61"; */
+"61.headerCell.title" = "ラベル";
+
+/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "62"; */
+"62.headerCell.title" = "ステータス";
+
+/* Class = "NSTableColumn"; headerCell.title = "Created Date"; ObjectID = "63"; */
+"63.headerCell.title" = "作成日";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Choose columns."; ObjectID = "75"; */
+"75.ibExternalAccessibilityDescription" = "列を選択します。";
+
+/* Class = "NSMenu"; title = "OutlinerCornerViewMenu"; ObjectID = "76"; */
+"76.title" = "OutlinerCornerViewMenu";
+
+/* Class = "NSMenuItem"; title = "Created Date"; ObjectID = "83"; */
+"83.title" = "作成日";
+
+/* Class = "NSMenuItem"; title = "Label"; ObjectID = "84"; */
+"84.title" = "ラベル";
+
+/* Class = "NSMenuItem"; title = "Title"; ObjectID = "85"; */
+"85.title" = "タイトル";
+
+/* Class = "NSMenuItem"; title = "Status"; ObjectID = "87"; */
+"87.title" = "ステータス";
+
+/* Class = "NSMenuItem"; title = "Reveal in Binder"; ObjectID = "103"; */
+"103.title" = "バインダーで表示";
+
+/* Class = "NSMenuItem"; title = "Take Snapshot"; ObjectID = "104"; */
+"104.title" = "スナップショットを撮る";
+
+/* Class = "NSMenuItem"; title = "Go To Document"; ObjectID = "108"; */
+"108.title" = "ドキュメントに移動";
+
+/* Class = "NSMenu"; title = "Go To Document"; ObjectID = "109"; */
+"109.title" = "ドキュメントに移動";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "110"; */
+"110.title" = "メニューのクリア";
+
+/* Class = "NSTabViewItem"; label = "Text"; ObjectID = "122"; */
+"122.label" = "テキスト";
+
+/* Class = "NSTabViewItem"; label = "OutlineAndCorkboard"; ObjectID = "124"; */
+"124.label" = "OutlineAndCorkboard";
+
+/* Class = "NSTabViewItem"; label = "Web"; ObjectID = "126"; */
+"126.label" = "Web";
+
+/* Class = "NSTabViewItem"; label = "PDF"; ObjectID = "128"; */
+"128.label" = "PDF";
+
+/* Class = "NSTabViewItem"; label = "Other"; ObjectID = "130"; */
+"130.label" = "その他";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new document."; ObjectID = "134"; */
+"134.ibExternalAccessibilityDescription" = "新しいドキュメントを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Create new document."; ObjectID = "134"; */
+"134.ibShadowedToolTip" = "新しいドキュメントを作成します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add new folder document."; ObjectID = "135"; */
+"135.ibExternalAccessibilityDescription" = "新しいフォルダを追加します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Create new folder document."; ObjectID = "135"; */
+"135.ibShadowedToolTip" = "新しいフォルダを作成します。";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Show contextual menu."; ObjectID = "136"; */
+"136.ibExternalAccessibilityDescription" = "文脈メニューを表示します。";
+
+/* Class = "NSMenu"; title = "OVandCBActionMenu"; ObjectID = "137"; */
+"137.title" = "OVandCBActionMenu";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Change text scale."; ObjectID = "224"; */
+"224.ibExternalAccessibilityDescription" = "テキストスケールを変更します。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Change the text scale."; ObjectID = "224"; */
+"224.ibShadowedToolTip" = "テキストスケールを変更します。";
+
+/* Class = "NSMenu"; title = "ZoomPercentageMenu"; ObjectID = "225"; */
+"225.title" = "ZoomPercentageMenu";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Go to previous page."; ObjectID = "242"; */
+"242.ibExternalAccessibilityDescription" = "前のページに移動します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Go to previous page."; ObjectID = "242"; */
+"242.ibShadowedToolTip" = "前のページに移動します。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Go to next page."; ObjectID = "243"; */
+"243.ibExternalAccessibilityDescription" = "次のページに移動。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Go to next page."; ObjectID = "243"; */
+"243.ibShadowedToolTip" = "次のページに移動。";
+
+/* Class = "NSMenuItem"; title = "Include In Export"; ObjectID = "294"; */
+"294.title" = "エクスポートに含める";
+
+/* Class = "NSMenuItem"; title = "Page Break Before"; ObjectID = "295"; */
+"295.title" = "前に改ページ";
+
+/* Class = "NSTableColumn"; headerCell.title = "Include In Compile"; ObjectID = "298"; */
+"298.headerCell.title" = "コンパイルに含める";
+
+/* Class = "NSTableColumn"; headerCell.title = "Words"; ObjectID = "319"; */
+"319.headerCell.title" = "複数単語";
+
+/* Class = "NSTableColumn"; headerCell.title = "Characters"; ObjectID = "320"; */
+"320.headerCell.title" = "文字";
+
+/* Class = "NSMenuItem"; title = "Word Count"; ObjectID = "321"; */
+"321.title" = "単語数";
+
+/* Class = "NSMenuItem"; title = "Character Count"; ObjectID = "322"; */
+"322.title" = "文字数";
+
+/* Class = "NSMenuItem"; title = "Lock in Place"; ObjectID = "329"; */
+"329.title" = "定位置にロック";
+
+/* Class = "NSMenuItem"; title = "Match Split Documents"; ObjectID = "331"; */
+"331.title" = "スプリットドキュメントをマッチ";
+
+/* Class = "NSTabViewItem"; label = "View"; ObjectID = "370"; */
+"370.label" = "表示";
+
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "372"; */
+"372.label" = "Tab";
+
+/* Class = "NSMenu"; title = "ScriptElementsMenu"; ObjectID = "378"; */
+"378.title" = "ScriptElementsMenu";
+
+/* Class = "NSMenuItem"; title = "Scene Heading"; ObjectID = "379"; */
+"379.title" = "シーンヘッディング";
+
+/* Class = "NSMenuItem"; title = "Character"; ObjectID = "381"; */
+"381.title" = "文字";
+
+/* Class = "NSMenuItem"; title = "Parenthetical"; ObjectID = "382"; */
+"382.title" = "角括弧";
+
+/* Class = "NSMenuItem"; title = "Dialogue"; ObjectID = "384"; */
+"384.title" = "ダイアログ";
+
+/* Class = "NSMenuItem"; title = "Transiton"; ObjectID = "387"; */
+"387.title" = "移行";
+
+/* Class = "NSMenuItem"; title = "Action"; ObjectID = "388"; */
+"388.title" = "アクション";
+
+/* Class = "NSMenuItem"; title = "Shot"; ObjectID = "389"; */
+"389.title" = "ショット";
+
+/* Class = "NSMenuItem"; title = "General Text"; ObjectID = "390"; */
+"390.title" = "一般テキスト";
+
+/* Class = "NSMenuItem"; title = "General Text (Centered)"; ObjectID = "391"; */
+"391.title" = "一般テキスト（中央揃え）";
+
+/* Class = "NSTabViewItem"; label = "QT"; ObjectID = "404"; */
+"404.label" = "QT";
+
+/* Class = "NSTableColumn"; headerCell.title = "Modified Date"; ObjectID = "441"; */
+"441.headerCell.title" = "変更日";
+
+/* Class = "NSMenuItem"; title = "Modified Date"; ObjectID = "443"; */
+"443.title" = "変更日";
+
+/* Class = "NSMenuItem"; title = "Add"; ObjectID = "448"; */
+"448.title" = "追加";
+
+/* Class = "NSMenu"; title = "Add"; ObjectID = "449"; */
+"449.title" = "追加";
+
+/* Class = "NSMenuItem"; title = "New Text"; ObjectID = "450"; */
+"450.title" = "新しい文書";
+
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "451"; */
+"451.title" = "新規フォルダ";
+
+/* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "452"; */
+"452.title" = "ゴミ箱に入れる";
+
+/* Class = "NSMenuItem"; title = "Status"; ObjectID = "454"; */
+"454.title" = "ステータス";
+
+/* Class = "NSMenu"; title = "Status"; ObjectID = "455"; */
+"455.title" = "ステータス";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "456"; */
+"456.title" = "メニューのクリア";
+
+/* Class = "NSMenuItem"; title = "Reveal in Binder"; ObjectID = "470"; */
+"470.title" = "バインダーで表示";
+
+/* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "473"; */
+"473.title" = "グループを解除";
+
+/* Class = "NSMenuItem"; title = "Convert to File/Folder"; ObjectID = "474"; */
+"474.title" = "ファイル/フォルダに変換";
+
+/* Class = "NSMenuItem"; title = "Label"; ObjectID = "486"; */
+"486.title" = "ラベル";
+
+/* Class = "NSMenu"; title = "Label"; ObjectID = "487"; */
+"487.title" = "ラベル";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "488"; */
+"488.title" = "メニューのクリア";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "503"; */
+"503.title" = "編集しています...";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "505"; */
+"505.title" = "編集しています...";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Toggle whether selections in the outliner or corkboard should be automatically opened in the other editor."; ObjectID = "508"; */
+"508.ibExternalAccessibilityDescription" = "アウトライナーまたはコルクボードの選択を他のエディタで自動的に開くかどうかを切り替えます。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Automatically open selection in other editor or Copyholder (second click)."; ObjectID = "508"; */
+"508.ibShadowedToolTip" = "別のエディターまたはコピーホルダーで自動的に選択を開きます（2回目のクリック）。";
+
+/* Class = "NSMenuItem"; title = "Compile As-Is"; ObjectID = "514"; */
+"514.title" = "現状のままコンパイル";
+
+/* Class = "NSTextFieldCell"; title = "Thursday, 1 April 1976 21:00:00 British Summer Time"; ObjectID = "100063"; */
+"100063.title" = "木曜日、1976年4月1日 21:00:00 イギリス夏時間";
+
+/* Class = "NSTextFieldCell"; title = "Thursday, 1 April 1976 21:00:00 British Summer Time"; ObjectID = "100441"; */
+"100441.title" = "木曜日、1976年4月1日 21:00:00 イギリス夏時間";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Set the document word or character count target."; ObjectID = "100531"; */
+"100531.ibExternalAccessibilityDescription" = "ドキュメント単語巣または文字数の目標を設定します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Set the document word or character count target."; ObjectID = "100531"; */
+"100531.ibShadowedToolTip" = "ドキュメント単語巣または文字数の目標を設定します。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Target"; ObjectID = "300552"; */
+"300552.headerCell.title" = "目標";
+
+/* Class = "NSTableColumn"; headerCell.title = "Progress"; ObjectID = "300553"; */
+"300553.headerCell.title" = "進捗";
+
+/* Class = "NSMenuItem"; title = "Target"; ObjectID = "300560"; */
+"300560.title" = "目標";
+
+/* Class = "NSMenuItem"; title = "Progress"; ObjectID = "300561"; */
+"300561.title" = "進捗";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "300566"; */
+"300566.title" = "複製";
+
+/* Class = "NSTableColumn"; headerCell.title = "Target Type"; ObjectID = "500544"; */
+"500544.headerCell.title" = "目標タイプ";
+
+/* Class = "NSMenuItem"; title = "Target Type"; ObjectID = "500545"; */
+"500545.title" = "目標タイプ";
+
+/* Class = "NSMenuItem"; title = "Word & Char Count"; ObjectID = "500579"; */
+"500579.title" = "単語数＆文字数";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Reload file."; ObjectID = "500650"; */
+"500650.ibExternalAccessibilityDescription" = "ファイルをリロードします。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reload file."; ObjectID = "500650"; */
+"500650.ibShadowedToolTip" = "ファイルをリロードします。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Open in external editor (click and hold to choose)."; ObjectID = "500651"; */
+"500651.ibExternalAccessibilityDescription" = "外部エディタで開きます（クリック＆ホールドして選択）。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open in external editor (click and hold to choose)."; ObjectID = "500651"; */
+"500651.ibShadowedToolTip" = "外部エディタで開きます（クリック＆ホールドして選択）。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Open in external editor (click and hold to choose)."; ObjectID = "500656"; */
+"500656.ibExternalAccessibilityDescription" = "外部エディタで開きます（クリック＆ホールドして選択）。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open in external editor (click and hold to choose)."; ObjectID = "500656"; */
+"500656.ibShadowedToolTip" = "外部エディタで開きます（クリック＆ホールドして選択）。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Reload file."; ObjectID = "500657"; */
+"500657.ibExternalAccessibilityDescription" = "ファイルをリロードします。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reload file."; ObjectID = "500657"; */
+"500657.ibShadowedToolTip" = "ファイルをリロードします。";
+
+/* Class = "NSTabViewItem"; label = "Link"; ObjectID = "500711"; */
+"500711.label" = "リンク";
+
+/* Class = "NSTableColumn"; headerCell.title = "Total Words"; ObjectID = "500831"; */
+"500831.headerCell.title" = "総単語数";
+
+/* Class = "NSTableColumn"; headerCell.title = "Total Characters"; ObjectID = "500833"; */
+"500833.headerCell.title" = "総文字数";
+
+/* Class = "NSMenuItem"; title = "Total Word Count"; ObjectID = "500837"; */
+"500837.title" = "総単語数";
+
+/* Class = "NSMenuItem"; title = "Total Character Count"; ObjectID = "500838"; */
+"500838.title" = "総文字数";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Show corkboard options."; ObjectID = "500986"; */
+"500986.ibExternalAccessibilityDescription" = "コルクボードオプションを表示します。";
+
+/* Class = "NSView"; ibShadowedToolTip = "Corkboard options."; ObjectID = "500986"; */
+"500986.ibShadowedToolTip" = "コルクボードの設定。";
+
+/* Class = "NSMenu"; title = "CorkboardOptionsCardsAcrossMenu"; ObjectID = "501066"; */
+"501066.title" = "CorkboardOptionsCardsAcrossMenu";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "501067"; */
+"501067.title" = "自動";
+
+/* Class = "NSTextFieldCell"; title = "[Tab] Scene Heading, [Enter] Action"; ObjectID = "501098"; */
+"501098.title" = "[タブ]シーン見出し、[エンター]アクション";
+
+/* Class = "NSTextFieldCell"; title = "Words: 0    Chars: 0"; ObjectID = "501099"; */
+"501099.title" = "複数単語：0    文字：0";
+
+/* Class = "NSTextFieldCell"; title = "0 items"; ObjectID = "501104"; */
+"501104.title" = "0項目";
+
+/* Class = "NSTextFieldCell"; title = "0 pages"; ObjectID = "501108"; */
+"501108.title" = "0ページ";
+
+/* Class = "NSButtonCell"; title = "Open PDF"; ObjectID = "501110"; */
+"501110.title" = "PDFを開く";
+
+/* Class = "NSButtonCell"; title = "Size to fit editor"; ObjectID = "501120"; */
+"501120.title" = "サイズをエディタにフィットさせる";
+
+/* Class = "NSTextFieldCell"; title = "Card size:"; ObjectID = "501123"; */
+"501123.title" = "カードサイズ：";
+
+/* Class = "NSTextFieldCell"; title = "Spacing:"; ObjectID = "501124"; */
+"501124.title" = "スペース：";
+
+/* Class = "NSTextFieldCell"; title = "Cards across:"; ObjectID = "501125"; */
+"501125.title" = "カードアクロス：";
+
+/* Class = "NSTextFieldCell"; title = "Ratio:"; ObjectID = "501284"; */
+"501284.title" = "率：";
+
+/* Class = "NSMenu"; title = "CorkboardOptionsKeywordsMenu"; ObjectID = "501288"; */
+"501288.title" = "CorkboardOptionsKeywordsMenu";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "501290"; */
+"501290.title" = "全て";
+
+/* Class = "NSTextFieldCell"; title = "Keyword chips:"; ObjectID = "501299"; */
+"501299.title" = "キーワードチップ：";
+
+/* Class = "NSTextFieldCell"; title = "0.5x5"; ObjectID = "501305"; */
+"501305.title" = "0.5x5";
+
+/* Class = "NSTextFieldCell"; title = "Commit Freeform Corkboard Order"; ObjectID = "501325"; */
+"501325.title" = "フリーフォームコルクボードの順番を反映";
+
+/* Class = "NSTableColumn"; headerCell.title = "Start At:"; ObjectID = "501331"; */
+"501331.headerCell.title" = "開始：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Order From:"; ObjectID = "501341"; */
+"501341.headerCell.title" = "注文元：";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "501344"; */
+"501344.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "501346"; */
+"501346.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "In freeform corkboard mode, the index cards do not represent the order of the associated documents as they appear in the binder. \"Committing\" the order will rearrange these documents in the binder to best match the order on the freeform corkboard depending on the ordering options selected below."; ObjectID = "501348"; */
+"501348.title" = "フリーフォームコルクボードモードでは、インテックスカードはバインダーに表示されるような関連ドキュメント順を表しません。順番を\"コミット\"すると、バインダ内のこれらのドキュメントが再アレンジされ、下記で選択された順序オプションに応じて自由形式のコルクボードの順序を最適にマッチさせます。";
+
+/* Class = "NSMenuItem"; title = "Other..."; ObjectID = "501358"; */
+"501358.title" = "その他...";
+
+/* Class = "NSTabViewItem"; label = "Corkboard"; ObjectID = "501363"; */
+"501363.label" = "コルクボード";
+
+/* Class = "NSTabViewItem"; label = "Outliner"; ObjectID = "501365"; */
+"501365.label" = "アウトライナー";
+
+/* Class = "NSMenuItem"; title = "Other..."; ObjectID = "501380"; */
+"501380.title" = "その他...";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Open in Quick Look."; ObjectID = "501414"; */
+"501414.ibExternalAccessibilityDescription" = "クイックルックで開きます。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open in Quick Look."; ObjectID = "501414"; */
+"501414.ibShadowedToolTip" = "クイックルックで開きます。";
+
+/* Class = "NSTabViewItem"; label = "Normal"; ObjectID = "501462"; */
+"501462.label" = "Normal";
+
+/* Class = "NSTabViewItem"; label = "Multiple"; ObjectID = "501463"; */
+"501463.label" = "複数";
+
+/* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "Switch between wrapping cards and arranging them in rows or columns."; ObjectID = "501465"; */
+"501465.ibExternalAccessibilityDescription" = "ラッピングカード間を切り替え、行または列で整理します。";
+
+/* Class = "NSSegmentedCell"; 501466.ibShadowedToolTips[0] = "Wrap cards."; ObjectID = "501466"; */
+"501466.ibShadowedToolTips[0]" = "カードを包みます。";
+
+/* Class = "NSSegmentedCell"; 501466.ibShadowedToolTips[1] = "Arrange cards in rows."; ObjectID = "501466"; */
+"501466.ibShadowedToolTips[1]" = "行にカードを整理します。";
+
+/* Class = "NSSegmentedCell"; 501466.ibShadowedToolTips[2] = "Arrange cards in columns."; ObjectID = "501466"; */
+"501466.ibShadowedToolTips[2]" = "列にカードを整理します。";
+
+/* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "Switch between regular and freeform corkboard modes."; ObjectID = "501468"; */
+"501468.ibExternalAccessibilityDescription" = "通常およびフリーフォームコルクボードモード間で切り替えます。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reorder the documents in the binder to match the order in the corkboard based on corner position."; ObjectID = "501469"; */
+"501469.ibShadowedToolTip" = "バインダー内のドキュメントの順序を変え、コーナー位置を基にしたコルクボードの順にマッチさせます。";
+
+/* Class = "NSButtonCell"; title = "Commit"; ObjectID = "501470"; */
+"501470.title" = "反映";
+
+/* Class = "NSSegmentedCell"; 501471.ibShadowedToolTips[0] = "Keep cards arranged in binder order on a grid."; ObjectID = "501471"; */
+"501471.ibShadowedToolTips[0]" = "グリッドでバインダー順にカードを整理します。";
+
+/* Class = "NSSegmentedCell"; 501471.ibShadowedToolTips[1] = "Freeform corkboard."; ObjectID = "501471"; */
+"501471.ibShadowedToolTips[1]" = "フリーフォームコルクボード。";
+
+/* Class = "NSMenuItem"; title = "and Synopsis"; ObjectID = "501481"; */
+"501481.title" = "および概要";
+
+/* Class = "NSTableColumn"; headerCell.title = "Keywords"; ObjectID = "501484"; */
+"501484.headerCell.title" = "キーワード";
+
+/* Class = "NSMenuItem"; title = "Keywords"; ObjectID = "501486"; */
+"501486.title" = "キーワード";
+
+/* Class = "NSMenuItem"; title = "Path"; ObjectID = "501487"; */
+"501487.title" = "パス";
+
+/* Class = "NSMenu"; title = "Path"; ObjectID = "501488"; */
+"501488.title" = "パス";
+
+/* Class = "NSMenuItem"; title = "Move To"; ObjectID = "501500"; */
+"501500.title" = "移動";
+
+/* Class = "NSMenu"; title = "Move To"; ObjectID = "501501"; */
+"501501.title" = "移動";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "501506"; */
+"501506.title" = "開く";
+
+/* Class = "NSMenu"; title = "Open"; ObjectID = "501507"; */
+"501507.title" = "開く";
+
+/* Class = "NSMenuItem"; title = "inEditor"; ObjectID = "501508"; */
+"501508.title" = "inEditor";
+
+/* Class = "NSMenuItem"; title = "in Other Editor"; ObjectID = "501509"; */
+"501509.title" = "その他のエディタ";
+
+/* Class = "NSMenuItem"; title = "Change Icon"; ObjectID = "501527"; */
+"501527.title" = "アイコンを変更";
+
+/* Class = "NSMenu"; title = "Change Icon"; ObjectID = "501528"; */
+"501528.title" = "アイコンを変更";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Scroll to previous page."; ObjectID = "501538"; */
+"501538.ibExternalAccessibilityDescription" = "前のページにスクロール";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Scroll back a page."; ObjectID = "501538"; */
+"501538.ibShadowedToolTip" = "ページをスクロールして戻ります。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Scroll to next page."; ObjectID = "501539"; */
+"501539.ibExternalAccessibilityDescription" = "次のページにスクロールします。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Scroll forward a page."; ObjectID = "501539"; */
+"501539.ibShadowedToolTip" = "ページをスクロールして進みます。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Reload file."; ObjectID = "501551"; */
+"501551.ibExternalAccessibilityDescription" = "ファイルをリロードします。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reload file."; ObjectID = "501551"; */
+"501551.ibShadowedToolTip" = "ファイルをリロードします。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Open in external editor (click and hold to choose)."; ObjectID = "501552"; */
+"501552.ibExternalAccessibilityDescription" = "外部エディタで開きます（クリック＆ホールドして選択）。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open in external editor (click and hold to choose)."; ObjectID = "501552"; */
+"501552.ibShadowedToolTip" = "外部エディタで開きます（クリック＆ホールドして選択）。";
+
+/* Class = "NSButtonCell"; title = "Open PDF"; ObjectID = "501553"; */
+"501553.title" = "PDFを開く";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Reload file."; ObjectID = "501566"; */
+"501566.ibExternalAccessibilityDescription" = "ファイルをリロードします。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reload file."; ObjectID = "501566"; */
+"501566.ibShadowedToolTip" = "ファイルをリロードします。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Open in external editor (click and hold to choose)."; ObjectID = "501567"; */
+"501567.ibExternalAccessibilityDescription" = "外部エディタで開きます（クリック＆ホールドして選択）。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open in external editor (click and hold to choose)."; ObjectID = "501567"; */
+"501567.ibShadowedToolTip" = "外部エディタで開きます（クリック＆ホールドして選択）。";
+
+/* Class = "NSButtonCell"; title = "Open PDF"; ObjectID = "501568"; */
+"501568.title" = "PDFを開く";
+
+/* Class = "NSMenuItem"; title = "and Synopsis"; ObjectID = "501574"; */
+"501574.title" = "および概要";
+
+/* Class = "NSTableColumn"; headerCell.title = "Total Target"; ObjectID = "501577"; */
+"501577.headerCell.title" = "総目標";
+
+/* Class = "NSTableColumn"; headerCell.title = "Total Progress"; ObjectID = "501579"; */
+"501579.headerCell.title" = "総進捗";
+
+/* Class = "NSMenuItem"; title = "Lock Group View Mode"; ObjectID = "501663"; */
+"501663.title" = "グループビューモードをロック";
+
+/* Class = "NSMenuItem"; title = "as Quick Reference"; ObjectID = "501665"; */
+"501665.title" = "クイックリファレンスとして";
+
+/* Class = "NSMenu"; title = "Section Type"; ObjectID = "0U7-7a-OuZ"; */
+"0U7-7a-OuZ.title" = "セクションタイプ";
+
+/* Class = "NSMenuItem"; title = "Items with Status"; ObjectID = "0gb-T6-6f1"; */
+"0gb-T6-6f1.title" = "ステータスが付いた項目";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Filter options."; ObjectID = "1mC-0Q-kuP"; */
+"1mC-0Q-kuP.ibExternalAccessibilityDescription" = "フィルタオプション。";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Additional filter options."; ObjectID = "1mC-0Q-kuP"; */
+"1mC-0Q-kuP.ibExternalAccessibilityHelp" = "追加のフィルタオプション。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show more filter options"; ObjectID = "1mC-0Q-kuP"; */
+"1mC-0Q-kuP.ibShadowedToolTip" = "さらにフィルタオプションを表示";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "2JE-wu-LRj"; */
+"2JE-wu-LRj.title" = "編集しています...";
+
+/* Class = "NSMenuItem"; title = "Items with Section Type"; ObjectID = "2KK-5w-xq0"; */
+"2KK-5w-xq0.title" = "セクションタイプのあるアイテム";
+
+/* Class = "NSMenu"; title = "View Snapshot in Other Editor"; ObjectID = "2d1-Rt-cU9"; */
+"2d1-Rt-cU9.title" = "別のエディタでスナップショットを表示";
+
+/* Class = "NSMenuItem"; title = "Section Type"; ObjectID = "5Ay-EW-AXb"; */
+"5Ay-EW-AXb.title" = "セクションタイプ";
+
+/* Class = "NSMenuItem"; title = "Lock Inspector to Editor"; ObjectID = "61r-tS-6w2"; */
+"61r-tS-6w2.title" = "インスペクタをエディタにロック";
+
+/* Class = "NSTabViewItem"; label = "By Label"; ObjectID = "62J-CD-QjX"; */
+"62J-CD-QjX.label" = "ラベルごと";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Open project bookmarks in a Quick Reference panel."; ObjectID = "7HF-uJ-SYk"; */
+"7HF-uJ-SYk.ibExternalAccessibilityDescription" = "クイックリファレンスパネルでプロジェクトブックマークを開きます。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open document in a Quick Reference panel and close Copyholder pane."; ObjectID = "7HF-uJ-SYk"; */
+"7HF-uJ-SYk.ibShadowedToolTip" = "クイックリファレンスパネルでドキュメントを開き、コピーホルダーペインで閉じます。";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "8JV-Aj-JS5"; */
+"8JV-Aj-JS5.title" = "どれか";
+
+/* Class = "NSMenuItem"; title = "Include Text and Notes in Search"; ObjectID = "8R0-Dy-nh1"; */
+"8R0-Dy-nh1.title" = "検索にテキストと注釈を含める";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8vi-se-ezx"; */
+"8vi-se-ezx.title" = "キャンセル";
+
+/* Class = "NSMenu"; title = "Go To Collection"; ObjectID = "9JY-bH-HCl"; */
+"9JY-bH-HCl.title" = "コレクションに移動";
+
+/* Class = "NSMenuItem"; title = "Exclude"; ObjectID = "CKm-vu-FzW"; */
+"CKm-vu-FzW.title" = "除外";
+
+/* Class = "NSWindow"; title = "Zoom"; ObjectID = "EPo-ey-QTk"; */
+"EPo-ey-QTk.title" = "拡大/縮小";
+
+/* Class = "NSSegmentedCell"; EzU-B4-o0L.ibShadowedToolTips[0] = "Display in rows."; ObjectID = "EzU-B4-o0L"; */
+"EzU-B4-o0L.ibShadowedToolTips[0]" = "行に表示します。";
+
+/* Class = "NSSegmentedCell"; EzU-B4-o0L.ibShadowedToolTips[1] = "Display in columns."; ObjectID = "EzU-B4-o0L"; */
+"EzU-B4-o0L.ibShadowedToolTips[1]" = "列に表示します。";
+
+/* Class = "NSMenuItem"; title = "Non-Draft Items Only"; ObjectID = "HWZ-pR-XWY"; */
+"HWZ-pR-XWY.title" = "非ドラフト項目のみ";
+
+/* Class = "NSMenuItem"; title = "Reveal in Collection"; ObjectID = "Huk-Sp-nSB"; */
+"Huk-Sp-nSB.title" = "コレクションに表示";
+
+/* Class = "NSMenuItem"; title = "No Snapshots"; ObjectID = "IqJ-PN-7V5"; */
+"IqJ-PN-7V5.title" = "スナップショットがありませｎ";
+
+/* Class = "NSMenu"; title = "Reveal in Collection"; ObjectID = "J1Z-go-o87"; */
+"J1Z-go-o87.title" = "コレクションに表示";
+
+/* Class = "NSTextFieldCell"; title = "Zoom to:"; ObjectID = "KNK-bl-M2g"; */
+"KNK-bl-M2g.title" = "ズーム先：";
+
+/* Class = "NSMenuItem"; title = "Excluded"; ObjectID = "Kfw-g4-Lvw"; */
+"Kfw-g4-Lvw.title" = "除外";
+
+/* Class = "NSMenuItem"; title = "Reveal in Other Editor"; ObjectID = "KgT-ZD-7yi"; */
+"KgT-ZD-7yi.title" = "他のエディタで表示";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Toggle include in Compile"; ObjectID = "Kw0-qp-6ur"; */
+"Kw0-qp-6ur.ibExternalAccessibilityDescription" = "切り替えてコンパイルに含める";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle include in Compile."; ObjectID = "Kw0-qp-6ur"; */
+"Kw0-qp-6ur.ibShadowedToolTip" = "切り替えてコンパイルに含めます。";
+
+/* Class = "NSButtonCell"; title = "Zoom"; ObjectID = "MMR-ip-OAj"; */
+"MMR-ip-OAj.title" = "拡大/縮小";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Open project bookmarks in a Quick Reference panel."; ObjectID = "NRr-Fy-mYN"; */
+"NRr-Fy-mYN.ibExternalAccessibilityDescription" = "クイックリファレンスパネルでプロジェクトブックマークを開きます。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Close Copyholder pane."; ObjectID = "NRr-Fy-mYN"; */
+"NRr-Fy-mYN.ibShadowedToolTip" = "コピーホルダーペインを閉じます。";
+
+/* Class = "NSMenuItem"; title = "Draft Items Only"; ObjectID = "PWb-K6-NEE"; */
+"PWb-K6-NEE.title" = "ドラフト項目のみ";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "RYc-fd-qtr"; */
+"RYc-fd-qtr.title" = "全て";
+
+/* Class = "NSButtonCell"; title = "Toggle Synopses"; ObjectID = "Tpq-Lh-WWw"; */
+"Tpq-Lh-WWw.title" = "概要の切り替え";
+
+/* Class = "NSMenuItem"; title = "View Snapshot in Other Editor"; ObjectID = "W1l-z2-O7b"; */
+"W1l-z2-O7b.title" = "別のエディタでスナップショットを表示";
+
+/* Class = "NSTableColumn"; headerCell.title = "Section Type"; ObjectID = "WBt-vZ-i9D"; */
+"WBt-vZ-i9D.headerCell.title" = "セクションタイプ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Arrange by label."; ObjectID = "WWm-oJ-NFY"; */
+"WWm-oJ-NFY.ibShadowedToolTip" = "ラベルで整列します。";
+
+/* Class = "NSButtonCell"; title = "Custom Columns..."; ObjectID = "XSR-wT-PHZ"; */
+"XSR-wT-PHZ.title" = "カスタム列...";
+
+/* Class = "NSMenuItem"; title = "No Snapshots"; ObjectID = "YjI-5m-aeV"; */
+"YjI-5m-aeV.title" = "スナップショットがありませｎ";
+
+/* Class = "NSMenuItem"; title = "in Copyholder"; ObjectID = "aO4-On-tFN"; */
+"aO4-On-tFN.title" = "コピーホルダーに";
+
+/* Class = "NSMenuItem"; title = "Use Regular Expressions (RegEx)"; ObjectID = "av8-yg-v9k"; */
+"av8-yg-v9k.title" = "正規表現（RegEx）を使用";
+
+/* Class = "NSMenuItem"; title = "Included"; ObjectID = "ayJ-yd-Vr9"; */
+"ayJ-yd-Vr9.title" = "含まれている";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "bLR-km-h7o"; */
+"bLR-km-h7o.title" = "チェック";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "buF-8u-ETM"; */
+"buF-8u-ETM.title" = "完了";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Find"; ObjectID = "cyC-u3-HGU"; */
+"cyC-u3-HGU.placeholderString" = "検索";
+
+/* Class = "NSMenuItem"; title = "Copy To"; ObjectID = "czY-4n-OYp"; */
+"czY-4n-OYp.title" = "コピー";
+
+/* Class = "NSMenu"; title = "View Snapshot on Copyholder"; ObjectID = "drX-RJ-nkx"; */
+"drX-RJ-nkx.title" = "コピーホルダーにスナップショットを表示";
+
+/* Class = "NSMenuItem"; title = "Include"; ObjectID = "eLp-Ou-JVC"; */
+"eLp-Ou-JVC.title" = "含む";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "hCg-0d-WDs"; */
+"hCg-0d-WDs.title" = "チェック";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Rewinds the media slightly when paused."; ObjectID = "im3-PU-yhb"; */
+"im3-PU-yhb.ibExternalAccessibilityDescription" = "一時停止時にわずかにメディアを巻き戻します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Rewind on pause."; ObjectID = "im3-PU-yhb"; */
+"im3-PU-yhb.ibShadowedToolTip" = "一時停止時に巻き戻します。";
+
+/* Class = "NSMenuItem"; title = "View Snapshot on Copyholder"; ObjectID = "jNs-QI-sG2"; */
+"jNs-QI-sG2.title" = "コピーホルダーにスナップショットを表示";
+
+/* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "Switch between regular and freeform corkboard modes."; ObjectID = "kQd-RF-LBf"; */
+"kQd-RF-LBf.ibExternalAccessibilityDescription" = "通常およびフリーフォームコルクボードモード間で切り替えます。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Reload."; ObjectID = "lyo-vh-PvB"; */
+"lyo-vh-PvB.ibExternalAccessibilityDescription" = "リロード。";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Reload filter."; ObjectID = "lyo-vh-PvB"; */
+"lyo-vh-PvB.ibExternalAccessibilityHelp" = "フィルタをリロードします。";
+
+/* Class = "NSMenuItem"; title = "Items with Label"; ObjectID = "nye-tq-UdQ"; */
+"nye-tq-UdQ.title" = "ラベルが付いた項目";
+
+/* Class = "NSMenuItem"; title = "Items Anywhere"; ObjectID = "oH3-UJ-Chr"; */
+"oH3-UJ-Chr.title" = "場所に関係のない項目";
+
+/* Class = "NSButtonCell"; title = "Filter:"; ObjectID = "ozK-Fh-0Xn"; */
+"ozK-Fh-0Xn.title" = "フィルタ：";
+
+/* Class = "NSTextFieldCell"; title = "Go to Page:"; ObjectID = "rO6-ni-b75"; */
+"rO6-ni-b75.title" = "ページに移動：";
+
+/* Class = "NSMenu"; title = "Copy To"; ObjectID = "rS2-m2-jfX"; */
+"rS2-m2-jfX.title" = "コピー";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show or hide synopses"; ObjectID = "rsE-3A-g7N"; */
+"rsE-3A-g7N.ibExternalAccessibilityDescription" = "概要を表示、または隠す";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show or hide synopses."; ObjectID = "rsE-3A-g7N"; */
+"rsE-3A-g7N.ibShadowedToolTip" = "概要を表示、または隠します。";
+
+/* Class = "NSMenuItem"; title = "Go To Collection"; ObjectID = "sAi-jj-7i7"; */
+"sAi-jj-7i7.title" = "コレクションに移動";
+
+/* Class = "NSTextFieldCell"; title = "Go to Page:"; ObjectID = "tfH-Mc-485"; */
+"tfH-Mc-485.title" = "ページに移動：";
+
+/* Class = "NSMenuItem"; title = "and Synopsis"; ObjectID = "ufd-m7-u94"; */
+"ufd-m7-u94.title" = "および概要";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Show corkboard options."; ObjectID = "vuQ-To-mjT"; */
+"vuQ-To-mjT.ibExternalAccessibilityDescription" = "コルクボードオプションを表示します。";
+
+/* Class = "NSView"; ibShadowedToolTip = "Corkboard options."; ObjectID = "vuQ-To-mjT"; */
+"vuQ-To-mjT.ibShadowedToolTip" = "コルクボードの設定。";
+
+/* Class = "NSMenuItem"; title = "Other..."; ObjectID = "zvD-s9-RAp"; */
+"zvD-s9-RAp.title" = "その他...";
+
+/* Class = "NSMenuItem"; title = "New Folder from Selection"; ObjectID = "472"; */
+"472.title" = "選択項目を入れて新規フォルダを作成";
+
+/* Class = "NSMenuItem"; title = "New from Template"; ObjectID = "501495"; */
+"501495.title" = "テンプレートから新規ドキュメント";
+
+/* Class = "NSMenu"; title = "New from Template"; ObjectID = "501496"; */
+"501496.title" = "テンプレートから新規ドキュメント";
+
+
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Toggle center outliner content"; ObjectID = "8OT-Q1-8Of"; */
+"8OT-Q1-8Of.ibExternalAccessibilityDescription" = "中央のアウトライナーコンテントをトグル";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle center outliner content."; ObjectID = "8OT-Q1-8Of"; */
+"8OT-Q1-8Of.ibShadowedToolTip" = "中央のアウトライナーコンテントをトグル。";
+
+/* Class = "NSTextFieldCell"; title = "No groups to navigate."; ObjectID = "8ZY-Dy-lSw"; */
+"8ZY-Dy-lSw.title" = "ナビゲートするグループなし。";
+
+/* Class = "NSButtonCell"; title = "Toggle Center Content"; ObjectID = "tAD-1e-oTn"; */
+"tAD-1e-oTn.title" = "センターコンテントをトグル";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Choose a page to go to."; ObjectID = "txL-8i-jgd"; */
+"txL-8i-jgd.ibExternalAccessibilityDescription" = "移動先ページを選択してください。";
+
+/* Class = "NSView"; ibShadowedToolTip = "Go to page."; ObjectID = "txL-8i-jgd"; */
+"txL-8i-jgd.ibShadowedToolTip" = "ページに移動。";

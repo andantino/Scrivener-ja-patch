@@ -1,0 +1,141 @@
+
+/* Class = "NSMenuItem"; title = "Rich Text With Attachments (.rtfd)"; ObjectID = "9"; */
+"9.title" = "添付付きのリッチテキスト (.rtfd)";
+
+/* Class = "NSMenuItem"; title = "Rich Text (.rtf)"; ObjectID = "10"; */
+"10.title" = "Rich Text (.rtf)";
+
+/* Class = "NSMenuItem"; title = "Plain Text (.txt)"; ObjectID = "13"; */
+"13.title" = "Plain Text (.txt)";
+
+/* Class = "NSWindow"; title = "Exporting Files..."; ObjectID = "21"; */
+"21.title" = "ファイルをエクスポート中...";
+
+/* Class = "NSMenuItem"; title = "Web Page (.html)"; ObjectID = "30"; */
+"30.title" = "Webページ（.html）";
+
+/* Class = "NSMenuItem"; title = "Microsoft Word 97-2004 (.doc)"; ObjectID = "300043"; */
+"300043.title" = "Microsoft Word 97-2004 (.doc)";
+
+/* Class = "NSMenuItem"; title = "Microsoft Word (.docx)"; ObjectID = "300062"; */
+"300062.title" = "Microsoft Word (.docx)";
+
+/* Class = "NSMenuItem"; title = "Open Office (.odt)"; ObjectID = "300063"; */
+"300063.title" = "Open Office (.odt)";
+
+/* Class = "NSMenuItem"; title = "Final Draft (.fdx)"; ObjectID = "300114"; */
+"300114.title" = "Final Draft (.fdx)";
+
+/* Class = "NSTextFieldCell"; title = "Export text files as:"; ObjectID = "300136"; */
+"300136.title" = "テキストファイルを次のようにエクスポート：";
+
+/* Class = "NSButtonCell"; title = "Notes"; ObjectID = "300137"; */
+"300137.title" = "注釈";
+
+/* Class = "NSButtonCell"; title = "Metadata"; ObjectID = "300138"; */
+"300138.title" = "メタデータ";
+
+/* Class = "NSButtonCell"; title = "Snapshots"; ObjectID = "300139"; */
+"300139.title" = "スナップショット";
+
+/* Class = "NSTextFieldCell"; title = "Export info"; ObjectID = "300140"; */
+"300140.title" = "情報をエクスポート";
+
+/* Class = "NSButtonCell"; title = "Use default Final Draft screenplay elements"; ObjectID = "300141"; */
+"300141.title" = "デフォルトの最終ドラフト台本要素を使用";
+
+/* Class = "NSButtonCell"; title = "Selected documents only"; ObjectID = "300143"; */
+"300143.title" = "選択されたドキュメントのみ";
+
+/* Class = "NSButtonCell"; title = "Include titles"; ObjectID = "300144"; */
+"300144.title" = "タイトル含む";
+
+/* Class = "NSButtonCell"; title = "Append \".txt\" extension"; ObjectID = "300147"; */
+"300147.title" = " \".txt\" を追加";
+
+/* Class = "NSButtonCell"; title = "Remove comments and annotations"; ObjectID = "300155"; */
+"300155.title" = "コメントと注釈の追加・削除";
+
+/* Class = "NSTextFieldCell"; title = "Non-text files will be exported using their original format."; ObjectID = "300183"; */
+"300183.title" = "非テキストファイルは元の形式でエクスポートされる。";
+
+/* Class = "NSButtonCell"; title = "Do not export subdocuments"; ObjectID = "300187"; */
+"300187.title" = "サブ文書をエクスポートしない";
+
+/* Class = "NSButtonCell"; title = "Only include columns visible in outliner"; ObjectID = "300194"; */
+"300194.title" = "アウトライナーに表示される列のみを含む";
+
+/* Class = "NSMenuItem"; title = "Comma Separated Values (CSV)"; ObjectID = "300198"; */
+"300198.title" = "カンマ区切り値（CSV）";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (TSV)"; ObjectID = "300199"; */
+"300199.title" = "タブ区切り値（TSV）";
+
+/* Class = "NSMenuItem"; title = "Semi-Colon Separated Values (TXT)"; ObjectID = "300200"; */
+"300200.title" = "セミコロン区切り値（TXT）";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "300202"; */
+"300202.title" = "フォーマット：";
+
+/* Class = "NSTextFieldCell"; title = "Text Encoding:"; ObjectID = "300205"; */
+"300205.title" = "テキストエンコーディング：";
+
+/* Class = "NSMenuItem"; title = "Western (Windows Latin 1)"; ObjectID = "300208"; */
+"300208.title" = "Western(西欧)(Windows Latin 1)";
+
+/* Class = "NSMenuItem"; title = "Unicode (UTF-8)"; ObjectID = "300209"; */
+"300209.title" = "Unicode（UTF-8）";
+
+/* Class = "NSMenuItem"; title = "Western (Mac OS Roman)"; ObjectID = "300210"; */
+"300210.title" = "Western(西欧)(Mac OS Roman)";
+
+/* Class = "NSButtonCell"; title = "Export entire binder"; ObjectID = "300218"; */
+"300218.title" = "バインダー全体をエクスポートする";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "300238"; */
+"300238.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Titles Only"; ObjectID = "300239"; */
+"300239.title" = "タイトルのみ";
+
+/* Class = "NSButtonCell"; title = "Titles and Synopses"; ObjectID = "300240"; */
+"300240.title" = "タイトルとあらすじ";
+
+/* Class = "NSButtonCell"; title = "Titles and Text"; ObjectID = "300241"; */
+"300241.title" = "タイトルとテキスト";
+
+/* Class = "NSButtonCell"; title = "Titles and Notes"; ObjectID = "300242"; */
+"300242.title" = "タイトルと注釈";
+
+/* Class = "NSMenuItem"; title = "Fountain Screenplay (.fountain)"; ObjectID = "300244"; */
+"300244.title" = "ファウンテン・スクリーンプレイ(.fountain)";
+
+/* Class = "NSTextFieldCell"; title = "Exporting, please wait..."; ObjectID = "01W-Y2-7eW"; */
+"01W-Y2-7eW.title" = "エクスポートしています。しばらくお待ちください...";
+
+/* Class = "NSButtonCell"; title = "Number exported files"; ObjectID = "3jZ-WM-ebO"; */
+"3jZ-WM-ebO.title" = "エクスポートされたファイルの数";
+
+/* Class = "NSMenuItem"; title = "MultiMarkdown (.mmd)"; ObjectID = "8W6-ko-Bem"; */
+"8W6-ko-Bem.title" = "MultiMarkdown (.mmd)";
+
+/* Class = "NSTabViewItem"; label = "Metadata"; ObjectID = "OCf-wc-8cS"; */
+"OCf-wc-8cS.label" = "メタデータ";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "dUj-ME-3EB"; */
+"dUj-ME-3EB.label" = "オプション";
+
+/* Class = "NSWindow"; title = "Export Scrivener 2.x Project"; ObjectID = "rHG-CF-aGY"; */
+"rHG-CF-aGY.title" = "Scrivener 2.xプロジェクトのエクスポート";
+
+/* Class = "NSTextFieldCell"; title = "Supporting material to export:"; ObjectID = "zEj-36-Ne4"; */
+"zEj-36-Ne4.title" = "輸出支援資料：";
+
+
+
+/* Class = "NSButtonCell"; title = "Insert links back to Scrivener sections"; ObjectID = "9gQ-gl-lFl"; */
+"9gQ-gl-lFl.title" = "Scrivenerセクションへ戻るリンクを入れる";
+
+/* Class = "NSButtonCell"; title = "Convert rich text to MultiMarkdown"; ObjectID = "qNh-x1-DL1"; */
+"qNh-x1-DL1.title" = "リッチテキストをMultiMarkdownに変換する";
+
