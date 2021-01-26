@@ -9,6 +9,7 @@ APPKIT_SRCDIR = $(SCRIVENER_ROOT)/Frameworks/ScrAppKit.framework/Versions/A/Reso
 
 ORIG_DIR = orig
 FIX_DIR = fix
+STR_DIR = strings
 
 RESOURCES_DIR = Resources
 SPARKLE_DIR = Sparkle
@@ -94,3 +95,184 @@ zip: nib install
 	@echo "Creating a zipped archive $(notdir $(ZIPARC))..."
 	@(cd $(APP_DIR); zip -rq $(ZIPARC) $(ARCFILES))
 	@echo "Done."
+
+
+# AboutPanel.strings:                   text/plain; charset=utf-16le
+# Aspose.strings:                       text/plain; charset=utf-16le
+# AuthorizedPathsPanel.strings:         text/plain; charset=utf-16le
+# AutoCompleteList.strings:             text/plain; charset=utf-16le
+# BackupTo.strings:                     text/plain; charset=utf-16le
+# Bookmarks.strings:                    text/plain; charset=utf-16le
+# BookmarksView.strings:                text/plain; charset=utf-16le
+# CommentPopoverView.strings:           text/plain; charset=utf-16le
+# CompileDraft.strings:                 text/plain; charset=utf-8
+# CompileFormatEditorView.strings:      text/plain; charset=utf-8
+# CompileFormats.strings:               text/plain; charset=utf-8
+# CompileSectionsLayoutChooser.strings: text/plain; charset=utf-16le
+# ConvertScriptPanel.strings:           text/plain; charset=utf-16le
+# CustomMetaDataInspectorView.strings:  text/plain; charset=utf-16le
+# DocumentView.strings:                 text/plain; charset=utf-8
+# EditBookmarkPopover.strings:          text/plain; charset=utf-16le
+# ExportFiles.strings:                  text/plain; charset=utf-8
+# FormatFinder.strings:                 text/plain; charset=utf-16le
+# FullScreen.strings:                   text/plain; charset=utf-16le
+# HelpViewer.strings:                   text/plain; charset=utf-16le
+# IconManager.strings:                  text/plain; charset=utf-16le
+# IconNames.strings:                    text/plain; charset=utf-16le
+# ImageTools.strings:                   text/plain; charset=utf-16le
+# ImportSheets.strings:                 text/plain; charset=utf-8
+# IndentsAndTabsPanel.strings:          text/plain; charset=utf-16le
+# InfoPlist.strings:                    text/plain; charset=utf-16le
+# InspectorView.strings:                text/plain; charset=utf-8
+# KBCrashReporter.strings:              text/plain; charset=utf-16le
+# KBDatePickerPopover.strings:          text/plain; charset=utf-16le
+# KBExceptionReporter.strings:          text/plain; charset=utf-16le
+# KBFindPanel.strings:                  text/plain; charset=utf-16le
+# KBTextImageResizer.strings:           text/plain; charset=utf-16le
+# KeywordsOutlineView.strings:          text/plain; charset=utf-16le
+# KeywordsPanel.strings:                text/plain; charset=utf-16le
+# KindleGenQuarantineWindow.strings:    text/plain; charset=utf-16le
+# Layouts.strings:                      text/plain; charset=utf-8
+# LegacyCompileFormatChooser.strings:   text/plain; charset=utf-16le
+# LinguisticFocus.strings:              text/plain; charset=utf-16le
+# LinkSheet.strings:                    text/plain; charset=utf-16le
+# LoadingPanel.strings:                 text/plain; charset=utf-16le
+# Localizable.strings:                  text/plain; charset=utf-8
+# MainDocument.strings:                 text/plain; charset=utf-8
+# MainMenu.strings:                     text/plain; charset=utf-8
+# NameGenerator.strings:                text/plain; charset=utf-16le
+# NameLists.strings:                    text/plain; charset=utf-16le
+# NewBookmarkFolderChooser.strings:     text/plain; charset=utf-16le
+# NewClippingSheet.strings:             text/plain; charset=utf-16le
+# NewScrivenerLink.strings:             text/plain; charset=utf-16le
+# Newsletter.strings:                   text/plain; charset=utf-16le
+# PageLayout.strings:                   text/plain; charset=utf-16le
+# Preferences.strings:                  text/plain; charset=utf-8
+# ProjectPrefs.strings:                 text/plain; charset=utf-16le
+# ProjectSettings.strings:              text/plain; charset=utf-8
+# ProjectStatistics.strings:            text/plain; charset=utf-16le
+# ProjectTemplates.strings:             text/plain; charset=utf-16le
+# QuickRefView.strings:                 text/plain; charset=utf-16le
+# QuickReferencePanel.strings:          text/plain; charset=utf-16le
+# QuotesPanel.strings:                  text/plain; charset=utf-16le
+# Replace.strings:                      text/plain; charset=utf-16le
+# SaveAsTemplate.strings:               text/plain; charset=utf-16le
+# ScratchPad.strings:                   text/plain; charset=utf-16le
+# ScriptFormats.strings:                text/plain; charset=utf-16le
+# ScriptSettingsSheet.strings:          text/plain; charset=utf-8
+# ScrivxConflicts.strings:              text/plain; charset=utf-16le
+# SectionTypes.strings:                 text/plain; charset=utf-16le
+# ServicesMenu.strings:                 text/plain; charset=utf-16le
+# Snapshots.strings:                    text/plain; charset=utf-8
+# SnapshotsManager.strings:             text/plain; charset=utf-16le
+# StartupPanel.strings:                 text/plain; charset=utf-16le
+# StatisticsPopover.strings:            text/plain; charset=utf-16le
+# StylesManager.strings:                text/plain; charset=utf-16le
+# StylesPanel.strings:                  text/plain; charset=utf-16le
+# StylesUpdateSheet.strings:            text/plain; charset=utf-16le
+# SyncBinderStringsPanel.strings:       text/plain; charset=utf-16le
+# SyncWithFolder.strings:               text/plain; charset=utf-16le
+# SynopsisFinder.strings:               text/plain; charset=utf-16le
+# TargetsPanel.strings:                 text/plain; charset=utf-16le
+# Templates.strings:                    text/plain; charset=utf-16le
+# TextFormatBar.strings:                text/plain; charset=utf-16le
+# TextScaleSheet.strings:               text/plain; charset=utf-16le
+# ToolbarSearchResults.strings:         text/plain; charset=utf-16le
+# UnicodeIconSheet.strings:             text/plain; charset=utf-16le
+# UpdateProject.strings:                text/plain; charset=utf-16le
+# WritingHistorySheet.strings:          text/plain; charset=utf-16le
+
+STR_UTF8 = \
+$(STR_DIR)/CompileDraft.strings \
+$(STR_DIR)/CompileFormatEditorView.strings \
+$(STR_DIR)/CompileFormats.strings \
+$(STR_DIR)/DocumentView.strings \
+$(STR_DIR)/ExportFiles.strings \
+$(STR_DIR)/ImportSheets.strings \
+$(STR_DIR)/InspectorView.strings \
+$(STR_DIR)/Layouts.strings \
+$(STR_DIR)/Localizable.strings \
+$(STR_DIR)/MainDocument.strings \
+$(STR_DIR)/MainMenu.strings \
+$(STR_DIR)/Preferences.strings \
+$(STR_DIR)/ProjectSettings.strings \
+$(STR_DIR)/ScriptSettingsSheet.strings \
+$(STR_DIR)/Snapshots.strings \
+
+
+STR_UTF16LE = \
+$(STR_DIR)/AboutPanel.strings \
+$(STR_DIR)/Aspose.strings \
+$(STR_DIR)/AuthorizedPathsPanel.strings \
+$(STR_DIR)/AutoCompleteList.strings \
+$(STR_DIR)/BackupTo.strings \
+$(STR_DIR)/Bookmarks.strings \
+$(STR_DIR)/BookmarksView.strings \
+$(STR_DIR)/CommentPopoverView.strings \
+$(STR_DIR)/CompileSectionsLayoutChooser.strings \
+$(STR_DIR)/ConvertScriptPanel.strings \
+$(STR_DIR)/CustomMetaDataInspectorView.strings \
+$(STR_DIR)/EditBookmarkPopover.strings \
+$(STR_DIR)/FormatFinder.strings \
+$(STR_DIR)/FullScreen.strings \
+$(STR_DIR)/HelpViewer.strings \
+$(STR_DIR)/IconManager.strings \
+$(STR_DIR)/IconNames.strings \
+$(STR_DIR)/ImageTools.strings \
+$(STR_DIR)/IndentsAndTabsPanel.strings \
+$(STR_DIR)/InfoPlist.strings \
+$(STR_DIR)/KBCrashReporter.strings \
+$(STR_DIR)/KBDatePickerPopover.strings \
+$(STR_DIR)/KBExceptionReporter.strings \
+$(STR_DIR)/KBFindPanel.strings \
+$(STR_DIR)/KBTextImageResizer.strings \
+$(STR_DIR)/KeywordsOutlineView.strings \
+$(STR_DIR)/KeywordsPanel.strings \
+$(STR_DIR)/KindleGenQuarantineWindow.strings \
+$(STR_DIR)/LegacyCompileFormatChooser.strings \
+$(STR_DIR)/LinguisticFocus.strings \
+$(STR_DIR)/LinkSheet.strings \
+$(STR_DIR)/LoadingPanel.strings \
+$(STR_DIR)/NameGenerator.strings \
+$(STR_DIR)/NameLists.strings \
+$(STR_DIR)/NewBookmarkFolderChooser.strings \
+$(STR_DIR)/NewClippingSheet.strings \
+$(STR_DIR)/NewScrivenerLink.strings \
+$(STR_DIR)/Newsletter.strings \
+$(STR_DIR)/PageLayout.strings \
+$(STR_DIR)/ProjectPrefs.strings \
+$(STR_DIR)/ProjectStatistics.strings \
+$(STR_DIR)/ProjectTemplates.strings \
+$(STR_DIR)/QuickRefView.strings \
+$(STR_DIR)/QuickReferencePanel.strings \
+$(STR_DIR)/QuotesPanel.strings \
+$(STR_DIR)/Replace.strings \
+$(STR_DIR)/SaveAsTemplate.strings \
+$(STR_DIR)/ScratchPad.strings \
+$(STR_DIR)/ScriptFormats.strings \
+$(STR_DIR)/ScrivxConflicts.strings \
+$(STR_DIR)/SectionTypes.strings \
+$(STR_DIR)/ServicesMenu.strings \
+$(STR_DIR)/SnapshotsManager.strings \
+$(STR_DIR)/StartupPanel.strings \
+$(STR_DIR)/StatisticsPopover.strings \
+$(STR_DIR)/StylesManager.strings \
+$(STR_DIR)/StylesPanel.strings \
+$(STR_DIR)/StylesUpdateSheet.strings \
+$(STR_DIR)/SyncBinderStringsPanel.strings \
+$(STR_DIR)/SyncWithFolder.strings \
+$(STR_DIR)/SynopsisFinder.strings \
+$(STR_DIR)/TargetsPanel.strings \
+$(STR_DIR)/Templates.strings \
+$(STR_DIR)/TextFormatBar.strings \
+$(STR_DIR)/TextScaleSheet.strings \
+$(STR_DIR)/ToolbarSearchResults.strings \
+$(STR_DIR)/UnicodeIconSheet.strings \
+$(STR_DIR)/UpdateProject.strings \
+$(STR_DIR)/WritingHistorySheet.strings \
+
+toutf8: $(STR_UTF16LE)
+	@$(STR_DIR)/to_utf8 $(STR_UTF16LE)
+
+toutf16le: $(STR_UTF16LE)
+	@$(STR_DIR)/to_utf16le $(STR_UTF16LE)

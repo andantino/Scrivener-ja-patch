@@ -1,0 +1,9 @@
+#!/bin/sh
+
+for f in $@ ; do
+    if [ -e $f ]; then
+        iconv -f utf-8 -t utf-16le $f > tmp
+        mv tmp $f
+        echo "Converted $f into UTF-8"
+    fi
+done
